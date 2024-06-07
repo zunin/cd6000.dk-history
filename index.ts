@@ -69,4 +69,4 @@ const artistLookup = lookupList.reduce((previousValue, currentValue) => {
     }
 }, {} as AlbumLookupByArtist);
 
-Deno.writeTextFile("./cds.json", JSON.stringify(artistLookup))
+Deno.writeTextFile("./cds.json", JSON.stringify(artistLookup, null, '\t'));
