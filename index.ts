@@ -1,11 +1,16 @@
 import { DOMParser, HTMLDocument, Element } from 'https://deno.land/x/deno_dom/deno-dom-wasm.ts';
-
+import { sleep } from "./sleep.ts"
 const settings = {
     BASE_URL: "https://cd6000.dk/"
 }
 
+
+const DEFAULT_PRICE_IN_DKK = 10;
+
 async function fetchDOM(url: string): Promise<HTMLDocument> {
     const response = await fetch(url);
+    await sleep(1000);
+    console.log(url)
     const arrayBuffer = await response.arrayBuffer();
     const html = new TextDecoder("iso-8859-10").decode(new Uint8Array(arrayBuffer))
     return new DOMParser().parseFromString(html, 'text/html');
@@ -30,43 +35,66 @@ function cleanText(text: string): string {
         .replaceAll("\t", " ")
         .replaceAll(/ +(?= )/g,'')
         .trim()
-}
+ }
 
-type AlbumLookupByArtist = {[artist: string]: Array<string>};
 
-const lookupList = await Promise.all(uris.map(async uri => {
+let lookupList: Array<HistoryEntry> = []
+
+for (const uri of uris) {
     const page = await fetchDOM(uri);
     const tableData = page.getElementsByTagName("td");
 
-    let currentArtist: string;
-    const lookup = tableData.reduce((previousValue, td) => {
+    let currentArtistName: string = "";
+    for(const td of tableData) {
         if(isArtistRow(td)) {
-            currentArtist = cleanText(td.textContent)
-             ;
-            return {
-                ...previousValue,
-                [currentArtist]: []
-            };
+            currentArtistName = cleanText(td.textContent);
+            continue;
         }
-        const albums = td.getElementsByTagName("a")
-            .map(anchor => anchor.textContent)
-            .map(text => cleanText(text));
+        
+        const albumsWithNonDefaultPrice: Array<HistoryEntry> = []
+        const linksForAlbumsWithDifferentPrice = td.getElementsByTagName("p").filter(p => p.hasAttribute("align"))
+            .flatMap(paragraph => paragraph.getElementsByTagName("a"))
+            for(const anchor of linksForAlbumsWithDifferentPrice) {
+                const details = await fetchDOM(`${settings.BASE_URL}${anchor.getAttribute("href")}`)
+                const [priceParagraph] = details.getElementsByTagName("td").filter(td => td.textContent?.toLowerCase()?.trim()?.startsWith("pris kr.") ?? false);
+                if (priceParagraph === undefined) {
+                    albumsWithNonDefaultPrice.push({
+                        albumTitle: cleanText(anchor.textContent),
+                        artist: currentArtistName,
+                        price: DEFAULT_PRICE_IN_DKK
+                    } as HistoryEntry);
+                    continue;
+                }
 
-        return {
-            ...previousValue,
-            [currentArtist]: previousValue[currentArtist].concat(albums)
-        };
+                const priceText = cleanText(priceParagraph.textContent)
+                .replaceAll(/[^0-9]/g, "");
 
-    }, {} as AlbumLookupByArtist)
+                const price = parseInt(priceText);
 
-    return lookup;
-}));
+                albumsWithNonDefaultPrice.push({
+                    albumTitle: cleanText(anchor.textContent),
+                    artist: currentArtistName,
+                    price: price
+                } as HistoryEntry);
+            }
 
-const artistLookup = lookupList.reduce((previousValue, currentValue) => {
-    return {
-        ...currentValue,
-        ...previousValue
+        const albumsWithDefaultPrice = td.getElementsByTagName("a")
+            .map(anchor => {
+                return {
+                    albumTitle: cleanText(anchor.textContent),
+                    price: DEFAULT_PRICE_IN_DKK,
+                    artist: currentArtistName
+                } as HistoryEntry
+            }).filter(defaultPricedAlbum => !albumsWithNonDefaultPrice.some(nondefaultedPricedAlbum => defaultPricedAlbum.albumTitle === nondefaultedPricedAlbum.albumTitle));
+            
+            lookupList = lookupList.concat(albumsWithDefaultPrice).concat(albumsWithNonDefaultPrice);
     }
-}, {} as AlbumLookupByArtist);
+}
+interface HistoryEntry {
+    artist: string;
+    albumTitle: string;
+    price: number;
+}
 
-Deno.writeTextFile("./cds.json", JSON.stringify(artistLookup, null, '\t'));
+
+Deno.writeTextFile("./cds.json", JSON.stringify(lookupList, null, '\t'));
