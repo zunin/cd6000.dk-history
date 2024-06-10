@@ -1665,11 +1665,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "\"Heroes\"",
-		"artist": "BOWIE, DAVID",
-		"price": 10
-	},
-	{
 		"albumTitle": "Hours..",
 		"artist": "BOWIE, DAVID",
 		"price": 10
@@ -2500,11 +2495,6 @@
 		"artist": "CLAPTON, ERIC"
 	},
 	{
-		"albumTitle": "Complete Clapton (2CD)",
-		"price": 10,
-		"artist": "CLAPTON, ERIC"
-	},
-	{
 		"albumTitle": "From The Cradle",
 		"price": 10,
 		"artist": "CLAPTON, ERIC"
@@ -2923,11 +2913,6 @@
 		"albumTitle": "This Desert Life",
 		"price": 10,
 		"artist": "COUNTING CROWS"
-	},
-	{
-		"albumTitle": "Coverdale ' Page",
-		"artist": "COVERDALE * PAGE",
-		"price": 10
 	},
 	{
 		"albumTitle": "The Best Of",
@@ -4513,11 +4498,6 @@
 		"albumTitle": "The Masters",
 		"price": 10,
 		"artist": "FAIRGROUND ATTRACTION"
-	},
-	{
-		"albumTitle": "Angel Dust",
-		"price": 10,
-		"artist": "FAITH NO MORE"
 	},
 	{
 		"albumTitle": "Live At Brixton Academy",
@@ -9775,11 +9755,6 @@
 		"artist": "MYLES, ALANNAH"
 	},
 	{
-		"albumTitle": "The Very Best Of",
-		"price": 10,
-		"artist": "MYLES, ALANNAH"
-	},
-	{
 		"albumTitle": "A Month Of Unrequited Love",
 		"price": 10,
 		"artist": "MØLLER, MICHAEL"
@@ -10785,16 +10760,6 @@
 		"artist": "PINK"
 	},
 	{
-		"albumTitle": "A Collection Of Great Dance Songs",
-		"artist": "PINK FLOYD",
-		"price": 10
-	},
-	{
-		"albumTitle": "A Momentary Lapse Of Reason",
-		"artist": "PINK FLOYD",
-		"price": 10
-	},
-	{
 		"albumTitle": "Dark Side Of The Moon",
 		"artist": "PINK FLOYD",
 		"price": 10
@@ -10805,17 +10770,7 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Final Cut",
-		"artist": "PINK FLOYD",
-		"price": 20
-	},
-	{
 		"albumTitle": "The Wall (2CD)",
-		"artist": "PINK FLOYD",
-		"price": 20
-	},
-	{
-		"albumTitle": "Wish You Were Here",
 		"artist": "PINK FLOYD",
 		"price": 20
 	},
@@ -11010,24 +10965,9 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Hits 1",
-		"artist": "PRINCE",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Hits 2",
-		"artist": "PRINCE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Love Symbol",
 		"price": 10,
 		"artist": "PRINCE & THE NEW POWER GENERATION"
-	},
-	{
-		"albumTitle": "Purple Rain",
-		"price": 10,
-		"artist": "PRINCE & THE REVOLUTION"
 	},
 	{
 		"albumTitle": "The Collection",
@@ -11248,11 +11188,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "RACEY"
-	},
-	{
-		"albumTitle": "OK Computer",
-		"price": 10,
-		"artist": "RADIOHEAD"
 	},
 	{
 		"albumTitle": "Over My Head",
@@ -14781,11 +14716,6 @@
 	},
 	{
 		"albumTitle": "The Unforgettable Fire",
-		"price": 10,
-		"artist": "U2"
-	},
-	{
-		"albumTitle": "Under A Blood Red Sky, Live",
 		"price": 10,
 		"artist": "U2"
 	},
