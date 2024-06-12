@@ -5125,6 +5125,11 @@
 		"artist": "GAYNOR, GLORIA"
 	},
 	{
+		"albumTitle": "Greatest & Latest (NY i folie)",
+		"price": 10,
+		"artist": "GAYNOR, GLORIA"
+	},
+	{
 		"albumTitle": "Never Can Say Goodbye",
 		"price": 10,
 		"artist": "GAYNOR, GLORIA"
@@ -6120,6 +6125,11 @@
 		"artist": "HOOTERS"
 	},
 	{
+		"albumTitle": "Hooterization: A Retrospective",
+		"price": 10,
+		"artist": "HOOTERS"
+	},
+	{
 		"albumTitle": "Out Of Body",
 		"price": 10,
 		"artist": "HOOTERS"
@@ -6293,6 +6303,11 @@
 		"albumTitle": "Morris On",
 		"price": 10,
 		"artist": "HUTCHINGS, ASHLEY m.fl."
+	},
+	{
+		"albumTitle": "Så'n Er Vi",
+		"price": 10,
+		"artist": "HVID CHOKOLADE"
 	},
 	{
 		"albumTitle": "Blott En Dag",
@@ -6825,6 +6840,11 @@
 		"artist": "JONES, CAMILLE"
 	},
 	{
+		"albumTitle": "Inside Story",
+		"artist": "JONES, GRACE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Come Away With Me",
 		"price": 10,
 		"artist": "JONES, NORAH"
@@ -6925,6 +6945,11 @@
 		"artist": "JUDDS, THE"
 	},
 	{
+		"albumTitle": "The Judds Collection",
+		"price": 10,
+		"artist": "JUDDS, THE"
+	},
+	{
 		"albumTitle": "Home",
 		"price": 10,
 		"artist": "JULIE (BERTELSEN)"
@@ -6965,7 +6990,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Solgt Til Stanglakrids",
+		"artist": "JØRGENSEN, C.V.",
+		"price": 10
+	},
+	{
 		"albumTitle": "Storbyens Små Oaser",
+		"artist": "JØRGENSEN, C.V.",
+		"price": 10
+	},
+	{
+		"albumTitle": "Vild I Varmen",
 		"artist": "JØRGENSEN, C.V.",
 		"price": 10
 	},
@@ -6973,6 +7008,11 @@
 		"albumTitle": "Painted Desert Serenade",
 		"price": 10,
 		"artist": "KADISON, JOSHUA"
+	},
+	{
+		"albumTitle": "Employment",
+		"price": 10,
+		"artist": "KAISER CHIEFS"
 	},
 	{
 		"albumTitle": "Off With Their Heads",
@@ -7055,6 +7095,11 @@
 		"artist": "KAOMA"
 	},
 	{
+		"albumTitle": "Ingen Smalle Steder",
+		"price": 10,
+		"artist": "KAREN"
+	},
+	{
 		"albumTitle": "The Good Life",
 		"price": 10,
 		"artist": "KASHMIR"
@@ -7115,9 +7160,19 @@
 		"artist": "KEATING, RONAN"
 	},
 	{
+		"albumTitle": "Turn It On",
+		"price": 10,
+		"artist": "KEATING, RONAN"
+	},
+	{
 		"albumTitle": "Turn It On (special edition)",
 		"price": 10,
 		"artist": "KEATING, RONAN"
+	},
+	{
+		"albumTitle": "Før Natten Bli'r Til Dag",
+		"price": 10,
+		"artist": "KELLERMANN, LONE & ROCKBANDET"
 	},
 	{
 		"albumTitle": "A Better Man",
@@ -7215,9 +7270,19 @@
 		"artist": "KILLER"
 	},
 	{
+		"albumTitle": "The Thrill Is Gone",
+		"price": 10,
+		"artist": "KING, B.B."
+	},
+	{
 		"albumTitle": "Riding With The King",
 		"price": 10,
 		"artist": "KING, B.B. & ERIC CLAPTON"
+	},
+	{
+		"albumTitle": "Love Makes The World",
+		"price": 10,
+		"artist": "KING, CAROLE"
 	},
 	{
 		"albumTitle": "Tapestry",
@@ -7225,7 +7290,17 @@
 		"artist": "KING, CAROLE"
 	},
 	{
+		"albumTitle": "Sweet Seasons",
+		"artist": "KING, CAROLE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Because Of The Times",
+		"price": 10,
+		"artist": "KINGS OF LEON"
+	},
+	{
+		"albumTitle": "Come Around Sundown (2CD)",
 		"price": 10,
 		"artist": "KINGS OF LEON"
 	},
@@ -7295,7 +7370,22 @@
 		"artist": "KJELLERUP, THOMAS"
 	},
 	{
+		"albumTitle": "Bjørnen Vågner",
+		"price": 10,
+		"artist": "KJELLERUP, THOMAS"
+	},
+	{
+		"albumTitle": "En Sang Alene",
+		"price": 10,
+		"artist": "KJELLERUP, THOMAS"
+	},
+	{
 		"albumTitle": "Til Anni - Og Alle De Andre (2CD)",
+		"price": 10,
+		"artist": "KJELLERUP, THOMAS"
+	},
+	{
+		"albumTitle": "Troubadour",
 		"price": 10,
 		"artist": "KJELLERUP, THOMAS"
 	},
@@ -7335,6 +7425,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Den Komplette (2CD)",
+		"price": 10,
+		"artist": "KJØLLER, POUL"
+	},
+	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "KJØLLER, POUL"
@@ -7355,6 +7450,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Deep Cuts",
+		"price": 10,
+		"artist": "KNIFE, THE"
+	},
+	{
 		"albumTitle": "The Greatest Hits",
 		"price": 10,
 		"artist": "KNIGHT, GLADYS"
@@ -7365,12 +7465,37 @@
 		"artist": "KNIGHT, GLADYS & THE PIPS"
 	},
 	{
+		"albumTitle": "Cut The Wire",
+		"artist": "KNOPFLER, DAVID",
+		"price": 10
+	},
+	{
+		"albumTitle": "Lips Against The Steel",
+		"artist": "KNOPFLER, DAVID",
+		"price": 10
+	},
+	{
 		"albumTitle": "Cal",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
 	},
 	{
+		"albumTitle": "Golden Heart",
+		"price": 10,
+		"artist": "KNOPFLER, MARK"
+	},
+	{
+		"albumTitle": "Kill To Get Crimson",
+		"price": 10,
+		"artist": "KNOPFLER, MARK"
+	},
+	{
 		"albumTitle": "Local Hero (remastered)",
+		"price": 10,
+		"artist": "KNOPFLER, MARK"
+	},
+	{
+		"albumTitle": "Metroland",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
 	},
@@ -7390,9 +7515,29 @@
 		"artist": "KNOPFLER, MARK"
 	},
 	{
+		"albumTitle": "The Ragpickers Dream",
+		"price": 10,
+		"artist": "KNOPFLER, MARK"
+	},
+	{
+		"albumTitle": "Kill To Get Crimson (CD+DVD)",
+		"artist": "KNOPFLER, MARK",
+		"price": 10
+	},
+	{
+		"albumTitle": "Shangri-La (CD+DVD)",
+		"artist": "KNOPFLER, MARK",
+		"price": 10
+	},
+	{
 		"albumTitle": "Neck And Neck",
 		"price": 10,
 		"artist": "KNOPFLER, MARK & CHET ATKINS"
+	},
+	{
+		"albumTitle": "All The Roadrunning",
+		"price": 10,
+		"artist": "KNOPFLER, MARK & EMMYLOU HARRIS"
 	},
 	{
 		"albumTitle": "Get Down On It, The Very Best Of",
@@ -7418,6 +7563,11 @@
 		"albumTitle": "Koppel & Brass",
 		"price": 10,
 		"artist": "KOPPEL & BRASS"
+	},
+	{
+		"albumTitle": "A Merry Little Christmas",
+		"price": 10,
+		"artist": "KOPPEL, MARIE CARMEN"
 	},
 	{
 		"albumTitle": "Stay For A While",
@@ -7465,12 +7615,22 @@
 		"artist": "KREBS, POUL"
 	},
 	{
+		"albumTitle": "Fri Som Et Forår",
+		"price": 10,
+		"artist": "KREBS, POUL"
+	},
+	{
 		"albumTitle": "Kosmorama",
 		"price": 10,
 		"artist": "KREBS, POUL"
 	},
 	{
 		"albumTitle": "Ku' Den Næste Dans Blive Min?",
+		"price": 10,
+		"artist": "KREBS, POUL"
+	},
+	{
+		"albumTitle": "Langt Fra En Ordentlig By",
 		"price": 10,
 		"artist": "KREBS, POUL"
 	},
@@ -7500,6 +7660,11 @@
 		"artist": "KREBS, POUL"
 	},
 	{
+		"albumTitle": "Angeleno Road (CD+DVD)",
+		"artist": "KREBS, POUL",
+		"price": 20
+	},
+	{
 		"albumTitle": "Hvor Gaden Bli'r Til Sand",
 		"artist": "KREBS, POUL",
 		"price": 10
@@ -7518,6 +7683,11 @@
 		"albumTitle": "Morgendagens Tåber",
 		"price": 10,
 		"artist": "KREBS, POUL & THE BOOKHOUSE BOYS"
+	},
+	{
+		"albumTitle": "Aeternus",
+		"artist": "KREUTZFELDTS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Me And Bobby McGee",
@@ -7563,6 +7733,16 @@
 		"albumTitle": "De 36 Bedste Narrestreger",
 		"artist": "LABAN",
 		"price": 10
+	},
+	{
+		"albumTitle": "Own The Night",
+		"price": 10,
+		"artist": "LADY ANTEBELLUM"
+	},
+	{
+		"albumTitle": "The Fame",
+		"price": 10,
+		"artist": "LADA GAGA"
 	},
 	{
 		"albumTitle": "Why Is Everybody In Such A Hurry",
@@ -7651,6 +7831,11 @@
 	},
 	{
 		"albumTitle": "Kim I Cirkus",
+		"artist": "LARSEN, KIM",
+		"price": 10
+	},
+	{
+		"albumTitle": "Kim Larsen & Yankee Drengene",
 		"artist": "LARSEN, KIM",
 		"price": 10
 	},
@@ -7845,6 +8030,16 @@
 		"artist": "LEE, BRENDA"
 	},
 	{
+		"albumTitle": "Get Lifted",
+		"price": 10,
+		"artist": "LEGEND, JOHN"
+	},
+	{
+		"albumTitle": "Darkness And Light",
+		"price": 10,
+		"artist": "LEGEND, JOHN"
+	},
+	{
 		"albumTitle": "In Concert",
 		"price": 10,
 		"artist": "LEHRER, TOM"
@@ -7853,6 +8048,11 @@
 		"albumTitle": "It's A Shame About Ray",
 		"price": 10,
 		"artist": "LEMONHEADS"
+	},
+	{
+		"albumTitle": "Go Space",
+		"artist": "LENINGRAD COWBOYS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Legend, The Very Best Of",
@@ -8075,6 +8275,11 @@
 		"artist": "LARS LILHOLT BAND"
 	},
 	{
+		"albumTitle": "Smukkere Med Tiden (CD+DVD)",
+		"artist": "LARS LILHOLT BAND",
+		"price": 10
+	},
+	{
 		"albumTitle": "16 Største Succes'er Vol. 1",
 		"price": 10,
 		"artist": "LILLER, BJARNE"
@@ -8101,6 +8306,11 @@
 	},
 	{
 		"albumTitle": "Results May Vary",
+		"price": 10,
+		"artist": "LIMP BIZKET"
+	},
+	{
+		"albumTitle": "Significant Other",
 		"price": 10,
 		"artist": "LIMP BIZKET"
 	},
@@ -8136,6 +8346,11 @@
 	},
 	{
 		"albumTitle": "Det' Så Dansk",
+		"price": 10,
+		"artist": "LINNET, ANNE"
+	},
+	{
+		"albumTitle": "Go' Sønda' Morn",
 		"price": 10,
 		"artist": "LINNET, ANNE"
 	},
@@ -8190,6 +8405,11 @@
 		"artist": "LINNET, ANNE"
 	},
 	{
+		"albumTitle": "Univers 1",
+		"artist": "ANNE LINNET BAND",
+		"price": 10
+	},
+	{
 		"albumTitle": "Cha Cha Cha",
 		"artist": "ANNE LINNET BAND",
 		"price": 10
@@ -8202,6 +8422,16 @@
 	{
 		"albumTitle": "A Place In The Sun",
 		"artist": "LIT",
+		"price": 10
+	},
+	{
+		"albumTitle": "Little Triggers",
+		"artist": "LITTLE TRIGGERS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Little Village",
+		"artist": "LITTLE VILLAGE",
 		"price": 10
 	},
 	{
@@ -8255,6 +8485,11 @@
 		"artist": "LOGAN, JOHNNY"
 	},
 	{
+		"albumTitle": "The Best Of",
+		"price": 10,
+		"artist": "LOGAN, JOHNNY"
+	},
+	{
 		"albumTitle": "The Irish Connection",
 		"price": 10,
 		"artist": "LOGAN, JOHNNY & FRIENDS"
@@ -8275,7 +8510,12 @@
 		"artist": "LONDONBEAT"
 	},
 	{
-		"albumTitle": "JLo (NY i folie)",
+		"albumTitle": "Como Ama Una Mujer",
+		"price": 10,
+		"artist": "LOPEZ, JENNIFER"
+	},
+	{
+		"albumTitle": "jLo (NY i folie)",
 		"price": 10,
 		"artist": "LOPEZ, JENNIFER"
 	},
@@ -8410,6 +8650,16 @@
 		"artist": "M PEOPLE"
 	},
 	{
+		"albumTitle": "The Burning Red",
+		"price": 10,
+		"artist": "MACHINE HEAD"
+	},
+	{
+		"albumTitle": "The More Things Change",
+		"price": 10,
+		"artist": "MACHINE HEAD"
+	},
+	{
 		"albumTitle": "Madcap (EP)",
 		"price": 10,
 		"artist": "MADCAP"
@@ -8431,6 +8681,11 @@
 	},
 	{
 		"albumTitle": "Confessions On The Dance Floor",
+		"price": 10,
+		"artist": "MADONNA"
+	},
+	{
+		"albumTitle": "I'm Breathless",
 		"price": 10,
 		"artist": "MADONNA"
 	},
@@ -8465,6 +8720,21 @@
 		"artist": "MADONNA"
 	},
 	{
+		"albumTitle": "Music (2CD)",
+		"artist": "MADONNA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Sticky & Sweet Tour (CD+DVD)",
+		"artist": "MADONNA",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Confessions Tour (CD+DVD)",
+		"artist": "MADONNA",
+		"price": 10
+	},
+	{
 		"albumTitle": "Husker Du ?",
 		"price": 10,
 		"artist": "MADSEN, EVA"
@@ -8476,6 +8746,16 @@
 	},
 	{
 		"albumTitle": "Det Store Blå",
+		"artist": "MADSEN, EVA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Eva Madsen (4CD)",
+		"artist": "MADSEN, EVA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Noget På Hjerte",
 		"artist": "MADSEN, EVA",
 		"price": 10
 	},
@@ -8565,9 +8845,19 @@
 		"artist": "MAE, VANESSA"
 	},
 	{
+		"albumTitle": "Those The Brokes",
+		"price": 10,
+		"artist": "MAGIC NUMBERS, THE"
+	},
+	{
 		"albumTitle": "Vigilante",
 		"price": 10,
 		"artist": "MAGNUM"
+	},
+	{
+		"albumTitle": "Magnum",
+		"artist": "MAGNUM",
+		"price": 10
 	},
 	{
 		"albumTitle": "Det Krøllede Håb",
@@ -8578,6 +8868,11 @@
 		"albumTitle": "Friværdi",
 		"price": 10,
 		"artist": "MAGTENS KORRIDORER"
+	},
+	{
+		"albumTitle": "Imperiet Falder",
+		"artist": "MAGTENS KORRIDORER",
+		"price": 10
 	},
 	{
 		"albumTitle": "Milan Allé",
@@ -8671,6 +8966,11 @@
 	},
 	{
 		"albumTitle": "Bachelor No. 2",
+		"price": 10,
+		"artist": "MANN, AIMEE"
+	},
+	{
+		"albumTitle": "Lost In Space",
 		"price": 10,
 		"artist": "MANN, AIMEE"
 	},
