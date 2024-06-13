@@ -2365,16 +2365,6 @@
 		"artist": "CHERRY, NENEH"
 	},
 	{
-		"albumTitle": "16",
-		"price": 10,
-		"artist": "CHICAGO"
-	},
-	{
-		"albumTitle": "17",
-		"price": 10,
-		"artist": "CHICAGO"
-	},
-	{
 		"albumTitle": "18",
 		"price": 10,
 		"artist": "CHICAGO"
@@ -2401,11 +2391,6 @@
 	},
 	{
 		"albumTitle": "The Very Best Of",
-		"price": 10,
-		"artist": "CHICAGO"
-	},
-	{
-		"albumTitle": "Twenty 1",
 		"price": 10,
 		"artist": "CHICAGO"
 	},
@@ -4375,11 +4360,6 @@
 		"artist": "ETERNAL"
 	},
 	{
-		"albumTitle": "Melissa Etheridge",
-		"price": 10,
-		"artist": "ETHERIDGE, MELISSA"
-	},
-	{
 		"albumTitle": "Never Enough",
 		"price": 10,
 		"artist": "ETHERIDGE, MELISSA"
@@ -4388,11 +4368,6 @@
 		"albumTitle": "Yes I Am Melissa",
 		"price": 10,
 		"artist": "ETHERIDGE, MELISSA"
-	},
-	{
-		"albumTitle": "The Witch Queen Of Cologne (2CD)",
-		"artist": "ETHERIDGE, MELISSA",
-		"price": 10
 	},
 	{
 		"albumTitle": "Rock The Night, The Very Best Of (2CD)",
@@ -4433,11 +4408,6 @@
 		"albumTitle": "Now We're Talking",
 		"price": 10,
 		"artist": "EVERYBODY'S TALKING"
-	},
-	{
-		"albumTitle": "Louisiana (CD+DVD)",
-		"artist": "EVERYBODY'S TALKING",
-		"price": 15
 	},
 	{
 		"albumTitle": "Talk Of The Town (CD+DVD)",
@@ -5151,16 +5121,6 @@
 	},
 	{
 		"albumTitle": "Invisible Touch",
-		"price": 10,
-		"artist": "GENESIS"
-	},
-	{
-		"albumTitle": "The Way We Walk Vol. One: The Shorts",
-		"price": 10,
-		"artist": "GENESIS"
-	},
-	{
-		"albumTitle": "The Way We Walk Vol. Two: The Longs",
 		"price": 10,
 		"artist": "GENESIS"
 	},
@@ -7485,17 +7445,7 @@
 		"artist": "KNOPFLER, MARK"
 	},
 	{
-		"albumTitle": "Kill To Get Crimson",
-		"price": 10,
-		"artist": "KNOPFLER, MARK"
-	},
-	{
 		"albumTitle": "Local Hero (remastered)",
-		"price": 10,
-		"artist": "KNOPFLER, MARK"
-	},
-	{
-		"albumTitle": "Metroland",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
 	},
@@ -8350,11 +8300,6 @@
 		"artist": "LINNET, ANNE"
 	},
 	{
-		"albumTitle": "Go' Sønda' Morn",
-		"price": 10,
-		"artist": "LINNET, ANNE"
-	},
-	{
 		"albumTitle": "Jeg Er Jo Lige Her",
 		"price": 10,
 		"artist": "LINNET, ANNE"
@@ -8718,16 +8663,6 @@
 		"albumTitle": "The Immaculate Collection",
 		"price": 10,
 		"artist": "MADONNA"
-	},
-	{
-		"albumTitle": "Music (2CD)",
-		"artist": "MADONNA",
-		"price": 10
-	},
-	{
-		"albumTitle": "Sticky & Sweet Tour (CD+DVD)",
-		"artist": "MADONNA",
-		"price": 10
 	},
 	{
 		"albumTitle": "The Confessions Tour (CD+DVD)",
@@ -11060,11 +10995,6 @@
 		"artist": "PINK"
 	},
 	{
-		"albumTitle": "Dark Side Of The Moon",
-		"artist": "PINK FLOYD",
-		"price": 10
-	},
-	{
 		"albumTitle": "The Division Bell",
 		"artist": "PINK FLOYD",
 		"price": 10
@@ -11268,21 +11198,6 @@
 		"albumTitle": "Love Symbol",
 		"price": 10,
 		"artist": "PRINCE & THE NEW POWER GENERATION"
-	},
-	{
-		"albumTitle": "The Collection",
-		"artist": "PROCOL HARUM",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Prodigal Stranger",
-		"artist": "PROCOL HARUM",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Well's On Fire",
-		"artist": "PROCOL HARUM",
-		"price": 10
 	},
 	{
 		"albumTitle": "Beats Me..",
@@ -11620,17 +11535,7 @@
 		"artist": "RAZORLIGHT"
 	},
 	{
-		"albumTitle": "Auberge",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
 		"albumTitle": "Dancing With Strangers",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
-		"albumTitle": "New Light Through Old Windows, Best Of",
 		"price": 10,
 		"artist": "REA, CHRIS"
 	},
@@ -11640,19 +11545,9 @@
 		"artist": "REA, CHRIS"
 	},
 	{
-		"albumTitle": "The Road To Hell",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
 		"albumTitle": "The Very Best O",
 		"price": 10,
 		"artist": "REA, CHRIS"
-	},
-	{
-		"albumTitle": "On The Beach",
-		"artist": "REA, CHRIS",
-		"price": 10
 	},
 	{
 		"albumTitle": "Blood Sugar Sex Magik",
@@ -11968,11 +11863,6 @@
 		"albumTitle": "Vivaldi & Ven",
 		"price": 10,
 		"artist": "ROBEN & KNUD"
-	},
-	{
-		"albumTitle": "Robbie Robertson",
-		"price": 10,
-		"artist": "ROBERTSON, ROBBIE"
 	},
 	{
 		"albumTitle": "The Best Of",
@@ -14881,11 +14771,6 @@
 	},
 	{
 		"albumTitle": "Greatest Hits",
-		"price": 10,
-		"artist": "TWAIN, SHANIA"
-	},
-	{
-		"albumTitle": "Shania Twain",
 		"price": 10,
 		"artist": "TWAIN, SHANIA"
 	},
