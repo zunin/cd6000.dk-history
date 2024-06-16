@@ -410,11 +410,6 @@
 		"artist": "ALBION BAND, THE"
 	},
 	{
-		"albumTitle": "Dirt",
-		"price": 10,
-		"artist": "ALICE IN CHAINS"
-	},
-	{
 		"albumTitle": "Sap (EP)",
 		"price": 10,
 		"artist": "ALICE IN CHAINS"
@@ -468,21 +463,6 @@
 		"albumTitle": "Under The Pink",
 		"price": 10,
 		"artist": "AMOS, TORI"
-	},
-	{
-		"albumTitle": "Anastacia",
-		"price": 10,
-		"artist": "ANASTACIA"
-	},
-	{
-		"albumTitle": "Freak of NaturE",
-		"price": 10,
-		"artist": "ANASTACIA"
-	},
-	{
-		"albumTitle": "Not That Kind",
-		"price": 10,
-		"artist": "ANASTACIA"
 	},
 	{
 		"albumTitle": "Best Belief",
@@ -2445,11 +2425,6 @@
 		"artist": "CHRISTOPHER"
 	},
 	{
-		"albumTitle": "Tubthumper",
-		"price": 10,
-		"artist": "CHUMBAWAMBA"
-	},
-	{
 		"albumTitle": "As The Roots Undo",
 		"price": 10,
 		"artist": "CIRCLE TAKES THE SQUARE"
@@ -2543,11 +2518,6 @@
 		"albumTitle": "Breakaway",
 		"price": 10,
 		"artist": "CLARKSON, KELLY"
-	},
-	{
-		"albumTitle": "Deaf Dumb Blind",
-		"price": 10,
-		"artist": "CLAWFINGER"
 	},
 	{
 		"albumTitle": "On The Rocks",
@@ -2823,16 +2793,6 @@
 		"albumTitle": "Hits Of The 50's",
 		"price": 10,
 		"artist": "COOKE, SAM"
-	},
-	{
-		"albumTitle": "Classicks",
-		"price": 10,
-		"artist": "COOPER, ALICE"
-	},
-	{
-		"albumTitle": "Trash",
-		"price": 10,
-		"artist": "COOPER, ALICE"
 	},
 	{
 		"albumTitle": "Compact Jazz",
@@ -3220,11 +3180,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "I Luciferi",
-		"artist": "DANZIG",
-		"price": 10
-	},
-	{
 		"albumTitle": "Darleens",
 		"price": 10,
 		"artist": "DARLEENS"
@@ -3333,11 +3288,6 @@
 		"albumTitle": "Best Of (2CD)",
 		"artist": "DEF LEPPARD",
 		"price": 20
-	},
-	{
-		"albumTitle": "Around The Fur",
-		"price": 10,
-		"artist": "DEFTONES"
 	},
 	{
 		"albumTitle": "Chariot (2CD)",
@@ -3710,29 +3660,14 @@
 		"artist": "DIXIE CHICKS"
 	},
 	{
-		"albumTitle": "Dizzy Mizz Lizzy",
-		"price": 10,
-		"artist": "DIZZY MIZZ LIZZY"
-	},
-	{
-		"albumTitle": "Rotator",
-		"price": 10,
-		"artist": "DIZZY MIZZ LIZZY"
-	},
-	{
 		"albumTitle": "The Best Of + Live In Aarhus '96",
-		"price": 10,
-		"artist": "DIZZY MIZZ LIZZY"
+		"artist": "DIZZY MIZZ LIZZY",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Reunion Tour (2CD+DVD)",
 		"artist": "DIZZY MIZZ LIZZY",
 		"price": 40
-	},
-	{
-		"albumTitle": "Dizzy Mizz Lizzy/Rotator (2CD remastered)",
-		"artist": "DIZZY MIZZ LIZZY",
-		"price": 25
 	},
 	{
 		"albumTitle": "2",
@@ -4805,16 +4740,6 @@
 		"artist": "FORSBERG, NINA"
 	},
 	{
-		"albumTitle": "Oh Marie, Jeg Vil Hjem Til Dig",
-		"price": 10,
-		"artist": "FOUR JACKS"
-	},
-	{
-		"albumTitle": "The Coillection",
-		"price": 10,
-		"artist": "FOUR JACKS"
-	},
-	{
 		"albumTitle": "Great Performances That Inspired The Motown's 25th Anniversary TV Special",
 		"price": 10,
 		"artist": "FOUR TOPS"
@@ -4993,11 +4918,6 @@
 		"albumTitle": "Hourglass",
 		"price": 10,
 		"artist": "GAHAN, DAVE"
-	},
-	{
-		"albumTitle": "Calling Card",
-		"artist": "GALLAGHER, RORY",
-		"price": 10
 	},
 	{
 		"albumTitle": "Compendium, Greatest Hits",
@@ -5308,11 +5228,6 @@
 		"albumTitle": "Lukas Graham",
 		"artist": "GRAHAM, LUKAS",
 		"price": 10
-	},
-	{
-		"albumTitle": "Lukas Graham (2015)",
-		"artist": "GRAHAM, LUKAS",
-		"price": 30
 	},
 	{
 		"albumTitle": "She",
@@ -5930,11 +5845,6 @@
 		"artist": "HILTON, PARIS"
 	},
 	{
-		"albumTitle": "Greatest Lovesongs Vol. 666",
-		"price": 10,
-		"artist": "HIM"
-	},
-	{
 		"albumTitle": "On A Ride",
 		"price": 10,
 		"artist": "HIT 'N' HIDE"
@@ -6238,11 +6148,6 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "HUMPHRIES SINGERS, LES"
-	},
-	{
-		"albumTitle": "1970",
-		"artist": "HURDY GURDY",
-		"price": 10
 	},
 	{
 		"albumTitle": "A Lifetime",
@@ -7530,11 +7435,6 @@
 		"artist": "KOPPEL, NIKOLAJ"
 	},
 	{
-		"albumTitle": "Korn",
-		"price": 10,
-		"artist": "KORN"
-	},
-	{
 		"albumTitle": "Isalena",
 		"price": 10,
 		"artist": "KRAGH-JACOBSEN, SØREN"
@@ -8250,21 +8150,6 @@
 		"artist": "LILLER, BJARNE"
 	},
 	{
-		"albumTitle": "New Old Songs",
-		"price": 10,
-		"artist": "LIMP BIZKET"
-	},
-	{
-		"albumTitle": "Results May Vary",
-		"price": 10,
-		"artist": "LIMP BIZKET"
-	},
-	{
-		"albumTitle": "Significant Other",
-		"price": 10,
-		"artist": "LIMP BIZKET"
-	},
-	{
 		"albumTitle": "I Will Follow",
 		"price": 10,
 		"artist": "LIND, SEBASTIAN"
@@ -8910,21 +8795,6 @@
 		"artist": "MANN, AIMEE"
 	},
 	{
-		"albumTitle": "Lest We Forget, The Best Of",
-		"artist": "MANSON, MARILYN",
-		"price": 15
-	},
-	{
-		"albumTitle": "Mechanical Animals",
-		"artist": "MANSON, MARILYN",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Last Tour On Earth",
-		"artist": "MANSON, MARILYN",
-		"price": 15
-	},
-	{
 		"albumTitle": "That's Just Me",
 		"price": 10,
 		"artist": "MARIA LUCIA"
@@ -8958,11 +8828,6 @@
 		"albumTitle": "Doo-Wops & Hooligans",
 		"price": 10,
 		"artist": "MARS, BRUNO"
-	},
-	{
-		"albumTitle": "The Very Best Of The Capitol & Reprise Years)",
-		"price": 10,
-		"artist": "MARTIN, DEAN"
 	},
 	{
 		"albumTitle": "The Best Of Ricky Martin",
@@ -9043,11 +8908,6 @@
 		"albumTitle": "Where The Light Is, Live In LA (2CD)",
 		"artist": "MAYER, JOHN",
 		"price": 20
-	},
-	{
-		"albumTitle": "The Best Of",
-		"price": 10,
-		"artist": "MAVERICKS, THE"
 	},
 	{
 		"albumTitle": "Trampoline",
@@ -9206,11 +9066,6 @@
 	},
 	{
 		"albumTitle": "Cryptic Writings",
-		"artist": "MEGADETH",
-		"price": 10
-	},
-	{
-		"albumTitle": "Greatest Hits (2CD)",
 		"artist": "MEGADETH",
 		"price": 10
 	},
@@ -9488,16 +9343,6 @@
 		"albumTitle": "Anything But Grey",
 		"price": 10,
 		"artist": "MIKKELBORG, PALLE"
-	},
-	{
-		"albumTitle": "The Best of Glen Miller",
-		"price": 10,
-		"artist": "MILLER, GLEN"
-	},
-	{
-		"albumTitle": "The Legend Lives On",
-		"price": 10,
-		"artist": "MILLER, GLEN"
 	},
 	{
 		"albumTitle": "Greatest Hits (remastered)",
@@ -10115,16 +9960,6 @@
 		"artist": "NELSON, WILLIE"
 	},
 	{
-		"albumTitle": "DanmarkDenmark",
-		"price": 10,
-		"artist": "NEPHEW"
-	},
-	{
-		"albumTitle": "Interkom Kom Ind",
-		"price": 10,
-		"artist": "NEPHEW"
-	},
-	{
 		"albumTitle": "The Best Of",
 		"artist": "NESMITH, MICHAEL",
 		"price": 10
@@ -10270,11 +10105,6 @@
 		"artist": "NIELSEN, PETER A.G."
 	},
 	{
-		"albumTitle": "Highest Hopes, The Best Of",
-		"price": 10,
-		"artist": "NIGHTWISH"
-	},
-	{
 		"albumTitle": "Nik & Jay",
 		"price": 10,
 		"artist": "NIK & JAY"
@@ -10363,36 +10193,6 @@
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
-	},
-	{
-		"albumTitle": "Bleach",
-		"artist": "NIRVANA",
-		"price": 10
-	},
-	{
-		"albumTitle": "From The Muddy Banks Of The Wishkah",
-		"artist": "NIRVANA",
-		"price": 10
-	},
-	{
-		"albumTitle": "In Utero",
-		"artist": "NIRVANA",
-		"price": 10
-	},
-	{
-		"albumTitle": "Unplugged In New York",
-		"artist": "NIRVANA",
-		"price": 10
-	},
-	{
-		"albumTitle": "Come As You Are",
-		"artist": "NIRVANA",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Very Best (unofficial)",
-		"artist": "NIRVANA",
-		"price": 15
 	},
 	{
 		"albumTitle": "Rock Steady",
@@ -10735,11 +10535,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Ozzman Cometh (2CD)",
-		"artist": "OSBOURNE, OZZY",
-		"price": 10
-	},
-	{
 		"albumTitle": "Tribute",
 		"artist": "OSBOURNE, OZZY",
 		"price": 10
@@ -10798,16 +10593,6 @@
 		"albumTitle": "Vulgar Display Of Power",
 		"price": 10,
 		"artist": "PANTERA"
-	},
-	{
-		"albumTitle": "Papa Bue's Greatest (2CD)",
-		"price": 10,
-		"artist": "PAPA BUE'S VIKING JAZZ BAND"
-	},
-	{
-		"albumTitle": "Lovehatetragedy",
-		"price": 10,
-		"artist": "PAPA ROACH"
 	},
 	{
 		"albumTitle": "Falling In Love",
@@ -10888,26 +10673,6 @@
 		"albumTitle": "Simple Emotions",
 		"price": 10,
 		"artist": "PEACHES & BOBO"
-	},
-	{
-		"albumTitle": "Binaural",
-		"price": 10,
-		"artist": "PEARL JAM"
-	},
-	{
-		"albumTitle": "No Code",
-		"price": 10,
-		"artist": "PEARL JAM"
-	},
-	{
-		"albumTitle": "Ten",
-		"price": 10,
-		"artist": "PEARL JAM"
-	},
-	{
-		"albumTitle": "Vs.",
-		"price": 10,
-		"artist": "PEARL JAM"
 	},
 	{
 		"albumTitle": "One Of The Boys",
@@ -10993,11 +10758,6 @@
 		"albumTitle": "Try This",
 		"price": 10,
 		"artist": "PINK"
-	},
-	{
-		"albumTitle": "The Division Bell",
-		"artist": "PINK FLOYD",
-		"price": 10
 	},
 	{
 		"albumTitle": "The Wall (2CD)",
@@ -11105,11 +10865,6 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
-		"albumTitle": "18 Greatest Love Songs",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
 		"albumTitle": "Elvis Country",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
@@ -11200,16 +10955,6 @@
 		"artist": "PRINCE & THE NEW POWER GENERATION"
 	},
 	{
-		"albumTitle": "Beats Me..",
-		"artist": "PSYCHED UP JANIS",
-		"price": 10
-	},
-	{
-		"albumTitle": "Enter The Super Peppermint Lounge",
-		"artist": "PSYCHED UP JANIS",
-		"price": 10
-	},
-	{
 		"albumTitle": "Swell",
 		"artist": "PSYCHED UP JANIS",
 		"price": 10
@@ -11230,11 +10975,6 @@
 		"artist": "PUSSYCAT DOLLS"
 	},
 	{
-		"albumTitle": "De Allerbedste (2CD)",
-		"price": 10,
-		"artist": "PÅ SLAGET 12 (PS12)"
-	},
-	{
 		"albumTitle": "Hjem til Århus, 18 Hits",
 		"price": 10,
 		"artist": "PÅ SLAGET 12 (PS12)"
@@ -11251,11 +10991,6 @@
 	},
 	{
 		"albumTitle": "Let's Dance 3",
-		"price": 10,
-		"artist": "PÅ SLAGET 12 (PS12)"
-	},
-	{
-		"albumTitle": "Til Tiden",
 		"price": 10,
 		"artist": "PÅ SLAGET 12 (PS12)"
 	},
@@ -11345,16 +11080,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Lullabies To Paralyze",
-		"price": 10,
-		"artist": "QUEENS OF THE STONE AGA"
-	},
-	{
-		"albumTitle": "Songs For The Deaf",
-		"price": 10,
-		"artist": "QUEENS OF THE STONE AGA"
-	},
-	{
 		"albumTitle": "Around The Sun",
 		"price": 10,
 		"artist": "R.E.M."
@@ -11408,11 +11133,6 @@
 		"albumTitle": "Over My Head",
 		"artist": "RAFFERTY, GARY",
 		"price": 20
-	},
-	{
-		"albumTitle": "Evil Empire",
-		"price": 10,
-		"artist": "RAGE AGAINST THE MACHINE"
 	},
 	{
 		"albumTitle": "Luck Of The Draw",
@@ -12480,11 +12200,6 @@
 		"artist": "SANDMEN, THE"
 	},
 	{
-		"albumTitle": "Beauties And Beasts, Best Of (2CD)",
-		"artist": "SANDMEN, THE",
-		"price": 15
-	},
-	{
 		"albumTitle": "White Trash/Red Front",
 		"artist": "SANDMEN, THE",
 		"price": 10
@@ -13250,11 +12965,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Testament For Ronni",
-		"artist": "SKRIGENDE HALSE, DE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Smashes Trashes",
 		"price": 10,
 		"artist": "SKUNK ANANSIE"
@@ -13471,11 +13181,6 @@
 	},
 	{
 		"albumTitle": "Louder Than Love",
-		"price": 10,
-		"artist": "SOUNDGARDEN"
-	},
-	{
-		"albumTitle": "Superunknown",
 		"price": 10,
 		"artist": "SOUNDGARDEN"
 	},
@@ -14118,11 +13823,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "SUPREMES, THE"
-	},
-	{
-		"albumTitle": "Ingen Slukker The Stars",
-		"price": 10,
-		"artist": "SUSPEKT"
 	},
 	{
 		"albumTitle": "The Road Show",
@@ -15105,11 +14805,6 @@
 		"price": 20
 	},
 	{
-		"albumTitle": "The Velvet Underground & Nico",
-		"artist": "THE VELVET UNDERGROUND",
-		"price": 10
-	},
-	{
 		"albumTitle": "Undskyld",
 		"price": 10,
 		"artist": "VENTER PÅ FAR"
@@ -15483,11 +15178,6 @@
 		"albumTitle": "Elephant",
 		"price": 10,
 		"artist": "THE WHITE STRIPES"
-	},
-	{
-		"albumTitle": "Astro Creep 2000",
-		"price": 10,
-		"artist": "WHITE ZOMBIE"
 	},
 	{
 		"albumTitle": "1987",
