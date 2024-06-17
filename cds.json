@@ -140,6 +140,11 @@
 		"artist": "ADAMS, BRYAN"
 	},
 	{
+		"albumTitle": "On A Day Like Today",
+		"price": 10,
+		"artist": "ADAMS, BRYAN"
+	},
+	{
 		"albumTitle": "Reckless",
 		"price": 10,
 		"artist": "ADAMS, BRYAN"
@@ -375,6 +380,11 @@
 		"artist": "ALBERTE"
 	},
 	{
+		"albumTitle": "Den Forsvundne Skat",
+		"price": 10,
+		"artist": "ALBERTE"
+	},
+	{
 		"albumTitle": "Lyse Nætter",
 		"price": 10,
 		"artist": "ALBERTE"
@@ -530,6 +540,11 @@
 		"artist": "ANN-LOUISE"
 	},
 	{
+		"albumTitle": "Tættere På",
+		"price": 10,
+		"artist": "DAVID, ANNA"
+	},
+	{
 		"albumTitle": "Skibe Uden Sejl",
 		"price": 10,
 		"artist": "ANNE GRETE"
@@ -563,6 +578,11 @@
 		"albumTitle": "Kim Appleby",
 		"price": 10,
 		"artist": "APPLEBY, KIM"
+	},
+	{
+		"albumTitle": "Aquarium",
+		"price": 10,
+		"artist": "AQUA"
 	},
 	{
 		"albumTitle": "Aquarius",
@@ -690,14 +710,14 @@
 		"artist": "BACK TO BACK"
 	},
 	{
-		"albumTitle": "Back To Back (1. Album)",
-		"artist": "BACK TO BACK",
-		"price": 10
-	},
-	{
 		"albumTitle": "Solfanger",
 		"price": 10,
 		"artist": "BACK TO BACK"
+	},
+	{
+		"albumTitle": "Back To Back (1. Album)",
+		"artist": "BACK TO BACK",
+		"price": 10
 	},
 	{
 		"albumTitle": "Hit Home",
@@ -883,6 +903,11 @@
 		"albumTitle": "The Greatest Hits Collection",
 		"price": 10,
 		"artist": "BANANARAMA"
+	},
+	{
+		"albumTitle": "Cease To Begin",
+		"price": 10,
+		"artist": "BAND OF HORSES"
 	},
 	{
 		"albumTitle": "All Over The Place/Different Light (2CD)",
@@ -2210,6 +2235,11 @@
 		"artist": "CASH, JOHNNY"
 	},
 	{
+		"albumTitle": "The Christmas Colletion",
+		"price": 10,
+		"artist": "CASH, JOHNNY"
+	},
+	{
 		"albumTitle": "Trilogy (3CD)",
 		"price": 10,
 		"artist": "CASH, JOHNNY"
@@ -2726,6 +2756,11 @@
 	},
 	{
 		"albumTitle": "Dance Into The Light",
+		"price": 10,
+		"artist": "COLLINS, PHIL"
+	},
+	{
+		"albumTitle": "Hello, I Must Be Going",
 		"price": 10,
 		"artist": "COLLINS, PHIL"
 	},
@@ -3660,6 +3695,11 @@
 		"artist": "DIXIE CHICKS"
 	},
 	{
+		"albumTitle": "Dizzy Mizz Lizzy",
+		"artist": "DIZZY MIZZ LIZZY",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Best Of + Live In Aarhus '96",
 		"artist": "DIZZY MIZZ LIZZY",
 		"price": 10
@@ -3698,11 +3738,6 @@
 		"albumTitle": "Største Hits",
 		"price": 10,
 		"artist": "DODO & THE DODO'S"
-	},
-	{
-		"albumTitle": "All Boro Kings",
-		"price": 10,
-		"artist": "DOG EAT DOG"
 	},
 	{
 		"albumTitle": "Doky Brothers",
@@ -4315,6 +4350,11 @@
 		"artist": "EURYTHMICS"
 	},
 	{
+		"albumTitle": "Peace",
+		"price": 10,
+		"artist": "EURYTHMICS"
+	},
+	{
 		"albumTitle": "The Ultimate Collection",
 		"price": 10,
 		"artist": "EURYTHMICS"
@@ -4520,6 +4560,11 @@
 		"artist": "FENGER, SØS"
 	},
 	{
+		"albumTitle": "Camouflage",
+		"price": 10,
+		"artist": "FENGER, SØS"
+	},
+	{
 		"albumTitle": "Nøglen Til Paradis",
 		"price": 10,
 		"artist": "FENGER, SØS"
@@ -4621,6 +4666,11 @@
 	},
 	{
 		"albumTitle": "So Nah Wie Du",
+		"price": 10,
+		"artist": "FISCHER, HELENE"
+	},
+	{
+		"albumTitle": "Zaubermond",
 		"price": 10,
 		"artist": "FISCHER, HELENE"
 	},
@@ -4931,6 +4981,11 @@
 	},
 	{
 		"albumTitle": "Sitting In The Park",
+		"price": 10,
+		"artist": "GANGWAY"
+	},
+	{
+		"albumTitle": "The Quiet Boy Ate The Whole Cake",
 		"price": 10,
 		"artist": "GANGWAY"
 	},
@@ -5428,6 +5483,11 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "GUESS WHO, THE"
+	},
+	{
+		"albumTitle": "Appetite For Destruction",
+		"price": 10,
+		"artist": "GUNS 'N ROSES"
 	},
 	{
 		"albumTitle": "GNR Lies",
@@ -6150,11 +6210,6 @@
 		"artist": "HUMPHRIES SINGERS, LES"
 	},
 	{
-		"albumTitle": "A Lifetime",
-		"price": 10,
-		"artist": "HUSH"
-	},
-	{
 		"albumTitle": "For All The Right Reasons",
 		"price": 10,
 		"artist": "HUSH"
@@ -6436,6 +6491,11 @@
 	},
 	{
 		"albumTitle": "Invinsible",
+		"price": 10,
+		"artist": "JACKSON, MICHAEL"
+	},
+	{
+		"albumTitle": "Off The Wall",
 		"price": 10,
 		"artist": "JACKSON, MICHAEL"
 	},
@@ -6965,12 +7025,22 @@
 		"artist": "KAREN"
 	},
 	{
+		"albumTitle": "Cruzential",
+		"price": 10,
+		"artist": "KASHMIR"
+	},
+	{
 		"albumTitle": "The Good Life",
 		"price": 10,
 		"artist": "KASHMIR"
 	},
 	{
 		"albumTitle": "Travelogue",
+		"price": 10,
+		"artist": "KASHMIR"
+	},
+	{
+		"albumTitle": "Trespassers",
 		"price": 10,
 		"artist": "KASHMIR"
 	},
@@ -7893,11 +7963,6 @@
 		"albumTitle": "In Concert",
 		"price": 10,
 		"artist": "LEHRER, TOM"
-	},
-	{
-		"albumTitle": "It's A Shame About Ray",
-		"price": 10,
-		"artist": "LEMONHEADS"
 	},
 	{
 		"albumTitle": "Go Space",
@@ -10588,11 +10653,6 @@
 		"albumTitle": "A Feever You Can't Sweat Out",
 		"price": 10,
 		"artist": "PANIC AT THE DISCO"
-	},
-	{
-		"albumTitle": "Vulgar Display Of Power",
-		"price": 10,
-		"artist": "PANTERA"
 	},
 	{
 		"albumTitle": "Falling In Love",
