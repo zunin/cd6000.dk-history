@@ -435,11 +435,6 @@
 		"artist": "ALL SAINTS"
 	},
 	{
-		"albumTitle": "It's Not Me, It's You",
-		"price": 10,
-		"artist": "ALLLEN, LILY"
-	},
-	{
 		"albumTitle": "Alphabeat",
 		"price": 10,
 		"artist": "ALPHABEAT"
@@ -2686,11 +2681,6 @@
 	},
 	{
 		"albumTitle": "A Rush Of Blood To The Head",
-		"price": 10,
-		"artist": "COLDPLAY"
-	},
-	{
-		"albumTitle": "Mylo Xyloto",
 		"price": 10,
 		"artist": "COLDPLAY"
 	},
@@ -6210,6 +6200,11 @@
 		"artist": "HUMPHRIES SINGERS, LES"
 	},
 	{
+		"albumTitle": "A Lifetime",
+		"price": 10,
+		"artist": "HUSH"
+	},
+	{
 		"albumTitle": "For All The Right Reasons",
 		"price": 10,
 		"artist": "HUSH"
@@ -7505,6 +7500,11 @@
 		"artist": "KOPPEL, NIKOLAJ"
 	},
 	{
+		"albumTitle": "Korn",
+		"price": 10,
+		"artist": "KORN"
+	},
+	{
 		"albumTitle": "Isalena",
 		"price": 10,
 		"artist": "KRAGH-JACOBSEN, SØREN"
@@ -8646,6 +8646,11 @@
 	},
 	{
 		"albumTitle": "Bounty Blue",
+		"price": 10,
+		"artist": "MADSEN, JOHNNY"
+	},
+	{
+		"albumTitle": "Nattegn",
 		"price": 10,
 		"artist": "MADSEN, JOHNNY"
 	},
@@ -10020,6 +10025,11 @@
 		"artist": "NELSON, HAWK"
 	},
 	{
+		"albumTitle": "DanmarkDenmark (CD+DVD)",
+		"artist": "NEPHEW",
+		"price": 10
+	},
+	{
 		"albumTitle": "Six Hours At Pedernales",
 		"price": 10,
 		"artist": "NELSON, WILLIE"
@@ -10190,6 +10200,11 @@
 		"artist": "NIKOLAJ"
 	},
 	{
+		"albumTitle": "Sidder På En Raket",
+		"price": 10,
+		"artist": "NIKOLAJ & PILOTERNE"
+	},
+	{
 		"albumTitle": "Solar Plexus",
 		"price": 10,
 		"artist": "NIKOLAJ & PILOTERNE"
@@ -10283,6 +10298,11 @@
 		"albumTitle": "Sings The Greatest Hits Of Herman's Hermits",
 		"price": 10,
 		"artist": "NOONE, PETER"
+	},
+	{
+		"albumTitle": "First Conversation",
+		"price": 10,
+		"artist": "NORBY, CÆCILIE"
 	},
 	{
 		"albumTitle": "Here Comes The Sun",
@@ -10655,6 +10675,11 @@
 		"artist": "PANIC AT THE DISCO"
 	},
 	{
+		"albumTitle": "Far Beyond Driven",
+		"price": 10,
+		"artist": "PANTERA"
+	},
+	{
 		"albumTitle": "Falling In Love",
 		"price": 10,
 		"artist": "PARADOX"
@@ -10733,6 +10758,11 @@
 		"albumTitle": "Simple Emotions",
 		"price": 10,
 		"artist": "PEACHES & BOBO"
+	},
+	{
+		"albumTitle": "No Code",
+		"price": 10,
+		"artist": "PEARL JAM"
 	},
 	{
 		"albumTitle": "One Of The Boys",
@@ -10818,6 +10848,11 @@
 		"albumTitle": "Try This",
 		"price": 10,
 		"artist": "PINK"
+	},
+	{
+		"albumTitle": "The Division Bell",
+		"artist": "PINK FLOYD",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Wall (2CD)",
@@ -11010,6 +11045,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Diamonds And Pearls",
+		"price": 10,
+		"artist": "PRINCE & THE NEW POWER GENERATION"
+	},
+	{
 		"albumTitle": "Love Symbol",
 		"price": 10,
 		"artist": "PRINCE & THE NEW POWER GENERATION"
@@ -11033,6 +11073,11 @@
 		"albumTitle": "PCD",
 		"price": 10,
 		"artist": "PUSSYCAT DOLLS"
+	},
+	{
+		"albumTitle": "De Allerbedste (2CD)",
+		"price": 10,
+		"artist": "PÅ SLAGET 12 (PS12)"
 	},
 	{
 		"albumTitle": "Hjem til Århus, 18 Hits",
@@ -11190,6 +11235,11 @@
 		"artist": "RACEY"
 	},
 	{
+		"albumTitle": "OK Computer",
+		"price": 10,
+		"artist": "RADIOHEAD"
+	},
+	{
 		"albumTitle": "Over My Head",
 		"artist": "RAFFERTY, GARY",
 		"price": 20
@@ -11313,6 +11363,11 @@
 		"albumTitle": "Up All Night",
 		"price": 10,
 		"artist": "RAZORLIGHT"
+	},
+	{
+		"albumTitle": "Auberge",
+		"price": 10,
+		"artist": "REA, CHRIS"
 	},
 	{
 		"albumTitle": "Dancing With Strangers",
@@ -12225,12 +12280,22 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "In The House Of Secrets",
+		"artist": "SANDMEN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Live",
 		"artist": "SANDMEN",
 		"price": 10
 	},
 	{
 		"albumTitle": "Shine",
+		"artist": "SANDMEN",
+		"price": 10
+	},
+	{
+		"albumTitle": "Sleepyhead",
 		"artist": "SANDMEN",
 		"price": 10
 	},
@@ -12798,6 +12863,11 @@
 		"albumTitle": "The Essential (2CD)",
 		"artist": "SIMON, PAUL",
 		"price": 10
+	},
+	{
+		"albumTitle": "Glittering Prize",
+		"price": 10,
+		"artist": "SIMPLE MINDS"
 	},
 	{
 		"albumTitle": "Good News From The Next World",
@@ -14075,6 +14145,11 @@
 		"artist": "TEENAGERS, THE"
 	},
 	{
+		"albumTitle": "Poetry & Aeroplanes",
+		"price": 10,
+		"artist": "TEITUR"
+	},
+	{
 		"albumTitle": "The Singer",
 		"price": 10,
 		"artist": "TEITUR"
@@ -14348,6 +14423,11 @@
 		"albumTitle": "The Last Resort",
 		"price": 10,
 		"artist": "TRENTEMØLLER"
+	},
+	{
+		"albumTitle": "Bøf Med Løg",
+		"price": 10,
+		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
 	{
 		"albumTitle": "Stardust Bodega",
@@ -15606,6 +15686,11 @@
 	},
 	{
 		"albumTitle": "Tonight's The Night",
+		"artist": "YOUNG, NEIL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Unplugged",
 		"artist": "YOUNG, NEIL",
 		"price": 10
 	},
