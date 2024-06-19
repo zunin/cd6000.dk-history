@@ -7445,6 +7445,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Privateering (2CD)",
+		"artist": "KNOPFLER, MARK",
+		"price": 10
+	},
+	{
 		"albumTitle": "Shangri-La (CD+DVD)",
 		"artist": "KNOPFLER, MARK",
 		"price": 10
@@ -7508,6 +7513,11 @@
 		"albumTitle": "Isalena",
 		"price": 10,
 		"artist": "KRAGH-JACOBSEN, SØREN"
+	},
+	{
+		"albumTitle": "Now That I've Found You",
+		"price": 10,
+		"artist": "KRAUS, ALISON"
 	},
 	{
 		"albumTitle": "5",
@@ -7930,6 +7940,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "IV",
+		"artist": "LED ZEPPELIN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Mothership (2CD)",
 		"artist": "LED ZEPPELIN",
 		"price": 25
@@ -8190,6 +8205,11 @@
 		"artist": "LARS LILHOLT BAND"
 	},
 	{
+		"albumTitle": "Ofelia",
+		"artist": "LARS LILHOLT BAND",
+		"price": 10
+	},
+	{
 		"albumTitle": "Smukkere Med Tiden (CD+DVD)",
 		"artist": "LARS LILHOLT BAND",
 		"price": 10
@@ -8388,6 +8408,11 @@
 		"albumTitle": "The Irish Connection",
 		"price": 10,
 		"artist": "LOGAN, JOHNNY & FRIENDS"
+	},
+	{
+		"albumTitle": "Keep The Fire",
+		"artist": "LOGGINS, KENNY",
+		"price": 10
 	},
 	{
 		"albumTitle": "Ung Kærlighed",
@@ -8825,6 +8850,16 @@
 		"artist": "MANFRED MANN's EARTH BAND"
 	},
 	{
+		"albumTitle": "Post Modern Panic Attack",
+		"price": 10,
+		"artist": "MANI SPINX"
+	},
+	{
+		"albumTitle": "Send Away The Tigers",
+		"price": 10,
+		"artist": "MANIC STREET PREACHERS"
+	},
+	{
 		"albumTitle": "This Is My Truth Tell Me Yours",
 		"price": 10,
 		"artist": "MANIC STREET PREACHERS"
@@ -8845,11 +8880,6 @@
 		"artist": "MANILOW, BARRY"
 	},
 	{
-		"albumTitle": "Post Modern Panic Attack",
-		"price": 10,
-		"artist": "MANI SPINX"
-	},
-	{
 		"albumTitle": "Ultimate Collection",
 		"price": 10,
 		"artist": "MANILOW, BARRY"
@@ -8863,6 +8893,11 @@
 		"albumTitle": "Lost In Space",
 		"price": 10,
 		"artist": "MANN, AIMEE"
+	},
+	{
+		"albumTitle": "White Trash (2CD sampack)",
+		"artist": "MANSON, MARILYN",
+		"price": 10
 	},
 	{
 		"albumTitle": "That's Just Me",
@@ -8883,6 +8918,11 @@
 		"albumTitle": "The Very Best Of",
 		"artist": "MARMALADE",
 		"price": 20
+	},
+	{
+		"albumTitle": "Hands All Over",
+		"price": 10,
+		"artist": "MAROON 5"
 	},
 	{
 		"albumTitle": "It Won't Be Soon Before Long",
@@ -8955,6 +8995,11 @@
 		"artist": "MATTHEW, SIMON"
 	},
 	{
+		"albumTitle": "Before These Crowded Streets",
+		"price": 10,
+		"artist": "MATTHEWS BAND, DAVE"
+	},
+	{
 		"albumTitle": "The Best Of Me",
 		"price": 10,
 		"artist": "MAXI PRIEST"
@@ -8966,6 +9011,11 @@
 	},
 	{
 		"albumTitle": "Continuum",
+		"price": 10,
+		"artist": "MAYER, JOHN"
+	},
+	{
+		"albumTitle": "Heavier Things",
 		"price": 10,
 		"artist": "MAYER, JOHN"
 	},
@@ -9008,6 +9058,11 @@
 		"albumTitle": "Run Devil Run",
 		"price": 10,
 		"artist": "McCARTNEY, PAUL"
+	},
+	{
+		"albumTitle": "All The Best",
+		"artist": "McCARTNEY, PAUL",
+		"price": 10
 	},
 	{
 		"albumTitle": "Back In The World Live (2CD)",
@@ -9060,9 +9115,24 @@
 		"artist": "McINTYRE, REBA"
 	},
 	{
+		"albumTitle": "A Winter Garden",
+		"price": 10,
+		"artist": "McKENNITT, LOREENA"
+	},
+	{
+		"albumTitle": "An Ancient Muse",
+		"price": 10,
+		"artist": "McKENNITT, LOREENA"
+	},
+	{
 		"albumTitle": "The Book Of Secrets",
 		"price": 10,
 		"artist": "McKENNITT, LOREENA"
+	},
+	{
+		"albumTitle": "The Visit",
+		"artist": "McKENNITT, LOREENA",
+		"price": 10
 	},
 	{
 		"albumTitle": "Craig McLachlan And Check 1-2",
@@ -9110,6 +9180,16 @@
 		"artist": "ME & MY"
 	},
 	{
+		"albumTitle": "Me & My",
+		"price": 10,
+		"artist": "ME & MY"
+	},
+	{
+		"albumTitle": "Couldn't Have Said It Better",
+		"price": 10,
+		"artist": "MEAT LOAF"
+	},
+	{
 		"albumTitle": "Hits Out Of Hell",
 		"price": 10,
 		"artist": "MEAT LOAF"
@@ -9130,9 +9210,24 @@
 		"artist": "MEAT LOAF"
 	},
 	{
+		"albumTitle": "Tæt På",
+		"price": 10,
+		"artist": "MEDINA"
+	},
+	{
+		"albumTitle": "We Survive",
+		"price": 10,
+		"artist": "MEDINA"
+	},
+	{
 		"albumTitle": "Welcome To Medina",
 		"price": 10,
 		"artist": "MEDINA"
+	},
+	{
+		"albumTitle": "Countdown To Extinction",
+		"artist": "MEGADETH",
+		"price": 10
 	},
 	{
 		"albumTitle": "Cryptic Writings",
@@ -9260,9 +9355,29 @@
 		"artist": "MERCURY, FREDDIE"
 	},
 	{
+		"albumTitle": "Reload",
+		"artist": "METALLICA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Death Magnetic",
+		"artist": "METALLICA",
+		"price": 10
+	},
+	{
+		"albumTitle": "S & M (2CD)",
+		"artist": "METALLICA",
+		"price": 10
+	},
+	{
 		"albumTitle": "St. Anger (2CD)",
 		"artist": "METALLICA",
 		"price": 15
+	},
+	{
+		"albumTitle": "Secret Story",
+		"artist": "METHENNY, PAT",
+		"price": 10
 	},
 	{
 		"albumTitle": "Eggs Are Funny",
@@ -9283,6 +9398,11 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "MEZZOFORTE"
+	},
+	{
+		"albumTitle": "Faith",
+		"price": 10,
+		"artist": "MICHAEL, GEORGE"
 	},
 	{
 		"albumTitle": "Listen Without Prejustice",
@@ -9308,6 +9428,11 @@
 		"albumTitle": "Five Live",
 		"price": 10,
 		"artist": "MICHAEL, GEORGE, QUEEN & LISA STANSFIELD"
+	},
+	{
+		"albumTitle": "Blue Night",
+		"price": 10,
+		"artist": "MICHAEL LEARNS TO ROCK"
 	},
 	{
 		"albumTitle": "Colours",
@@ -9360,6 +9485,11 @@
 		"artist": "MICHELSEN, ANNE DORTE"
 	},
 	{
+		"albumTitle": "Best Of",
+		"price": 10,
+		"artist": "MIDDLE OF THE ROAD"
+	},
+	{
 		"albumTitle": "Greatest Hits (Ariola)",
 		"price": 10,
 		"artist": "MIDDLE OF THE ROAD"
@@ -9375,6 +9505,11 @@
 		"artist": "MIDLER, BETTE"
 	},
 	{
+		"albumTitle": "Devine Madness",
+		"price": 10,
+		"artist": "MIDLER, BETTE"
+	},
+	{
 		"albumTitle": "Experience The Devine, Greatest Hits",
 		"price": 10,
 		"artist": "MIDLER, BETTE"
@@ -9383,6 +9518,11 @@
 		"albumTitle": "Some People's Lives",
 		"price": 10,
 		"artist": "MIDLER, BETTE"
+	},
+	{
+		"albumTitle": "Diesel And Dust",
+		"price": 10,
+		"artist": "MIDNIGHT OIL"
 	},
 	{
 		"albumTitle": "Life in Cartoon Motion",
@@ -9415,6 +9555,11 @@
 		"artist": "MIKKELBORG, PALLE"
 	},
 	{
+		"albumTitle": "Heart To Heart",
+		"price": 10,
+		"artist": "MIKKELBORG, KNUDSEN, NHØP"
+	},
+	{
 		"albumTitle": "Greatest Hits (remastered)",
 		"price": 10,
 		"artist": "MILLER BAND, STEVE"
@@ -9430,6 +9575,11 @@
 		"artist": "MILLER BAND, STEVE"
 	},
 	{
+		"albumTitle": "The US Remix Album, All Or Nothing",
+		"price": 10,
+		"artist": "MILLI VANILLI"
+	},
+	{
 		"albumTitle": "Valve",
 		"price": 10,
 		"artist": "MILLTOWN BROTHERS"
@@ -9443,6 +9593,16 @@
 		"albumTitle": "Cabaret",
 		"price": 10,
 		"artist": "MINELLI, LIZA"
+	},
+	{
+		"albumTitle": "Body Language",
+		"price": 10,
+		"artist": "MINOGUE, KYLIE"
+	},
+	{
+		"albumTitle": "Enjoy Yourself",
+		"price": 10,
+		"artist": "MINOGUE, KYLIE"
 	},
 	{
 		"albumTitle": "Kylie",
@@ -9495,6 +9655,11 @@
 		"artist": "MODERN TALKING"
 	},
 	{
+		"albumTitle": "The Very Best Of",
+		"price": 10,
+		"artist": "MODERN TALKING"
+	},
+	{
 		"albumTitle": "Who Love Bad News",
 		"price": 10,
 		"artist": "MODEST MOUSE"
@@ -9511,6 +9676,11 @@
 	},
 	{
 		"albumTitle": "Der Er Noget Galt I Danmark (2CD)",
+		"price": 10,
+		"artist": "MOGENSEN, JOHN"
+	},
+	{
+		"albumTitle": "Hvad Er Der Så Mer'? (2CD)",
 		"price": 10,
 		"artist": "MOGENSEN, JOHN"
 	},
@@ -9538,6 +9708,11 @@
 		"albumTitle": "Stop En Halv",
 		"price": 10,
 		"artist": "MOGENSEN, JOHN"
+	},
+	{
+		"albumTitle": "Fut I Fejemøget, 36 Af De Allerbedste (2CD)",
+		"artist": "MOGENSEN, JOHN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Guilty",
@@ -9690,12 +9865,22 @@
 		"artist": "MOORE, GARY"
 	},
 	{
+		"albumTitle": "After The War",
+		"price": 10,
+		"artist": "MOORE, GARY"
+	},
+	{
 		"albumTitle": "Ballads & Blues 1982-1994",
 		"price": 10,
 		"artist": "MOORE, GARY"
 	},
 	{
 		"albumTitle": "Blues For Greeny",
+		"price": 10,
+		"artist": "MOORE, GARY"
+	},
+	{
+		"albumTitle": "Dark Days In Paradise",
 		"price": 10,
 		"artist": "MOORE, GARY"
 	},
@@ -9720,6 +9905,11 @@
 		"artist": "MORISSETTE, ALANIS"
 	},
 	{
+		"albumTitle": "MTV Unplugged",
+		"price": 10,
+		"artist": "MORISSETTE, ALANIS"
+	},
+	{
 		"albumTitle": "So-Called Chaos",
 		"price": 10,
 		"artist": "MORISSETTE, ALANIS"
@@ -9738,6 +9928,11 @@
 		"albumTitle": "Under Rug Swept",
 		"price": 10,
 		"artist": "MORISSETTE, ALANIS"
+	},
+	{
+		"albumTitle": "Maladjusted",
+		"artist": "MORRISSEY",
+		"price": 10
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -9828,6 +10023,11 @@
 		"albumTitle": "Kingdom Come",
 		"price": 10,
 		"artist": "MUHL, LARS & MOONJAM"
+	},
+	{
+		"albumTitle": "2nd Base",
+		"price": 10,
+		"artist": "MUKUPA"
 	},
 	{
 		"albumTitle": "Babel",
@@ -9940,6 +10140,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Små Blå Breve",
+		"artist": "NANNA",
+		"price": 30
+	},
+	{
 		"albumTitle": "Bomboloni, Greatest Hits",
 		"artist": "NANNINI, GIANNA",
 		"price": 15
@@ -10015,6 +10220,11 @@
 		"artist": "NEIGHBOURS"
 	},
 	{
+		"albumTitle": "I Det Akustiske Hjørne (CD+DVD)(NY i folie)",
+		"price": 10,
+		"artist": "NEIGHBOURS"
+	},
+	{
 		"albumTitle": "Rejsedage",
 		"price": 10,
 		"artist": "NEIGHBOURS"
@@ -10023,6 +10233,16 @@
 		"albumTitle": "Live * Life * Loud",
 		"price": 10,
 		"artist": "NELSON, HAWK"
+	},
+	{
+		"albumTitle": "USADSB",
+		"artist": "NEPHEW",
+		"price": 10
+	},
+	{
+		"albumTitle": "07.07.07. (CD+2DVD boks)",
+		"artist": "NEPHEW",
+		"price": 10
 	},
 	{
 		"albumTitle": "DanmarkDenmark (CD+DVD)",
@@ -10038,6 +10258,11 @@
 		"albumTitle": "The Best Of",
 		"artist": "NESMITH, MICHAEL",
 		"price": 10
+	},
+	{
+		"albumTitle": "Brother's Keeper",
+		"price": 10,
+		"artist": "NEVILLE BROTHERS, THE"
 	},
 	{
 		"albumTitle": "Alene For Dig",
@@ -10130,9 +10355,19 @@
 		"artist": "NHØP"
 	},
 	{
+		"albumTitle": "To A Brother",
+		"price": 10,
+		"artist": "NHØP"
+	},
+	{
 		"albumTitle": "Antihelt",
 		"price": 10,
 		"artist": "NIARN"
+	},
+	{
+		"albumTitle": "Get Inside",
+		"price": 10,
+		"artist": "NICE DEVICE"
 	},
 	{
 		"albumTitle": "Beat Music",
@@ -10265,6 +10500,11 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
+		"albumTitle": "Mary's Boy Child",
+		"price": 10,
+		"artist": "NINA & FREDERIK"
+	},
+	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "NINA & FREDERIK"
@@ -10273,6 +10513,16 @@
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
+	},
+	{
+		"albumTitle": "No Doubt",
+		"price": 10,
+		"artist": "NO DOUBT"
+	},
+	{
+		"albumTitle": "Return Of Saturn",
+		"price": 10,
+		"artist": "NO DOUBT"
 	},
 	{
 		"albumTitle": "Rock Steady",
@@ -10300,7 +10550,17 @@
 		"artist": "NOONE, PETER"
 	},
 	{
+		"albumTitle": "Cæcilie Norby",
+		"price": 10,
+		"artist": "NORBY, CÆCILIE"
+	},
+	{
 		"albumTitle": "First Conversation",
+		"price": 10,
+		"artist": "NORBY, CÆCILIE"
+	},
+	{
+		"albumTitle": "My Corner Of The Sky",
 		"price": 10,
 		"artist": "NORBY, CÆCILIE"
 	},
@@ -10318,6 +10578,11 @@
 		"albumTitle": "The Hits! (2CD)",
 		"price": 10,
 		"artist": "NORMAN, CHRIS"
+	},
+	{
+		"albumTitle": "The Hits! Tour (2CD+DVD)",
+		"artist": "NORMAN, CHRIS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Time Traveller",
@@ -10375,6 +10640,11 @@
 		"artist": "O'CONNOR, SINEAD"
 	},
 	{
+		"albumTitle": "Universal Mother",
+		"price": 10,
+		"artist": "O'CONNOR, SINEAD"
+	},
+	{
 		"albumTitle": "Best Of",
 		"price": 10,
 		"artist": "O'SULLIVAN"
@@ -10411,6 +10681,11 @@
 	},
 	{
 		"albumTitle": "Conspiracy Of One",
+		"price": 10,
+		"artist": "OFFSPRING, THE"
+	},
+	{
+		"albumTitle": "Smash",
 		"price": 10,
 		"artist": "OFFSPRING, THE"
 	},
@@ -10461,6 +10736,11 @@
 	},
 	{
 		"albumTitle": "Angelina",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
+	},
+	{
+		"albumTitle": "Celebration",
 		"price": 10,
 		"artist": "OLSEN, BRØDRENE"
 	},
@@ -10615,6 +10895,16 @@
 		"artist": "OSBORNE, JOAN"
 	},
 	{
+		"albumTitle": "Shut Up",
+		"price": 10,
+		"artist": "OSBORNE, KELLY"
+	},
+	{
+		"albumTitle": "No More Tears",
+		"artist": "OSBOURNE, OZZY",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Essential Ozzy Osbourne (2CD)",
 		"artist": "OSBOURNE, OZZY",
 		"price": 10
@@ -10638,6 +10928,11 @@
 		"albumTitle": "Outlandish Official",
 		"price": 10,
 		"artist": "OUTLANDISH"
+	},
+	{
+		"albumTitle": "Warrior/Worrior",
+		"artist": "OUTLANDISH",
+		"price": 10
 	},
 	{
 		"albumTitle": "Here I Stand",
@@ -10675,6 +10970,11 @@
 		"artist": "PANIC AT THE DISCO"
 	},
 	{
+		"albumTitle": "Cowboys From Hell",
+		"price": 10,
+		"artist": "PANTERA"
+	},
+	{
 		"albumTitle": "Far Beyond Driven",
 		"price": 10,
 		"artist": "PANTERA"
@@ -10695,6 +10995,11 @@
 		"artist": "PARADIS, VANESSA"
 	},
 	{
+		"albumTitle": "Bird Of Paradise",
+		"price": 10,
+		"artist": "PARKER, CHARLIE"
+	},
+	{
 		"albumTitle": "Chasin' The Bird",
 		"price": 10,
 		"artist": "PARKER, CHARLIE"
@@ -10706,6 +11011,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits",
+		"price": 10,
+		"artist": "PARTON, DOLLY"
+	},
+	{
+		"albumTitle": "Home For Christmas",
 		"price": 10,
 		"artist": "PARTON, DOLLY"
 	},
@@ -10765,9 +11075,24 @@
 		"artist": "PEARL JAM"
 	},
 	{
+		"albumTitle": "Stadig Beskidt",
+		"price": 10,
+		"artist": "PEDE B"
+	},
+	{
 		"albumTitle": "One Of The Boys",
 		"price": 10,
 		"artist": "PERRY, KATY"
+	},
+	{
+		"albumTitle": "Behaviour",
+		"price": 10,
+		"artist": "PET SHOP BOYS"
+	},
+	{
+		"albumTitle": "Disco",
+		"price": 10,
+		"artist": "PET SHOP BOYS"
 	},
 	{
 		"albumTitle": "Introspective",
@@ -10796,6 +11121,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits",
+		"artist": "PETTY, TOM & THE HEARTBREAKERS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Full Moon Fever",
 		"artist": "PETTY, TOM & THE HEARTBREAKERS",
 		"price": 10
 	},
