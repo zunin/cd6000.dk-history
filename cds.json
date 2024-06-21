@@ -90,11 +90,6 @@
 		"artist": "ABRAHAMSEN, TROELS"
 	},
 	{
-		"albumTitle": "Let There Be Rock",
-		"artist": "AC/DC",
-		"price": 10
-	},
-	{
 		"albumTitle": "The Razors Edge",
 		"artist": "AC/DC",
 		"price": 10
@@ -595,11 +590,6 @@
 		"artist": "ARENA, TINA"
 	},
 	{
-		"albumTitle": "In Lust We Trust",
-		"price": 10,
-		"artist": "ARK, THE"
-	},
-	{
 		"albumTitle": "What's Inside",
 		"price": 10,
 		"artist": "ARMATRADING, JOAN"
@@ -1008,11 +998,6 @@
 		"albumTitle": "Let It Be.. Naked",
 		"artist": "BEATLES, THE",
 		"price": 20
-	},
-	{
-		"albumTitle": "Love",
-		"artist": "BEATLES, THE",
-		"price": 10
 	},
 	{
 		"albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1660,17 +1645,7 @@
 		"artist": "BOOTLES, THE"
 	},
 	{
-		"albumTitle": "Heathen",
-		"artist": "BOWIE, DAVID",
-		"price": 10
-	},
-	{
 		"albumTitle": "Hours..",
-		"artist": "BOWIE, DAVID",
-		"price": 10
-	},
-	{
-		"albumTitle": "Hunky Dory (remastered)",
 		"artist": "BOWIE, DAVID",
 		"price": 10
 	},
@@ -2235,11 +2210,6 @@
 		"artist": "CASH, JOHNNY"
 	},
 	{
-		"albumTitle": "Trilogy (3CD)",
-		"price": 10,
-		"artist": "CASH, JOHNNY"
-	},
-	{
 		"albumTitle": "Imagine",
 		"price": 10,
 		"artist": "CASSIDY, EVA"
@@ -2466,11 +2436,6 @@
 	},
 	{
 		"albumTitle": "Magical Ring",
-		"price": 10,
-		"artist": "CLANNAD"
-	},
-	{
-		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "CLANNAD"
 	},
@@ -3215,11 +3180,6 @@
 		"artist": "DARLEENS"
 	},
 	{
-		"albumTitle": "Greatest Hits",
-		"price": 10,
-		"artist": "DAVE DEE DOZY BEAKY MICK AND TICH"
-	},
-	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "DAVE DEE DOZY BEAKY MICK AND TICH"
@@ -3678,11 +3638,6 @@
 		"albumTitle": "The Dissociatives",
 		"price": 10,
 		"artist": "THE DISSOCIATIVES"
-	},
-	{
-		"albumTitle": "Taking The Long Way",
-		"price": 10,
-		"artist": "DIXIE CHICKS"
 	},
 	{
 		"albumTitle": "Dizzy Mizz Lizzy",
@@ -6110,11 +6065,6 @@
 		"artist": "HOTEL HUNGER"
 	},
 	{
-		"albumTitle": "Happy Hour",
-		"price": 10,
-		"artist": "HOTEL HUNGER"
-	},
-	{
 		"albumTitle": "Mars Needs Guitars",
 		"price": 10,
 		"artist": "HOTEL HUNGER"
@@ -6565,11 +6515,6 @@
 		"artist": "JAN & KJELD"
 	},
 	{
-		"albumTitle": "Smile",
-		"price": 10,
-		"artist": "JANE & SHANE"
-	},
-	{
 		"albumTitle": "Spins",
 		"price": 10,
 		"artist": "JANES REJOICE"
@@ -6818,11 +6763,6 @@
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "JONES, TOM"
-	},
-	{
-		"albumTitle": "The Very Best Of",
-		"price": 10,
-		"artist": "JOPLIN, JANIS"
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -7515,11 +7455,6 @@
 		"artist": "KRAGH-JACOBSEN, SØREN"
 	},
 	{
-		"albumTitle": "Now That I've Found You",
-		"price": 10,
-		"artist": "KRAUS, ALISON"
-	},
-	{
 		"albumTitle": "5",
 		"price": 10,
 		"artist": "KRAVITZ, LENNY"
@@ -7943,11 +7878,6 @@
 		"albumTitle": "IV",
 		"artist": "LED ZEPPELIN",
 		"price": 10
-	},
-	{
-		"albumTitle": "Mothership (2CD)",
-		"artist": "LED ZEPPELIN",
-		"price": 25
 	},
 	{
 		"albumTitle": "Remasters (2CD)",
@@ -9718,11 +9648,6 @@
 		"albumTitle": "The Woman For You",
 		"price": 10,
 		"artist": "MONIQUE"
-	},
-	{
-		"albumTitle": "A La Plage",
-		"price": 10,
-		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)"
 	},
 	{
 		"albumTitle": "Akasut Mundvand",
@@ -11560,11 +11485,6 @@
 		"price": 20
 	},
 	{
-		"albumTitle": "Luck Of The Draw",
-		"price": 10,
-		"artist": "RAITT, BONNIE"
-	},
-	{
 		"albumTitle": "Nick Of Time",
 		"price": 10,
 		"artist": "RAITT, BONNIE"
@@ -12110,11 +12030,6 @@
 		"artist": "ROLLING STONES, THE"
 	},
 	{
-		"albumTitle": "Flashpoint",
-		"price": 10,
-		"artist": "ROLLING STONES, THE"
-	},
-	{
 		"albumTitle": "Jump Back, The Best Of",
 		"price": 10,
 		"artist": "ROLLING STONES, THE"
@@ -12488,11 +12403,6 @@
 		"albumTitle": "The Beginners Guide To Throwing Shapes",
 		"artist": "SAGA",
 		"price": 30
-	},
-	{
-		"albumTitle": "Legacy, Greatest & Latest",
-		"price": 10,
-		"artist": "SAILOR"
 	},
 	{
 		"albumTitle": "1996",
@@ -13880,11 +13790,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Best Of",
-		"artist": "STEELEYE SPAN",
-		"price": 20
-	},
-	{
 		"albumTitle": "Blindfolded",
 		"price": 10,
 		"artist": "STEEN, NIKOLAJ"
@@ -14268,11 +14173,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "SUPREMES, THE"
-	},
-	{
-		"albumTitle": "The Road Show",
-		"price": 10,
-		"artist": "SUSSI & LEO"
 	},
 	{
 		"albumTitle": "Fragments",
@@ -15050,11 +14950,6 @@
 		"artist": "U2"
 	},
 	{
-		"albumTitle": "The Best Of 1990-2000 (2CD)",
-		"price": 10,
-		"artist": "U2"
-	},
-	{
 		"albumTitle": "The Unforgettable Fire",
 		"price": 10,
 		"artist": "U2"
@@ -15305,11 +15200,6 @@
 		"artist": "VESTRE JAZZVÆRK"
 	},
 	{
-		"albumTitle": "Ud Af Det Blå",
-		"artist": "VILDNIS",
-		"price": 10
-	},
-	{
 		"albumTitle": "Over The Rainbow",
 		"price": 10,
 		"artist": "VINDING, MADS & JACOB FISCHER"
@@ -15408,11 +15298,6 @@
 		"albumTitle": "Du Ved Det",
 		"price": 10,
 		"artist": "WAFANDE"
-	},
-	{
-		"albumTitle": "Du Ved Det Bonus Version",
-		"artist": "WAFANDE",
-		"price": 10
 	},
 	{
 		"albumTitle": "Universe Outside This World",
@@ -16555,27 +16440,12 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Det Bedste Af Dansk Musik 1972-74 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik 1977-79 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Det Bedste Af Dansk Musik 1981-83 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
 		"albumTitle": "Det Bedste Af Dansk Musik 1984-86 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik 1985-87 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -16591,11 +16461,6 @@
 	},
 	{
 		"albumTitle": "Det Bedste Af Dansk Musik 1990-92 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik 1991-93 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -17170,11 +17035,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "The Very Best Of Pop Music 89-90 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "The Very Best Of Pop Music 91-92 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17226,11 +17086,6 @@
 	},
 	{
 		"albumTitle": "Vi Skal Alle Gerne Ha' Mere, Player Mix 01",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Vildbassen",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
