@@ -8165,6 +8165,11 @@
 		"artist": "LILLER, BJARNE"
 	},
 	{
+		"albumTitle": "Chocolate St*rfish And The Hot Dog Flavored Water",
+		"price": 10,
+		"artist": "LIMP BIZKIT"
+	},
+	{
 		"albumTitle": "I Will Follow",
 		"price": 10,
 		"artist": "LIND, SEBASTIAN"
@@ -9133,11 +9138,6 @@
 		"albumTitle": "Welcome To The Neighbourhood",
 		"price": 10,
 		"artist": "MEAT LOAF"
-	},
-	{
-		"albumTitle": "Tæt På",
-		"price": 10,
-		"artist": "MEDINA"
 	},
 	{
 		"albumTitle": "Welcome To Medina",
@@ -10493,16 +10493,6 @@
 		"albumTitle": "The Hits! (2CD)",
 		"price": 10,
 		"artist": "NORMAN, CHRIS"
-	},
-	{
-		"albumTitle": "The Hits! Tour (2CD+DVD)",
-		"artist": "NORMAN, CHRIS",
-		"price": 10
-	},
-	{
-		"albumTitle": "Time Traveller",
-		"artist": "NORMAN, CHRIS",
-		"price": 10
 	},
 	{
 		"albumTitle": "Missing.. Persumed Having A Good Time",
@@ -15136,11 +15126,6 @@
 	},
 	{
 		"albumTitle": "The Best Of",
-		"price": 10,
-		"artist": "VAYA CON DIOS"
-	},
-	{
-		"albumTitle": "Time Flies",
 		"price": 10,
 		"artist": "VAYA CON DIOS"
 	},
