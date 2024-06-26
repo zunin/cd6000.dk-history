@@ -2350,17 +2350,7 @@
 		"artist": "CHICAGO"
 	},
 	{
-		"albumTitle": "Take Me Back To Chicago",
-		"price": 10,
-		"artist": "CHICAGO"
-	},
-	{
 		"albumTitle": "The Chicago Story, Compl. Greatest (2CD)",
-		"price": 10,
-		"artist": "CHICAGO"
-	},
-	{
-		"albumTitle": "The Heart Of Chicago (1997)",
 		"price": 10,
 		"artist": "CHICAGO"
 	},
@@ -7385,11 +7375,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Privateering (2CD)",
-		"artist": "KNOPFLER, MARK",
-		"price": 10
-	},
-	{
 		"albumTitle": "Shangri-La (CD+DVD)",
 		"artist": "KNOPFLER, MARK",
 		"price": 10
@@ -7872,11 +7857,6 @@
 	{
 		"albumTitle": "The Collection",
 		"artist": "LECIA & LUCIENNE",
-		"price": 10
-	},
-	{
-		"albumTitle": "IV",
-		"artist": "LED ZEPPELIN",
 		"price": 10
 	},
 	{
@@ -9440,11 +9420,6 @@
 		"artist": "MIDLER, BETTE"
 	},
 	{
-		"albumTitle": "Diesel And Dust",
-		"price": 10,
-		"artist": "MIDNIGHT OIL"
-	},
-	{
 		"albumTitle": "Life in Cartoon Motion",
 		"price": 10,
 		"artist": "MIKA"
@@ -10150,16 +10125,6 @@
 		"artist": "NELSON, HAWK"
 	},
 	{
-		"albumTitle": "USADSB",
-		"artist": "NEPHEW",
-		"price": 10
-	},
-	{
-		"albumTitle": "07.07.07. (CD+2DVD boks)",
-		"artist": "NEPHEW",
-		"price": 10
-	},
-	{
 		"albumTitle": "DanmarkDenmark (CD+DVD)",
 		"artist": "NEPHEW",
 		"price": 10
@@ -10645,11 +10610,6 @@
 		"artist": "OLSEN, BRØDRENE"
 	},
 	{
-		"albumTitle": "Celebration",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
 		"albumTitle": "Songs",
 		"price": 10,
 		"artist": "OLSEN, BRØDRENE"
@@ -10815,11 +10775,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Tribute",
-		"artist": "OSBOURNE, OZZY",
-		"price": 10
-	},
-	{
 		"albumTitle": "Schysst & Populär",
 		"price": 10,
 		"artist": "OSCAR"
@@ -10833,11 +10788,6 @@
 		"albumTitle": "Outlandish Official",
 		"price": 10,
 		"artist": "OUTLANDISH"
-	},
-	{
-		"albumTitle": "Warrior/Worrior",
-		"artist": "OUTLANDISH",
-		"price": 10
 	},
 	{
 		"albumTitle": "Here I Stand",
@@ -11063,21 +11013,6 @@
 		"albumTitle": "The Very Best Of - Mon Legionnaire",
 		"price": 10,
 		"artist": "PIAF, EDITH"
-	},
-	{
-		"albumTitle": "Funhouse",
-		"price": 10,
-		"artist": "PINK"
-	},
-	{
-		"albumTitle": "I'm Not Dead",
-		"price": 10,
-		"artist": "PINK"
-	},
-	{
-		"albumTitle": "Try This",
-		"price": 10,
-		"artist": "PINK"
 	},
 	{
 		"albumTitle": "The Division Bell",
