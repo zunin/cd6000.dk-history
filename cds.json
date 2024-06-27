@@ -10390,6 +10390,16 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
+		"albumTitle": "In Utero",
+		"price": 10,
+		"artist": "NIRVANA"
+	},
+	{
+		"albumTitle": "Nevermind",
+		"price": 10,
+		"artist": "NIRVANA"
+	},
+	{
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
@@ -10443,6 +10453,11 @@
 		"albumTitle": "My Corner Of The Sky",
 		"price": 10,
 		"artist": "NORBY, CÆCILIE"
+	},
+	{
+		"albumTitle": "Slow Fruit",
+		"artist": "NORBY, CÆCILIE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Here Comes The Sun",
@@ -10528,6 +10543,11 @@
 		"albumTitle": "Standing On The Shoulder Of Giants",
 		"price": 10,
 		"artist": "OASIS"
+	},
+	{
+		"albumTitle": "Philharmonics (2CD)",
+		"artist": "OBEL, AGNES",
+		"price": 10
 	},
 	{
 		"albumTitle": "Fireball Zone",
@@ -10850,6 +10870,11 @@
 		"artist": "PARADIS, VANESSA"
 	},
 	{
+		"albumTitle": "Riot!",
+		"price": 10,
+		"artist": "PARAMORE"
+	},
+	{
 		"albumTitle": "Bird Of Paradise",
 		"price": 10,
 		"artist": "PARKER, CHARLIE"
@@ -10926,6 +10951,11 @@
 	},
 	{
 		"albumTitle": "No Code",
+		"price": 10,
+		"artist": "PEARL JAM"
+	},
+	{
+		"albumTitle": "Ten",
 		"price": 10,
 		"artist": "PEARL JAM"
 	},
@@ -11015,6 +11045,16 @@
 		"artist": "PIAF, EDITH"
 	},
 	{
+		"albumTitle": "Dark Side Of The Moon",
+		"artist": "PINK FLOYD",
+		"price": 20
+	},
+	{
+		"albumTitle": "Echoes (2CD)",
+		"artist": "PINK FLOYD",
+		"price": 20
+	},
+	{
 		"albumTitle": "The Division Bell",
 		"artist": "PINK FLOYD",
 		"price": 10
@@ -11026,6 +11066,11 @@
 	},
 	{
 		"albumTitle": "Black Market Music",
+		"price": 10,
+		"artist": "PLACEBO"
+	},
+	{
+		"albumTitle": "Once More With Feeling",
 		"price": 10,
 		"artist": "PLACEBO"
 	},
@@ -11042,6 +11087,11 @@
 	{
 		"albumTitle": "Raising Sand",
 		"artist": "PLANT, ROBERT & ALISON KRAUS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Det Sidste Ord",
+		"artist": "POETEN & LILLEBROR",
 		"price": 10
 	},
 	{
@@ -11100,6 +11150,11 @@
 		"artist": "POPPE, SØREN"
 	},
 	{
+		"albumTitle": "Dummy",
+		"price": 10,
+		"artist": "PORTISHEAD"
+	},
+	{
 		"albumTitle": "Daniel Powter",
 		"price": 10,
 		"artist": "POWTER, DANIEL"
@@ -11125,12 +11180,22 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
+		"albumTitle": "As Recorded At Madison Square Garden",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
 		"albumTitle": "Elvis Country",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
 		"albumTitle": "From Hawaii Via Satellite",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
+		"albumTitle": "It's Christmas Time",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
 	},
@@ -11185,6 +11250,11 @@
 		"artist": "PRICE, RICK"
 	},
 	{
+		"albumTitle": "Give Out But Don't Give Up",
+		"price": 10,
+		"artist": "PRIMAL SCREAM"
+	},
+	{
 		"albumTitle": "Come 1958-1993",
 		"artist": "PRINCE",
 		"price": 10
@@ -11220,12 +11290,27 @@
 		"artist": "PRINCE & THE NEW POWER GENERATION"
 	},
 	{
+		"albumTitle": "My Secret Lover",
+		"artist": "PRIVATE",
+		"price": 10
+	},
+	{
+		"albumTitle": "My Secret Lover (2CD)",
+		"artist": "PRIVATE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Swell",
 		"artist": "PSYCHED UP JANIS",
 		"price": 10
 	},
 	{
 		"albumTitle": "Different Class",
+		"artist": "PULP",
+		"price": 10
+	},
+	{
+		"albumTitle": "His 'N' Hers",
 		"artist": "PULP",
 		"price": 10
 	},
@@ -11310,6 +11395,16 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Absolute Greatest (1CD)",
+		"artist": "QUEEN",
+		"price": 10
+	},
+	{
+		"albumTitle": "Absolute Greatest (2CD)",
+		"artist": "QUEEN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Greatest Hits I & II (2CD)",
 		"artist": "QUEEN",
 		"price": 15
@@ -11350,7 +11445,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Songs For The Deaf",
+		"price": 10,
+		"artist": "QUEENS OF THE STONE AGE"
+	},
+	{
 		"albumTitle": "Around The Sun",
+		"price": 10,
+		"artist": "R.E.M."
+	},
+	{
+		"albumTitle": "Green",
 		"price": 10,
 		"artist": "R.E.M."
 	},
@@ -11390,6 +11495,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Part Lies, Part Heart, Part Truth, Part Garbage",
+		"artist": "R.E.M.",
+		"price": 10
+	},
+	{
 		"albumTitle": "Say Wow!",
 		"price": 10,
 		"artist": "RACEY"
@@ -11405,12 +11515,22 @@
 		"artist": "RADIOHEAD"
 	},
 	{
+		"albumTitle": "Pablo Honey",
+		"price": 10,
+		"artist": "RADIOHEAD"
+	},
+	{
 		"albumTitle": "Over My Head",
 		"artist": "RAFFERTY, GARY",
 		"price": 20
 	},
 	{
 		"albumTitle": "Nick Of Time",
+		"price": 10,
+		"artist": "RAITT, BONNIE"
+	},
+	{
+		"albumTitle": "Road Tested",
 		"price": 10,
 		"artist": "RAITT, BONNIE"
 	},
@@ -11430,6 +11550,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Reise Reise",
+		"artist": "RAMMSTEIN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Sehnsucht",
 		"artist": "RAMMSTEIN",
 		"price": 10
@@ -11445,6 +11570,11 @@
 		"artist": "RASMUS, THE"
 	},
 	{
+		"albumTitle": "Into The Rasmus",
+		"price": 10,
+		"artist": "RASMUS, THE"
+	},
+	{
 		"albumTitle": "Signature Collection (3CD)",
 		"price": 10,
 		"artist": "RAT PACK, THE"
@@ -11455,12 +11585,22 @@
 		"artist": "RAUG, PIA"
 	},
 	{
+		"albumTitle": "Forår I Menneskenes Land",
+		"artist": "RAUG, PIA",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hej Lille Drøm/Saga s1",
 		"artist": "RAUG, PIA",
 		"price": 10
 	},
 	{
 		"albumTitle": "Det / Længsel",
+		"artist": "RAUG, PIA",
+		"price": 25
+	},
+	{
+		"albumTitle": "Silke & Stål",
 		"artist": "RAUG, PIA",
 		"price": 25
 	},
@@ -11480,9 +11620,19 @@
 		"price": 25
 	},
 	{
+		"albumTitle": "Længsel",
+		"artist": "RAUG, PIA & STEVE DOBROGOSZ",
+		"price": 10
+	},
+	{
 		"albumTitle": "Fred Er At Skabe",
 		"artist": "PIA RAUG & SLESVIGSKE MUSIKKORPS",
 		"price": 10
+	},
+	{
+		"albumTitle": "Chain Gang Of Love",
+		"price": 10,
+		"artist": "RAVEONETTES, THE"
 	},
 	{
 		"albumTitle": "Lust Lust Lust",
@@ -11515,6 +11665,11 @@
 		"artist": "RAY DEE OHH"
 	},
 	{
+		"albumTitle": "Too (NY i folie)",
+		"price": 10,
+		"artist": "RAY DEE OHH"
+	},
+	{
 		"albumTitle": "Razorlight",
 		"price": 10,
 		"artist": "RAZORLIGHT"
@@ -11535,7 +11690,17 @@
 		"artist": "REA, CHRIS"
 	},
 	{
+		"albumTitle": "God's Great Banana Skin",
+		"price": 10,
+		"artist": "REA, CHRIS"
+	},
+	{
 		"albumTitle": "The Best Of",
+		"price": 10,
+		"artist": "REA, CHRIS"
+	},
+	{
+		"albumTitle": "The Platinum Collection",
 		"price": 10,
 		"artist": "REA, CHRIS"
 	},
@@ -11546,6 +11711,11 @@
 	},
 	{
 		"albumTitle": "Blood Sugar Sex Magik",
+		"price": 10,
+		"artist": "RED HOT CHILI PEPPERS"
+	},
+	{
+		"albumTitle": "By The Way",
 		"price": 10,
 		"artist": "RED HOT CHILI PEPPERS"
 	},
@@ -11895,6 +12065,11 @@
 		"artist": "ROCAZINO"
 	},
 	{
+		"albumTitle": "Sejle Med Dig",
+		"price": 10,
+		"artist": "ROCAZINO"
+	},
+	{
 		"albumTitle": "Rockers Retro, Greatest Hits (2CD)",
 		"price": 10,
 		"artist": "ROCKERS BY CHOICE"
@@ -11923,6 +12098,11 @@
 		"albumTitle": "The Collection",
 		"artist": "ROCKING GHOSTS",
 		"price": 20
+	},
+	{
+		"albumTitle": "Med Det Hele",
+		"artist": "ROCKROSINEN & PØLSEENDERNE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Buy Me A Rose, 20 Great Love Songs",
@@ -12260,9 +12440,14 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Story (EAC testet)",
+		"artist": "RUNRIG",
+		"price": 20
+	},
+	{
 		"albumTitle": "The Story",
 		"artist": "RUNRIG",
-		"price": 15
+		"price": 30
 	},
 	{
 		"albumTitle": "Year Of The Flood (CD+DVD)",
@@ -12295,6 +12480,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Diamond Life",
+		"price": 10,
+		"artist": "SADE"
+	},
+	{
 		"albumTitle": "Promise",
 		"price": 10,
 		"artist": "SADE"
@@ -12320,7 +12510,17 @@
 		"artist": "SAFRI DUO"
 	},
 	{
+		"albumTitle": "Episode II, The Remix Edition (2CD)",
+		"price": 10,
+		"artist": "SAFRI DUO"
+	},
+	{
 		"albumTitle": "Behaviour",
+		"artist": "SAGA",
+		"price": 20
+	},
+	{
+		"albumTitle": "In Transit",
 		"artist": "SAGA",
 		"price": 20
 	},
@@ -12328,6 +12528,11 @@
 		"albumTitle": "The Beginners Guide To Throwing Shapes",
 		"artist": "SAGA",
 		"price": 30
+	},
+	{
+		"albumTitle": "Wildest Dreams",
+		"artist": "SAGA",
+		"price": 20
 	},
 	{
 		"albumTitle": "1996",
@@ -12545,6 +12750,11 @@
 		"artist": "SAVAGE GARDEN"
 	},
 	{
+		"albumTitle": "Savage Garden (2CD)",
+		"price": 10,
+		"artist": "SAVAGE GARDEN"
+	},
+	{
 		"albumTitle": "Black Angel",
 		"price": 10,
 		"artist": "SAVAGE ROSE"
@@ -12555,6 +12765,11 @@
 		"artist": "SAVAGE ROSE"
 	},
 	{
+		"albumTitle": "25 (2CD)",
+		"artist": "SAVAGE ROSE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Anthology (2CD)",
 		"artist": "SAVAGE ROSE",
 		"price": 10
@@ -12563,6 +12778,11 @@
 		"albumTitle": "Dødens Triumf",
 		"artist": "SAVAGE ROSE",
 		"price": 20
+	},
+	{
+		"albumTitle": "Dødens Triumf (remastered)",
+		"artist": "SAVAGE ROSE",
+		"price": 25
 	},
 	{
 		"albumTitle": "Refugee",
@@ -12610,6 +12830,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Stemmen Fra 80'erne Vol. 2 (2CD)",
+		"artist": "SCHUMACHER, KIM",
+		"price": 10
+	},
+	{
 		"albumTitle": "Scissor Sisters",
 		"price": 10,
 		"artist": "SCISSOR SISTERS"
@@ -12618,6 +12843,11 @@
 		"albumTitle": "Live At Woodstock",
 		"artist": "SCOOTERS, THE",
 		"price": 15
+	},
+	{
+		"albumTitle": "Best",
+		"price": 10,
+		"artist": "SCORPIONS"
 	},
 	{
 		"albumTitle": "Crazy World",
@@ -12645,6 +12875,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Hurricane Rock",
+		"artist": "SCORPIONS",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Script",
 		"price": 10,
 		"artist": "SCRIPT, THE"
@@ -12660,14 +12895,29 @@
 		"artist": "SEAL"
 	},
 	{
+		"albumTitle": "Dejavu",
+		"price": 10,
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger"
+	},
+	{
 		"albumTitle": "Den Danske Sang, Opsamling 1981-85",
 		"price": 10,
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger"
 	},
 	{
+		"albumTitle": "80'ernes Boheme",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
+	},
+	{
 		"albumTitle": "Det Gode Menneske Fra Sezuan",
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
 		"price": 20
+	},
+	{
+		"albumTitle": "Her Er En Sang Volume 2",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
 	},
 	{
 		"albumTitle": "Miraklernes Tid",
@@ -12725,9 +12975,24 @@
 		"artist": "SEEBACH, RASMUS"
 	},
 	{
+		"albumTitle": "Det Bedste Med Tommy Seebach",
+		"artist": "SEEBACH, TOMMY",
+		"price": 20
+	},
+	{
 		"albumTitle": "Hip Hurra (2CD)",
 		"artist": "SEEBACH, TOMMY",
 		"price": 15
+	},
+	{
+		"albumTitle": "The Very Best Of",
+		"artist": "SEEKERS, THE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Selvmord",
+		"artist": "SELVMORD",
+		"price": 10
 	},
 	{
 		"albumTitle": "Where Are my Shoes",
@@ -12738,6 +13003,11 @@
 		"albumTitle": "Shadow King",
 		"price": 10,
 		"artist": "SHADOW KING"
+	},
+	{
+		"albumTitle": "The Final Tour",
+		"price": 10,
+		"artist": "SHADOWS, THE"
 	},
 	{
 		"albumTitle": "The Coolest Shakatak Cuts",
@@ -12930,6 +13200,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "40 Års Jubilæum, De 40 Største Hits (2CD)",
+		"artist": "SHU-BI-DUA",
+		"price": 10
+	},
+	{
 		"albumTitle": "Aftenstemning",
 		"price": 10,
 		"artist": "SIEL, LENE"
@@ -13015,6 +13290,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Celebration",
+		"price": 10,
+		"artist": "SIMPLE MINDS"
+	},
+	{
 		"albumTitle": "Glittering Prize",
 		"price": 10,
 		"artist": "SIMPLE MINDS"
@@ -13063,6 +13343,11 @@
 		"albumTitle": "Men And Women",
 		"price": 10,
 		"artist": "SIMPLY RED"
+	},
+	{
+		"albumTitle": "De Ti Skud",
+		"price": 10,
+		"artist": "SIMPSON, MIKAEL"
 	},
 	{
 		"albumTitle": "Slår Skår",
@@ -13185,6 +13470,11 @@
 		"artist": "SKID ROW"
 	},
 	{
+		"albumTitle": "The Collection",
+		"artist": "SKIFS, BJÖRN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Collide",
 		"artist": "SKILLET",
 		"price": 10
@@ -13250,6 +13540,11 @@
 		"artist": "SKUNK ANANSIE"
 	},
 	{
+		"albumTitle": "Stoosh",
+		"price": 10,
+		"artist": "SKUNK ANANSIE"
+	},
+	{
 		"albumTitle": "Vol. 1",
 		"price": 10,
 		"artist": "SKY"
@@ -13286,6 +13581,11 @@
 	},
 	{
 		"albumTitle": "Stick It To Ya",
+		"price": 10,
+		"artist": "SLAUGHTER"
+	},
+	{
+		"albumTitle": "The Wild Life",
 		"price": 10,
 		"artist": "SLAUGHTER"
 	},
@@ -13405,6 +13705,11 @@
 		"artist": "SNEAKERS"
 	},
 	{
+		"albumTitle": "Tag Med Mig (NY i folie)",
+		"artist": "SNEAKERS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Totale (4CD)",
 		"artist": "SNEAKERS",
 		"price": 10
@@ -13420,6 +13725,11 @@
 		"artist": "SNOW"
 	},
 	{
+		"albumTitle": "Up To Now, The Best Of (2CD)",
+		"price": 10,
+		"artist": "SNOW PATROL"
+	},
+	{
 		"albumTitle": "På Den Anden Side",
 		"price": 10,
 		"artist": "SOMMER, PETER"
@@ -13431,6 +13741,11 @@
 	},
 	{
 		"albumTitle": "Glamourpuss",
+		"price": 10,
+		"artist": "SORT SOL"
+	},
+	{
+		"albumTitle": "Snakecharmer",
 		"price": 10,
 		"artist": "SORT SOL"
 	},
@@ -13451,6 +13766,11 @@
 	},
 	{
 		"albumTitle": "Time Is Running Out",
+		"price": 10,
+		"artist": "SOUND OF SEDUCTION"
+	},
+	{
+		"albumTitle": "Welcome",
 		"price": 10,
 		"artist": "SOUND OF SEDUCTION"
 	},
@@ -13550,6 +13870,16 @@
 		"artist": "SPEARS, BRITHEY"
 	},
 	{
+		"albumTitle": "In The Zone",
+		"price": 10,
+		"artist": "SPEARS, BRITHEY"
+	},
+	{
+		"albumTitle": "My Prerogative, Greatest Hits (2CD)",
+		"price": 10,
+		"artist": "SPEARS, BRITHEY"
+	},
+	{
 		"albumTitle": "Oops.. I Did It Again",
 		"price": 10,
 		"artist": "SPEARS, BRITHEY"
@@ -13581,6 +13911,11 @@
 	},
 	{
 		"albumTitle": "Pocket Full Of Kryptonite",
+		"price": 10,
+		"artist": "SPIN DOCTORS"
+	},
+	{
+		"albumTitle": "Turn It Upside Down",
 		"price": 10,
 		"artist": "SPIN DOCTORS"
 	},
@@ -16741,6 +17076,11 @@
 	},
 	{
 		"albumTitle": "Reklame Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Reservoir Dogs",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
