@@ -770,6 +770,11 @@
 		"artist": "BAMSE"
 	},
 	{
+		"albumTitle": "Bamse Live II",
+		"price": 10,
+		"artist": "BAMSE"
+	},
+	{
 		"albumTitle": "Be My Guest",
 		"price": 10,
 		"artist": "BAMSE"
@@ -6351,6 +6356,11 @@
 	},
 	{
 		"albumTitle": "San Francisco Days",
+		"price": 10,
+		"artist": "ISAAK, CHRIS"
+	},
+	{
+		"albumTitle": "Wicked Game",
 		"price": 10,
 		"artist": "ISAAK, CHRIS"
 	},
@@ -12831,6 +12841,11 @@
 	},
 	{
 		"albumTitle": "Scissor Sisters",
+		"price": 10,
+		"artist": "SCISSOR SISTERS"
+	},
+	{
+		"albumTitle": "Ta-Dah",
 		"price": 10,
 		"artist": "SCISSOR SISTERS"
 	},
