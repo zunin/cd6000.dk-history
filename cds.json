@@ -145,7 +145,7 @@
 		"artist": "ADAMS, BRYAN"
 	},
 	{
-		"albumTitle": "So Far So GooD",
+		"albumTitle": "So Far So Good",
 		"price": 10,
 		"artist": "ADAMS, BRYAN"
 	},
@@ -3793,6 +3793,16 @@
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "DR. HOOK & THE MEDICINE SHOW"
+	},
+	{
+		"albumTitle": "Drengene Fra Angora",
+		"artist": "DRENGENE FRA ANGORA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Angora By Night",
+		"artist": "DRENGENE FRA ANGORA",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Drifters",
@@ -10830,9 +10840,9 @@
 		"artist": "OYSTERBAND"
 	},
 	{
-		"albumTitle": "Jennifer Page",
+		"albumTitle": "Jennifer Paige",
 		"price": 10,
-		"artist": "PAGE, JENNIFER"
+		"artist": "PAIGE, JENNIFER"
 	},
 	{
 		"albumTitle": "Positively Somewhere",
