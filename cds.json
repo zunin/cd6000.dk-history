@@ -3500,6 +3500,11 @@
 		"artist": "DIRE STRAITS"
 	},
 	{
+		"albumTitle": "Dire Straits (remastered)",
+		"price": 10,
+		"artist": "DIRE STRAITS"
+	},
+	{
 		"albumTitle": "Love Over Gold",
 		"price": 10,
 		"artist": "DIRE STRAITS"
@@ -4233,6 +4238,11 @@
 		"albumTitle": "Watermark",
 		"price": 10,
 		"artist": "ENYA"
+	},
+	{
+		"albumTitle": "Era 1",
+		"price": 10,
+		"artist": "ERA"
 	},
 	{
 		"albumTitle": "Erann",
@@ -6456,6 +6466,11 @@
 	},
 	{
 		"albumTitle": "The Essential Michael Jackson (2CD)",
+		"price": 10,
+		"artist": "JACKSON, MICHAEL"
+	},
+	{
+		"albumTitle": "This Is It (2CD 'bog')",
 		"price": 10,
 		"artist": "JACKSON, MICHAEL"
 	},
@@ -8785,6 +8800,11 @@
 		"artist": "MANI SPINX"
 	},
 	{
+		"albumTitle": "Know Your Enemy",
+		"price": 10,
+		"artist": "MANIC STREET PREACHERS"
+	},
+	{
 		"albumTitle": "Send Away The Tigers",
 		"price": 10,
 		"artist": "MANIC STREET PREACHERS"
@@ -9915,6 +9935,11 @@
 		"artist": "MRAZ, JASON"
 	},
 	{
+		"albumTitle": "2nd Base",
+		"price": 10,
+		"artist": "MS MUKUPA"
+	},
+	{
 		"albumTitle": "Mukupas Law (NY i folie)",
 		"price": 10,
 		"artist": "MS MUKUPA"
@@ -9933,11 +9958,6 @@
 		"albumTitle": "Kingdom Come",
 		"price": 10,
 		"artist": "MUHL, LARS & MOONJAM"
-	},
-	{
-		"albumTitle": "2nd Base",
-		"price": 10,
-		"artist": "MUKUPA"
 	},
 	{
 		"albumTitle": "Babel",
@@ -9971,6 +9991,11 @@
 	},
 	{
 		"albumTitle": "Black Holes And Revelations",
+		"price": 10,
+		"artist": "MUSE"
+	},
+	{
+		"albumTitle": "Hullabaloo Soundtrack",
 		"price": 10,
 		"artist": "MUSE"
 	},
@@ -13115,7 +13140,7 @@
 		"artist": "SHOWADDYWADDY"
 	},
 	{
-		"albumTitle": "2",
+		"albumTitle": "1",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
