@@ -9590,11 +9590,6 @@
 		"artist": "MODERN TALKING"
 	},
 	{
-		"albumTitle": "The Very Best Of",
-		"price": 10,
-		"artist": "MODERN TALKING"
-	},
-	{
 		"albumTitle": "Who Love Bad News",
 		"price": 10,
 		"artist": "MODEST MOUSE"
@@ -10448,16 +10443,6 @@
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
-	},
-	{
-		"albumTitle": "No Doubt",
-		"price": 10,
-		"artist": "NO DOUBT"
-	},
-	{
-		"albumTitle": "Return Of Saturn",
-		"price": 10,
-		"artist": "NO DOUBT"
 	},
 	{
 		"albumTitle": "Rock Steady",
@@ -13045,11 +13030,6 @@
 		"artist": "SHADOW KING"
 	},
 	{
-		"albumTitle": "The Final Tour",
-		"price": 10,
-		"artist": "SHADOWS, THE"
-	},
-	{
 		"albumTitle": "The Coolest Shakatak Cuts",
 		"price": 10,
 		"artist": "SHAKATACK"
@@ -14025,6 +14005,21 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Live 1975-1985 1",
+		"artist": "SPRINGSTEEN, BRUCE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Live 1975-1985 2",
+		"artist": "SPRINGSTEEN, BRUCE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Live 1975-1985 3",
+		"artist": "SPRINGSTEEN, BRUCE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "SPRINGSTEEN, BRUCE & THE E-STREET BAND"
@@ -14060,9 +14055,19 @@
 		"artist": "STARR, RINGO"
 	},
 	{
+		"albumTitle": "The Very Best Of",
+		"price": 10,
+		"artist": "STARS ON 45"
+	},
+	{
 		"albumTitle": "Love Is Here",
 		"price": 10,
 		"artist": "STARSAILOR"
+	},
+	{
+		"albumTitle": "Love Among The Cannibals",
+		"artist": "STARSHIP",
+		"price": 10
 	},
 	{
 		"albumTitle": "We Build This City, The Very Best Of",
@@ -14205,6 +14210,11 @@
 		"artist": "STEWART, ROD"
 	},
 	{
+		"albumTitle": "Thanks For The Memory",
+		"price": 10,
+		"artist": "STEWART, ROD"
+	},
+	{
 		"albumTitle": "Vagabond Heart",
 		"price": 10,
 		"artist": "STEWART, ROD"
@@ -14221,6 +14231,11 @@
 	},
 	{
 		"albumTitle": "Curtis Stigers",
+		"price": 10,
+		"artist": "STIGERS, CURTIS"
+	},
+	{
+		"albumTitle": "Real Emotional",
 		"price": 10,
 		"artist": "STIGERS, CURTIS"
 	},
@@ -14300,6 +14315,11 @@
 		"price": 30
 	},
 	{
+		"albumTitle": "Where The Storm Meets The Ground",
+		"price": 10,
+		"artist": "STORM, THE"
+	},
+	{
 		"albumTitle": "Collection",
 		"price": 10,
 		"artist": "STRANGLERS, THE"
@@ -14310,7 +14330,12 @@
 		"artist": "STREETS, THE"
 	},
 	{
-		"albumTitle": "A Grand Don't Come For Free/Original Pirate Material (2CD)",
+		"albumTitle": "A Grand Don't Come For Free/Original",
+		"price": 10,
+		"artist": "STREETS, THE"
+	},
+	{
+		"albumTitle": "Pirate Material (2CD)",
 		"price": 10,
 		"artist": "STREETS, THE"
 	},
@@ -14331,6 +14356,11 @@
 	},
 	{
 		"albumTitle": "Back To Broadway",
+		"price": 10,
+		"artist": "STREISAND, BARBARA"
+	},
+	{
+		"albumTitle": "Duets",
 		"price": 10,
 		"artist": "STREISAND, BARBARA"
 	},
@@ -14430,7 +14460,12 @@
 		"artist": "SUEDE"
 	},
 	{
-		"albumTitle": "Sci-Fi Lullabies (2CD)",
+		"albumTitle": "Sci-Fi Lullabies (2CD=",
+		"price": 10,
+		"artist": "SUEDE"
+	},
+	{
+		"albumTitle": "Singles",
 		"price": 10,
 		"artist": "SUEDE"
 	},
@@ -14438,6 +14473,11 @@
 		"albumTitle": "Suede",
 		"price": 10,
 		"artist": "SUEDE"
+	},
+	{
+		"albumTitle": "One Touch",
+		"price": 10,
+		"artist": "SUGARBABES"
 	},
 	{
 		"albumTitle": "Three",
@@ -14478,6 +14518,16 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "SUPREMES, THE"
+	},
+	{
+		"albumTitle": "Greatest Hits",
+		"artist": "SURVIVOR",
+		"price": 10
+	},
+	{
+		"albumTitle": "Inkl. Chris & Chokoladefabrikken",
+		"price": 10,
+		"artist": "SVEDBANKEN"
 	},
 	{
 		"albumTitle": "Fragments",
@@ -14545,6 +14595,11 @@
 		"artist": "SWEETHEARTS"
 	},
 	{
+		"albumTitle": "Fearless",
+		"price": 10,
+		"artist": "SWFT, TAYLOR"
+	},
+	{
 		"albumTitle": "The Living Return (2CD)",
 		"price": 10,
 		"artist": "SWING OUT SISTER"
@@ -14568,6 +14623,11 @@
 		"albumTitle": "Mandagsramasjang",
 		"price": 10,
 		"artist": "SYLVESTER"
+	},
+	{
+		"albumTitle": "Små Synder",
+		"artist": "SYLVESTER",
+		"price": 10
 	},
 	{
 		"albumTitle": "Con Amor",
@@ -14645,6 +14705,16 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Tame & Maffay",
+		"artist": "TAME & MAFFAY",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Best Of",
+		"artist": "TASTE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Greatest Hits (1976)",
 		"artist": "TAYLOR, JAMES",
 		"price": 10
@@ -14688,6 +14758,11 @@
 		"albumTitle": "This Is How You Fall In Love",
 		"price": 10,
 		"artist": "TESCHL, MICHAEL"
+	},
+	{
+		"albumTitle": "Psychotic Supper",
+		"price": 10,
+		"artist": "TESLA"
 	},
 	{
 		"albumTitle": "Careful What You Wish For",
@@ -14768,6 +14843,11 @@
 		"albumTitle": "Live And Dangerous",
 		"artist": "THIN LIZZY",
 		"price": 20
+	},
+	{
+		"albumTitle": "Blue",
+		"price": 10,
+		"artist": "THIRD EYE BLIND"
 	},
 	{
 		"albumTitle": "Third Eye Blind",
@@ -14855,6 +14935,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Er Der Mere Citronmåne, Dr. Bonhår?",
+		"price": 10,
+		"artist": "TJENESTEN PÅ P3"
+	},
+	{
 		"albumTitle": "Schrei So Laut Du Kannst",
 		"price": 10,
 		"artist": "TOKIO HOTEL"
@@ -14895,6 +14980,11 @@
 		"artist": "TOTO"
 	},
 	{
+		"albumTitle": "Tambu",
+		"price": 10,
+		"artist": "TOTO"
+	},
+	{
 		"albumTitle": "The Seventh One",
 		"price": 10,
 		"artist": "TOTO"
@@ -14905,9 +14995,19 @@
 		"artist": "TOTO"
 	},
 	{
+		"albumTitle": "XX 1977-1997",
+		"price": 10,
+		"artist": "TOTO"
+	},
+	{
 		"albumTitle": "Monster On A Leach",
 		"artist": "TOWER OF POWER",
 		"price": 10
+	},
+	{
+		"albumTitle": "ToyRide",
+		"price": 10,
+		"artist": "TOY BOX"
 	},
 	{
 		"albumTitle": "One Of These Days",
@@ -14950,7 +15050,17 @@
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
 	{
+		"albumTitle": "De Bedste",
+		"price": 10,
+		"artist": "TRIER, TROELS & REBECCA BRÜEL"
+	},
+	{
 		"albumTitle": "Stardust Bodega",
+		"price": 10,
+		"artist": "TRIER, TROELS & REBECCA BRÜEL"
+	},
+	{
+		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
@@ -14958,6 +15068,11 @@
 		"albumTitle": "The Real Trille Hits",
 		"artist": "TRILLE",
 		"price": 40
+	},
+	{
+		"albumTitle": "Viser For Folk Og...",
+		"artist": "TRILLE & FROVE VEDDINGE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Blow That Flute (Bitch)",
@@ -15016,6 +15131,21 @@
 	},
 	{
 		"albumTitle": "Live In Europe (2CD)",
+		"price": 10,
+		"artist": "TURNER, TINA"
+	},
+	{
+		"albumTitle": "Private Dancer, Live In Chicago",
+		"price": 10,
+		"artist": "TURNER, TINA"
+	},
+	{
+		"albumTitle": "Sings Country",
+		"price": 10,
+		"artist": "TURNER, TINA"
+	},
+	{
+		"albumTitle": "Twenty Four Seven",
 		"price": 10,
 		"artist": "TURNER, TINA"
 	},
@@ -15110,7 +15240,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Fantastiske Toyota",
+		"artist": "TV-2",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hits (2CD+DVD boks",
+		"artist": "TV-2",
+		"price": 10
+	},
+	{
+		"albumTitle": "Nutidens Unge",
 		"artist": "TV-2",
 		"price": 10
 	},
@@ -15160,6 +15300,11 @@
 		"artist": "TYLER, BONNIE"
 	},
 	{
+		"albumTitle": "Super Hits",
+		"price": 10,
+		"artist": "TYLER, BONNIE"
+	},
+	{
 		"albumTitle": "The Best",
 		"price": 10,
 		"artist": "TYLER, BONNIE"
@@ -15175,6 +15320,11 @@
 		"artist": "TYLER, BONNIE"
 	},
 	{
+		"albumTitle": "Bloody Kisses",
+		"artist": "TYPE O NEGATIVE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Vi Sparker Røv",
 		"price": 10,
 		"artist": "TÆSKEHOLDET"
@@ -15183,6 +15333,21 @@
 		"albumTitle": "Det Bedste",
 		"price": 10,
 		"artist": "TØSEDRENGENE"
+	},
+	{
+		"albumTitle": "Pas På Dine Blå Øjne",
+		"price": 10,
+		"artist": "TØSEDRENGENE"
+	},
+	{
+		"albumTitle": "Indianer",
+		"price": 10,
+		"artist": "TØSEDRENGENE"
+	},
+	{
+		"albumTitle": "3",
+		"artist": "TØSEDRENGENE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Alle Vore Håb",
@@ -15385,6 +15550,11 @@
 		"artist": "VAN MORRISON"
 	},
 	{
+		"albumTitle": "What's Wrong With This Picture?",
+		"price": 10,
+		"artist": "VAN MORRISON"
+	},
+	{
 		"albumTitle": "Goodbye Baby",
 		"artist": "VAN MORRISON",
 		"price": 10
@@ -15445,7 +15615,17 @@
 		"artist": "VAYA CON DIOS"
 	},
 	{
+		"albumTitle": "Nine Objects Of Desire",
+		"price": 10,
+		"artist": "VEGA, SUZANNE"
+	},
+	{
 		"albumTitle": "Solitude Standing",
+		"price": 10,
+		"artist": "VEGA, SUZANNE"
+	},
+	{
+		"albumTitle": "Suzanne Vega",
 		"price": 10,
 		"artist": "VEGA, SUZANNE"
 	},
@@ -15490,6 +15670,11 @@
 		"artist": "VESTRE JAZZVÆRK"
 	},
 	{
+		"albumTitle": "Riverboat Shuffle",
+		"price": 10,
+		"artist": "VESTRE JAZZVÆRK"
+	},
+	{
 		"albumTitle": "Vestre Jazzværk I Jazzsmedien",
 		"price": 10,
 		"artist": "VESTRE JAZZVÆRK"
@@ -15515,7 +15700,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Born On A Red Star",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
 		"albumTitle": "Turn To You",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Under The Moon",
 		"artist": "VISKINDE, PETER",
 		"price": 10
 	},
@@ -15548,6 +15743,11 @@
 		"albumTitle": "The Strength / The Sound / The Songs",
 		"price": 10,
 		"artist": "VOLBEAT"
+	},
+	{
+		"albumTitle": "Beyond Hell Above Heaven (CD+DVD)",
+		"artist": "VOLBEAT",
+		"price": 30
 	},
 	{
 		"albumTitle": "Behind The Gardens, Behind The Wall...",
@@ -15593,6 +15793,11 @@
 		"albumTitle": "Du Ved Det",
 		"price": 10,
 		"artist": "WAFANDE"
+	},
+	{
+		"albumTitle": "Tief Im Süden Meines Herzens",
+		"price": 10,
+		"artist": "WAGGESHAUSEN, STEFAN"
 	},
 	{
 		"albumTitle": "Universe Outside This World",
@@ -15755,7 +15960,22 @@
 		"artist": "WESTERNHAGEN"
 	},
 	{
+		"albumTitle": "Live (2CD)",
+		"price": 10,
+		"artist": "WESTERNHAGEN"
+	},
+	{
+		"albumTitle": "Radio Maria",
+		"price": 10,
+		"artist": "WESTERNHAGEN"
+	},
+	{
 		"albumTitle": "..Allow Us To Be Frank",
+		"price": 10,
+		"artist": "WESTLIFE"
+	},
+	{
+		"albumTitle": "Face To Face",
 		"price": 10,
 		"artist": "WESTLIFE"
 	},
@@ -15803,6 +16023,11 @@
 		"albumTitle": "The Ultimate Collection",
 		"price": 10,
 		"artist": "WHITE, BARRY"
+	},
+	{
+		"albumTitle": "Mane Attraction",
+		"artist": "WHITE LION",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Real Deal",
@@ -15980,12 +16205,22 @@
 		"artist": "WINDING, KASPER"
 	},
 	{
+		"albumTitle": "No. 6",
+		"price": 10,
+		"artist": "WINDING, KASPER"
+	},
+	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "WINDING, KASPER"
 	},
 	{
 		"albumTitle": "Uno Deux Drei Four",
+		"price": 10,
+		"artist": "WINDING, KASPER"
+	},
+	{
+		"albumTitle": "Vibe-O-Gram",
 		"price": 10,
 		"artist": "WINDING, KASPER"
 	},
@@ -16075,6 +16310,11 @@
 		"artist": "KITTY WU"
 	},
 	{
+		"albumTitle": "Hvis Jeg Skrev Dig En Sang",
+		"price": 10,
+		"artist": "XANDER"
+	},
+	{
 		"albumTitle": "Over Skyer Under Vand",
 		"price": 10,
 		"artist": "XANDER"
@@ -16103,6 +16343,11 @@
 		"albumTitle": "Wanted",
 		"price": 10,
 		"artist": "YAZZ"
+	},
+	{
+		"albumTitle": "Fever To Tell",
+		"price": 10,
+		"artist": "YEAH YEAH YEAHS"
 	},
 	{
 		"albumTitle": "Everybody Knows",
@@ -16220,6 +16465,11 @@
 		"artist": "YOUNGBLOOD, SYDNEY"
 	},
 	{
+		"albumTitle": "What Does Fish Is..?",
+		"artist": "ZAPP ZAPP",
+		"price": 10
+	},
+	{
 		"albumTitle": "Sheik Yerbouti",
 		"artist": "ZAPPA, FRANK",
 		"price": 15
@@ -16278,6 +16528,21 @@
 		"albumTitle": "Recycler",
 		"price": 10,
 		"artist": "ZZ Top"
+	},
+	{
+		"albumTitle": "Antenna",
+		"artist": "ZZ Top",
+		"price": 10
+	},
+	{
+		"albumTitle": "13",
+		"artist": "DIE ÄRZTE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Jazz Ist Anders",
+		"artist": "DIE ÄRZTE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Rock 'N' Roll Realschule",
@@ -16350,8 +16615,18 @@
 		"artist": "10.000 MANIACS"
 	},
 	{
+		"albumTitle": "Our Time In Eden",
+		"price": 10,
+		"artist": "10.000 MANIACS"
+	},
+	{
 		"albumTitle": "Alle Børnene",
 		"artist": "2 X KAJ",
+		"price": 10
+	},
+	{
+		"albumTitle": "Get Ready!",
+		"artist": "2 UNLIMITED",
 		"price": 10
 	},
 	{
@@ -16600,11 +16875,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Alle Tiders Danske Hits 2 (3CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Alle Tiders For Fuld Jul (3CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -16635,6 +16905,11 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
+		"albumTitle": "California Dreaming (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
 		"albumTitle": "Capitol Country Music Classics 1970",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -16651,6 +16926,11 @@
 	},
 	{
 		"albumTitle": "Careless Whisper Vol. 3 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Chess (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -16685,17 +16965,17 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
+		"albumTitle": "Dansk Jul (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
 		"albumTitle": "Dansk Melodi Grand Prix 2002",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
 		"albumTitle": "Dansk Melodi Grand Prix 2007",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Dansk Pop I Top (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -16965,6 +17245,11 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
+		"albumTitle": "Live 'N' Kickin', Greatest Rock Tracks Ever",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
 		"albumTitle": "Magi i Luften 1",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17016,6 +17301,11 @@
 	},
 	{
 		"albumTitle": "Most Wanted Rock 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Moulin Rouge",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -17086,6 +17376,11 @@
 	},
 	{
 		"albumTitle": "NOW Summer 2003 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "NOW That's What I Call Christmas (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -17593,5 +17888,10 @@
 		"albumTitle": "Woodstock '94 (2CD)",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 20
+	},
+	{
+		"albumTitle": "Åh Abe! De Bedste (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
 	}
 ]
