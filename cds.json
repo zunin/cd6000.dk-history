@@ -6585,11 +6585,6 @@
 		"artist": "JENNINGS, WAYLON"
 	},
 	{
-		"albumTitle": "A Jethro Tull Collection",
-		"price": 10,
-		"artist": "JETHRO TULL"
-	},
-	{
 		"albumTitle": "Spirit",
 		"price": 10,
 		"artist": "JEWEL"
@@ -9135,11 +9130,6 @@
 		"artist": "ME & MY"
 	},
 	{
-		"albumTitle": "Couldn't Have Said It Better",
-		"price": 10,
-		"artist": "MEAT LOAF"
-	},
-	{
 		"albumTitle": "Hits Out Of Hell",
 		"price": 10,
 		"artist": "MEAT LOAF"
@@ -10430,16 +10420,6 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
-		"albumTitle": "In Utero",
-		"price": 10,
-		"artist": "NIRVANA"
-	},
-	{
-		"albumTitle": "Nevermind",
-		"price": 10,
-		"artist": "NIRVANA"
-	},
-	{
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
@@ -11225,11 +11205,6 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
-		"albumTitle": "It's Christmas Time",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
 		"albumTitle": "That's Allright Mama",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
@@ -11715,17 +11690,7 @@
 		"artist": "REA, CHRIS"
 	},
 	{
-		"albumTitle": "God's Great Banana Skin",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
 		"albumTitle": "The Best Of",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
-		"albumTitle": "The Platinum Collection",
 		"price": 10,
 		"artist": "REA, CHRIS"
 	},
@@ -12655,42 +12620,27 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Gimme Gimme",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "In The House Of Secrets",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "Live",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "Shine",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "Sleepyhead",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "Western Blood",
-		"artist": "SANDMEN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Our Version Of Events (NY i folie)",
 		"price": 10,
 		"artist": "SANDÉ, EMELI"
 	},
 	{
+		"albumTitle": "Gimme Gimme",
+		"price": 10,
+		"artist": "SANDMEN, THE"
+	},
+	{
 		"albumTitle": "In The House Of Secrets",
+		"price": 10,
+		"artist": "SANDMEN, THE"
+	},
+	{
+		"albumTitle": "Live",
+		"price": 10,
+		"artist": "SANDMEN, THE"
+	},
+	{
+		"albumTitle": "Shine",
 		"price": 10,
 		"artist": "SANDMEN, THE"
 	},
@@ -12703,11 +12653,6 @@
 		"albumTitle": "Western Blood",
 		"price": 10,
 		"artist": "SANDMEN, THE"
-	},
-	{
-		"albumTitle": "White Trash/Red Front",
-		"artist": "SANDMEN, THE",
-		"price": 10
 	},
 	{
 		"albumTitle": "Analog",
@@ -13800,11 +13745,6 @@
 		"artist": "SOUNDGARDEN"
 	},
 	{
-		"albumTitle": "Louder Than Love",
-		"price": 10,
-		"artist": "SOUNDGARDEN"
-	},
-	{
 		"albumTitle": "Ultramega OK",
 		"price": 10,
 		"artist": "SOUNDGARDEN"
@@ -14313,11 +14253,6 @@
 		"albumTitle": "The BBC Sessions Volume 2 1971-72",
 		"artist": "STONE THE CROWS",
 		"price": 30
-	},
-	{
-		"albumTitle": "Where The Storm Meets The Ground",
-		"price": 10,
-		"artist": "STORM, THE"
 	},
 	{
 		"albumTitle": "Collection",
@@ -15345,11 +15280,6 @@
 		"artist": "TØSEDRENGENE"
 	},
 	{
-		"albumTitle": "3",
-		"artist": "TØSEDRENGENE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Alle Vore Håb",
 		"artist": "TØSEDRENGENE",
 		"price": 10
@@ -15975,11 +15905,6 @@
 		"artist": "WESTLIFE"
 	},
 	{
-		"albumTitle": "Face To Face",
-		"price": 10,
-		"artist": "WESTLIFE"
-	},
-	{
 		"albumTitle": "The Greatest Hits",
 		"price": 10,
 		"artist": "WESTLIFE"
@@ -16390,11 +16315,6 @@
 		"artist": "YOUNG COMETS"
 	},
 	{
-		"albumTitle": "Freedom",
-		"price": 10,
-		"artist": "YOUNG, NEIL"
-	},
-	{
 		"albumTitle": "Harvest",
 		"price": 10,
 		"artist": "YOUNG, NEIL"
@@ -16415,17 +16335,7 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Rust Never Sleeps",
-		"artist": "YOUNG, NEIL",
-		"price": 20
-	},
-	{
 		"albumTitle": "Sleeps With Angels",
-		"artist": "YOUNG, NEIL",
-		"price": 10
-	},
-	{
-		"albumTitle": "Tonight's The Night",
 		"artist": "YOUNG, NEIL",
 		"price": 10
 	},
