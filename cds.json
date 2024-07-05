@@ -8180,6 +8180,11 @@
 		"artist": "LIMP BIZKIT"
 	},
 	{
+		"albumTitle": "Results May Vary",
+		"price": 10,
+		"artist": "LIMP BIZKIT"
+	},
+	{
 		"albumTitle": "I Will Follow",
 		"price": 10,
 		"artist": "LIND, SEBASTIAN"
@@ -8771,6 +8776,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits, 20 Great Songs Of Peace",
+		"price": 10,
+		"artist": "THE MAMAS & THE PAPAS"
+	},
+	{
+		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "THE MAMAS & THE PAPAS"
 	},
@@ -9570,6 +9580,11 @@
 		"artist": "MO, LAURA"
 	},
 	{
+		"albumTitle": "Alone",
+		"price": 10,
+		"artist": "MODERN TALKING"
+	},
+	{
 		"albumTitle": "Back For Good",
 		"price": 10,
 		"artist": "MODERN TALKING"
@@ -10236,6 +10251,11 @@
 	},
 	{
 		"albumTitle": "The Best Of (Starnice)",
+		"price": 10,
+		"artist": "NEWTON-JOHN, OLIVIA"
+	},
+	{
+		"albumTitle": "The Definitve Collection",
 		"price": 10,
 		"artist": "NEWTON-JOHN, OLIVIA"
 	},
@@ -11288,6 +11308,11 @@
 		"albumTitle": "Love Symbol",
 		"price": 10,
 		"artist": "PRINCE & THE NEW POWER GENERATION"
+	},
+	{
+		"albumTitle": "Purple Rain",
+		"price": 10,
+		"artist": "PRINCE & THE REVOLUTION"
 	},
 	{
 		"albumTitle": "My Secret Lover",
@@ -15015,6 +15040,11 @@
 		"artist": "TRIO VAN GOGH"
 	},
 	{
+		"albumTitle": "Wild Thing",
+		"price": 10,
+		"artist": "TROGGS, THE"
+	},
+	{
 		"albumTitle": "Plugged",
 		"price": 10,
 		"artist": "TROUBLE CATS, THE"
@@ -16440,11 +16470,6 @@
 		"artist": "ZZ Top"
 	},
 	{
-		"albumTitle": "Antenna",
-		"artist": "ZZ Top",
-		"price": 10
-	},
-	{
 		"albumTitle": "13",
 		"artist": "DIE ÄRZTE",
 		"price": 10
@@ -16532,11 +16557,6 @@
 	{
 		"albumTitle": "Alle Børnene",
 		"artist": "2 X KAJ",
-		"price": 10
-	},
-	{
-		"albumTitle": "Get Ready!",
-		"artist": "2 UNLIMITED",
 		"price": 10
 	},
 	{
