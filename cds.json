@@ -2175,6 +2175,11 @@
 		"artist": "CARPENTER, MARY CHAPIN"
 	},
 	{
+		"albumTitle": "Carpenters",
+		"price": 10,
+		"artist": "CARPENTERS"
+	},
+	{
 		"albumTitle": "Love Songs",
 		"price": 10,
 		"artist": "CARPENTERS"
@@ -5885,6 +5890,11 @@
 		"artist": "HOEYMANNS, THERA"
 	},
 	{
+		"albumTitle": "Vertical",
+		"artist": "HOEYMANNS, THERA",
+		"price": 10
+	},
+	{
 		"albumTitle": "When You're A Boy",
 		"price": 10,
 		"artist": "HOFFS, SUSANNA"
@@ -6113,11 +6123,6 @@
 		"albumTitle": "Whitney",
 		"price": 10,
 		"artist": "HOUSTON, WHITNEY"
-	},
-	{
-		"albumTitle": "Vertical",
-		"artist": "HOYEMANS, THERA",
-		"price": 10
 	},
 	{
 		"albumTitle": "Blidt Over Dig",
@@ -11270,6 +11275,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Stripped",
+		"artist": "PRETTY MAIDS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Heaven Knows",
 		"price": 10,
 		"artist": "PRICE, RICK"
@@ -12901,6 +12911,11 @@
 	},
 	{
 		"albumTitle": "80'ernes Boheme",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
+	},
+	{
+		"albumTitle": "De Største Hits (2CD)",
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
 		"price": 10
 	},
@@ -15040,7 +15055,12 @@
 		"artist": "TRIO VAN GOGH"
 	},
 	{
-		"albumTitle": "Wild Thing",
+		"albumTitle": "Wild Thing (Succes)",
+		"price": 10,
+		"artist": "TROGGS, THE"
+	},
+	{
+		"albumTitle": "Wild Thing (Landmark)",
 		"price": 10,
 		"artist": "TROGGS, THE"
 	},
@@ -16202,7 +16222,7 @@
 	{
 		"albumTitle": "Refugees Of The Heart",
 		"artist": "WINWOOD, STEVE",
-		"price": 15
+		"price": 10
 	},
 	{
 		"albumTitle": "Roll With It",
