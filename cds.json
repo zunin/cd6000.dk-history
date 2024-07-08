@@ -3705,6 +3705,11 @@
 		"artist": "DONOVAN"
 	},
 	{
+		"albumTitle": "Greatest Hits",
+		"price": 10,
+		"artist": "DONOVAN"
+	},
+	{
 		"albumTitle": "Till I See You Again",
 		"price": 10,
 		"artist": "DONOVAN"
@@ -3866,6 +3871,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits 2",
+		"price": 10,
+		"artist": "DUBLINERS, THE"
+	},
+	{
+		"albumTitle": "40 Years, Live From The Gaiety (2CD)",
 		"price": 10,
 		"artist": "DUBLINERS, THE"
 	},
@@ -10173,6 +10183,11 @@
 		"albumTitle": "Live * Life * Loud",
 		"price": 10,
 		"artist": "NELSON, HAWK"
+	},
+	{
+		"albumTitle": "USADSB",
+		"artist": "NEPHEW",
+		"price": 10
 	},
 	{
 		"albumTitle": "DanmarkDenmark (CD+DVD)",
