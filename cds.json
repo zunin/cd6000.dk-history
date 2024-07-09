@@ -610,6 +610,11 @@
 		"artist": "ARTICICIAL BROTHERS"
 	},
 	{
+		"albumTitle": "Aqua",
+		"price": 10,
+		"artist": "ASIA"
+	},
+	{
 		"albumTitle": "Dancing Along With - Vol. 1",
 		"price": 10,
 		"artist": "ASMUSSEN, SVEND"
@@ -1555,6 +1560,11 @@
 		"artist": "BOLAN, MARC & T-REX"
 	},
 	{
+		"albumTitle": "At Last, Songs From The Heart",
+		"price": 10,
+		"artist": "BOLTON, MICHAEL"
+	},
+	{
 		"albumTitle": "Time, Love And Tenderness",
 		"price": 10,
 		"artist": "BOLTON, MICHAEL"
@@ -2110,6 +2120,11 @@
 		"artist": "CAREY, MARIAH"
 	},
 	{
+		"albumTitle": "The Emancipation Of Mimi",
+		"price": 10,
+		"artist": "CAREY, MARIAH"
+	},
+	{
 		"albumTitle": "Unplugged EP",
 		"price": 10,
 		"artist": "CAREY, MARIAH"
@@ -2348,6 +2363,11 @@
 		"albumTitle": "Man",
 		"price": 10,
 		"artist": "CHERRY, NENEH"
+	},
+	{
+		"albumTitle": "16",
+		"price": 10,
+		"artist": "CHICAGO"
 	},
 	{
 		"albumTitle": "18",
@@ -4641,6 +4661,11 @@
 	},
 	{
 		"albumTitle": "So Nah Wie Du",
+		"price": 10,
+		"artist": "FISCHER, HELENE"
+	},
+	{
+		"albumTitle": "So Wie Ich Bin",
 		"price": 10,
 		"artist": "FISCHER, HELENE"
 	},
@@ -9535,7 +9560,7 @@
 		"artist": "MILLTOWN BROTHERS"
 	},
 	{
-		"albumTitle": "Firday",
+		"albumTitle": "Friday",
 		"price": 10,
 		"artist": "MILTON, CHRISTINE"
 	},
@@ -12855,6 +12880,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Hormonally Yours",
+		"price": 10,
+		"artist": "SCISSOR SISTERS"
+	},
+	{
 		"albumTitle": "Scissor Sisters",
 		"price": 10,
 		"artist": "SCISSOR SISTERS"
@@ -14875,6 +14905,11 @@
 		"artist": "TIDMAND, BJØRN"
 	},
 	{
+		"albumTitle": "Acient Heart",
+		"price": 10,
+		"artist": "TIKARAM, TANITA"
+	},
+	{
 		"albumTitle": "The Sweet Keeper",
 		"price": 10,
 		"artist": "TIKARAM, TANITA"
@@ -14898,11 +14933,6 @@
 		"albumTitle": "November Light",
 		"price": 10,
 		"artist": "THE TIME"
-	},
-	{
-		"albumTitle": "Acient Heart",
-		"price": 10,
-		"artist": "TIKARAM, TANITA"
 	},
 	{
 		"albumTitle": "We Started Nothing",
@@ -15545,11 +15575,6 @@
 		"artist": "VAN MORRISON"
 	},
 	{
-		"albumTitle": "What's Wrong With This Picture?",
-		"price": 10,
-		"artist": "VAN MORRISON"
-	},
-	{
 		"albumTitle": "Goodbye Baby",
 		"artist": "VAN MORRISON",
 		"price": 10
@@ -15673,6 +15698,11 @@
 		"albumTitle": "Vestre Jazzværk I Jazzsmedien",
 		"price": 10,
 		"artist": "VESTRE JAZZVÆRK"
+	},
+	{
+		"albumTitle": "There's A Beat In All Machines",
+		"price": 10,
+		"artist": "VETO"
 	},
 	{
 		"albumTitle": "Over The Rainbow",
@@ -16435,6 +16465,11 @@
 		"artist": "YOUNG, PAUL & THE Q-TIPS"
 	},
 	{
+		"albumTitle": "Feeling Free",
+		"price": 10,
+		"artist": "YOUNGBLOOD, SYDNEY"
+	},
+	{
 		"albumTitle": "Sydney Youngblood",
 		"price": 10,
 		"artist": "YOUNGBLOOD, SYDNEY"
@@ -16483,6 +16518,11 @@
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "ZUCCHERO"
+	},
+	{
+		"albumTitle": "Eliminator",
+		"price": 10,
+		"artist": "ZZ Top"
 	},
 	{
 		"albumTitle": "Greatest Hits (1992)",
