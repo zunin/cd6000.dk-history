@@ -1,5 +1,10 @@
 [
 	{
+		"albumTitle": "A Camp",
+		"price": 10,
+		"artist": "A CAMP"
+	},
+	{
 		"albumTitle": "Headlines And Deadlines, The Hits Of",
 		"price": 10,
 		"artist": "A-HA"
@@ -85,6 +90,11 @@
 		"artist": "ABDUL, PAULA"
 	},
 	{
+		"albumTitle": "Frihed, Ret Og Tro",
+		"price": 10,
+		"artist": "ABRAHAMSEN, PETER, JANNIE LÆRKEDAHL & BELL PEPPER BOYS"
+	},
+	{
 		"albumTitle": "Blck",
 		"price": 10,
 		"artist": "ABRAHAMSEN, TROELS"
@@ -160,12 +170,22 @@
 		"artist": "ADAMS, BRYAN"
 	},
 	{
+		"albumTitle": "Easy Tiger",
+		"price": 10,
+		"artist": "ADAMS, RYAN"
+	},
+	{
 		"albumTitle": "Gold",
 		"price": 10,
 		"artist": "ADAMS, RYAN"
 	},
 	{
 		"albumTitle": "Love Is Hell",
+		"price": 10,
+		"artist": "ADAMS, RYAN"
+	},
+	{
+		"albumTitle": "Love Is Hell II",
 		"price": 10,
 		"artist": "ADAMS, RYAN"
 	},
@@ -210,9 +230,19 @@
 		"artist": "AEROSMITH"
 	},
 	{
+		"albumTitle": "Permanent Vacation",
+		"price": 10,
+		"artist": "AEROSMITH"
+	},
+	{
 		"albumTitle": "Pump",
 		"price": 10,
 		"artist": "AEROSMITH"
+	},
+	{
+		"albumTitle": "Black Love",
+		"price": 10,
+		"artist": "AFGHAN WIGS, THE"
 	},
 	{
 		"albumTitle": "Avanti cd1",
@@ -371,6 +401,11 @@
 	},
 	{
 		"albumTitle": "Alle Verdens Hjørner",
+		"price": 10,
+		"artist": "ALBERTE"
+	},
+	{
+		"albumTitle": "Brænder Sol",
 		"price": 10,
 		"artist": "ALBERTE"
 	},
@@ -735,6 +770,11 @@
 		"artist": "BACKSEAT"
 	},
 	{
+		"albumTitle": "Seasoned And Served (2CD)",
+		"artist": "BACKSEAT",
+		"price": 10
+	},
+	{
 		"albumTitle": "Backyard Babies",
 		"price": 10,
 		"artist": "BACKYARD BABIES"
@@ -808,6 +848,11 @@
 		"albumTitle": "Stand By Me",
 		"price": 10,
 		"artist": "BAMSE"
+	},
+	{
+		"albumTitle": "Tæt På (CD+DVD)",
+		"artist": "BAMSE",
+		"price": 10
 	},
 	{
 		"albumTitle": "16",
@@ -990,6 +1035,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Abbey Road",
+		"artist": "BEATLES, THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Anthology 1 (2CD)",
 		"artist": "BEATLES, THE",
 		"price": 10
@@ -1036,6 +1086,11 @@
 	},
 	{
 		"albumTitle": "Solid Bronze, Great Hits",
+		"price": 10,
+		"artist": "BEAUTIFUL SOUTH, THE"
+	},
+	{
+		"albumTitle": "Welcome To",
 		"price": 10,
 		"artist": "BEAUTIFUL SOUTH, THE"
 	},
@@ -1135,14 +1190,44 @@
 		"artist": "BELLI, PETER"
 	},
 	{
+		"albumTitle": "Talisman",
+		"price": 10,
+		"artist": "BELLI, PETER"
+	},
+	{
+		"albumTitle": "The Collection",
+		"price": 10,
+		"artist": "BELLI, PETER"
+	},
+	{
+		"albumTitle": "Ulven Peter, De 34 Største Hits",
+		"price": 10,
+		"artist": "BELLI, PETER"
+	},
+	{
 		"albumTitle": "Helt Igennem Respektabel 1959-99 (2CD)",
 		"artist": "BELLI, PETER",
 		"price": 10
 	},
 	{
+		"albumTitle": "Peter & Ulvene, Live Fra Hit House",
+		"artist": "BELLI, PETER & ULVENE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Who Calls The Tune",
+		"price": 10,
+		"artist": "BERGMAN, MARIE MAJ-BRITT KRAMER m.fl."
+	},
+	{
 		"albumTitle": "4",
 		"price": 10,
 		"artist": "BEYONCÉ"
+	},
+	{
+		"albumTitle": "Read My Lips",
+		"price": 10,
+		"artist": "BEXTOR, SOPHIE ELLIS"
 	},
 	{
 		"albumTitle": "Yeah! Yeah!, 16 Classic Tracks",
@@ -1220,7 +1305,17 @@
 		"artist": "BIG FAT SNAKE"
 	},
 	{
-		"albumTitle": "The Box (10CD) (obs : læs beskrivelsen)",
+		"albumTitle": "Midnight Hour (2CD+DVD)",
+		"artist": "BIG FAT SNAKE",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Box (10CD)",
+		"artist": "BIG FAT SNAKE",
+		"price": 10
+	},
+	{
+		"albumTitle": "(obs : læs beskrivelsen)",
 		"artist": "BIG FAT SNAKE",
 		"price": 10
 	},
@@ -1346,6 +1441,11 @@
 	},
 	{
 		"albumTitle": "No More Drama",
+		"price": 10,
+		"artist": "BLIGE, MARY J"
+	},
+	{
+		"albumTitle": "Share My World",
 		"price": 10,
 		"artist": "BLIGE, MARY J"
 	},
@@ -1535,6 +1635,11 @@
 		"artist": "BOEL, HANNE"
 	},
 	{
+		"albumTitle": "Private Eye",
+		"price": 10,
+		"artist": "BOEL, HANNE"
+	},
+	{
 		"albumTitle": "Silent Violence",
 		"price": 10,
 		"artist": "BOEL, HANNE"
@@ -1548,6 +1653,11 @@
 		"albumTitle": "Strangely Disturbed",
 		"artist": "BOEL, HANNE",
 		"price": 10
+	},
+	{
+		"albumTitle": "Torched",
+		"price": 10,
+		"artist": "BOGHANDLE"
 	},
 	{
 		"albumTitle": "The 16 Greatest Hits (Soundwings)",
@@ -1568,6 +1678,11 @@
 		"albumTitle": "Time, Love And Tenderness",
 		"price": 10,
 		"artist": "BOLTON, MICHAEL"
+	},
+	{
+		"albumTitle": "For Emma Forever Ago",
+		"price": 10,
+		"artist": "BON IVER"
 	},
 	{
 		"albumTitle": "Cross Road, The Best of Bon Jovi",
@@ -1638,6 +1753,16 @@
 		"albumTitle": "The Magic Of Boney M, The Danish Collection (2CD)",
 		"price": 10,
 		"artist": "BONEY M"
+	},
+	{
+		"albumTitle": "The Ballad Of John Henry",
+		"artist": "BONAMASSA, JOE",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Burdens Of Being Upright",
+		"price": 10,
+		"artist": "BONHAM, TRACY"
 	},
 	{
 		"albumTitle": "The History Of Bonzo",
@@ -1930,6 +2055,16 @@
 		"artist": "BURGH, CHRIS de"
 	},
 	{
+		"albumTitle": "Man On The Line",
+		"price": 10,
+		"artist": "BURGH, CHRIS de"
+	},
+	{
+		"albumTitle": "Moonfleet & Other Stories",
+		"price": 10,
+		"artist": "BURGH, CHRIS de"
+	},
+	{
 		"albumTitle": "Power Of Ten",
 		"price": 10,
 		"artist": "BURGH, CHRIS de"
@@ -1948,6 +2083,11 @@
 		"albumTitle": "The Love Songs",
 		"price": 10,
 		"artist": "BURGH, CHRIS de"
+	},
+	{
+		"albumTitle": "Eastern Wind",
+		"artist": "BURGH, CHRIS de",
+		"price": 10
 	},
 	{
 		"albumTitle": "Burhan G",
@@ -1980,6 +2120,11 @@
 		"artist": "BUSCK, KAREN"
 	},
 	{
+		"albumTitle": "Deconstructed",
+		"price": 10,
+		"artist": "BUSH"
+	},
+	{
 		"albumTitle": "The Kick Inside",
 		"artist": "BUSH, KATE",
 		"price": 10
@@ -2005,6 +2150,16 @@
 		"artist": "BUTTENSCHÖN, THOMAS"
 	},
 	{
+		"albumTitle": "Mr. Tambourine Man",
+		"price": 10,
+		"artist": "BYRDS, THE"
+	},
+	{
+		"albumTitle": "The Very Best Of",
+		"price": 10,
+		"artist": "BYRDS, THE"
+	},
+	{
 		"albumTitle": "Trip Thru Hell",
 		"artist": "C.A. QUINTET",
 		"price": 10
@@ -2022,6 +2177,11 @@
 	{
 		"albumTitle": "#8",
 		"artist": "CALE, J.J.",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Road To Escondido",
+		"artist": "CALE, J.J. & ERIC CLAPTON",
 		"price": 10
 	},
 	{
@@ -2175,7 +2335,17 @@
 		"artist": "CARPENTER, MARY CHAPIN"
 	},
 	{
+		"albumTitle": "Hometown Girl",
+		"price": 10,
+		"artist": "CARPENTER, MARY CHAPIN"
+	},
+	{
 		"albumTitle": "Party Doll And Other Favorites",
+		"price": 10,
+		"artist": "CARPENTER, MARY CHAPIN"
+	},
+	{
+		"albumTitle": "State Of The Heart",
 		"price": 10,
 		"artist": "CARPENTER, MARY CHAPIN"
 	},
@@ -2283,6 +2453,11 @@
 		"albumTitle": "You're The Inspiration",
 		"price": 10,
 		"artist": "CETERA, PETER"
+	},
+	{
+		"albumTitle": "Collection",
+		"price": 10,
+		"artist": "CHAPMAN, TRACY"
 	},
 	{
 		"albumTitle": "Crossroads",
@@ -2526,6 +2701,11 @@
 	},
 	{
 		"albumTitle": "Breakaway",
+		"price": 10,
+		"artist": "CLARKSON, KELLY"
+	},
+	{
+		"albumTitle": "My December",
 		"price": 10,
 		"artist": "CLARKSON, KELLY"
 	},
@@ -4940,6 +5120,11 @@
 		"artist": "PETER GABRIEL"
 	},
 	{
+		"albumTitle": "So",
+		"price": 10,
+		"artist": "PETER GABRIEL"
+	},
+	{
 		"albumTitle": "Us!",
 		"price": 10,
 		"artist": "PETER GABRIEL"
@@ -5536,6 +5721,11 @@
 	},
 	{
 		"albumTitle": "Fæ & Folk (2CD)",
+		"price": 10,
+		"artist": "GYLDNE LØVER, DE"
+	},
+	{
+		"albumTitle": "Hvor Mågerne Skriger, I Live I 25 År",
 		"price": 10,
 		"artist": "GYLDNE LØVER, DE"
 	},
@@ -8470,6 +8660,11 @@
 		"artist": "LOVEBITES"
 	},
 	{
+		"albumTitle": "Det Vi Sku' Miste",
+		"price": 10,
+		"artist": "LOVELESS, SHAKA"
+	},
+	{
 		"albumTitle": "Shaka Loveless",
 		"price": 10,
 		"artist": "LOVELESS, SHAKA"
@@ -9705,6 +9900,11 @@
 		"artist": "MONIQUE"
 	},
 	{
+		"albumTitle": "1991",
+		"price": 10,
+		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)"
+	},
+	{
 		"albumTitle": "Akasut Mundvand",
 		"price": 10,
 		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)"
@@ -10801,6 +11001,11 @@
 	},
 	{
 		"albumTitle": "Hvide Løgne",
+		"price": 10,
+		"artist": "ONE TWO"
+	},
+	{
+		"albumTitle": "One Two",
 		"price": 10,
 		"artist": "ONE TWO"
 	},
@@ -13155,6 +13360,11 @@
 		"artist": "SHU-BI-DUA"
 	},
 	{
+		"albumTitle": "2",
+		"price": 10,
+		"artist": "SHU-BI-DUA"
+	},
+	{
 		"albumTitle": "3",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
@@ -15440,6 +15650,11 @@
 		"artist": "U2"
 	},
 	{
+		"albumTitle": "The Best Of 1980-1990",
+		"price": 10,
+		"artist": "U2"
+	},
+	{
 		"albumTitle": "The Best Of 1980-1990 (2CD)",
 		"price": 10,
 		"artist": "U2"
@@ -17020,6 +17235,11 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1980-82 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
 		"albumTitle": "Det Bedste Af Dansk Musik 1981-83 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17461,6 +17681,11 @@
 	},
 	{
 		"albumTitle": "Sebastian's Cyrano",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sebastian's Skatteøen",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
