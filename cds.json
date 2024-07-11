@@ -40,6 +40,11 @@
 		"artist": "ABBA"
 	},
 	{
+		"albumTitle": "The Hits 2",
+		"price": 10,
+		"artist": "ABBA"
+	},
+	{
 		"albumTitle": "The Hits 3",
 		"price": 10,
 		"artist": "ABBA"
@@ -246,11 +251,6 @@
 	},
 	{
 		"albumTitle": "Avanti cd1",
-		"price": 10,
-		"artist": "AFZELIUS, BJÖRN"
-	},
-	{
-		"albumTitle": "Avanti cd2",
 		"price": 10,
 		"artist": "AFZELIUS, BJÖRN"
 	},
@@ -643,11 +643,6 @@
 		"albumTitle": "Make Our Hearts Sway",
 		"price": 10,
 		"artist": "ARTICICIAL BROTHERS"
-	},
-	{
-		"albumTitle": "Aqua",
-		"price": 10,
-		"artist": "ASIA"
 	},
 	{
 		"albumTitle": "Dancing Along With - Vol. 1",
@@ -1755,11 +1750,6 @@
 		"artist": "BONEY M"
 	},
 	{
-		"albumTitle": "The Ballad Of John Henry",
-		"artist": "BONAMASSA, JOE",
-		"price": 10
-	},
-	{
 		"albumTitle": "The Burdens Of Being Upright",
 		"price": 10,
 		"artist": "BONHAM, TRACY"
@@ -2595,6 +2585,11 @@
 		"artist": "CHRISTENSEN, TIM & THE DAMN CRYSTALS"
 	},
 	{
+		"albumTitle": "Tim Christensen & The Damn Crystals (signeret af alle)",
+		"price": 10,
+		"artist": "CHRISTENSEN, TIM & THE DAMN CRYSTALS"
+	},
+	{
 		"albumTitle": "Gold",
 		"price": 10,
 		"artist": "CHRISTIE, TONY"
@@ -3191,11 +3186,6 @@
 	},
 	{
 		"albumTitle": "Hard Candy",
-		"price": 10,
-		"artist": "CROWDED HOUSE"
-	},
-	{
-		"albumTitle": "Recurring Dream, The Very Best Of",
 		"price": 10,
 		"artist": "CROWDED HOUSE"
 	},
@@ -4890,7 +4880,12 @@
 		"artist": "FITZGERALD, ELLA & LOUIS ARMSTGRONG"
 	},
 	{
-		"albumTitle": "Greatest Hits",
+		"albumTitle": "Greatest Hits (Columbia)",
+		"price": 10,
+		"artist": "FLEETWOOD MAC"
+	},
+	{
+		"albumTitle": "Greatest Hits (Warner Bros)",
 		"price": 10,
 		"artist": "FLEETWOOD MAC"
 	},
@@ -5148,11 +5143,6 @@
 		"albumTitle": "The Right Way",
 		"price": 10,
 		"artist": "GADD, ERIC"
-	},
-	{
-		"albumTitle": "Hourglass",
-		"price": 10,
-		"artist": "GAHAN, DAVE"
 	},
 	{
 		"albumTitle": "Compendium, Greatest Hits",
@@ -5923,6 +5913,11 @@
 		"albumTitle": "See The Light",
 		"price": 10,
 		"artist": "THE JEFF HEALEY BAND"
+	},
+	{
+		"albumTitle": "The Very Best Of",
+		"artist": "THE JEFF HEALEY BAND",
+		"price": 10
 	},
 	{
 		"albumTitle": "Brigade",
@@ -9070,7 +9065,12 @@
 		"artist": "MANILOW, BARRY"
 	},
 	{
-		"albumTitle": "Ultimate Collection",
+		"albumTitle": "Ultimate Collection (BMG Music)",
+		"price": 10,
+		"artist": "MANILOW, BARRY"
+	},
+	{
+		"albumTitle": "Ultimate Collection (BMG)",
 		"price": 10,
 		"artist": "MANILOW, BARRY"
 	},
@@ -10735,6 +10735,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Live 1995",
+		"artist": "MIKKEL NORDSØ BAND",
+		"price": 10
+	},
+	{
 		"albumTitle": "Here Comes The Sun",
 		"price": 10,
 		"artist": "NORGE, KAARE"
@@ -10958,6 +10963,11 @@
 		"albumTitle": "Sange For Rygere",
 		"price": 10,
 		"artist": "OLSEN, ALLAN"
+	},
+	{
+		"albumTitle": "Onomatopoietikon",
+		"artist": "OLSEN, ALLAN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Rygter Fra Randområderne (2CD)",
@@ -11271,6 +11281,11 @@
 	},
 	{
 		"albumTitle": "PopArt (2CD)",
+		"price": 10,
+		"artist": "PET SHOP BOYS"
+	},
+	{
+		"albumTitle": "Very",
 		"price": 10,
 		"artist": "PET SHOP BOYS"
 	},
@@ -11825,9 +11840,9 @@
 		"price": 30
 	},
 	{
-		"albumTitle": "Liebe Ist Für Alle Da (lidt 'nusset')",
+		"albumTitle": "Liebe Ist Für Alle Da (2CD)",
 		"artist": "RAMMSTEIN",
-		"price": 20
+		"price": 30
 	},
 	{
 		"albumTitle": "Reise Reise",
@@ -11966,6 +11981,11 @@
 	},
 	{
 		"albumTitle": "Dancing With Strangers",
+		"price": 10,
+		"artist": "REA, CHRIS"
+	},
+	{
+		"albumTitle": "God's Great Banana Skin",
 		"price": 10,
 		"artist": "REA, CHRIS"
 	},
@@ -14400,6 +14420,11 @@
 		"artist": "STEVENS, SHAKIN' & THE SUNSETS"
 	},
 	{
+		"albumTitle": "Sugaree",
+		"price": 10,
+		"artist": "STEVENS, SHAKIN' & THE SUNSETS"
+	},
+	{
 		"albumTitle": "Greetings From The Gutter",
 		"price": 10,
 		"artist": "STEWART, DAVE"
@@ -14860,6 +14885,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Mezmerize",
+		"price": 10,
+		"artist": "SYSTEM OF A DOWN"
+	},
+	{
 		"albumTitle": "Con Amor",
 		"price": 10,
 		"artist": "SØRENSEN, LIS"
@@ -14988,11 +15018,6 @@
 		"albumTitle": "This Is How You Fall In Love",
 		"price": 10,
 		"artist": "TESCHL, MICHAEL"
-	},
-	{
-		"albumTitle": "Psychotic Supper",
-		"price": 10,
-		"artist": "TESLA"
 	},
 	{
 		"albumTitle": "Careful What You Wish For",
@@ -15775,7 +15800,7 @@
 		"artist": "VAN MORRISON"
 	},
 	{
-		"albumTitle": "The Best Of",
+		"albumTitle": "The Best Of (remastered)",
 		"price": 10,
 		"artist": "VAN MORRISON"
 	},
@@ -16866,6 +16891,11 @@
 	},
 	{
 		"albumTitle": "18 Movie Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "25 År Med The Real Dansktop (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -18028,6 +18058,11 @@
 		"albumTitle": "Folkemunde 1",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 20
+	},
+	{
+		"albumTitle": "Folkemunde 2",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Glamkings Of Rock (2CD)",
