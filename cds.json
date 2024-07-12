@@ -3260,6 +3260,11 @@
 		"artist": "D.A.D."
 	},
 	{
+		"albumTitle": "Monster Philosophy",
+		"price": 10,
+		"artist": "D.A.D."
+	},
+	{
 		"albumTitle": "No Fuel Left For The Pilbrims",
 		"price": 10,
 		"artist": "D.A.D."
@@ -3536,7 +3541,7 @@
 	},
 	{
 		"albumTitle": "Master Series",
-		"artist": "DEXY MIDNIGHT RUNNERS",
+		"artist": "DEXYS MIDNIGHT RUNNERS",
 		"price": 20
 	},
 	{
@@ -4623,6 +4628,11 @@
 		"albumTitle": "A Collection Of Her Best Recordings",
 		"price": 10,
 		"artist": "FAITHFULL, MARIANNE"
+	},
+	{
+		"albumTitle": "Det Andet Land",
+		"price": 10,
+		"artist": "FALCH, MICHAEL"
 	},
 	{
 		"albumTitle": "Fodspor I Havet",
@@ -6471,6 +6481,11 @@
 	},
 	{
 		"albumTitle": "Brick By Brick",
+		"artist": "IGGY POP",
+		"price": 10
+	},
+	{
+		"albumTitle": "Lust For Life",
 		"artist": "IGGY POP",
 		"price": 10
 	},
@@ -9375,6 +9390,11 @@
 		"artist": "ME & MY"
 	},
 	{
+		"albumTitle": "Coudn't Have Said It Better",
+		"price": 10,
+		"artist": "MEAT LOAF"
+	},
+	{
 		"albumTitle": "Hits Out Of Hell",
 		"price": 10,
 		"artist": "MEAT LOAF"
@@ -10285,6 +10305,11 @@
 		"artist": "MØLLER, MICHAEL"
 	},
 	{
+		"albumTitle": "Sikken' Dejlig Dag",
+		"price": 10,
+		"artist": "MØLLER, STIG"
+	},
+	{
 		"albumTitle": "Cracks",
 		"price": 10,
 		"artist": "NABIHA"
@@ -10320,12 +10345,12 @@
 		"price": 30
 	},
 	{
-		"albumTitle": "Bomboloni, Greatest Hits",
+		"albumTitle": "Dispetto",
 		"artist": "NANNINI, GIANNA",
-		"price": 15
+		"price": 10
 	},
 	{
-		"albumTitle": "Dispetto",
+		"albumTitle": "Bomboloni, Greatest Hits",
 		"artist": "NANNINI, GIANNA",
 		"price": 15
 	},
@@ -11340,6 +11365,11 @@
 		"artist": "PIAF, EDITH"
 	},
 	{
+		"albumTitle": "A Collection Of Great Dance Songs",
+		"artist": "PINK FLOYD",
+		"price": 10
+	},
+	{
 		"albumTitle": "Dark Side Of The Moon",
 		"artist": "PINK FLOYD",
 		"price": 20
@@ -11595,6 +11625,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Well's On Fire",
+		"artist": "PROCOL HARUM",
+		"price": 10
+	},
+	{
 		"albumTitle": "Swell",
 		"artist": "PSYCHED UP JANIS",
 		"price": 10
@@ -11610,7 +11645,7 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "This Is Hardcore/This Is Glastonbury",
+		"albumTitle": "This Is Hardcore/This Is Glastonbury (2CD)",
 		"artist": "PULP",
 		"price": 10
 	},
@@ -12055,11 +12090,6 @@
 		"artist": "REE, CELINA"
 	},
 	{
-		"albumTitle": "The Very Best Of (EAC testet)",
-		"price": 10,
-		"artist": "REED, LOU"
-	},
-	{
 		"albumTitle": "Lou Reed In Concert",
 		"artist": "REED, LOU",
 		"price": 10
@@ -12088,6 +12118,11 @@
 		"albumTitle": "Transformer (remastered)",
 		"artist": "REED, LOU",
 		"price": 15
+	},
+	{
+		"albumTitle": "Transformer (limited Edition)",
+		"artist": "REED, LOU",
+		"price": 20
 	},
 	{
 		"albumTitle": "20 Golden Hits",
@@ -13750,6 +13785,11 @@
 		"artist": "SKID ROW"
 	},
 	{
+		"albumTitle": "Collection (EMI)",
+		"artist": "SKIFS, BJÖRN",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Collection",
 		"artist": "SKIFS, BJÖRN",
 		"price": 10
@@ -14018,6 +14058,11 @@
 		"albumTitle": "Til Rotterne, Til Kragerne, Til Hundene",
 		"artist": "SOMMER, PETER",
 		"price": 10
+	},
+	{
+		"albumTitle": "Flow My Firetear",
+		"price": 10,
+		"artist": "SORT SOL"
 	},
 	{
 		"albumTitle": "Glamourpuss",
@@ -14780,6 +14825,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Ingen Slukker The Stars",
+		"price": 10,
+		"artist": "SUSPEKT"
+	},
+	{
 		"albumTitle": "Inkl. Chris & Chokoladefabrikken",
 		"price": 10,
 		"artist": "SVEDBANKEN"
@@ -15183,6 +15233,11 @@
 		"albumTitle": "Mad Guppies Fighting The Foodchain (EP)",
 		"artist": "TINTIN & HÅRTØRRERNE",
 		"price": 10
+	},
+	{
+		"albumTitle": "Tolv-Tretten Tørre Hårtørrer-Træffere",
+		"artist": "TINTIN & HÅRTØRRERNE",
+		"price": 20
 	},
 	{
 		"albumTitle": "Verden Venter",
@@ -18108,11 +18163,6 @@
 		"albumTitle": "More Greatest Hits Of The 80's (8CD)",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 40
-	},
-	{
-		"albumTitle": "Pigtrådsmusik 1 (2CD)",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 50
 	},
 	{
 		"albumTitle": "Pigtrådsmusik 2 (2CD)",
