@@ -105,11 +105,6 @@
 		"artist": "ABRAHAMSEN, TROELS"
 	},
 	{
-		"albumTitle": "The Razors Edge",
-		"artist": "AC/DC",
-		"price": 10
-	},
-	{
 		"albumTitle": "Ballbreaker",
 		"artist": "AC/DC",
 		"price": 10
@@ -120,7 +115,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "For Those About To Rock (We Salute You)",
+		"artist": "AC/DC",
+		"price": 10
+	},
+	{
 		"albumTitle": "Let There Be Rock",
+		"artist": "AC/DC",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Razors Edge",
 		"artist": "AC/DC",
 		"price": 10
 	},
@@ -605,11 +610,6 @@
 		"artist": "APPLEBY, KIM"
 	},
 	{
-		"albumTitle": "Aquarium",
-		"price": 10,
-		"artist": "AQUA"
-	},
-	{
 		"albumTitle": "Aquarius",
 		"price": 10,
 		"artist": "AQUA"
@@ -643,11 +643,6 @@
 		"albumTitle": "Make Our Hearts Sway",
 		"price": 10,
 		"artist": "ARTICICIAL BROTHERS"
-	},
-	{
-		"albumTitle": "Dancing Along With - Vol. 1",
-		"price": 10,
-		"artist": "ASMUSSEN, SVEND"
 	},
 	{
 		"albumTitle": "Dancing Along With - Vol. 2",
@@ -751,11 +746,6 @@
 	},
 	{
 		"albumTitle": "Shut Up And Play",
-		"price": 10,
-		"artist": "BACKSEAT"
-	},
-	{
-		"albumTitle": "Songs",
 		"price": 10,
 		"artist": "BACKSEAT"
 	},
@@ -1195,11 +1185,6 @@
 		"artist": "BELLI, PETER"
 	},
 	{
-		"albumTitle": "Ulven Peter, De 34 Største Hits",
-		"price": 10,
-		"artist": "BELLI, PETER"
-	},
-	{
 		"albumTitle": "Helt Igennem Respektabel 1959-99 (2CD)",
 		"artist": "BELLI, PETER",
 		"price": 10
@@ -1208,11 +1193,6 @@
 		"albumTitle": "Peter & Ulvene, Live Fra Hit House",
 		"artist": "BELLI, PETER & ULVENE",
 		"price": 10
-	},
-	{
-		"albumTitle": "Who Calls The Tune",
-		"price": 10,
-		"artist": "BERGMAN, MARIE MAJ-BRITT KRAMER m.fl."
 	},
 	{
 		"albumTitle": "4",
@@ -1505,11 +1485,6 @@
 		"artist": "BLOODHOUND GANG, THE"
 	},
 	{
-		"albumTitle": "Blue Boys",
-		"price": 10,
-		"artist": "BLUE BOYS"
-	},
-	{
 		"albumTitle": "Døllefjælde Musse",
 		"artist": "BLUE BOYS",
 		"price": 10
@@ -1568,6 +1543,11 @@
 		"albumTitle": "The Great Escape",
 		"price": 10,
 		"artist": "BLUR"
+	},
+	{
+		"albumTitle": "Think Tank (i 'bog')",
+		"artist": "BLUR",
+		"price": 10
 	},
 	{
 		"albumTitle": "Romeo & Julie, Remix Album 01",
@@ -1745,11 +1725,6 @@
 		"artist": "BONEY M"
 	},
 	{
-		"albumTitle": "The Magic Of Boney M, The Danish Collection (2CD)",
-		"price": 10,
-		"artist": "BONEY M"
-	},
-	{
 		"albumTitle": "The Burdens Of Being Upright",
 		"price": 10,
 		"artist": "BONHAM, TRACY"
@@ -1810,17 +1785,17 @@
 		"artist": "BRANDENBURG, OTTO"
 	},
 	{
+		"albumTitle": "Dejlige Danske (2CD)",
+		"price": 10,
+		"artist": "BRANDENBURG, OTTO"
+	},
+	{
 		"albumTitle": "To Lys På Et Bord, 50 Uforglemmelige Hits (2CD)",
 		"price": 10,
 		"artist": "BRANDENBURG, OTTO"
 	},
 	{
 		"albumTitle": "Den Store Otto Brandenburg Boks (4CD)",
-		"artist": "BRANDENBURG, OTTO",
-		"price": 10
-	},
-	{
-		"albumTitle": "Dejlige Danske (2CD)",
 		"artist": "BRANDENBURG, OTTO",
 		"price": 10
 	},
@@ -2098,11 +2073,6 @@
 		"albumTitle": "Playground (debutalbummet..)",
 		"price": 10,
 		"artist": "BURHAN G"
-	},
-	{
-		"albumTitle": "By",
-		"price": 10,
-		"artist": "BUSCK, KAREN"
 	},
 	{
 		"albumTitle": "Hjertet Ser",
@@ -3140,11 +3110,6 @@
 		"artist": "CREEDENCE CLEARWATER REVIVAL"
 	},
 	{
-		"albumTitle": "Forever, 36 Greatest Hits (2CD)",
-		"price": 10,
-		"artist": "CREEDENCE CLEARWATER REVIVAL"
-	},
-	{
 		"albumTitle": "Platinum (2CD)",
 		"price": 10,
 		"artist": "CREEDENCE CLEARWATER REVIVAL"
@@ -3470,6 +3435,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Vault (2CD)",
+		"artist": "DEF LEPPARD",
+		"price": 10
+	},
+	{
 		"albumTitle": "Chariot (2CD)",
 		"price": 10,
 		"artist": "DEGRAW, GAVIN"
@@ -3495,11 +3465,6 @@
 		"artist": "DEL AMITRI"
 	},
 	{
-		"albumTitle": "Luxus",
-		"price": 10,
-		"artist": "DELUXE, JOHNNY"
-	},
-	{
 		"albumTitle": "Scizoeffective",
 		"price": 10,
 		"artist": "DELTA"
@@ -3511,6 +3476,11 @@
 	},
 	{
 		"albumTitle": "Johnny DeLuxe",
+		"price": 10,
+		"artist": "DELUXE, JOHNNY"
+	},
+	{
+		"albumTitle": "Luxus",
 		"price": 10,
 		"artist": "DELUXE, JOHNNY"
 	},
@@ -3805,6 +3775,11 @@
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
 	},
 	{
+		"albumTitle": "Svantes Viser",
+		"price": 10,
+		"artist": "DISSING, POUL & BENNY ANDERSEN"
+	},
+	{
 		"albumTitle": "Svantes Viser (CD+DVD)",
 		"artist": "DISSING, POUL & BENNY ANDERSEN",
 		"price": 30
@@ -3975,11 +3950,6 @@
 		"artist": "DR. DANTE"
 	},
 	{
-		"albumTitle": "Greatest Hits, Best Of The Best (2CD)",
-		"price": 10,
-		"artist": "DR. HOOK & THE MEDICINE SHOW"
-	},
-	{
 		"albumTitle": "Greatest Hits And More",
 		"price": 10,
 		"artist": "DR. HOOK & THE MEDICINE SHOW"
@@ -4003,6 +3973,11 @@
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "DR. HOOK & THE MEDICINE SHOW"
+	},
+	{
+		"albumTitle": "Greatest Hits, Best Of The Best (2CD)",
+		"artist": "DR. HOOK & THE MEDICINE SHOW",
+		"price": 10
 	},
 	{
 		"albumTitle": "Drengene Fra Angora",
@@ -4453,11 +4428,6 @@
 		"albumTitle": "Era 1",
 		"price": 10,
 		"artist": "ERA"
-	},
-	{
-		"albumTitle": "Erann",
-		"price": 10,
-		"artist": "ERANN D.D."
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -5415,6 +5385,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Intercity",
+		"artist": "GNAGS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Intercity/Burhøns",
 		"artist": "GNAGS",
 		"price": 10
@@ -5671,6 +5646,11 @@
 	},
 	{
 		"albumTitle": "Appetite For Destruction",
+		"price": 10,
+		"artist": "GUNS 'N ROSES"
+	},
+	{
+		"albumTitle": "Chineese Democracy",
 		"price": 10,
 		"artist": "GUNS 'N ROSES"
 	},
@@ -6420,11 +6400,6 @@
 		"artist": "HUTCHINGS, ASHLEY m.fl."
 	},
 	{
-		"albumTitle": "Så'n Er Vi",
-		"price": 10,
-		"artist": "HVID CHOKOLADE"
-	},
-	{
 		"albumTitle": "Blott En Dag",
 		"price": 10,
 		"artist": "HÄGGKVIST, CAROLA"
@@ -6477,6 +6452,11 @@
 	{
 		"albumTitle": "Cyberpunk",
 		"artist": "IDOL, BILLY",
+		"price": 10
+	},
+	{
+		"albumTitle": "Nude & Rude, The Best Of",
+		"artist": "IGGY POP",
 		"price": 10
 	},
 	{
@@ -7301,8 +7281,8 @@
 	},
 	{
 		"albumTitle": "Før Natten Bli'r Til Dag",
-		"price": 10,
-		"artist": "KELLERMANN, LONE & ROCKBANDET"
+		"artist": "KELLERMANN, LONE & ROCKBANDET",
+		"price": 10
 	},
 	{
 		"albumTitle": "A Better Man",
@@ -7496,11 +7476,6 @@
 	},
 	{
 		"albumTitle": "Album 20 Sange",
-		"price": 10,
-		"artist": "KJELLERUP, THOMAS"
-	},
-	{
-		"albumTitle": "Bjørnen Vågner",
 		"price": 10,
 		"artist": "KJELLERUP, THOMAS"
 	},
@@ -7760,11 +7735,6 @@
 		"artist": "KREBS, POUL"
 	},
 	{
-		"albumTitle": "På En God Dag Live (2CD)",
-		"price": 10,
-		"artist": "KREBS, POUL"
-	},
-	{
 		"albumTitle": "Små Sensationer",
 		"price": 10,
 		"artist": "KREBS, POUL"
@@ -7900,11 +7870,6 @@
 		"artist": "LANG, k.d."
 	},
 	{
-		"albumTitle": "Attention Please",
-		"price": 10,
-		"artist": "LANGER, MADS"
-	},
-	{
 		"albumTitle": "Behold",
 		"price": 10,
 		"artist": "LANGER, MADS"
@@ -7920,9 +7885,9 @@
 		"artist": "LANGER, MADS"
 	},
 	{
-		"albumTitle": "Mads Langer",
-		"price": 10,
-		"artist": "LANGER, MADS"
+		"albumTitle": "Attention Please",
+		"artist": "LANGER, MADS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Guld & Grønne Skove, Greatest",
@@ -8095,11 +8060,6 @@
 		"artist": "LAST, JAMES"
 	},
 	{
-		"albumTitle": "Almost Gracefully",
-		"price": 10,
-		"artist": "LAUBEK, RANDI"
-	},
-	{
 		"albumTitle": "Ducks And Drakes",
 		"price": 10,
 		"artist": "LAUBEK, RANDI"
@@ -8127,6 +8087,11 @@
 	{
 		"albumTitle": "The Collection",
 		"artist": "LECIA & LUCIENNE",
+		"price": 10
+	},
+	{
+		"albumTitle": "II",
+		"artist": "LED ZEPPELIN",
 		"price": 10
 	},
 	{
@@ -8660,11 +8625,6 @@
 		"artist": "LOVE JULIE"
 	},
 	{
-		"albumTitle": "DK",
-		"price": 10,
-		"artist": "LOVE SHOP"
-	},
-	{
 		"albumTitle": "Exploding Star",
 		"price": 10,
 		"artist": "LOVEBITES"
@@ -8966,11 +8926,6 @@
 	},
 	{
 		"albumTitle": "Det Krøllede Håb",
-		"price": 10,
-		"artist": "MAGTENS KORRIDORER"
-	},
-	{
-		"albumTitle": "Friværdi",
 		"price": 10,
 		"artist": "MAGTENS KORRIDORER"
 	},
@@ -9415,17 +9370,17 @@
 		"artist": "MEAT LOAF"
 	},
 	{
-		"albumTitle": "Welcome To Medina",
+		"albumTitle": "We Survive",
 		"price": 10,
 		"artist": "MEDINA"
 	},
 	{
-		"albumTitle": "Countdown To Extinction",
+		"albumTitle": "Countdown To Extinction (remastered)",
 		"artist": "MEGADETH",
 		"price": 10
 	},
 	{
-		"albumTitle": "Cryptic Writings",
+		"albumTitle": "Cryptic Writings (remastered)",
 		"artist": "MEGADETH",
 		"price": 10
 	},
@@ -9555,12 +9510,12 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Death Magnetic",
+		"albumTitle": "S & M (2CD)",
 		"artist": "METALLICA",
 		"price": 10
 	},
 	{
-		"albumTitle": "S & M (2CD)",
+		"albumTitle": "Death Magnetic",
 		"artist": "METALLICA",
 		"price": 10
 	},
@@ -9583,6 +9538,11 @@
 		"albumTitle": "No More Stories..",
 		"price": 10,
 		"artist": "MEW"
+	},
+	{
+		"albumTitle": "Half The World Is Watching Me",
+		"artist": "MEW",
+		"price": 10
 	},
 	{
 		"albumTitle": "Half The World Is Watching Me (2CD)",
@@ -9631,11 +9591,6 @@
 	},
 	{
 		"albumTitle": "Colours",
-		"price": 10,
-		"artist": "MICHAEL LEARNS TO ROCK"
-	},
-	{
-		"albumTitle": "Michael Learns To Rock, Greatest Hits",
 		"price": 10,
 		"artist": "MICHAEL LEARNS TO ROCK"
 	},
@@ -9738,11 +9693,6 @@
 		"albumTitle": "Word Of Mouth",
 		"price": 10,
 		"artist": "MIKE & THE MECHANICS"
-	},
-	{
-		"albumTitle": "Anything But Grey",
-		"price": 10,
-		"artist": "MIKKELBORG, PALLE"
 	},
 	{
 		"albumTitle": "Heart To Heart",
@@ -9866,11 +9816,6 @@
 	},
 	{
 		"albumTitle": "Der Er Noget Galt I Danmark (2CD)",
-		"price": 10,
-		"artist": "MOGENSEN, JOHN"
-	},
-	{
-		"albumTitle": "Hvad Er Der Så Mer'? (2CD)",
 		"price": 10,
 		"artist": "MOGENSEN, JOHN"
 	},
@@ -10365,11 +10310,6 @@
 		"artist": "NASH, KATE"
 	},
 	{
-		"albumTitle": "I Danmark Er Jeg Født",
-		"price": 10,
-		"artist": "NATASJA"
-	},
-	{
 		"albumTitle": "Det Ka' Jo Aldrig Gå Værre End Hiel Gal",
 		"price": 10,
 		"artist": "NATTERGALE, DE"
@@ -10420,11 +10360,6 @@
 		"artist": "NEIGHBOURS"
 	},
 	{
-		"albumTitle": "I Det Akustiske Hjørne (CD+DVD)(NY i folie)",
-		"price": 10,
-		"artist": "NEIGHBOURS"
-	},
-	{
 		"albumTitle": "Rejsedage",
 		"price": 10,
 		"artist": "NEIGHBOURS"
@@ -10458,11 +10393,6 @@
 		"albumTitle": "Brother's Keeper",
 		"price": 10,
 		"artist": "NEVILLE BROTHERS, THE"
-	},
-	{
-		"albumTitle": "Alene For Dig",
-		"price": 10,
-		"artist": "NEWS"
 	},
 	{
 		"albumTitle": "Crazy Lazy City",
@@ -10560,11 +10490,6 @@
 		"artist": "NHØP"
 	},
 	{
-		"albumTitle": "Antihelt",
-		"price": 10,
-		"artist": "NIARN"
-	},
-	{
 		"albumTitle": "Get Inside",
 		"price": 10,
 		"artist": "NICE DEVICE"
@@ -10616,11 +10541,6 @@
 	},
 	{
 		"albumTitle": "Nik & Jay",
-		"price": 10,
-		"artist": "NIK & JAY"
-	},
-	{
-		"albumTitle": "2",
 		"price": 10,
 		"artist": "NIK & JAY"
 	},
@@ -10705,11 +10625,6 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
-		"albumTitle": "The Collection",
-		"price": 10,
-		"artist": "NINA & FREDERIK"
-	},
-	{
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
@@ -10763,11 +10678,6 @@
 		"albumTitle": "Live 1995",
 		"artist": "MIKKEL NORDSØ BAND",
 		"price": 10
-	},
-	{
-		"albumTitle": "Here Comes The Sun",
-		"price": 10,
-		"artist": "NORGE, KAARE"
 	},
 	{
 		"albumTitle": "Tango",
@@ -10856,8 +10766,8 @@
 	},
 	{
 		"albumTitle": "Fireball Zone",
-		"price": 10,
-		"artist": "OCASEK, RIC"
+		"artist": "OCASEK, RIC",
+		"price": 10
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -11210,11 +11120,6 @@
 		"artist": "PARTON, DOLLY"
 	},
 	{
-		"albumTitle": "Home For Christmas",
-		"price": 10,
-		"artist": "PARTON, DOLLY"
-	},
-	{
 		"albumTitle": "Queen Of Country (2CD)",
 		"price": 10,
 		"artist": "PARTON, DOLLY"
@@ -11326,6 +11231,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits",
+		"artist": "PETTY, TOM & THE HEARTBREAKERS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Full Moon Fever",
 		"artist": "PETTY, TOM & THE HEARTBREAKERS",
 		"price": 10
 	},
@@ -11463,11 +11373,6 @@
 		"albumTitle": "The Police (2CD)",
 		"artist": "POLICE, THE",
 		"price": 10
-	},
-	{
-		"albumTitle": "Nude & Rude, The Best Of",
-		"price": 10,
-		"artist": "POP, IGGY"
 	},
 	{
 		"albumTitle": "Tampen Brænder",
@@ -11773,6 +11678,11 @@
 		"albumTitle": "The Works",
 		"artist": "QUEEN",
 		"price": 10
+	},
+	{
+		"albumTitle": "Lullabies To Paralyze",
+		"price": 10,
+		"artist": "QUEENS OF THE STONE AGE"
 	},
 	{
 		"albumTitle": "Songs For The Deaf",
@@ -12275,14 +12185,14 @@
 		"artist": "RICHIE, LIONEL"
 	},
 	{
-		"albumTitle": "Where I Belong",
+		"albumTitle": "Planet Blue",
 		"price": 10,
 		"artist": "RICHTER, JASCHA"
 	},
 	{
-		"albumTitle": "Planet Blue",
-		"artist": "RICHTER, JASCHA",
-		"price": 10
+		"albumTitle": "Where I Belong",
+		"price": 10,
+		"artist": "RICHTER, JASCHA"
 	},
 	{
 		"albumTitle": "Introducing.. (2CD)",
@@ -12386,11 +12296,6 @@
 	},
 	{
 		"albumTitle": "Ridder Lykke",
-		"price": 10,
-		"artist": "ROCAZINO"
-	},
-	{
-		"albumTitle": "Sejle Med Dig",
 		"price": 10,
 		"artist": "ROCAZINO"
 	},
@@ -12566,11 +12471,6 @@
 	},
 	{
 		"albumTitle": "Stories",
-		"price": 10,
-		"artist": "ROSSEN, STIG"
-	},
-	{
-		"albumTitle": "The Way You Make Me Feel",
 		"price": 10,
 		"artist": "ROSSEN, STIG"
 	},
@@ -12900,11 +12800,6 @@
 		"artist": "SALOMONSEN, SANNE"
 	},
 	{
-		"albumTitle": "Sanne Salomonsen ('den første'..)",
-		"price": 10,
-		"artist": "SALOMONSEN, SANNE"
-	},
-	{
 		"albumTitle": "The Hits",
 		"price": 10,
 		"artist": "SALOMONSEN, SANNE"
@@ -12923,6 +12818,11 @@
 		"albumTitle": "Where Blue Begins",
 		"price": 10,
 		"artist": "SALOMONSEN, SANNE"
+	},
+	{
+		"albumTitle": "Sanne Salomonsen ('den første'..)",
+		"artist": "SALOMONSEN, SANNE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Don't Give Up",
@@ -12988,6 +12888,11 @@
 		"albumTitle": "Western Blood",
 		"price": 10,
 		"artist": "SANDMEN, THE"
+	},
+	{
+		"albumTitle": "White Trash/Red Front",
+		"artist": "SANDMEN, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Analog",
@@ -13175,11 +13080,6 @@
 		"artist": "SCORPIONS"
 	},
 	{
-		"albumTitle": "Gold Ballads",
-		"price": 10,
-		"artist": "SCORPIONS"
-	},
-	{
 		"albumTitle": "Bad For Good, The Very Best Of",
 		"artist": "SCORPIONS",
 		"price": 15
@@ -13188,6 +13088,11 @@
 		"albumTitle": "Best Of Rockers 'N Ballads",
 		"artist": "SCORPIONS",
 		"price": 20
+	},
+	{
+		"albumTitle": "Gold Ballads",
+		"artist": "SCORPIONS",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Script",
@@ -13410,11 +13315,6 @@
 		"artist": "SHOWADDYWADDY"
 	},
 	{
-		"albumTitle": "1",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
 		"albumTitle": "2",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
@@ -13441,11 +13341,6 @@
 	},
 	{
 		"albumTitle": "8",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
-		"albumTitle": "10",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
@@ -14018,11 +13913,6 @@
 		"albumTitle": "Uncovered Too",
 		"price": 10,
 		"artist": "SMOKIE"
-	},
-	{
-		"albumTitle": "Greatest (2CD)",
-		"price": 10,
-		"artist": "SNEAKERS"
 	},
 	{
 		"albumTitle": "Tag Med Mig (NY i folie)",
@@ -14830,11 +14720,6 @@
 		"artist": "SUSPEKT"
 	},
 	{
-		"albumTitle": "Inkl. Chris & Chokoladefabrikken",
-		"price": 10,
-		"artist": "SVEDBANKEN"
-	},
-	{
 		"albumTitle": "Fragments",
 		"price": 10,
 		"artist": "SVEISTRUP, JACOB"
@@ -15360,17 +15245,7 @@
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
 	{
-		"albumTitle": "De Bedste",
-		"price": 10,
-		"artist": "TRIER, TROELS & REBECCA BRÜEL"
-	},
-	{
 		"albumTitle": "Stardust Bodega",
-		"price": 10,
-		"artist": "TRIER, TROELS & REBECCA BRÜEL"
-	},
-	{
-		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
@@ -15656,11 +15531,6 @@
 	},
 	{
 		"albumTitle": "Pas På Dine Blå Øjne",
-		"price": 10,
-		"artist": "TØSEDRENGENE"
-	},
-	{
-		"albumTitle": "Indianer",
 		"price": 10,
 		"artist": "TØSEDRENGENE"
 	},
@@ -16980,17 +16850,7 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Absolute Christmas 1 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Absolute Christmas 2 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Absolute Christmas 3 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -17270,11 +17130,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Dansk Jul (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Dansk Melodi Grand Prix 2002",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17300,11 +17155,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "De Største Er De Små, Sange Til Anker",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Dejlige Danske Slagere (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17320,7 +17170,7 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Det Bedste Af Dansk Musik 1980-82 (2CD)",
+		"albumTitle": "Det Bedste Af Dansk Musik, Smagsprøver (paphylster)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -17676,11 +17526,6 @@
 	},
 	{
 		"albumTitle": "Nat & Dag 2 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "NOW Christmas 2007 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -18156,6 +18001,11 @@
 	},
 	{
 		"albumTitle": "Let Me Tell You About The Blues, Texas",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Live Fra Østre Gasværk Teaterkoncerten Gasolin",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 10
 	},
