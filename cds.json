@@ -755,11 +755,6 @@
 		"artist": "BACKSEAT"
 	},
 	{
-		"albumTitle": "Seasoned And Served (2CD)",
-		"artist": "BACKSEAT",
-		"price": 10
-	},
-	{
 		"albumTitle": "Backyard Babies",
 		"price": 10,
 		"artist": "BACKYARD BABIES"
@@ -15175,11 +15170,6 @@
 		"artist": "TOTO"
 	},
 	{
-		"albumTitle": "Tambu",
-		"price": 10,
-		"artist": "TOTO"
-	},
-	{
 		"albumTitle": "The Seventh One",
 		"price": 10,
 		"artist": "TOTO"
@@ -16401,11 +16391,6 @@
 	},
 	{
 		"albumTitle": "Uno Deux Drei Four",
-		"price": 10,
-		"artist": "WINDING, KASPER"
-	},
-	{
-		"albumTitle": "Vibe-O-Gram",
 		"price": 10,
 		"artist": "WINDING, KASPER"
 	},
