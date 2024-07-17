@@ -1565,6 +1565,11 @@
 		"artist": "BOEL, HANNE"
 	},
 	{
+		"albumTitle": "Abaco",
+		"price": 10,
+		"artist": "BOEL, HANNE"
+	},
+	{
 		"albumTitle": "Best Of",
 		"price": 10,
 		"artist": "BOEL, HANNE"
@@ -2075,11 +2080,6 @@
 		"artist": "BUSCK, KAREN"
 	},
 	{
-		"albumTitle": "Deconstructed",
-		"price": 10,
-		"artist": "BUSH"
-	},
-	{
 		"albumTitle": "The Kick Inside",
 		"artist": "BUSH, KATE",
 		"price": 10
@@ -2315,7 +2315,17 @@
 		"artist": "CARPENTER, MARY CHAPIN"
 	},
 	{
-		"albumTitle": "Carpenters",
+		"albumTitle": "As Times Go By",
+		"price": 10,
+		"artist": "CARPENTERS"
+	},
+	{
+		"albumTitle": "Carpenters (A&M Gold Series)",
+		"price": 10,
+		"artist": "CARPENTERS"
+	},
+	{
+		"albumTitle": "Carpenters (Spectrum)",
 		"price": 10,
 		"artist": "CARPENTERS"
 	},
@@ -2355,7 +2365,17 @@
 		"artist": "CASH, JOHNNY"
 	},
 	{
+		"albumTitle": "Ring Of Fire, The Legend Of",
+		"price": 10,
+		"artist": "CASH, JOHNNY"
+	},
+	{
 		"albumTitle": "The Christmas Colletion",
+		"price": 10,
+		"artist": "CASH, JOHNNY"
+	},
+	{
+		"albumTitle": "The Collection (2CD)",
 		"price": 10,
 		"artist": "CASH, JOHNNY"
 	},
@@ -2620,6 +2640,11 @@
 		"artist": "CLAPTON, ERIC"
 	},
 	{
+		"albumTitle": "Timepieces, The Best Of",
+		"price": 10,
+		"artist": "CLAPTON, ERIC"
+	},
+	{
 		"albumTitle": "The Cream Of Clapton",
 		"price": 10,
 		"artist": "CLAPTON, ERIC"
@@ -2806,11 +2831,6 @@
 	},
 	{
 		"albumTitle": "A Rush Of Blood To The Head",
-		"price": 10,
-		"artist": "COLDPLAY"
-	},
-	{
-		"albumTitle": "Viva La Vida",
 		"price": 10,
 		"artist": "COLDPLAY"
 	},
@@ -3035,6 +3055,11 @@
 		"artist": "CRASH TEST DUMMIES"
 	},
 	{
+		"albumTitle": "The Ghosts That Haunt Me",
+		"artist": "CRASH TEST DUMMIES",
+		"price": 10
+	},
+	{
 		"albumTitle": "Beverly Craven",
 		"price": 10,
 		"artist": "CRAVEN, BEVERLY"
@@ -3111,6 +3136,11 @@
 	},
 	{
 		"albumTitle": "The Complete Hit Album",
+		"price": 10,
+		"artist": "CREEDENCE CLEARWATER REVIVAL"
+	},
+	{
+		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "CREEDENCE CLEARWATER REVIVAL"
 	},
@@ -3325,6 +3355,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Vores Bedste (2CD+DVD)",
+		"artist": "DANSER MED DRENGE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Darleens",
 		"price": 10,
 		"artist": "DARLEENS"
@@ -3408,6 +3443,11 @@
 		"albumTitle": "Home",
 		"price": 10,
 		"artist": "DEEP BLUE SOMETHING"
+	},
+	{
+		"albumTitle": "The House Of Blue Light",
+		"artist": "DEEP PURPLE",
+		"price": 25
 	},
 	{
 		"albumTitle": "Adrenalize",
@@ -3710,6 +3750,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Live At The BBC",
+		"artist": "DIRE STRAITS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Dansant",
 		"price": 10,
 		"artist": "DISKOFIL"
@@ -3750,12 +3795,22 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Poul Dissing (Dejlige Danske)(2CD)",
+		"artist": "DISSING, POUL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Troubadourens Bedste (2CD)",
 		"artist": "DISSING, POUL",
 		"price": 20
 	},
 	{
 		"albumTitle": "I Al Slags Vejr",
+		"price": 10,
+		"artist": "DISSING, POUL & BENNY ANDERSEN"
+	},
+	{
+		"albumTitle": "Hymner Og Ukrudt",
 		"price": 10,
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
 	},
@@ -3773,6 +3828,11 @@
 		"albumTitle": "Svantes Viser",
 		"price": 10,
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
+	},
+	{
+		"albumTitle": "Live - For Fuld Udblæsning (2CD)",
+		"artist": "DISSING, POUL & BENNY ANDERSEN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Svantes Viser (CD+DVD)",
@@ -3808,6 +3868,11 @@
 		"albumTitle": "The Dissociatives",
 		"price": 10,
 		"artist": "THE DISSOCIATIVES"
+	},
+	{
+		"albumTitle": "Taking The Long Way",
+		"price": 10,
+		"artist": "THE DIXIE CHICKS"
 	},
 	{
 		"albumTitle": "Dizzy Mizz Lizzy",
@@ -3853,6 +3918,11 @@
 		"albumTitle": "Største Hits",
 		"price": 10,
 		"artist": "DODO & THE DODO'S"
+	},
+	{
+		"albumTitle": "All Boro Kings",
+		"price": 10,
+		"artist": "DOG EAT DOG"
 	},
 	{
 		"albumTitle": "Doky Brothers",
@@ -3910,7 +3980,17 @@
 		"artist": "DOOBIE BROTHERS, THE"
 	},
 	{
+		"albumTitle": "L.A. Woman",
+		"price": 10,
+		"artist": "DOORS, THE"
+	},
+	{
 		"albumTitle": "L.A. Woman (remastered)",
+		"price": 10,
+		"artist": "DOORS, THE"
+	},
+	{
+		"albumTitle": "Morrison Hotel",
 		"price": 10,
 		"artist": "DOORS, THE"
 	},
@@ -4690,6 +4770,11 @@
 		"artist": "FEDE FINN & FUNNY BOYZ"
 	},
 	{
+		"albumTitle": "Hun Si'r Jeg Ligner Elvis",
+		"price": 10,
+		"artist": "FEDE FINN & FUNNY BOYZ"
+	},
+	{
 		"albumTitle": "Light My Fire",
 		"price": 10,
 		"artist": "FELICIANO, JOSÉ"
@@ -4736,6 +4821,11 @@
 	},
 	{
 		"albumTitle": "Boys And Girls",
+		"price": 10,
+		"artist": "FERRY, BRYAN"
+	},
+	{
+		"albumTitle": "Dylanesque",
 		"price": 10,
 		"artist": "FERRY, BRYAN"
 	},
@@ -4875,6 +4965,11 @@
 		"artist": "FLEETWOOD MAC"
 	},
 	{
+		"albumTitle": "Mirage",
+		"artist": "FLEETWOOD MAC",
+		"price": 10
+	},
+	{
 		"albumTitle": "Only You, The Best Of",
 		"price": 10,
 		"artist": "THE FLYING PICKETS"
@@ -4900,11 +4995,6 @@
 		"artist": "FOGERTY, JOHN"
 	},
 	{
-		"albumTitle": "The Long Road Home",
-		"price": 10,
-		"artist": "FOGERTY, JOHN"
-	},
-	{
 		"albumTitle": "Foo Fighters",
 		"price": 10,
 		"artist": "FOO FIGHTERS"
@@ -4921,6 +5011,11 @@
 	},
 	{
 		"albumTitle": "The Very Best And Beyond",
+		"price": 10,
+		"artist": "FOREIGNER"
+	},
+	{
+		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "FOREIGNER"
 	},
@@ -4943,6 +5038,11 @@
 		"albumTitle": "Great Performances That Inspired The Motown's 25th Anniversary TV Special",
 		"price": 10,
 		"artist": "FOUR TOPS"
+	},
+	{
+		"albumTitle": "I Wanna Have Some Fun",
+		"price": 10,
+		"artist": "FOX, SAMANTHA"
 	},
 	{
 		"albumTitle": "The Hits Collection",
@@ -5118,6 +5218,11 @@
 		"albumTitle": "The Right Way",
 		"price": 10,
 		"artist": "GADD, ERIC"
+	},
+	{
+		"albumTitle": "Sådan Er Reglerne",
+		"price": 10,
+		"artist": "GALE POSE, DEN"
 	},
 	{
 		"albumTitle": "Compendium, Greatest Hits",
@@ -5390,9 +5495,29 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Live Vol. 1",
+		"artist": "GNAGS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Safari (remastered)",
+		"artist": "GNAGS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Safari (remastered)(NY i folie)",
+		"artist": "GNAGS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Dizzy Up The Girl",
 		"price": 10,
 		"artist": "GOO GOO DOLLS, THE"
+	},
+	{
+		"albumTitle": "Good Morning Revival",
+		"price": 10,
+		"artist": "GOOD CHARLOTTE"
 	},
 	{
 		"albumTitle": "The Young And The Hopeless",
@@ -5535,6 +5660,11 @@
 		"artist": "GREEN DAY"
 	},
 	{
+		"albumTitle": "Danske Digte (NY i folie)",
+		"price": 10,
+		"artist": "GRIP, ERIK"
+	},
+	{
 		"albumTitle": "Kærlighedssange",
 		"price": 10,
 		"artist": "GRIP, ERIK"
@@ -5668,6 +5798,11 @@
 		"albumTitle": "Use Your Illusion II",
 		"price": 10,
 		"artist": "GUNS 'N ROSES"
+	},
+	{
+		"albumTitle": "Live Washington DC 17.7.1992 (unofficial)",
+		"artist": "GUNS 'N ROSES",
+		"price": 10
 	},
 	{
 		"albumTitle": "Soon",
@@ -5898,11 +6033,6 @@
 		"albumTitle": "See The Light",
 		"price": 10,
 		"artist": "THE JEFF HEALEY BAND"
-	},
-	{
-		"albumTitle": "The Very Best Of",
-		"artist": "THE JEFF HEALEY BAND",
-		"price": 10
 	},
 	{
 		"albumTitle": "Brigade",
@@ -15690,11 +15820,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Best Of Both Worlds, Best Of (2CD)",
-		"artist": "VAN HALEN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Blowin' Your Mind",
 		"price": 10,
 		"artist": "VAN MORRISON"
@@ -16220,11 +16345,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Greatest Hits",
-		"artist": "WHITESNAKE",
-		"price": 15
-	},
-	{
 		"albumTitle": "Slip Of The Tongue",
 		"artist": "WHITESNAKE",
 		"price": 10
@@ -16396,11 +16516,6 @@
 	},
 	{
 		"albumTitle": "Back To Black",
-		"price": 10,
-		"artist": "WINEHOUSE, AMY"
-	},
-	{
-		"albumTitle": "Lioness: Hidden Treasures",
 		"price": 10,
 		"artist": "WINEHOUSE, AMY"
 	},
