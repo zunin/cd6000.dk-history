@@ -1220,6 +1220,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Hjerte Til Salg (2CD)",
+		"artist": "BIFROST",
+		"price": 40
+	},
+	{
 		"albumTitle": "Til En Sigøjner",
 		"artist": "BIFROST",
 		"price": 35
@@ -10398,11 +10403,6 @@
 		"albumTitle": "Rocking Horse",
 		"price": 10,
 		"artist": "NANNA"
-	},
-	{
-		"albumTitle": "Pletskud & Vildskud",
-		"artist": "NANNA",
-		"price": 10
 	},
 	{
 		"albumTitle": "Pletskud & Vildskud (NY i folie)",
