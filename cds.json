@@ -1390,11 +1390,6 @@
 		"artist": "BLACK KEYS"
 	},
 	{
-		"albumTitle": "Magic Potion",
-		"price": 10,
-		"artist": "BLACK KEYS"
-	},
-	{
 		"albumTitle": "Collected",
 		"price": 10,
 		"artist": "BLACK, MARY"
@@ -2123,16 +2118,6 @@
 		"albumTitle": "Trip Thru Hell",
 		"artist": "C.A. QUINTET",
 		"price": 10
-	},
-	{
-		"albumTitle": "Comfort Eagle",
-		"price": 10,
-		"artist": "CAKE"
-	},
-	{
-		"albumTitle": "Fashion Nugget",
-		"price": 10,
-		"artist": "CAKE"
 	},
 	{
 		"albumTitle": "#8",
@@ -3440,19 +3425,9 @@
 		"artist": "dc TALK"
 	},
 	{
-		"albumTitle": "Greatest Hits (2CD)",
-		"artist": "DEATH ROW",
-		"price": 10
-	},
-	{
 		"albumTitle": "Home",
 		"price": 10,
 		"artist": "DEEP BLUE SOMETHING"
-	},
-	{
-		"albumTitle": "The House Of Blue Light",
-		"artist": "DEEP PURPLE",
-		"price": 25
 	},
 	{
 		"albumTitle": "Adrenalize",
@@ -3991,11 +3966,6 @@
 	},
 	{
 		"albumTitle": "L.A. Woman (remastered)",
-		"price": 10,
-		"artist": "DOORS, THE"
-	},
-	{
-		"albumTitle": "Morrison Hotel",
 		"price": 10,
 		"artist": "DOORS, THE"
 	},
@@ -6551,11 +6521,6 @@
 	},
 	{
 		"albumTitle": "Church Of The Real",
-		"price": 10,
-		"artist": "I GOT YOU ON TAPE"
-	},
-	{
-		"albumTitle": "Spinning For The Cause",
 		"price": 10,
 		"artist": "I GOT YOU ON TAPE"
 	},
@@ -9655,11 +9620,6 @@
 		"price": 15
 	},
 	{
-		"albumTitle": "Secret Story",
-		"artist": "METHENNY, PAT",
-		"price": 10
-	},
-	{
 		"albumTitle": "Eggs Are Funny",
 		"price": 10,
 		"artist": "MEW"
@@ -10610,11 +10570,6 @@
 		"artist": "NHØP"
 	},
 	{
-		"albumTitle": "To A Brother",
-		"price": 10,
-		"artist": "NHØP"
-	},
-	{
 		"albumTitle": "Get Inside",
 		"price": 10,
 		"artist": "NICE DEVICE"
@@ -11193,16 +11148,6 @@
 		"albumTitle": "A Feever You Can't Sweat Out",
 		"price": 10,
 		"artist": "PANIC AT THE DISCO"
-	},
-	{
-		"albumTitle": "Cowboys From Hell",
-		"price": 10,
-		"artist": "PANTERA"
-	},
-	{
-		"albumTitle": "Far Beyond Driven",
-		"price": 10,
-		"artist": "PANTERA"
 	},
 	{
 		"albumTitle": "Falling In Love",
@@ -14120,11 +14065,6 @@
 		"artist": "SOUNDGARDEN"
 	},
 	{
-		"albumTitle": "Ultramega OK",
-		"price": 10,
-		"artist": "SOUNDGARDEN"
-	},
-	{
 		"albumTitle": "De Bedste Souvenirs (2CD)",
 		"price": 10,
 		"artist": "SOUVENIRS"
@@ -15635,11 +15575,6 @@
 		"artist": "TYLER, BONNIE"
 	},
 	{
-		"albumTitle": "Bloody Kisses",
-		"artist": "TYPE O NEGATIVE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Vi Sparker Røv",
 		"price": 10,
 		"artist": "TÆSKEHOLDET"
@@ -16083,11 +16018,6 @@
 		"albumTitle": "Den Store Lysfest",
 		"artist": "VOSS/TORP",
 		"price": 10
-	},
-	{
-		"albumTitle": "Bedste Sange (2CD)",
-		"price": 10,
-		"artist": "VREESWIJK, CORNELIS"
 	},
 	{
 		"albumTitle": "Bellman, Taube Och Lite Galet",
