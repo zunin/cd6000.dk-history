@@ -420,11 +420,6 @@
 		"artist": "ALBERTE"
 	},
 	{
-		"albumTitle": "Lyse Nætter",
-		"price": 10,
-		"artist": "ALBERTE"
-	},
-	{
 		"albumTitle": "Svenske Spor",
 		"price": 10,
 		"artist": "ALBERTE"
@@ -2122,11 +2117,6 @@
 	{
 		"albumTitle": "Trip Thru Hell",
 		"artist": "C.A. QUINTET",
-		"price": 10
-	},
-	{
-		"albumTitle": "#8",
-		"artist": "CALE, J.J.",
 		"price": 10
 	},
 	{
@@ -4575,11 +4565,6 @@
 		"artist": "EVERYBODY'S TALKING"
 	},
 	{
-		"albumTitle": "Now We're Talking",
-		"price": 10,
-		"artist": "EVERYBODY'S TALKING"
-	},
-	{
 		"albumTitle": "Talk Of The Town (CD+DVD)",
 		"artist": "EVERYBODY'S TALKING",
 		"price": 15
@@ -4945,11 +4930,6 @@
 		"artist": "FLEETWOOD MAC"
 	},
 	{
-		"albumTitle": "Mirage",
-		"artist": "FLEETWOOD MAC",
-		"price": 10
-	},
-	{
 		"albumTitle": "Only You, The Best Of",
 		"price": 10,
 		"artist": "THE FLYING PICKETS"
@@ -4973,21 +4953,6 @@
 		"albumTitle": "The Blue Ridge Rangers Rides Again",
 		"price": 10,
 		"artist": "FOGERTY, JOHN"
-	},
-	{
-		"albumTitle": "Foo Fighters",
-		"price": 10,
-		"artist": "FOO FIGHTERS"
-	},
-	{
-		"albumTitle": "In Your Honour",
-		"price": 10,
-		"artist": "FOO FIGHTERS"
-	},
-	{
-		"albumTitle": "The Colour And The Shape",
-		"price": 10,
-		"artist": "FOO FIGHTERS"
 	},
 	{
 		"albumTitle": "The Very Best And Beyond",
@@ -5166,11 +5131,6 @@
 	},
 	{
 		"albumTitle": "Shaking The Tree, Sixteen Golden Greats",
-		"price": 10,
-		"artist": "PETER GABRIEL"
-	},
-	{
-		"albumTitle": "So",
 		"price": 10,
 		"artist": "PETER GABRIEL"
 	},
@@ -7065,27 +7025,12 @@
 		"artist": "JONES, RICKIE LEE"
 	},
 	{
-		"albumTitle": "Goes Country",
-		"price": 10,
-		"artist": "JONES, TOM"
-	},
-	{
 		"albumTitle": "Gold (2CD)",
 		"price": 10,
 		"artist": "JONES, TOM"
 	},
 	{
 		"albumTitle": "I Thank You",
-		"price": 10,
-		"artist": "JONES, TOM"
-	},
-	{
-		"albumTitle": "Love Songs",
-		"price": 10,
-		"artist": "JONES, TOM"
-	},
-	{
-		"albumTitle": "Mr. Jones",
 		"price": 10,
 		"artist": "JONES, TOM"
 	},
@@ -8760,6 +8705,11 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Vol II",
+		"price": 10,
+		"artist": "(LOW BUDGET) BLUES BAND feat. MATS RONANDER"
+	},
+	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "LUCIA, PACO de"
@@ -10095,11 +10045,6 @@
 		"artist": "MOORE, GARY"
 	},
 	{
-		"albumTitle": "After The War",
-		"price": 10,
-		"artist": "MOORE, GARY"
-	},
-	{
 		"albumTitle": "Ballads & Blues 1982-1994",
 		"price": 10,
 		"artist": "MOORE, GARY"
@@ -10123,11 +10068,6 @@
 		"albumTitle": "Still Got The Blues",
 		"price": 10,
 		"artist": "MOORE, GARY"
-	},
-	{
-		"albumTitle": "Morris On",
-		"price": 10,
-		"artist": "MORRIS ON"
 	},
 	{
 		"albumTitle": "Jagged Little Pill",
@@ -10825,11 +10765,6 @@
 		"artist": "O'CONNOR, SINEAD"
 	},
 	{
-		"albumTitle": "Universal Mother",
-		"price": 10,
-		"artist": "O'CONNOR, SINEAD"
-	},
-	{
 		"albumTitle": "Best Of",
 		"price": 10,
 		"artist": "O'SULLIVAN"
@@ -11276,11 +11211,6 @@
 	},
 	{
 		"albumTitle": "Introspective",
-		"price": 10,
-		"artist": "PET SHOP BOYS"
-	},
-	{
-		"albumTitle": "Nightlife",
 		"price": 10,
 		"artist": "PET SHOP BOYS"
 	},
@@ -13000,11 +12930,6 @@
 		"artist": "SANTANA"
 	},
 	{
-		"albumTitle": "Ultimate Santana",
-		"price": 10,
-		"artist": "SANTANA"
-	},
-	{
 		"albumTitle": "Viva Santana, The Very Best",
 		"price": 10,
 		"artist": "SANTANA"
@@ -13570,17 +13495,7 @@
 		"artist": "SIMON, PAUL"
 	},
 	{
-		"albumTitle": "Surprise",
-		"price": 10,
-		"artist": "SIMON, PAUL"
-	},
-	{
 		"albumTitle": "The Rhythm Of The Saints",
-		"price": 10,
-		"artist": "SIMON, PAUL"
-	},
-	{
-		"albumTitle": "You're The One",
 		"price": 10,
 		"artist": "SIMON, PAUL"
 	},
@@ -14333,11 +14248,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "STARS ON 45"
-	},
-	{
-		"albumTitle": "Love Is Here",
-		"price": 10,
-		"artist": "STARSAILOR"
 	},
 	{
 		"albumTitle": "Love Among The Cannibals",
@@ -16833,16 +16743,6 @@
 		"albumTitle": "The Early Years",
 		"price": 10,
 		"artist": "10cc"
-	},
-	{
-		"albumTitle": "Blind Man's Zoo",
-		"price": 10,
-		"artist": "10.000 MANIACS"
-	},
-	{
-		"albumTitle": "Our Time In Eden",
-		"price": 10,
-		"artist": "10.000 MANIACS"
 	},
 	{
 		"albumTitle": "Alle Børnene",
