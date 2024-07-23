@@ -3785,11 +3785,6 @@
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
 	},
 	{
-		"albumTitle": "Hymner Og Ukrudt",
-		"price": 10,
-		"artist": "DISSING, POUL & BENNY ANDERSEN"
-	},
-	{
 		"albumTitle": "Oven Visse Vande",
 		"price": 10,
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
@@ -5600,11 +5595,6 @@
 		"artist": "GREEN DAY"
 	},
 	{
-		"albumTitle": "Danske Digte (NY i folie)",
-		"price": 10,
-		"artist": "GRIP, ERIK"
-	},
-	{
 		"albumTitle": "Kærlighedssange",
 		"price": 10,
 		"artist": "GRIP, ERIK"
@@ -6648,11 +6638,6 @@
 		"albumTitle": "X",
 		"price": 10,
 		"artist": "INXS"
-	},
-	{
-		"albumTitle": "Piece Of Mind",
-		"artist": "IRON MAIDEN",
-		"price": 20
 	},
 	{
 		"albumTitle": "San Francisco Days",
@@ -9418,11 +9403,6 @@
 		"albumTitle": "Welcome To The Neighbourhood",
 		"price": 10,
 		"artist": "MEAT LOAF"
-	},
-	{
-		"albumTitle": "We Survive",
-		"price": 10,
-		"artist": "MEDINA"
 	},
 	{
 		"albumTitle": "Countdown To Extinction (remastered)",
@@ -15035,11 +15015,6 @@
 		"artist": "THIRD EYE BLIND"
 	},
 	{
-		"albumTitle": "Third Eye Blind",
-		"price": 10,
-		"artist": "THIRD EYE BLIND"
-	},
-	{
 		"albumTitle": "Third Stone From The Sun",
 		"artist": "THIRD STONE FROM THE SUN",
 		"price": 20
@@ -16645,11 +16620,6 @@
 		"artist": "ZUCCHERO"
 	},
 	{
-		"albumTitle": "Eliminator",
-		"price": 10,
-		"artist": "ZZ Top"
-	},
-	{
 		"albumTitle": "Greatest Hits (1992)",
 		"price": 10,
 		"artist": "ZZ Top"
@@ -16731,11 +16701,6 @@
 	},
 	{
 		"albumTitle": "Live In Concert Volume 2",
-		"price": 10,
-		"artist": "10cc"
-	},
-	{
-		"albumTitle": "The Best Of The Early Years",
 		"price": 10,
 		"artist": "10cc"
 	},
