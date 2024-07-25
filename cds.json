@@ -1170,11 +1170,6 @@
 		"artist": "BELLI, PETER"
 	},
 	{
-		"albumTitle": "Talisman",
-		"price": 10,
-		"artist": "BELLI, PETER"
-	},
-	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "BELLI, PETER"
@@ -1182,11 +1177,6 @@
 	{
 		"albumTitle": "Helt Igennem Respektabel 1959-99 (2CD)",
 		"artist": "BELLI, PETER",
-		"price": 10
-	},
-	{
-		"albumTitle": "Peter & Ulvene, Live Fra Hit House",
-		"artist": "BELLI, PETER & ULVENE",
 		"price": 10
 	},
 	{
@@ -2195,11 +2185,6 @@
 		"artist": "CAREY, MARIAH"
 	},
 	{
-		"albumTitle": "Hits Platinum",
-		"price": 10,
-		"artist": "CAREY, MARIAH"
-	},
-	{
 		"albumTitle": "Mariah Carey",
 		"price": 10,
 		"artist": "CAREY, MARIAH"
@@ -3185,11 +3170,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "This Time, Twelve Worldvide Hits",
-		"artist": "CULTURE CLUB",
-		"price": 10
-	},
-	{
 		"albumTitle": "Mood Swings",
 		"artist": "CURE, THE",
 		"price": 15
@@ -4005,11 +3985,6 @@
 		"artist": "DR. HOOK & THE MEDICINE SHOW"
 	},
 	{
-		"albumTitle": "Greatest Hits, Best Of The Best (2CD)",
-		"artist": "DR. HOOK & THE MEDICINE SHOW",
-		"price": 10
-	},
-	{
 		"albumTitle": "Drengene Fra Angora",
 		"artist": "DRENGENE FRA ANGORA",
 		"price": 10
@@ -4210,11 +4185,6 @@
 		"artist": "EARTH WIND & FIRE"
 	},
 	{
-		"albumTitle": "The Very Best Of",
-		"price": 10,
-		"artist": "EARTH WIND & FIRE"
-	},
-	{
 		"albumTitle": "No Strings",
 		"price": 10,
 		"artist": "EASTON, SHEENA"
@@ -4260,11 +4230,6 @@
 		"artist": "EKDAHL, LISA"
 	},
 	{
-		"albumTitle": "Definitive Collection",
-		"price": 10,
-		"artist": "ELECTRIC LIGHT ORCHESTRA"
-	},
-	{
 		"albumTitle": "ELO's Greatest Hits",
 		"price": 10,
 		"artist": "ELECTRIC LIGHT ORCHESTRA"
@@ -4273,11 +4238,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "ELECTRIC LIGHT ORCHESTRA"
-	},
-	{
-		"albumTitle": "The Very Best Of (2CD)",
-		"artist": "ELECTRIC LIGHT ORCHESTRA",
-		"price": 10
 	},
 	{
 		"albumTitle": "Hot Summer Dance",
@@ -5795,11 +5755,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Change Of Season",
-		"price": 10,
-		"artist": "HALL & OATES"
-	},
-	{
 		"albumTitle": "Do It For Love",
 		"price": 10,
 		"artist": "HALL & OATES"
@@ -6880,16 +6835,6 @@
 		"artist": "JAYHAWKS, THE"
 	},
 	{
-		"albumTitle": "Journey, The Best Of",
-		"artist": "JEFFERSON AIRPLANE",
-		"price": 20
-	},
-	{
-		"albumTitle": "The Best Of",
-		"artist": "JEFFERSON AIRPLANE",
-		"price": 15
-	},
-	{
 		"albumTitle": "Greatest Hits",
 		"artist": "JEFFERSON STARSHIP",
 		"price": 10
@@ -7028,11 +6973,6 @@
 		"albumTitle": "Alpha Han",
 		"price": 10,
 		"artist": "JOKEREN"
-	},
-	{
-		"albumTitle": "Hej Igen (2CD)",
-		"artist": "JOMFRU ANE BAND",
-		"price": 10
 	},
 	{
 		"albumTitle": "Camille Jones",
@@ -8435,11 +8375,6 @@
 		"price": 30
 	},
 	{
-		"albumTitle": "Next Stop Svabonius",
-		"artist": "LILHOLT, LARS & PER",
-		"price": 10
-	},
-	{
 		"albumTitle": "Den 7. Dag",
 		"price": 10,
 		"artist": "LARS LILHOLT BAND"
@@ -8500,22 +8435,12 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Og Fanden Dukked Op Og Sagde JA",
-		"artist": "LARS LILHOLT BAND",
-		"price": 10
-	},
-	{
 		"albumTitle": "Smukkere Med Tiden (CD+DVD)",
 		"artist": "LARS LILHOLT BAND",
 		"price": 10
 	},
 	{
 		"albumTitle": "16 Største Succes'er Vol. 1",
-		"price": 10,
-		"artist": "LILLER, BJARNE"
-	},
-	{
-		"albumTitle": "20 Største Hits",
 		"price": 10,
 		"artist": "LILLER, BJARNE"
 	},
@@ -8618,11 +8543,6 @@
 		"albumTitle": "Univers 3",
 		"price": 10,
 		"artist": "LINNET, ANNE"
-	},
-	{
-		"albumTitle": "Univers 1",
-		"artist": "ANNE LINNET BAND",
-		"price": 10
 	},
 	{
 		"albumTitle": "Cha Cha Cha",
@@ -9040,19 +8960,9 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "De Tørre & De Bedste (3CD+DVD)",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
-	},
-	{
 		"albumTitle": "Den Blinde Lotterisælger...",
 		"artist": "MADSEN, JOHNNY",
 		"price": 30
-	},
-	{
-		"albumTitle": "Godt Nyt",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
 	},
 	{
 		"albumTitle": "Godt Nyt (NY i folie)",
@@ -9066,11 +8976,6 @@
 	},
 	{
 		"albumTitle": "Madsen På Den Anden Side",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
-	},
-	{
-		"albumTitle": "Madsens Septiktanker",
 		"artist": "MADSEN, JOHNNY",
 		"price": 10
 	},
@@ -9985,17 +9890,7 @@
 		"artist": "MO, LAURA"
 	},
 	{
-		"albumTitle": "Alone",
-		"price": 10,
-		"artist": "MODERN TALKING"
-	},
-	{
 		"albumTitle": "Back For Good",
-		"price": 10,
-		"artist": "MODERN TALKING"
-	},
-	{
-		"albumTitle": "Romantic Warriors",
 		"price": 10,
 		"artist": "MODERN TALKING"
 	},
@@ -10586,11 +10481,6 @@
 	},
 	{
 		"albumTitle": "Great News",
-		"price": 10,
-		"artist": "NEWS"
-	},
-	{
-		"albumTitle": "News (Mercury)",
 		"price": 10,
 		"artist": "NEWS"
 	},
@@ -11505,29 +11395,9 @@
 		"artist": "POISON"
 	},
 	{
-		"albumTitle": "Greatest Hits",
-		"price": 10,
-		"artist": "POLICE, THE"
-	},
-	{
-		"albumTitle": "Outlandos d'Amour",
-		"price": 10,
-		"artist": "POLICE, THE"
-	},
-	{
 		"albumTitle": "Their Greatest Hits",
 		"price": 10,
 		"artist": "POLICE, THE"
-	},
-	{
-		"albumTitle": "Zenyetta Mondatta",
-		"price": 10,
-		"artist": "POLICE, THE"
-	},
-	{
-		"albumTitle": "The Police (2CD)",
-		"artist": "POLICE, THE",
-		"price": 10
 	},
 	{
 		"albumTitle": "Tampen Brænder",
@@ -11646,11 +11516,6 @@
 	},
 	{
 		"albumTitle": "Lovesexy",
-		"artist": "PRINCE",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Beautiful Experience",
 		"artist": "PRINCE",
 		"price": 10
 	},
@@ -11886,11 +11751,6 @@
 	},
 	{
 		"albumTitle": "R.E.M. Live (2CD+DVD)",
-		"artist": "R.E.M.",
-		"price": 10
-	},
-	{
-		"albumTitle": "Part Lies, Part Heart, Part Truth, Part Garbage",
 		"artist": "R.E.M.",
 		"price": 10
 	},
@@ -13475,6 +13335,11 @@
 		"artist": "SHU-BI-DUA"
 	},
 	{
+		"albumTitle": "5 (78'eren)",
+		"price": 10,
+		"artist": "SHU-BI-DUA"
+	},
+	{
 		"albumTitle": "6",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
@@ -14853,6 +14718,11 @@
 		"albumTitle": "Ingen Slukker The Stars",
 		"price": 10,
 		"artist": "SUSPEKT"
+	},
+	{
+		"albumTitle": "Inkl. Chris & Chokoladefabrikken",
+		"price": 10,
+		"artist": "SVEDBANKEN"
 	},
 	{
 		"albumTitle": "Fragments",
@@ -16888,5 +16758,1255 @@
 		"albumTitle": "Paradoxx",
 		"price": 10,
 		"artist": "666"
+	},
+	{
+		"albumTitle": "18 Movie Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "25 År Med The Real Dansktop (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "5 Rock-Hits, Masters Of The Rock-Era 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "25 Rock-Hits, Masters Of The Rock-Era 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "80'ernes Boheme",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "A Very Special Christmas 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "ABBA, The Tribute",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Christmas 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Disco (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 3",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 4",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 5",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 6",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 7",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 8",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 9",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 10",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 11",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 12",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 13",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 14",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 15",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 16",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 17",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 18",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 19",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 20",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 21",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 22",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 23",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 24",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 25",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 26",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 27",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 28",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Music 29",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Absolute Summer Hits 2012 (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Acoustic Love Songs (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "All 90's Part 1 (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "All Woman 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "All Woman 3 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "All Woman 4 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Alle Tiders Danske Hits 1 (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Alle Tiders For Fuld Jul (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Alle Tiders Rock Hits (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Armageddon, The Album",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Best Of Rock",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Broken Dreams, The Most Praiced 38 Rock Anthems (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Buddy, The Buddy Holly Story Live",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "California Dreaming (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Capitol Country Music Classics 1970",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Careless Whisper Vol. 1 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Careless Whisper Vol. 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Careless Whisper Vol. 3 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Chess (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Christiania",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Come Together, Teaterkoncerten på Gasværket (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Coming On Strong, The Rock Coll. Vol. 3",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Country Legends",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Danmark Nu Blunder Den Lyse Nat",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dansk Guldalder Jazz Vol. 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dansk Melodi Grand Prix 2002",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dansk Melodi Grand Prix 2007",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dansk Rock",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Danske 80'er Hits (De Største & De Mindste)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dansktoppens Juleparade",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dejlige Danske Slagere (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Dem Jeg Elsker, 32 Danske Sange (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik Præsentation (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik, Smagsprøver (paphylster)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1981-83 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1984-86 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1987-89 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1989-91 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1990-92 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik 1993-95 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Bedste Af Dansk Musik Smagsprøver",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Det Man Hører Er Man Selv, Latter 1997-2004 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Diesel, General Warning",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "DM i Dansk Rap 99",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "En Hyldest Til Sebastian",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "En Buket Sommerblomster (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Everlasting Love Songs 3",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Fantastiske 80'ere (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Far Til Fire Greatest Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Feel Like Making Love (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Flere Filmhits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Folk Og Røvere I Kardemommeby",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Forever Young, 34 Org. Hits Fra 80'erne (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Fredags Rock 2002 I Tivoli",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "From All Of Us (A Tribute To Lars Muhl)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Girls Night Out (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Greatest Hits Of The 70's (2C)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Greenpeace, Rainbow Warrior disc 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Hair, Betty Nansen Teateret 1996",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Heartbeat",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Highway Rock",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Himmelhunden, 20 Dansktop Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Hit, Hærg & Hentehår",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 69-70",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 75-76",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 77-78",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 79-80",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 83-84",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "- 85-86",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Jazz After Dark (2CD) (2001)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "More Jazz After Dark (2CD) (Universal)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Jeg Elsker Dig 1, Alle Tiders Danske Ballader (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Jeg Elsker Dig 2, Alle Tiders Danske Ballader (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kitch Hits 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kitch Hits 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kitch Hits 3",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kom Tilbage Nu 1 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kom Tilbage Nu 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kom Tilbage Nu 3 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Kom Tilbage Nu 4 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Live 'N' Kickin', Greatest Rock Tracks Ever",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Magi i Luften 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Make Some Noise, Save Darfur (John Lennon Covers)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Mamma Mia, The Movie Soundtrack",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Mandalay, 20 Danske Evergreens",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Mona Mona, Du Er Så Smuk Og Dejlig",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "More Music 2014 (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "More Gold (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "More Than A Feeling (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Most Wanted Julehits (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Most Wanted Sommerhits (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Most Wanted Rock 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Moulin Rouge",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Muse, The Supermassive Selection",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Best Of Country (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Best Of The 80s (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Best Of The 90s (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Best Of Moviehits (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Music Of The Millennium I (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Music That Inspired Buena Vista Social Club (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Musical Greatest, Danske Musical Hits (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Musicalen Atlantis",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Mød Mig I Mørket, Danske Rock Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Nat & Dag (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Nat & Dag 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "NOW Summer 2003 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "NOW That's What I Call Christmas (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "O Florens Rosa",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Og Det Var Danmark",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Punk Generation : God Save The Queen",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Punk Generation : My Way",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Red Hot, 20 Scorching Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Reklame Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Reservoir Dogs",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Respect, The Soundtrack To The Soul Generation (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Rock Anthems, 38 Classic Rock Tracks (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Rock Island Line, The Country Collection",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Rock 'N' Roll Heaven Vol. 3: Shakin' All Over",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Rock The Planet (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sangperler Fra Den Danske FIlmskat",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Schwein Sein (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sebastian's Cyrano",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sebastian's Skatteøen",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Soft Rock (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Something Special",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sommer Pop",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sommerhits Top 100 (4CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Stand By Me, 22 Original Soul Hits",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Sunset Blvd., The Andrew Lloyd Webber Musical (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Superstar Christmas",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Superstars, Simply The Best",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Take No Crap Alle Tiders 90'er Hits (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The 80's Collection",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The All Time Greatest Rock Songs Vol. 1 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The All Time Greatest Rock Songs Vol. 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Best Air Guitar Album In The World.. Ever (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Best Girl Power Album.. Ever (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Best Of Country (3CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Hippie Collection",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Pink Album (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Rock Collection 2, On The Wild Side",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Rock Collection 3, Coming On Strong",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Sixties Decade 1960",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Sixties Decade 1967",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Superstars Collection Vol. 1",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Ultimate Love Songs (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Driving Time (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music Presentation Sampler",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 79-80 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 80-81 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 81-82 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 82-83 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 83-84 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 84-85 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 85-86 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 86-87 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 87-88 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Pop Music 91-92 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "The Very Best Of Rock, Rock'n'Roll 1957-58 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Top Charlie 1 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Top Charlie 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Top Charlie 3 (CD/DVD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Top Hits Of The 70's (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Travelling V (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Twist & Shout Vol. 1 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Twist & Shout Vol. 2 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Two Rooms, Celebrating The Songs of Elton John & Bernie Taupin",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Vi Skal Alle Gerne Ha' Mere, Player Mix 01",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Værsgo 2",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "War Of The Worlds Highlights (NY)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Woman I",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Woman II",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Woman III (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Woman IV (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Woman V (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Women In Country",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Women, The Best 2008 (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Zoo Magazine CD Sampler 08",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Hej Frede",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Hemli' Helikopter",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Pa-Papegøje",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Tusindvis Af Is",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Åh Abe!",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "100 80'er Hits (5CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "100 Love Songs (6CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "100 Summer Hits (6CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 25
+	},
+	{
+		"albumTitle": "100 Summer Hits (6CD) (se beskrivelse)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "63 Hits From The Sensational Seventies (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Danske 60'er Hits",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Filmhits Boxen (3CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Folkemunde 1",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Folkemunde 2",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Glamkings Of Rock (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Greatest Hits Of The 70's (8CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 40
+	},
+	{
+		"albumTitle": "Greatest Hits Of The 80's (8CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Hvis Du Tror Du Er Noget (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Jesus Christ Superstar (Studio Cast))(2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Jesus Christ Superstar (soundtrack)(2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 15
+	},
+	{
+		"albumTitle": "Let's Go (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Let Me Tell You About The Blues, Texas",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Live Fra Østre Gasværk Teaterkoncerten Gasolin",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "More Greatest Hits Of The 80's (8CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 40
+	},
+	{
+		"albumTitle": "Pigtrådsmusik 1 (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 50
+	},
+	{
+		"albumTitle": "Pigtrådsmusik 2 (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 50
+	},
+	{
+		"albumTitle": "Postkort Fra Livet (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Remember The 70's (3CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Sixties UK (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Superhits Of The 80's (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 25
+	},
+	{
+		"albumTitle": "The Best Of Woodstock (remastered)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "War Of The Worlds (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Woodstock '94 (2CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 20
+	},
+	{
+		"albumTitle": "Åh Abe! De Bedste (4CD)",
+		"artist": "DIVERSE KUSTNERE",
+		"price": 10
 	}
 ]
