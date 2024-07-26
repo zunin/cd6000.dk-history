@@ -10900,31 +10900,6 @@
 		"artist": "OLDFIELD, MIKE"
 	},
 	{
-		"albumTitle": "Angelina",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
-		"albumTitle": "Songs",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
-		"albumTitle": "The Collection",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
-		"albumTitle": "The Story Of, De Største Hits 1972-2000",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
-		"albumTitle": "Wings Of Love",
-		"price": 10,
-		"artist": "OLSEN, BRØDRENE"
-	},
-	{
 		"albumTitle": "En Gros (2CD)",
 		"price": 10,
 		"artist": "OLSEN, ALLAN"
@@ -10968,6 +10943,31 @@
 		"albumTitle": "Rygter Fra Randområderne (2CD)",
 		"artist": "OLSEN, ALLAN & NORLAN",
 		"price": 10
+	},
+	{
+		"albumTitle": "Angelina",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
+	},
+	{
+		"albumTitle": "Songs",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
+	},
+	{
+		"albumTitle": "The Collection",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
+	},
+	{
+		"albumTitle": "The Story Of, De Største Hits 1972-2000",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
+	},
+	{
+		"albumTitle": "Wings Of Love",
+		"price": 10,
+		"artist": "OLSEN, BRØDRENE"
 	},
 	{
 		"albumTitle": "Det Stille Ocean",
