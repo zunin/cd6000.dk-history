@@ -510,6 +510,11 @@
 		"artist": "ANDERSEN, MICHAEL"
 	},
 	{
+		"albumTitle": "Big Science",
+		"artist": "ANDERSON, LAURIE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Benny Anderssons Orkester",
 		"price": 10,
 		"artist": "ANDERSSONS ORKESTER, BENNY"
@@ -900,7 +905,17 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Komplet 1982-1994 (Sølvboksen)(remastered)(9CD+DVD)",
+		"albumTitle": "Komplet 1982-1994",
+		"artist": "BAMSES VENNER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Rockcreme",
+		"artist": "BAMSES VENNER",
+		"price": 10
+	},
+	{
+		"albumTitle": "(Sølvboksen)(remastered)(9CD+DVD)",
 		"artist": "BAMSES VENNER",
 		"price": 10
 	},
@@ -1808,6 +1823,11 @@
 		"albumTitle": "Edge",
 		"price": 10,
 		"artist": "BRAITHWAITE, DARYL"
+	},
+	{
+		"albumTitle": "Unonthodox Behaviour",
+		"artist": "BRAND X",
+		"price": 10
 	},
 	{
 		"albumTitle": "Baby Blue, Bob Dylan Gendigtet (2CD)",
@@ -3355,6 +3375,16 @@
 		"artist": "DAVID, CRAIG"
 	},
 	{
+		"albumTitle": "Other People's Lives",
+		"price": 10,
+		"artist": "DAVIES, RAY"
+	},
+	{
+		"albumTitle": "Working Man's Café",
+		"price": 10,
+		"artist": "DAVIES, RAY"
+	},
+	{
 		"albumTitle": "10 Top Tracks",
 		"price": 10,
 		"artist": "DAVIS, MILES"
@@ -3695,7 +3725,7 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Live At The BBC",
+		"albumTitle": "Live AT The BBC",
 		"artist": "DIRE STRAITS",
 		"price": 10
 	},
@@ -5400,6 +5430,11 @@
 		"artist": "GOO GOO DOLLS, THE"
 	},
 	{
+		"albumTitle": "The Good, The Bad & The Queen",
+		"price": 10,
+		"artist": "THE GOOD, THE BAD & THE QUEEN"
+	},
+	{
 		"albumTitle": "Good Morning Revival",
 		"price": 10,
 		"artist": "GOOD CHARLOTTE"
@@ -5671,6 +5706,11 @@
 	},
 	{
 		"albumTitle": "The Spaghetti Incident",
+		"price": 10,
+		"artist": "GUNS 'N ROSES"
+	},
+	{
+		"albumTitle": "Use Your Illusion I",
 		"price": 10,
 		"artist": "GUNS 'N ROSES"
 	},
@@ -6638,6 +6678,11 @@
 		"albumTitle": "X",
 		"price": 10,
 		"artist": "INXS"
+	},
+	{
+		"albumTitle": "Brave New World",
+		"artist": "IRON MAIDEN",
+		"price": 10
 	},
 	{
 		"albumTitle": "San Francisco Days",
@@ -9615,6 +9660,11 @@
 		"artist": "MERCURY, FREDDIE"
 	},
 	{
+		"albumTitle": "Deserter's Songs",
+		"price": 10,
+		"artist": "MERCURY REV"
+	},
+	{
 		"albumTitle": "Reload",
 		"artist": "METALLICA",
 		"price": 10
@@ -11145,6 +11195,11 @@
 		"artist": "PARADIS, VANESSA"
 	},
 	{
+		"albumTitle": "Host",
+		"artist": "PARADISE LOST",
+		"price": 10
+	},
+	{
 		"albumTitle": "Riot!",
 		"price": 10,
 		"artist": "PARAMORE"
@@ -11276,6 +11331,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits",
+		"artist": "PETTY, TOM & THE HEARTBREAKERS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Into The Great Wide Open",
 		"artist": "PETTY, TOM & THE HEARTBREAKERS",
 		"price": 10
 	},
@@ -12905,11 +12965,6 @@
 		"artist": "SANDNES, SOLVEIG"
 	},
 	{
-		"albumTitle": "As The Years Go By",
-		"price": 10,
-		"artist": "SANTANA"
-	},
-	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "SANTANA"
@@ -12920,17 +12975,7 @@
 		"artist": "SANTANA"
 	},
 	{
-		"albumTitle": "Summerdreams, The Best Ballads",
-		"price": 10,
-		"artist": "SANTANA"
-	},
-	{
 		"albumTitle": "Supernatural",
-		"price": 10,
-		"artist": "SANTANA"
-	},
-	{
-		"albumTitle": "Viva Santana, The Very Best",
 		"price": 10,
 		"artist": "SANTANA"
 	},
@@ -13660,6 +13705,11 @@
 		"artist": "SISTERS OF MERCY, THE"
 	},
 	{
+		"albumTitle": "Vision Thing",
+		"artist": "SISTERS OF MERCY, THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Divine Discontent",
 		"price": 10,
 		"artist": "SIXPENCE NONE THE RICHER"
@@ -13883,6 +13933,11 @@
 		"albumTitle": "The Interviews, Speak 1a",
 		"price": 10,
 		"artist": "SMITHS, THE"
+	},
+	{
+		"albumTitle": "Louder Than Bombs",
+		"artist": "SMITHS, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Celebration",
@@ -14425,6 +14480,11 @@
 		"artist": "STICKS 'N' FIRE"
 	},
 	{
+		"albumTitle": "Inflammable Matherial",
+		"price": 10,
+		"artist": "STIFF LITTLE FINGERS"
+	},
+	{
 		"albumTitle": "Curtis Stigers",
 		"price": 10,
 		"artist": "STIGERS, CURTIS"
@@ -14680,6 +14740,11 @@
 		"artist": "SUKKERCHOK"
 	},
 	{
+		"albumTitle": "I Should Coco",
+		"price": 10,
+		"artist": "SUPERGRASS"
+	},
+	{
 		"albumTitle": "Supergrass Is 10",
 		"price": 10,
 		"artist": "SUPERGRASS"
@@ -14898,6 +14963,11 @@
 		"albumTitle": "Beautiful World",
 		"price": 10,
 		"artist": "TAKE THAT"
+	},
+	{
+		"albumTitle": "The Colour Of Spring",
+		"artist": "TALK TALK",
+		"price": 10
 	},
 	{
 		"albumTitle": "True Stories",
@@ -15171,6 +15241,11 @@
 	},
 	{
 		"albumTitle": "Past To Present 1977-1990",
+		"price": 10,
+		"artist": "TOTO"
+	},
+	{
+		"albumTitle": "Tambu",
 		"price": 10,
 		"artist": "TOTO"
 	},
@@ -15690,6 +15765,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Best Of Volume 1",
+		"artist": "VAN HALEN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Blowin' Your Mind",
 		"price": 10,
 		"artist": "VAN MORRISON"
@@ -15726,6 +15806,11 @@
 	},
 	{
 		"albumTitle": "Goodbye Baby",
+		"artist": "VAN MORRISON",
+		"price": 10
+	},
+	{
+		"albumTitle": "Keep It Simple",
 		"artist": "VAN MORRISON",
 		"price": 10
 	},
