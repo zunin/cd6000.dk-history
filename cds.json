@@ -2075,11 +2075,6 @@
 		"artist": "BURHAN G"
 	},
 	{
-		"albumTitle": "Din For Evigt",
-		"price": 10,
-		"artist": "BURHAN G"
-	},
-	{
 		"albumTitle": "Playground (debutalbummet..)",
 		"price": 10,
 		"artist": "BURHAN G"
@@ -7425,6 +7420,11 @@
 		"artist": "KERSHAW, NIK"
 	},
 	{
+		"albumTitle": "De Her Dage",
+		"price": 10,
+		"artist": "KEY MARIE"
+	},
+	{
 		"albumTitle": "As I Am",
 		"price": 10,
 		"artist": "KEYS, ALICIA"
@@ -7543,6 +7543,11 @@
 		"albumTitle": "mp3 (30 albums på 2 mp3 CD'er)",
 		"artist": "KISS",
 		"price": 10
+	},
+	{
+		"albumTitle": "Release The Birds",
+		"price": 10,
+		"artist": "KISS KISS KISS"
 	},
 	{
 		"albumTitle": "Into The Ocean And Rise Again (EP)",
@@ -7900,7 +7905,12 @@
 		"artist": "KRISTOFFERSON, KRIS"
 	},
 	{
-		"albumTitle": "The Best Of",
+		"albumTitle": "The Best Of (Sony)",
+		"price": 10,
+		"artist": "KRISTOFFERSON, KRIS"
+	},
+	{
+		"albumTitle": "The Best Of (Camden)",
 		"price": 10,
 		"artist": "KRISTOFFERSON, KRIS"
 	},
@@ -7988,6 +7998,11 @@
 		"albumTitle": "Ingénue",
 		"price": 10,
 		"artist": "LANG, k.d."
+	},
+	{
+		"albumTitle": "Take Me Home",
+		"artist": "LANGE, H.P. & TROELS JENSEN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Behold",
@@ -8208,6 +8223,11 @@
 		"albumTitle": "The * Collection",
 		"price": 10,
 		"artist": "LEAR, AMANDA"
+	},
+	{
+		"albumTitle": "Det' En Hemlighed",
+		"artist": "LECIA",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Collection",
@@ -8473,11 +8493,6 @@
 		"albumTitle": "Med Natten Mod Vest",
 		"price": 10,
 		"artist": "LARS LILHOLT BAND"
-	},
-	{
-		"albumTitle": "Ofelia",
-		"artist": "LARS LILHOLT BAND",
-		"price": 10
 	},
 	{
 		"albumTitle": "Smukkere Med Tiden (CD+DVD)",
@@ -9320,6 +9335,11 @@
 		"artist": "MATTHEWS BAND, DAVE"
 	},
 	{
+		"albumTitle": "Under The Table And Dreaming",
+		"price": 10,
+		"artist": "MATTHEWS BAND, DAVE"
+	},
+	{
 		"albumTitle": "The Best Of Me",
 		"price": 10,
 		"artist": "MAXI PRIEST"
@@ -9390,7 +9410,22 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Flaming Pie",
+		"artist": "McCARTNEY, PAUL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Tripping The Live Fantastic Highlights",
+		"artist": "McCARTNEY, PAUL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Tripping The Live Fantastic (2CD)",
+		"artist": "McCARTNEY, PAUL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Unplugged",
 		"artist": "McCARTNEY, PAUL",
 		"price": 10
 	},
@@ -9528,6 +9563,11 @@
 		"albumTitle": "Welcome To The Neighbourhood",
 		"price": 10,
 		"artist": "MEAT LOAF"
+	},
+	{
+		"albumTitle": "Velkommen Til Medina",
+		"price": 10,
+		"artist": "MEDINA"
 	},
 	{
 		"albumTitle": "Countdown To Extinction (remastered)",
@@ -9695,6 +9735,11 @@
 		"artist": "MEW"
 	},
 	{
+		"albumTitle": "Death Magnetic",
+		"artist": "MEW",
+		"price": 10
+	},
+	{
 		"albumTitle": "Half The World Is Watching Me",
 		"artist": "MEW",
 		"price": 10
@@ -9746,6 +9791,11 @@
 	},
 	{
 		"albumTitle": "Colours",
+		"price": 10,
+		"artist": "MICHAEL LEARNS TO ROCK"
+	},
+	{
+		"albumTitle": "Michael Learns To Rock",
 		"price": 10,
 		"artist": "MICHAEL LEARNS TO ROCK"
 	},
@@ -9940,6 +9990,11 @@
 		"artist": "MO, LAURA"
 	},
 	{
+		"albumTitle": "Alone",
+		"price": 10,
+		"artist": "MODERN TALKING"
+	},
+	{
 		"albumTitle": "Back For Good",
 		"price": 10,
 		"artist": "MODERN TALKING"
@@ -9990,6 +10045,11 @@
 		"artist": "MOGENSEN, JOHN"
 	},
 	{
+		"albumTitle": "We Had Faces Then",
+		"artist": "MOI CAPRICE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Guilty",
 		"price": 10,
 		"artist": "MONIQUE"
@@ -10003,6 +10063,11 @@
 		"albumTitle": "The Woman For You",
 		"price": 10,
 		"artist": "MONIQUE"
+	},
+	{
+		"albumTitle": "The * Collection, 25th Anniversary Edition",
+		"artist": "MONKEES, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "1991",
@@ -10345,6 +10410,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Isn't Anything",
+		"artist": "MY BLOODY VALENTINE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Growing Pains",
 		"price": 10,
 		"artist": "MYERS, BILLIE"
@@ -10435,6 +10505,11 @@
 		"artist": "NASH, KATE"
 	},
 	{
+		"albumTitle": "I Danmark Er Jeg Født",
+		"price": 10,
+		"artist": "NATASJA"
+	},
+	{
 		"albumTitle": "Det Ka' Jo Aldrig Gå Værre End Hiel Gal",
 		"price": 10,
 		"artist": "NATTERGALE, DE"
@@ -10501,6 +10576,11 @@
 	},
 	{
 		"albumTitle": "DanmarkDenmark (CD+DVD)",
+		"artist": "NEPHEW",
+		"price": 10
+	},
+	{
+		"albumTitle": "Roskilde 07.07.07 (CD+DVD)",
 		"artist": "NEPHEW",
 		"price": 10
 	},
@@ -10665,6 +10745,11 @@
 		"artist": "NIK & JAY"
 	},
 	{
+		"albumTitle": "Engle Eller Dæmoner (2CD)",
+		"artist": "NIK & JAY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Piloter",
 		"price": 10,
 		"artist": "NIKOLAJ"
@@ -10740,6 +10825,11 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
+		"albumTitle": "Nevermind",
+		"price": 10,
+		"artist": "NIRVANA"
+	},
+	{
 		"albumTitle": "Noah",
 		"artist": "NOAH",
 		"price": 10
@@ -10780,6 +10870,11 @@
 		"artist": "NORBY, CÆCILIE"
 	},
 	{
+		"albumTitle": "I Had A Ball",
+		"price": 10,
+		"artist": "NORBY, CÆCILIE"
+	},
+	{
 		"albumTitle": "My Corner Of The Sky",
 		"price": 10,
 		"artist": "NORBY, CÆCILIE"
@@ -10798,6 +10893,11 @@
 		"albumTitle": "Tango",
 		"price": 10,
 		"artist": "NORGE, KAARE"
+	},
+	{
+		"albumTitle": "Hits From The Heart",
+		"price": 10,
+		"artist": "NORMAN, CHRIS"
 	},
 	{
 		"albumTitle": "The Hits! (2CD)",
@@ -10930,6 +11030,11 @@
 		"artist": "OLDFIELD, MIKE"
 	},
 	{
+		"albumTitle": "Platinum",
+		"price": 10,
+		"artist": "OLDFIELD, MIKE"
+	},
+	{
 		"albumTitle": "QE2",
 		"price": 10,
 		"artist": "OLDFIELD, MIKE"
@@ -10941,6 +11046,11 @@
 	},
 	{
 		"albumTitle": "Tubular Bells",
+		"price": 10,
+		"artist": "OLDFIELD, MIKE"
+	},
+	{
+		"albumTitle": "Tubular Bells II",
 		"price": 10,
 		"artist": "OLDFIELD, MIKE"
 	},
@@ -10985,6 +11095,11 @@
 		"artist": "OLSEN, ALLAN"
 	},
 	{
+		"albumTitle": "Multo Importante",
+		"artist": "OLSEN, ALLAN",
+		"price": 20
+	},
+	{
 		"albumTitle": "Onomatopoietikon",
 		"artist": "OLSEN, ALLAN",
 		"price": 10
@@ -11020,6 +11135,11 @@
 		"artist": "OLSEN, BRØDRENE"
 	},
 	{
+		"albumTitle": "Rockstalgi",
+		"artist": "OLSEN, BRØDRENE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Det Stille Ocean",
 		"artist": "OLSEN, JØRGEN",
 		"price": 10
@@ -11028,6 +11148,11 @@
 		"albumTitle": "Jørgen Olsen",
 		"artist": "OLSEN, JØRGEN",
 		"price": 20
+	},
+	{
+		"albumTitle": "Wall Of Pride",
+		"artist": "OMAR & THE HOWLERS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Sugar Tax",
@@ -11135,6 +11260,16 @@
 		"artist": "OSCAR"
 	},
 	{
+		"albumTitle": "I Only Wanted You",
+		"artist": "OSMOND, MARIE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Bread & Barrels Of Water",
+		"price": 10,
+		"artist": "OUTLANDISH"
+	},
+	{
 		"albumTitle": "Closer Than Veins",
 		"price": 10,
 		"artist": "OUTLANDISH"
@@ -11143,6 +11278,11 @@
 		"albumTitle": "Outlandish Official",
 		"price": 10,
 		"artist": "OUTLANDISH"
+	},
+	{
+		"albumTitle": "The Very Best Of",
+		"price": 10,
+		"artist": "OWENS, BUCK"
 	},
 	{
 		"albumTitle": "Here I Stand",
@@ -11215,12 +11355,22 @@
 		"artist": "PARKER, CHARLIE"
 	},
 	{
+		"albumTitle": "Vulture Culture",
+		"artist": "THE ALAN PARSONS PROJECT",
+		"price": 10
+	},
+	{
 		"albumTitle": "Backwoods Barbie",
 		"price": 10,
 		"artist": "PARTON, DOLLY"
 	},
 	{
-		"albumTitle": "Greatest Hits",
+		"albumTitle": "Greatest Hits (RCA)",
+		"price": 10,
+		"artist": "PARTON, DOLLY"
+	},
+	{
+		"albumTitle": "Greatest Hits (Camden)",
 		"price": 10,
 		"artist": "PARTON, DOLLY"
 	},
@@ -11320,6 +11470,11 @@
 		"artist": "PET SHOP BOYS"
 	},
 	{
+		"albumTitle": "Gi' Gas",
+		"artist": "PETER + DE ANDRE KOPIER",
+		"price": 10
+	},
+	{
 		"albumTitle": "Ten Years Together Best Of",
 		"price": 10,
 		"artist": "PETER PAUL & NARY"
@@ -11378,6 +11533,31 @@
 		"albumTitle": "The Very Best Of - Mon Legionnaire",
 		"price": 10,
 		"artist": "PIAF, EDITH"
+	},
+	{
+		"albumTitle": "Can't Take Me Home",
+		"price": 10,
+		"artist": "PINK"
+	},
+	{
+		"albumTitle": "Funhouse",
+		"price": 10,
+		"artist": "PINK"
+	},
+	{
+		"albumTitle": "I'm Not Dead",
+		"price": 10,
+		"artist": "PINK"
+	},
+	{
+		"albumTitle": "Missundaztood",
+		"price": 10,
+		"artist": "PINK"
+	},
+	{
+		"albumTitle": "Try This",
+		"price": 10,
+		"artist": "PINK"
 	},
 	{
 		"albumTitle": "A Collection Of Great Dance Songs",
@@ -13421,6 +13601,11 @@
 	},
 	{
 		"albumTitle": "14",
+		"price": 10,
+		"artist": "SHU-BI-DUA"
+	},
+	{
+		"albumTitle": "15",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
