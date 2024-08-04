@@ -4830,21 +4830,6 @@
 		"artist": "FISCHER, HELENE"
 	},
 	{
-		"albumTitle": "So Nah Wie Du",
-		"price": 10,
-		"artist": "FISCHER, HELENE"
-	},
-	{
-		"albumTitle": "So Wie Ich Bin",
-		"price": 10,
-		"artist": "FISCHER, HELENE"
-	},
-	{
-		"albumTitle": "Zaubermond",
-		"price": 10,
-		"artist": "FISCHER, HELENE"
-	},
-	{
 		"albumTitle": "Bundgarnsfiskerne, En Aften Med Fisker Thomas Og Alle Vennerne",
 		"price": 10,
 		"artist": "FISKER THOMAS"
@@ -13576,6 +13561,11 @@
 	},
 	{
 		"albumTitle": "8",
+		"price": 10,
+		"artist": "SHU-BI-DUA"
+	},
+	{
+		"albumTitle": "9",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
