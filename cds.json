@@ -945,22 +945,7 @@
 		"artist": "BAND OF HORSES"
 	},
 	{
-		"albumTitle": "All Over The Place/Different Light (2CD)",
-		"price": 10,
-		"artist": "BANGLES"
-	},
-	{
-		"albumTitle": "Different Light",
-		"price": 10,
-		"artist": "BANGLES"
-	},
-	{
 		"albumTitle": "Everything",
-		"price": 10,
-		"artist": "BANGLES"
-	},
-	{
-		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "BANGLES"
 	},
@@ -1285,11 +1270,6 @@
 		"artist": "BIG FAT SNAKE"
 	},
 	{
-		"albumTitle": "Midnight Hour (2CD+DVD)",
-		"artist": "BIG FAT SNAKE",
-		"price": 10
-	},
-	{
 		"albumTitle": "The Box (10CD)",
 		"artist": "BIG FAT SNAKE",
 		"price": 10
@@ -1531,11 +1511,6 @@
 	},
 	{
 		"albumTitle": "Blur",
-		"price": 10,
-		"artist": "BLUR"
-	},
-	{
-		"albumTitle": "The Best Of, Special Edition 2CD",
 		"price": 10,
 		"artist": "BLUR"
 	},
@@ -1820,11 +1795,6 @@
 		"artist": "BRANDOS, THE"
 	},
 	{
-		"albumTitle": "Edge",
-		"price": 10,
-		"artist": "BRAITHWAITE, DARYL"
-	},
-	{
 		"albumTitle": "Unonthodox Behaviour",
 		"artist": "BRAND X",
 		"price": 10
@@ -1975,17 +1945,7 @@
 		"artist": "BUBLÉ, MICHAEL"
 	},
 	{
-		"albumTitle": "Crazy Love Hollywood Edition (2CD)",
-		"price": 10,
-		"artist": "BUBLÉ, MICHAEL"
-	},
-	{
 		"albumTitle": "It's Time",
-		"price": 10,
-		"artist": "BUBLÉ, MICHAEL"
-	},
-	{
-		"albumTitle": "Michael Bublé",
 		"price": 10,
 		"artist": "BUBLÉ, MICHAEL"
 	},
@@ -2066,16 +2026,6 @@
 	},
 	{
 		"albumTitle": "Burhan G",
-		"price": 10,
-		"artist": "BURHAN G"
-	},
-	{
-		"albumTitle": "Burhan G Special Edition (2CD)",
-		"price": 10,
-		"artist": "BURHAN G"
-	},
-	{
-		"albumTitle": "Playground (debutalbummet..)",
 		"price": 10,
 		"artist": "BURHAN G"
 	},
@@ -4938,11 +4888,6 @@
 		"albumTitle": "Great Performances That Inspired The Motown's 25th Anniversary TV Special",
 		"price": 10,
 		"artist": "FOUR TOPS"
-	},
-	{
-		"albumTitle": "I Wanna Have Some Fun",
-		"price": 10,
-		"artist": "FOX, SAMANTHA"
 	},
 	{
 		"albumTitle": "The Hits Collection",
@@ -8660,21 +8605,6 @@
 		"artist": "LIVING IN A BOX"
 	},
 	{
-		"albumTitle": "Cassiopeia",
-		"price": 10,
-		"artist": "L.O.C."
-	},
-	{
-		"albumTitle": "Libertiner",
-		"price": 10,
-		"artist": "L.O.C."
-	},
-	{
-		"albumTitle": "Melankolia/XxxCouture (2CD)",
-		"price": 10,
-		"artist": "L.O.C."
-	},
-	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "LOBO"
@@ -8931,11 +8861,6 @@
 	},
 	{
 		"albumTitle": "Something To Remember",
-		"price": 10,
-		"artist": "MADONNA"
-	},
-	{
-		"albumTitle": "True Blue",
 		"price": 10,
 		"artist": "MADONNA"
 	},
@@ -10000,11 +9925,6 @@
 		"artist": "MOE, JOEY"
 	},
 	{
-		"albumTitle": "Moetown",
-		"price": 10,
-		"artist": "MOE, JOEY"
-	},
-	{
 		"albumTitle": "Der Er Noget Galt I Danmark (2CD)",
 		"price": 10,
 		"artist": "MOGENSEN, JOHN"
@@ -10725,19 +10645,9 @@
 		"artist": "NIELSEN, PETER A.G."
 	},
 	{
-		"albumTitle": "Nik & Jay",
-		"price": 10,
-		"artist": "NIK & JAY"
-	},
-	{
 		"albumTitle": "3: Fresh Fri Fly",
 		"price": 10,
 		"artist": "NIK & JAY"
-	},
-	{
-		"albumTitle": "Engle Eller Dæmoner (2CD)",
-		"artist": "NIK & JAY",
-		"price": 10
 	},
 	{
 		"albumTitle": "Piloter",
@@ -11625,6 +11535,16 @@
 		"artist": "POISON"
 	},
 	{
+		"albumTitle": "Regatta De Blanc",
+		"price": 10,
+		"artist": "POLICE, THE"
+	},
+	{
+		"albumTitle": "The Police (2CD)",
+		"price": 10,
+		"artist": "POLICE, THE"
+	},
+	{
 		"albumTitle": "Their Greatest Hits",
 		"price": 10,
 		"artist": "POLICE, THE"
@@ -11675,7 +11595,22 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
+		"albumTitle": "Forever",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
 		"albumTitle": "From Hawaii Via Satellite",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
+		"albumTitle": "Jailhouse Rock",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
+		"albumTitle": "Love Me Tender",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
 	},
@@ -11688,6 +11623,16 @@
 		"albumTitle": "The Great Performances",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
+	},
+	{
+		"albumTitle": "White Christmas",
+		"price": 10,
+		"artist": "PRESLEY. ELVIS"
+	},
+	{
+		"albumTitle": "Ther Selection Of (2CD)(asian release)",
+		"artist": "PRESLEY. ELVIS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Don't Get Me Wrong, 14 Classic Tracks",
@@ -11733,6 +11678,11 @@
 		"albumTitle": "Heaven Knows",
 		"price": 10,
 		"artist": "PRICE, RICK"
+	},
+	{
+		"albumTitle": "Sailing The Seas Of Cheese",
+		"price": 10,
+		"artist": "PRIMUS"
 	},
 	{
 		"albumTitle": "Come 1958-1993",
@@ -11785,6 +11735,16 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Beats Me",
+		"artist": "PSYCHED UP JANIS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Enter The Super Peppermint Lounge",
+		"artist": "PSYCHED UP JANIS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Swell",
 		"artist": "PSYCHED UP JANIS",
 		"price": 10
@@ -11803,6 +11763,11 @@
 		"albumTitle": "This Is Hardcore/This Is Glastonbury (2CD)",
 		"artist": "PULP",
 		"price": 10
+	},
+	{
+		"albumTitle": "Mississippi",
+		"price": 10,
+		"artist": "PUSSYCAT"
 	},
 	{
 		"albumTitle": "PCD",
@@ -11831,6 +11796,16 @@
 	},
 	{
 		"albumTitle": "Let's Dance 3",
+		"price": 10,
+		"artist": "PÅ SLAGET 12 (PS12)"
+	},
+	{
+		"albumTitle": "På Slaget 12 Spiller På Slaget 12",
+		"price": 10,
+		"artist": "PÅ SLAGET 12 (PS12)"
+	},
+	{
+		"albumTitle": "Ro Mit Hjerte..",
 		"price": 10,
 		"artist": "PÅ SLAGET 12 (PS12)"
 	},
@@ -11900,6 +11875,16 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Jazz",
+		"artist": "QUEEN",
+		"price": 25
+	},
+	{
+		"albumTitle": "Live At Wembley '86 (2CD)",
+		"artist": "QUEEN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Live At Wembley Stadium (2CD remastered)",
 		"artist": "QUEEN",
 		"price": 10
@@ -11908,6 +11893,11 @@
 		"albumTitle": "Live Magic",
 		"artist": "QUEEN",
 		"price": 20
+	},
+	{
+		"albumTitle": "Queen I",
+		"artist": "QUEEN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Queen II",
@@ -11985,6 +11975,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Ultimate Collection (2CD)(unofficial)",
+		"artist": "R.E.M.",
+		"price": 10
+	},
+	{
 		"albumTitle": "Say Wow!",
 		"price": 10,
 		"artist": "RACEY"
@@ -11993,6 +11988,16 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "RACEY"
+	},
+	{
+		"albumTitle": "Amnesiac",
+		"price": 10,
+		"artist": "RADIOHEAD"
+	},
+	{
+		"albumTitle": "My Iron Lung",
+		"price": 10,
+		"artist": "RADIOHEAD"
 	},
 	{
 		"albumTitle": "OK Computer",
@@ -12155,6 +12160,11 @@
 		"artist": "RAY DEE OHH"
 	},
 	{
+		"albumTitle": "Det Hele (3CD)",
+		"artist": "RAY DEE OHH",
+		"price": 25
+	},
+	{
 		"albumTitle": "Razorlight",
 		"price": 10,
 		"artist": "RAZORLIGHT"
@@ -12188,6 +12198,16 @@
 		"albumTitle": "The Very Best O",
 		"price": 10,
 		"artist": "REA, CHRIS"
+	},
+	{
+		"albumTitle": "On The Beach",
+		"artist": "REA, CHRIS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Tuesday",
+		"price": 10,
+		"artist": "REAMON"
 	},
 	{
 		"albumTitle": "Blood Sugar Sex Magik",
@@ -12350,6 +12370,11 @@
 		"artist": "REMBRANDTS, THE"
 	},
 	{
+		"albumTitle": "The Hits",
+		"artist": "REO SPEEDWAGON",
+		"price": 10
+	},
+	{
 		"albumTitle": "Republica",
 		"price": 10,
 		"artist": "REPUBLICA"
@@ -12500,6 +12525,11 @@
 		"artist": "RING, THOMAS"
 	},
 	{
+		"albumTitle": "Morseper",
+		"price": 10,
+		"artist": "ROBEN & KNUD"
+	},
+	{
 		"albumTitle": "Roben & Knud",
 		"price": 10,
 		"artist": "ROBEN & KNUD"
@@ -12595,7 +12625,17 @@
 		"artist": "ROGERS, KENNY & THE FIRST EDITION"
 	},
 	{
+		"albumTitle": "A Bigger Bang",
+		"price": 10,
+		"artist": "ROLLING STONES, THE"
+	},
+	{
 		"albumTitle": "Bridges To Babylon",
+		"price": 10,
+		"artist": "ROLLING STONES, THE"
+	},
+	{
+		"albumTitle": "Flashpoint",
 		"price": 10,
 		"artist": "ROLLING STONES, THE"
 	},
@@ -13135,6 +13175,11 @@
 		"artist": "SANDNES, SOLVEIG"
 	},
 	{
+		"albumTitle": "All That I Am",
+		"price": 10,
+		"artist": "SANTANA"
+	},
+	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "SANTANA"
@@ -13153,6 +13198,11 @@
 		"albumTitle": "Flying In A Blue Dream",
 		"price": 10,
 		"artist": "SATRIANI, JOE"
+	},
+	{
+		"albumTitle": "Actual Reality",
+		"price": 10,
+		"artist": "SAVAGE AFFAIR, THE"
 	},
 	{
 		"albumTitle": "Pink Pills For Pale People",
@@ -13196,6 +13246,11 @@
 	},
 	{
 		"albumTitle": "Anthology (2CD)",
+		"artist": "SAVAGE ROSE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Are You Ready, Live",
 		"artist": "SAVAGE ROSE",
 		"price": 10
 	},
@@ -13310,6 +13365,16 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Still Loving You",
+		"artist": "SCORPIONS",
+		"price": 10
+	},
+	{
+		"albumTitle": "World Wide Live",
+		"artist": "SCORPIONS",
+		"price": 15
+	},
+	{
 		"albumTitle": "The Script",
 		"price": 10,
 		"artist": "SCRIPT, THE"
@@ -13333,6 +13398,11 @@
 		"albumTitle": "Den Danske Sang, Opsamling 1981-85",
 		"price": 10,
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger"
+	},
+	{
+		"albumTitle": "26 Hits (2CD)",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
 	},
 	{
 		"albumTitle": "80'ernes Boheme",
@@ -13395,16 +13465,6 @@
 		"artist": "SEEBACH, RASMUS"
 	},
 	{
-		"albumTitle": "Ingen Kan Love Dig I Morgen",
-		"price": 10,
-		"artist": "SEEBACH, RASMUS"
-	},
-	{
-		"albumTitle": "Mer' End Kærlighed",
-		"price": 10,
-		"artist": "SEEBACH, RASMUS"
-	},
-	{
 		"albumTitle": "Rasmus Seebach",
 		"price": 10,
 		"artist": "SEEBACH, RASMUS"
@@ -13420,13 +13480,13 @@
 		"price": 15
 	},
 	{
-		"albumTitle": "The Very Best Of",
-		"artist": "SEEKERS, THE",
+		"albumTitle": "American Industrial Ballads.. And More (2CD)",
+		"artist": "SEEGER, PETE",
 		"price": 10
 	},
 	{
-		"albumTitle": "Selvmord",
-		"artist": "SELVMORD",
+		"albumTitle": "The Very Best Of",
+		"artist": "SEEKERS, THE",
 		"price": 10
 	},
 	{
@@ -13508,6 +13568,11 @@
 		"albumTitle": "A Second Gone",
 		"price": 10,
 		"artist": "SHOT GONE"
+	},
+	{
+		"albumTitle": "Shoes For Julia",
+		"price": 10,
+		"artist": "SHOES FOR JULIA"
 	},
 	{
 		"albumTitle": "The Hits Collection Vol. 1",
@@ -13616,6 +13681,11 @@
 	},
 	{
 		"albumTitle": "18",
+		"price": 10,
+		"artist": "SHU-BI-DUA"
+	},
+	{
+		"albumTitle": "Da Mor Var Dreng",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
@@ -13863,6 +13933,11 @@
 		"albumTitle": "Masterpieces",
 		"price": 10,
 		"artist": "SINGERS UNLIMITED, THE"
+	},
+	{
+		"albumTitle": "Beautiful Brown Eyes",
+		"artist": "SIR HENRY",
+		"price": 40
 	},
 	{
 		"albumTitle": "H2o",
@@ -16723,16 +16798,6 @@
 		"albumTitle": "Knives And Daggers",
 		"price": 10,
 		"artist": "KITTY WU"
-	},
-	{
-		"albumTitle": "Hvis Jeg Skrev Dig En Sang",
-		"price": 10,
-		"artist": "XANDER"
-	},
-	{
-		"albumTitle": "Over Skyer Under Vand",
-		"price": 10,
-		"artist": "XANDER"
 	},
 	{
 		"albumTitle": "Off The Deep End",
