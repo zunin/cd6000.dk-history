@@ -3245,16 +3245,6 @@
 		"artist": "DANSEORKESTRET"
 	},
 	{
-		"albumTitle": "Største Hits",
-		"price": 10,
-		"artist": "DANSEORKESTRET"
-	},
-	{
-		"albumTitle": "Long Distance (som 'Danceorchestra')",
-		"artist": "DANSEORKESTRET",
-		"price": 10
-	},
-	{
 		"albumTitle": "Danser Med Drenge",
 		"price": 10,
 		"artist": "DANSER MED DRENGE"
@@ -4291,11 +4281,6 @@
 	},
 	{
 		"albumTitle": "Solo",
-		"price": 10,
-		"artist": "ELTEN, ANN-METTE"
-	},
-	{
-		"albumTitle": "Vær Velkommen",
 		"price": 10,
 		"artist": "ELTEN, ANN-METTE"
 	},
@@ -11535,11 +11520,6 @@
 		"artist": "POISON"
 	},
 	{
-		"albumTitle": "Regatta De Blanc",
-		"price": 10,
-		"artist": "POLICE, THE"
-	},
-	{
 		"albumTitle": "The Police (2CD)",
 		"price": 10,
 		"artist": "POLICE, THE"
@@ -11595,22 +11575,7 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
-		"albumTitle": "Forever",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
 		"albumTitle": "From Hawaii Via Satellite",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
-		"albumTitle": "Jailhouse Rock",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
-		"albumTitle": "Love Me Tender",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
 	},
@@ -11621,11 +11586,6 @@
 	},
 	{
 		"albumTitle": "The Great Performances",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
-		"albumTitle": "White Christmas",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
 	},
@@ -11971,11 +11931,6 @@
 	},
 	{
 		"albumTitle": "R.E.M. Live (2CD+DVD)",
-		"artist": "R.E.M.",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Ultimate Collection (2CD)(unofficial)",
 		"artist": "R.E.M.",
 		"price": 10
 	},
@@ -13175,11 +13130,6 @@
 		"artist": "SANDNES, SOLVEIG"
 	},
 	{
-		"albumTitle": "All That I Am",
-		"price": 10,
-		"artist": "SANTANA"
-	},
-	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "SANTANA"
@@ -13398,11 +13348,6 @@
 		"albumTitle": "Den Danske Sang, Opsamling 1981-85",
 		"price": 10,
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger"
-	},
-	{
-		"albumTitle": "26 Hits (2CD)",
-		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
-		"price": 10
 	},
 	{
 		"albumTitle": "80'ernes Boheme",
