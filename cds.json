@@ -980,11 +980,6 @@
 		"artist": "COUNT BASIE"
 	},
 	{
-		"albumTitle": "Forest Walk",
-		"artist": "BASTIAN, PETER & STIG MØLLER",
-		"price": 15
-	},
-	{
 		"albumTitle": "Around The Next Dream",
 		"price": 10,
 		"artist": "BBM"
@@ -2306,11 +2301,6 @@
 	},
 	{
 		"albumTitle": "The Christmas Colletion",
-		"price": 10,
-		"artist": "CASH, JOHNNY"
-	},
-	{
-		"albumTitle": "The Collection (2CD)",
 		"price": 10,
 		"artist": "CASH, JOHNNY"
 	},
@@ -4011,11 +4001,6 @@
 	},
 	{
 		"albumTitle": "Greatest Hits 2",
-		"price": 10,
-		"artist": "DUBLINERS, THE"
-	},
-	{
-		"albumTitle": "40 Years, Live From The Gaiety (2CD)",
 		"price": 10,
 		"artist": "DUBLINERS, THE"
 	},
@@ -9330,11 +9315,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Wingspan (2CD)",
-		"artist": "McCARTNEY, PAUL",
-		"price": 10
-	},
-	{
 		"albumTitle": "Motown Two (2CD)",
 		"price": 10,
 		"artist": "McDONALD, MICHAEL"
@@ -11840,11 +11820,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Live At Wembley Stadium (2CD remastered)",
-		"artist": "QUEEN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Live Magic",
 		"artist": "QUEEN",
 		"price": 20
@@ -13350,11 +13325,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "De Største Hits (2CD)",
-		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
-		"price": 10
-	},
-	{
 		"albumTitle": "Det Gode Menneske Fra Sezuan",
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
 		"price": 20
@@ -13831,11 +13801,6 @@
 	},
 	{
 		"albumTitle": "In Celebration",
-		"price": 10,
-		"artist": "SINATRA, FRANK"
-	},
-	{
-		"albumTitle": "My Way, The Best Of (2CD)",
 		"price": 10,
 		"artist": "SINATRA, FRANK"
 	},
