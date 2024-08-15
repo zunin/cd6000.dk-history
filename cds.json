@@ -250,11 +250,6 @@
 		"artist": "AEROSMITH"
 	},
 	{
-		"albumTitle": "Black Love",
-		"price": 10,
-		"artist": "AFGHAN WIGS, THE"
-	},
-	{
 		"albumTitle": "Avanti cd1",
 		"price": 10,
 		"artist": "AFZELIUS, BJÖRN"
@@ -518,11 +513,6 @@
 		"albumTitle": "Benny Anderssons Orkester",
 		"price": 10,
 		"artist": "ANDERSSONS ORKESTER, BENNY"
-	},
-	{
-		"albumTitle": "The Hit Singles",
-		"price": 10,
-		"artist": "ANDRE, PETER"
 	},
 	{
 		"albumTitle": "Dedicated To..",
@@ -1628,11 +1618,6 @@
 		"albumTitle": "Time, Love And Tenderness",
 		"price": 10,
 		"artist": "BOLTON, MICHAEL"
-	},
-	{
-		"albumTitle": "For Emma Forever Ago",
-		"price": 10,
-		"artist": "BON IVER"
 	},
 	{
 		"albumTitle": "Cross Road, The Best of Bon Jovi",
@@ -8780,11 +8765,6 @@
 		"artist": "MACHINE HEAD"
 	},
 	{
-		"albumTitle": "The More Things Change",
-		"price": 10,
-		"artist": "MACHINE HEAD"
-	},
-	{
 		"albumTitle": "Madcap (EP)",
 		"price": 10,
 		"artist": "MADCAP"
@@ -11550,11 +11530,6 @@
 		"artist": "PRESLEY. ELVIS"
 	},
 	{
-		"albumTitle": "Elvis Country",
-		"price": 10,
-		"artist": "PRESLEY. ELVIS"
-	},
-	{
 		"albumTitle": "From Hawaii Via Satellite",
 		"price": 10,
 		"artist": "PRESLEY. ELVIS"
@@ -11653,11 +11628,6 @@
 		"albumTitle": "Purple Rain",
 		"price": 10,
 		"artist": "PRINCE & THE REVOLUTION"
-	},
-	{
-		"albumTitle": "My Secret Lover",
-		"artist": "PRIVATE",
-		"price": 10
 	},
 	{
 		"albumTitle": "My Secret Lover (2CD)",
@@ -13375,7 +13345,17 @@
 		"artist": "SEEBACH, RASMUS"
 	},
 	{
+		"albumTitle": "Mer' End Kærlighed",
+		"price": 10,
+		"artist": "SEEBACH, RASMUS"
+	},
+	{
 		"albumTitle": "Rasmus Seebach",
+		"price": 10,
+		"artist": "SEEBACH, RASMUS"
+	},
+	{
+		"albumTitle": "Verden Kan Vente",
 		"price": 10,
 		"artist": "SEEBACH, RASMUS"
 	},
@@ -14025,6 +14005,11 @@
 		"artist": "SLAUGHTER"
 	},
 	{
+		"albumTitle": "Repentless (CD+BlueRay)",
+		"artist": "SLAYER",
+		"price": 10
+	},
+	{
 		"albumTitle": "Back On The Right Track",
 		"price": 10,
 		"artist": "SLY & THE FAMILY STONE"
@@ -14083,6 +14068,11 @@
 		"albumTitle": "Siamese Dream",
 		"price": 10,
 		"artist": "SMASHING PUMPKINS, THE"
+	},
+	{
+		"albumTitle": "Astro Lounge",
+		"price": 10,
+		"artist": "SMASHMOUTH"
 	},
 	{
 		"albumTitle": "Fush Yu Mang",
@@ -14480,6 +14470,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Rock 'N' Roll Prostitude",
+		"price": 10,
+		"artist": "STATE, THE"
+	},
+	{
 		"albumTitle": "State Of The Ark",
 		"price": 10,
 		"artist": "STATE OF THE ARK"
@@ -14495,9 +14490,19 @@
 		"artist": "STATUS QUO"
 	},
 	{
+		"albumTitle": "16 Greatest Hits",
+		"artist": "STEELE, TOMMY",
+		"price": 10
+	},
+	{
 		"albumTitle": "All Around My Hat",
 		"artist": "STEELEYE SPAN",
 		"price": 10
+	},
+	{
+		"albumTitle": "The Best Of",
+		"artist": "STEELEYE SPAN",
+		"price": 20
 	},
 	{
 		"albumTitle": "Blindfolded",
@@ -14533,6 +14538,11 @@
 		"albumTitle": "Live At 25, Best Of (2CD)",
 		"artist": "STEPPENWOLF, JOHN KAY &",
 		"price": 10
+	},
+	{
+		"albumTitle": "An Other Cup",
+		"price": 10,
+		"artist": "STEVENS, CAT (YUSUF)"
 	},
 	{
 		"albumTitle": "Remember Cat Stevens, Ultimate Collection",
@@ -14945,6 +14955,11 @@
 		"artist": "SUSPEKT"
 	},
 	{
+		"albumTitle": "The Road Show",
+		"price": 10,
+		"artist": "SUSSI & LEO"
+	},
+	{
 		"albumTitle": "Inkl. Chris & Chokoladefabrikken",
 		"price": 10,
 		"artist": "SVEDBANKEN"
@@ -14958,6 +14973,11 @@
 		"albumTitle": "Jacob Sveistrup",
 		"price": 10,
 		"artist": "SVEISTRUP, JACOB"
+	},
+	{
+		"albumTitle": "Ny Passager",
+		"artist": "SVENDSEN, SIGNE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Oldies But Greatest",
@@ -15050,7 +15070,7 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Mezmerize",
+		"albumTitle": "Toxicity",
 		"price": 10,
 		"artist": "SYSTEM OF A DOWN"
 	},
@@ -15076,6 +15096,11 @@
 	},
 	{
 		"albumTitle": "Kærtegn",
+		"price": 10,
+		"artist": "SØRENSEN, LIS"
+	},
+	{
+		"albumTitle": "Lis Sørensen",
 		"price": 10,
 		"artist": "SØRENSEN, LIS"
 	},
@@ -15240,6 +15265,11 @@
 		"artist": "THE THE"
 	},
 	{
+		"albumTitle": "NakedSelf",
+		"artist": "THE THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Semi-Detached",
 		"price": 10,
 		"artist": "THERAPY?"
@@ -15275,6 +15305,11 @@
 		"artist": "THIRD EYE BLIND"
 	},
 	{
+		"albumTitle": "Third Eye Blind",
+		"price": 10,
+		"artist": "THIRD EYE BLIND"
+	},
+	{
 		"albumTitle": "Third Stone From The Sun",
 		"artist": "THIRD STONE FROM THE SUN",
 		"price": 20
@@ -15306,6 +15341,11 @@
 	},
 	{
 		"albumTitle": "Acient Heart",
+		"price": 10,
+		"artist": "TIKARAM, TANITA"
+	},
+	{
+		"albumTitle": "Everybody's Angel",
 		"price": 10,
 		"artist": "TIKARAM, TANITA"
 	},
@@ -15475,6 +15515,11 @@
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
 	},
 	{
+		"albumTitle": "Hoster Du I Nat..",
+		"price": 10,
+		"artist": "TRIER, TROELS & REBECCA BRÜEL"
+	},
+	{
 		"albumTitle": "Stardust Bodega",
 		"price": 10,
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
@@ -15508,6 +15553,11 @@
 		"albumTitle": "Plugged",
 		"price": 10,
 		"artist": "TROUBLE CATS, THE"
+	},
+	{
+		"albumTitle": "No More Fish Jokes",
+		"artist": "TROUT BAND, WALTER",
+		"price": 10
 	},
 	{
 		"albumTitle": "Motivation Of Love",
@@ -15716,6 +15766,16 @@
 	},
 	{
 		"albumTitle": "Greatest Hits (CBS)",
+		"price": 10,
+		"artist": "TYLER, BONNIE"
+	},
+	{
+		"albumTitle": "Heart & Soul, 13 Rock Classics",
+		"price": 10,
+		"artist": "TYLER, BONNIE"
+	},
+	{
+		"albumTitle": "It's A Heartache",
 		"price": 10,
 		"artist": "TYLER, BONNIE"
 	},
@@ -16030,6 +16090,11 @@
 		"artist": "VAYA CON DIOS"
 	},
 	{
+		"albumTitle": "Days Of Open Hand",
+		"price": 10,
+		"artist": "VEGA, SUZANNE"
+	},
+	{
 		"albumTitle": "Nine Objects Of Desire",
 		"price": 10,
 		"artist": "VEGA, SUZANNE"
@@ -16205,11 +16270,6 @@
 		"artist": "VREESWIJK, CORNELIS"
 	},
 	{
-		"albumTitle": "Du Ved Det",
-		"price": 10,
-		"artist": "WAFANDE"
-	},
-	{
 		"albumTitle": "Tief Im Süden Meines Herzens",
 		"price": 10,
 		"artist": "WAGGESHAUSEN, STEFAN"
@@ -16253,16 +16313,6 @@
 		"albumTitle": "Ain't Misbehavin 1934-1943",
 		"price": 10,
 		"artist": "WALLER, FATS & HIS RHYTHM"
-	},
-	{
-		"albumTitle": "Rasmus Walter",
-		"price": 10,
-		"artist": "WALTER, RASMUS"
-	},
-	{
-		"albumTitle": "Verden I Stå",
-		"price": 10,
-		"artist": "WALTER, RASMUS"
 	},
 	{
 		"albumTitle": "Jamie Walters",
@@ -16730,11 +16780,6 @@
 		"artist": "YAZZ"
 	},
 	{
-		"albumTitle": "Fever To Tell",
-		"price": 10,
-		"artist": "YEAH YEAH YEAHS"
-	},
-	{
 		"albumTitle": "Everybody Knows",
 		"price": 10,
 		"artist": "YEARWOOD, TRISHA"
@@ -17140,16 +17185,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Absolute Music 21",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Absolute Music 22",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Absolute Music 23",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17166,11 +17201,6 @@
 	},
 	{
 		"albumTitle": "Absolute Music 26",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Absolute Music 27",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
@@ -18180,19 +18210,9 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Let Me Tell You About The Blues, Texas",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Live Fra Østre Gasværk Teaterkoncerten Gasolin",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 10
-	},
-	{
-		"albumTitle": "More Greatest Hits Of The 80's (8CD)",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 40
 	},
 	{
 		"albumTitle": "Pigtrådsmusik 1 (2CD)",
