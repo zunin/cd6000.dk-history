@@ -4060,11 +4060,6 @@
 		"price": 15
 	},
 	{
-		"albumTitle": "The Essential (2CD)",
-		"artist": "DYLAN, BOB",
-		"price": 20
-	},
-	{
 		"albumTitle": "Time Out Of Mind",
 		"artist": "DYLAN, BOB",
 		"price": 15
@@ -9520,11 +9515,6 @@
 		"artist": "MELUA, KATIE"
 	},
 	{
-		"albumTitle": "The House",
-		"price": 10,
-		"artist": "MELUA, KATIE"
-	},
-	{
 		"albumTitle": "...But Still Gentlemen",
 		"artist": "MELVIS",
 		"price": 30
@@ -10445,11 +10435,6 @@
 		"artist": "NELSON, WILLIE"
 	},
 	{
-		"albumTitle": "The Best Of",
-		"artist": "NESMITH, MICHAEL",
-		"price": 10
-	},
-	{
 		"albumTitle": "Brother's Keeper",
 		"price": 10,
 		"artist": "NEVILLE BROTHERS, THE"
@@ -11200,11 +11185,6 @@
 		"artist": "PARKER, CHARLIE"
 	},
 	{
-		"albumTitle": "Vulture Culture",
-		"artist": "THE ALAN PARSONS PROJECT",
-		"price": 10
-	},
-	{
 		"albumTitle": "Backwoods Barbie",
 		"price": 10,
 		"artist": "PARTON, DOLLY"
@@ -11418,11 +11398,6 @@
 		"albumTitle": "Echoes (2CD)",
 		"artist": "PINK FLOYD",
 		"price": 20
-	},
-	{
-		"albumTitle": "The Division Bell",
-		"artist": "PINK FLOYD",
-		"price": 10
 	},
 	{
 		"albumTitle": "The Wall (2CD)",
@@ -11780,11 +11755,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Jazz",
-		"artist": "QUEEN",
-		"price": 25
-	},
-	{
 		"albumTitle": "Live At Wembley '86 (2CD)",
 		"artist": "QUEEN",
 		"price": 10
@@ -11940,11 +11910,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Sehnsucht",
-		"artist": "RAMMSTEIN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Rancid",
 		"price": 10,
 		"artist": "RANCID"
@@ -12080,11 +12045,6 @@
 		"artist": "REA, CHRIS"
 	},
 	{
-		"albumTitle": "God's Great Banana Skin",
-		"price": 10,
-		"artist": "REA, CHRIS"
-	},
-	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "REA, CHRIS"
@@ -12165,16 +12125,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "New York",
-		"artist": "REED, LOU",
-		"price": 10
-	},
-	{
-		"albumTitle": "Perfect Day, The Best Of (2CD)",
-		"artist": "REED, LOU",
-		"price": 20
-	},
-	{
 		"albumTitle": "The Very Best Of",
 		"artist": "REED, LOU",
 		"price": 15
@@ -12188,11 +12138,6 @@
 		"albumTitle": "Transformer (remastered)",
 		"artist": "REED, LOU",
 		"price": 15
-	},
-	{
-		"albumTitle": "Transformer (limited Edition)",
-		"artist": "REED, LOU",
-		"price": 20
 	},
 	{
 		"albumTitle": "20 Golden Hits",
@@ -13661,11 +13606,6 @@
 	},
 	{
 		"albumTitle": "The Best Of Simon & Garfunkel",
-		"price": 10,
-		"artist": "SIMON & GARFUNKEL"
-	},
-	{
-		"albumTitle": "The Concert In Central Park",
 		"price": 10,
 		"artist": "SIMON & GARFUNKEL"
 	},
@@ -15450,16 +15390,6 @@
 		"artist": "TOTO"
 	},
 	{
-		"albumTitle": "The Seventh One",
-		"price": 10,
-		"artist": "TOTO"
-	},
-	{
-		"albumTitle": "Through The Looking Glass",
-		"price": 10,
-		"artist": "TOTO"
-	},
-	{
 		"albumTitle": "XX 1977-1997",
 		"price": 10,
 		"artist": "TOTO"
@@ -16080,11 +16010,6 @@
 		"price": 20
 	},
 	{
-		"albumTitle": "Night Owls",
-		"price": 10,
-		"artist": "VAYA CON DIOS"
-	},
-	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "VAYA CON DIOS"
@@ -16108,11 +16033,6 @@
 		"albumTitle": "Suzanne Vega",
 		"price": 10,
 		"artist": "VEGA, SUZANNE"
-	},
-	{
-		"albumTitle": "The Best Of",
-		"artist": "THE VELVET UNDERGROUND",
-		"price": 20
 	},
 	{
 		"albumTitle": "Undskyld",
