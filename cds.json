@@ -11790,16 +11790,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Lullabies To Paralyze",
-		"price": 10,
-		"artist": "QUEENS OF THE STONE AGE"
-	},
-	{
-		"albumTitle": "Songs For The Deaf",
-		"price": 10,
-		"artist": "QUEENS OF THE STONE AGE"
-	},
-	{
 		"albumTitle": "Around The Sun",
 		"price": 10,
 		"artist": "R.E.M."
@@ -12986,11 +12976,6 @@
 	},
 	{
 		"albumTitle": "Live",
-		"price": 10,
-		"artist": "SANDMEN, THE"
-	},
-	{
-		"albumTitle": "Shine",
 		"price": 10,
 		"artist": "SANDMEN, THE"
 	},
@@ -16926,11 +16911,6 @@
 	},
 	{
 		"albumTitle": "Hits (Pop Almanac)",
-		"price": 10,
-		"artist": "10cc"
-	},
-	{
-		"albumTitle": "Live In Concert Volume 2",
 		"price": 10,
 		"artist": "10cc"
 	},
