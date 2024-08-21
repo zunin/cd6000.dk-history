@@ -15,6 +15,11 @@
 		"artist": "A-HA"
 	},
 	{
+		"albumTitle": "Minor Earth, Major Sky",
+		"price": 10,
+		"artist": "A-HA"
+	},
+	{
 		"albumTitle": "18 Hits",
 		"price": 10,
 		"artist": "ABBA"
@@ -80,6 +85,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Albums (9CD boks)",
+		"artist": "ABBA",
+		"price": 10
+	},
+	{
 		"albumTitle": "I'll Come Back And Love You Forever",
 		"price": 10,
 		"artist": "ABEL, MORTEN"
@@ -106,6 +116,11 @@
 	},
 	{
 		"albumTitle": "Ballbreaker",
+		"artist": "AC/DC",
+		"price": 10
+	},
+	{
+		"albumTitle": "Black Ice",
 		"artist": "AC/DC",
 		"price": 10
 	},
@@ -143,6 +158,11 @@
 		"albumTitle": "The Bridge",
 		"price": 10,
 		"artist": "ACE OF BASE"
+	},
+	{
+		"albumTitle": "The Very Best Of (2CD)",
+		"price": 10,
+		"artist": "ACKER BILK"
 	},
 	{
 		"albumTitle": "11",
@@ -336,7 +356,12 @@
 	},
 	{
 		"albumTitle": "Malmöinspelningarna",
-		"artist": "AFZELIUS, BJÖRN & MIKAEL WIEHE 1993",
+		"artist": "AFZELIUS, BJÖRN & MIKAEL WIEHE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Björn Afzelius & Mikael Wiehe",
+		"artist": "AFZELIUS, BJÖRN & MIKAEL WIEHE",
 		"price": 10
 	},
 	{
@@ -402,31 +427,31 @@
 	{
 		"albumTitle": "Alle Verdens Hjørner",
 		"price": 10,
-		"artist": "ALBERTE"
+		"artist": "ALBERTE (WINDING)"
 	},
 	{
 		"albumTitle": "Brænder Sol",
 		"price": 10,
-		"artist": "ALBERTE"
+		"artist": "ALBERTE (WINDING)"
 	},
 	{
 		"albumTitle": "Den Forsvundne Skat",
 		"price": 10,
-		"artist": "ALBERTE"
+		"artist": "ALBERTE (WINDING)"
 	},
 	{
 		"albumTitle": "Svenske Spor",
 		"price": 10,
-		"artist": "ALBERTE"
+		"artist": "ALBERTE (WINDING)"
 	},
 	{
 		"albumTitle": "Tju Bang Chokolademand",
 		"price": 10,
-		"artist": "ALBERTE"
+		"artist": "ALBERTE (WINDING)"
 	},
 	{
-		"albumTitle": "De Største & De Mindste (2CD)",
-		"artist": "ALBERTE",
+		"albumTitle": "Frostmorgen",
+		"artist": "ALBERTE WINDING & BENJAMIN KOPPEL",
 		"price": 10
 	},
 	{
@@ -1193,11 +1218,6 @@
 		"albumTitle": "Bifrost's Bedste",
 		"artist": "BIFROST",
 		"price": 10
-	},
-	{
-		"albumTitle": "Hjerte Til Salg (2CD)",
-		"artist": "BIFROST",
-		"price": 40
 	},
 	{
 		"albumTitle": "Til En Sigøjner",
@@ -3635,11 +3655,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Live AT The BBC",
-		"artist": "DIRE STRAITS",
-		"price": 10
-	},
-	{
 		"albumTitle": "Dansant",
 		"price": 10,
 		"artist": "DISKOFIL"
@@ -4108,11 +4123,6 @@
 		"albumTitle": "The Complete Greatest Hits (2CD)",
 		"artist": "EAGLES, THE",
 		"price": 10
-	},
-	{
-		"albumTitle": "The Best Of",
-		"price": 10,
-		"artist": "EARTH WIND & FIRE"
 	},
 	{
 		"albumTitle": "No Strings",
@@ -4763,11 +4773,6 @@
 		"albumTitle": "Gold",
 		"price": 10,
 		"artist": "FITZGERALD, ELLA & LOUIS ARMSTGRONG"
-	},
-	{
-		"albumTitle": "Greatest Hits (Columbia)",
-		"price": 10,
-		"artist": "FLEETWOOD MAC"
 	},
 	{
 		"albumTitle": "Greatest Hits (Warner Bros)",
@@ -8875,11 +8880,6 @@
 		"price": 30
 	},
 	{
-		"albumTitle": "Chinatown, Yellow Moon Og Den Sorte FugL",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
-	},
-	{
 		"albumTitle": "Den Blinde Lotterisælger...",
 		"artist": "MADSEN, JOHNNY",
 		"price": 30
@@ -11360,11 +11360,6 @@
 		"artist": "PIAF, EDITH"
 	},
 	{
-		"albumTitle": "Can't Take Me Home",
-		"price": 10,
-		"artist": "PINK"
-	},
-	{
 		"albumTitle": "Funhouse",
 		"price": 10,
 		"artist": "PINK"
@@ -11383,11 +11378,6 @@
 		"albumTitle": "Try This",
 		"price": 10,
 		"artist": "PINK"
-	},
-	{
-		"albumTitle": "A Collection Of Great Dance Songs",
-		"artist": "PINK FLOYD",
-		"price": 10
 	},
 	{
 		"albumTitle": "Dark Side Of The Moon",
@@ -11455,14 +11445,14 @@
 		"artist": "POISON"
 	},
 	{
-		"albumTitle": "The Police (2CD)",
+		"albumTitle": "Their Greatest Hits",
 		"price": 10,
 		"artist": "POLICE, THE"
 	},
 	{
-		"albumTitle": "Their Greatest Hits",
-		"price": 10,
-		"artist": "POLICE, THE"
+		"albumTitle": "The Police (2CD)",
+		"artist": "POLICE, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Tampen Brænder",
@@ -12920,11 +12910,6 @@
 		"artist": "SALOMONSEN, SANNE"
 	},
 	{
-		"albumTitle": "Sanne Salomonsen ('den første'..)",
-		"artist": "SALOMONSEN, SANNE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Don't Give Up",
 		"price": 10,
 		"artist": "SAMPSON, JAMES"
@@ -13220,14 +13205,14 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "De Bedste Sange (2CD)",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
+	},
+	{
 		"albumTitle": "Det Gode Menneske Fra Sezuan",
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
 		"price": 20
-	},
-	{
-		"albumTitle": "Her Er En Sang Volume 2",
-		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
-		"price": 10
 	},
 	{
 		"albumTitle": "Miraklernes Tid",
@@ -13246,6 +13231,11 @@
 	},
 	{
 		"albumTitle": "Sebastians Bedste Børnesange",
+		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
+		"price": 10
+	},
+	{
+		"albumTitle": "Øjeblikkets Mester (CD+DVD)",
 		"artist": "SEBASTIAN - for musicals, se under opsamlinger",
 		"price": 10
 	},
@@ -13926,6 +13916,11 @@
 	},
 	{
 		"albumTitle": "Repentless (CD+BlueRay)",
+		"artist": "SLAYER",
+		"price": 10
+	},
+	{
+		"albumTitle": "World Painted Blood (limited edition)",
 		"artist": "SLAYER",
 		"price": 10
 	},
@@ -15745,11 +15740,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Tøsedrengene (Dejlige Danske)(2CD)",
-		"artist": "TØSEDRENGENE",
-		"price": 10
-	},
-	{
 		"albumTitle": "18 Singles",
 		"price": 10,
 		"artist": "U2"
@@ -15825,9 +15815,19 @@
 		"artist": "U2"
 	},
 	{
+		"albumTitle": "How To Dismantle An Atomic Bomb (2CD)",
+		"artist": "U2",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hold Nu",
 		"price": 10,
 		"artist": "U$O"
+	},
+	{
+		"albumTitle": "The Very Best Of 1980-2000",
+		"price": 10,
+		"artist": "UB 40"
 	},
 	{
 		"albumTitle": "Kig Mig I Øjnene",
@@ -15895,7 +15895,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Balance",
+		"artist": "VAN HALEN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Best Of Volume 1",
+		"artist": "VAN HALEN",
+		"price": 10
+	},
+	{
+		"albumTitle": "Right Here, Right Now (2CD)",
 		"artist": "VAN HALEN",
 		"price": 10
 	},
@@ -16080,12 +16090,32 @@
 		"artist": "VIRGO"
 	},
 	{
+		"albumTitle": "Magic Of The Night",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
 		"albumTitle": "Sherif Songs",
 		"artist": "VISKINDE, PETER",
 		"price": 10
 	},
 	{
-		"albumTitle": "Born On A Red Star",
+		"albumTitle": "30 Best Of + 2 Bonus (2CD)",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "born On A Red Star",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Live 2000",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Picture In A Frame (CD+DVD)",
 		"artist": "VISKINDE, PETER",
 		"price": 10
 	},
@@ -16097,6 +16127,26 @@
 	{
 		"albumTitle": "Under The Moon",
 		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Ufaglært Arbejdsmand",
+		"artist": "VISKINDE, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Ved Nærmere Eftertanke...",
+		"artist": "VISKINDE, PETER",
+		"price": 30
+	},
+	{
+		"albumTitle": "Can't Escape From You",
+		"artist": "PETER VISKINDE BAND",
+		"price": 10
+	},
+	{
+		"albumTitle": "Good Times + 24 Sange Fra Fortiden (2CD)",
+		"artist": "PETER VISKINDE BAND",
 		"price": 10
 	},
 	{
@@ -16205,6 +16255,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Heartattack And Wine",
+		"artist": "WAITS, TOM",
+		"price": 10
+	},
+	{
 		"albumTitle": "ShaLaLaLaLa, Greatest Hits (2CD)",
 		"artist": "WALKERS",
 		"price": 10
@@ -16236,6 +16291,11 @@
 	},
 	{
 		"albumTitle": "Greatest Hits 1979-1990",
+		"price": 10,
+		"artist": "WARWICK, DIONNE"
+	},
+	{
+		"albumTitle": "The Definitive Collection",
 		"price": 10,
 		"artist": "WARWICK, DIONNE"
 	},
@@ -16393,6 +16453,11 @@
 		"albumTitle": "The Real Deal",
 		"price": 10,
 		"artist": "TAM WHITE'S SHOESTRING"
+	},
+	{
+		"albumTitle": "Closer To The Truth",
+		"artist": "WHITE, TONY JOE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Elephant",
@@ -16740,6 +16805,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Silver + Gold",
+		"artist": "YOUNG, NEIL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Sleeps With Angels",
 		"artist": "YOUNG, NEIL",
 		"price": 10
@@ -16877,6 +16947,11 @@
 	{
 		"albumTitle": "Hustlerstil 1995-2005 (2CD)",
 		"artist": "ØSTKYST HUSTLERS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Missionær",
+		"artist": "AAKJÆR, ANNIKA",
 		"price": 10
 	},
 	{
@@ -17356,6 +17431,11 @@
 	},
 	{
 		"albumTitle": "Feel Like Making Love (2CD)",
+		"price": 10,
+		"artist": "DIVERSE KUSTNERE"
+	},
+	{
+		"albumTitle": "Flere Fantastiske Danske 80'ere",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
