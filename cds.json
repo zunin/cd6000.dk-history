@@ -450,6 +450,11 @@
 		"artist": "ALBERTE (WINDING)"
 	},
 	{
+		"albumTitle": "Tænder På Et Kys",
+		"price": 10,
+		"artist": "ALBERTE (WINDING)"
+	},
+	{
 		"albumTitle": "Frostmorgen",
 		"artist": "ALBERTE WINDING & BENJAMIN KOPPEL",
 		"price": 10
@@ -495,6 +500,11 @@
 		"artist": "ALPHABEAT"
 	},
 	{
+		"albumTitle": "This Is Alphabeat (2CD)",
+		"price": 10,
+		"artist": "ALPHABEAT"
+	},
+	{
 		"albumTitle": "Boys For Pele",
 		"price": 10,
 		"artist": "AMOS, TORI"
@@ -520,6 +530,11 @@
 		"artist": "AMOS, TORI"
 	},
 	{
+		"albumTitle": "Heavy Rotation",
+		"price": 10,
+		"artist": "ANASTACIA"
+	},
+	{
 		"albumTitle": "Best Belief",
 		"price": 10,
 		"artist": "ANDERSEN, JACOB"
@@ -528,6 +543,16 @@
 		"albumTitle": "Timeglasset",
 		"price": 10,
 		"artist": "ANDERSEN, MICHAEL"
+	},
+	{
+		"albumTitle": "Echoes",
+		"artist": "MIKE ANDERSEN BAND",
+		"price": 10
+	},
+	{
+		"albumTitle": "My Love For The Blues",
+		"artist": "MIKE ANDERSEN BAND",
+		"price": 10
 	},
 	{
 		"albumTitle": "Big Science",
@@ -640,6 +665,16 @@
 		"artist": "AQUA"
 	},
 	{
+		"albumTitle": "Megalomania",
+		"artist": "AQUA",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Suburbs",
+		"price": 10,
+		"artist": "ARCADE FIRE"
+	},
+	{
 		"albumTitle": "Don't Ask",
 		"price": 10,
 		"artist": "ARENA, TINA"
@@ -730,6 +765,16 @@
 		"artist": "BAAL"
 	},
 	{
+		"albumTitle": "Do You Come With Soecial Features?",
+		"artist": "BAAL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Karaoke",
+		"artist": "BAAL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Swingtime Again",
 		"price": 10,
 		"artist": "BABS, ALICE"
@@ -738,6 +783,11 @@
 		"albumTitle": "Room of Gardenia",
 		"price": 10,
 		"artist": "BABY MISS JULIA"
+	},
+	{
+		"albumTitle": "Waiting For The Day",
+		"price": 10,
+		"artist": "BACHELOR GIRL"
 	},
 	{
 		"albumTitle": "Crackstreet",
@@ -845,9 +895,19 @@
 		"artist": "BAMSE"
 	},
 	{
+		"albumTitle": "Love Me Tender",
+		"price": 10,
+		"artist": "BAMSE"
+	},
+	{
 		"albumTitle": "Stand By Me",
 		"price": 10,
 		"artist": "BAMSE"
+	},
+	{
+		"albumTitle": "De Store Og De Gemte (3CD)",
+		"artist": "BAMSE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Tæt På (CD+DVD)",
@@ -960,6 +1020,11 @@
 		"artist": "BAND OF HORSES"
 	},
 	{
+		"albumTitle": "Eternal Flame, The Best Of",
+		"price": 10,
+		"artist": "BANGLES"
+	},
+	{
 		"albumTitle": "Everything",
 		"price": 10,
 		"artist": "BANGLES"
@@ -988,6 +1053,11 @@
 		"albumTitle": "En Hyldest Til Leo Mathiesen",
 		"price": 10,
 		"artist": "SIGURD BARRETT TRIO"
+	},
+	{
+		"albumTitle": "Basic Injection",
+		"price": 10,
+		"artist": "BASIC ELEMENT"
 	},
 	{
 		"albumTitle": "Swingin' The Blues",
@@ -1160,6 +1230,11 @@
 		"artist": "BELLAMI BROTHERS"
 	},
 	{
+		"albumTitle": "Det Bli'r Aldrig Som Det Var I Gamle Dage",
+		"price": 10,
+		"artist": "BELLI, PETER"
+	},
+	{
 		"albumTitle": "Ny Dag På Vej",
 		"price": 10,
 		"artist": "BELLI, PETER"
@@ -1180,12 +1255,27 @@
 		"artist": "BELLI, PETER"
 	},
 	{
+		"albumTitle": "Talisman",
+		"price": 10,
+		"artist": "BELLI, PETER"
+	},
+	{
 		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "BELLI, PETER"
 	},
 	{
 		"albumTitle": "Helt Igennem Respektabel 1959-99 (2CD)",
+		"artist": "BELLI, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Rock N Soul Music, The Memphis Album",
+		"artist": "BELLI, PETER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Ulven Peter, De 34 Største Hits (2CD)",
 		"artist": "BELLI, PETER",
 		"price": 10
 	},
@@ -1455,6 +1545,11 @@
 		"artist": "BLISS"
 	},
 	{
+		"albumTitle": "Parallel Lines",
+		"price": 10,
+		"artist": "BLONDIE"
+	},
+	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "BLONDIE"
@@ -1635,9 +1730,24 @@
 		"artist": "BOLTON, MICHAEL"
 	},
 	{
+		"albumTitle": "The Essential (2CD)",
+		"price": 10,
+		"artist": "BOLTON, MICHAEL"
+	},
+	{
 		"albumTitle": "Time, Love And Tenderness",
 		"price": 10,
 		"artist": "BOLTON, MICHAEL"
+	},
+	{
+		"albumTitle": "Bon Iver, Bon Iver",
+		"price": 10,
+		"artist": "BON IVER"
+	},
+	{
+		"albumTitle": "Bounce",
+		"price": 10,
+		"artist": "BON JOVI"
 	},
 	{
 		"albumTitle": "Cross Road, The Best of Bon Jovi",
@@ -1683,6 +1793,11 @@
 		"albumTitle": "These Days",
 		"price": 10,
 		"artist": "BON JOVI"
+	},
+	{
+		"albumTitle": "The Best Of (unofficial)(2CD)",
+		"artist": "BON JOVI",
+		"price": 10
 	},
 	{
 		"albumTitle": "Gold, 20 Super Hits",
@@ -2065,6 +2180,11 @@
 		"artist": "BYRDS, THE"
 	},
 	{
+		"albumTitle": "Super Hits",
+		"price": 10,
+		"artist": "BYRDS, THE"
+	},
+	{
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "BYRDS, THE"
@@ -2371,11 +2491,6 @@
 	},
 	{
 		"albumTitle": "New Beginning",
-		"price": 10,
-		"artist": "CHAPMAN, TRACY"
-	},
-	{
-		"albumTitle": "Telling Stories (2CD)",
 		"price": 10,
 		"artist": "CHAPMAN, TRACY"
 	},
@@ -3610,17 +3725,7 @@
 		"artist": "DIRE STRAITS"
 	},
 	{
-		"albumTitle": "Dire Straits (remastered)",
-		"price": 10,
-		"artist": "DIRE STRAITS"
-	},
-	{
 		"albumTitle": "Love Over Gold",
-		"price": 10,
-		"artist": "DIRE STRAITS"
-	},
-	{
-		"albumTitle": "Love Over Gold (remastered)",
 		"price": 10,
 		"artist": "DIRE STRAITS"
 	},
@@ -7605,11 +7710,6 @@
 		"artist": "KNOPFLER, MARK"
 	},
 	{
-		"albumTitle": "Kill To Get Crimson (CD+DVD)",
-		"artist": "KNOPFLER, MARK",
-		"price": 10
-	},
-	{
 		"albumTitle": "Shangri-La (CD+DVD)",
 		"artist": "KNOPFLER, MARK",
 		"price": 10
@@ -8883,11 +8983,6 @@
 		"albumTitle": "Den Blinde Lotterisælger...",
 		"artist": "MADSEN, JOHNNY",
 		"price": 30
-	},
-	{
-		"albumTitle": "Godt Nyt (NY i folie)",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
 	},
 	{
 		"albumTitle": "Halgal Halbal (2CD)",
@@ -10733,11 +10828,6 @@
 		"albumTitle": "The Hits! (2CD)",
 		"price": 10,
 		"artist": "NORMAN, CHRIS"
-	},
-	{
-		"albumTitle": "Missing.. Persumed Having A Good Time",
-		"price": 10,
-		"artist": "NOTTING HILLBILLIES, THE"
 	},
 	{
 		"albumTitle": "Oyster",
@@ -14950,11 +15040,6 @@
 		"artist": "SWEETHEARTS"
 	},
 	{
-		"albumTitle": "Fearless",
-		"price": 10,
-		"artist": "SWFT, TAYLOR"
-	},
-	{
 		"albumTitle": "The Living Return (2CD)",
 		"price": 10,
 		"artist": "SWING OUT SISTER"
@@ -17975,37 +18060,7 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "The Very Best Of Pop Music 88-89 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "The Very Best Of Pop Music 89-90 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "The Very Best Of Pop Music 90-91 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "The Very Best Of Pop Music 91-92 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "The Very Best Of Pop Music 92-93 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "The Very Best Of Pop Music 93-94 (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "The Very Best Of Pop Music 94-95 (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
