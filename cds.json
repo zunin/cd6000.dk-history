@@ -840,6 +840,11 @@
 		"artist": "BAEZ, JOAN"
 	},
 	{
+		"albumTitle": "Trilogy (3CD)",
+		"artist": "BAEZ, JOAN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Don't Sing",
 		"artist": "BAGDAD DAGBLAD",
 		"price": 10
@@ -1400,6 +1405,11 @@
 		"artist": "BIOHAZARD"
 	},
 	{
+		"albumTitle": "4 Track EP",
+		"price": 10,
+		"artist": "BIRKBALLE, MICHELLE"
+	},
+	{
 		"albumTitle": "Bitch Boys",
 		"price": 10,
 		"artist": "BITCH BOYS"
@@ -1463,6 +1473,11 @@
 		"albumTitle": "The End",
 		"price": 10,
 		"artist": "BLACK EYED PEAS, THE"
+	},
+	{
+		"albumTitle": "- Next Day (single CD)",
+		"price": 10,
+		"artist": "BLACK EYED SUSAN"
 	},
 	{
 		"albumTitle": "Attack & Release",
@@ -1555,6 +1570,11 @@
 		"artist": "BLONDIE"
 	},
 	{
+		"albumTitle": "Greatest Hits",
+		"artist": "BLOD SWEAT & TEARS",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hefty Fine",
 		"price": 10,
 		"artist": "BLOODHOUND GANG, THE"
@@ -1587,6 +1607,11 @@
 	{
 		"albumTitle": "Don't Fear The Reaper, The Best Of",
 		"artist": "BLUE ÖYSTER CULT",
+		"price": 10
+	},
+	{
+		"albumTitle": "Fat City",
+		"artist": "BLUES BAND, THE",
 		"price": 10
 	},
 	{
@@ -1845,6 +1870,16 @@
 		"artist": "BOOTLES, THE"
 	},
 	{
+		"albumTitle": "Best Of (remastered)(2CD)",
+		"artist": "BOWIE, DAVID",
+		"price": 10
+	},
+	{
+		"albumTitle": "Heathen",
+		"artist": "BOWIE, DAVID",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hours..",
 		"artist": "BOWIE, DAVID",
 		"price": 10
@@ -1861,6 +1896,11 @@
 	},
 	{
 		"albumTitle": "The Singles Collection (2CD)",
+		"artist": "BOWIE, DAVID",
+		"price": 10
+	},
+	{
+		"albumTitle": "Ziggy Stardust (remastered)",
 		"artist": "BOWIE, DAVID",
 		"price": 10
 	},
@@ -2035,6 +2075,11 @@
 		"artist": "BRÜEL, KAYA"
 	},
 	{
+		"albumTitle": "Jeg Fandt En Sang På Vejen (NY i folie)",
+		"artist": "BRÜEL, KAYA",
+		"price": 10
+	},
+	{
 		"albumTitle": "BTO's Greatest",
 		"price": 10,
 		"artist": "BTO"
@@ -2175,6 +2220,11 @@
 		"artist": "BUTTENSCHÖN, THOMAS"
 	},
 	{
+		"albumTitle": "Vinden Der Blæser",
+		"price": 10,
+		"artist": "BUTTENSCHÖN, THOMAS"
+	},
+	{
 		"albumTitle": "Mr. Tambourine Man",
 		"price": 10,
 		"artist": "BYRDS, THE"
@@ -2193,6 +2243,26 @@
 		"albumTitle": "Trip Thru Hell",
 		"artist": "C.A. QUINTET",
 		"price": 10
+	},
+	{
+		"albumTitle": "Fashion Nugget",
+		"price": 10,
+		"artist": "CAKE"
+	},
+	{
+		"albumTitle": "Prolonging The Magic",
+		"price": 10,
+		"artist": "CAKE"
+	},
+	{
+		"albumTitle": "#8",
+		"artist": "CALE, J.J.",
+		"price": 10
+	},
+	{
+		"albumTitle": "Naturally",
+		"artist": "CALE, J.J.",
+		"price": 15
 	},
 	{
 		"albumTitle": "The Road To Escondido",
@@ -2218,6 +2288,11 @@
 		"albumTitle": "The Best Of, Live",
 		"price": 10,
 		"artist": "CAMPBELL, GLEN"
+	},
+	{
+		"albumTitle": "A Man And His Blues",
+		"artist": "CAMPBELL, JOHN",
+		"price": 10
 	},
 	{
 		"albumTitle": "One Believer",
@@ -2425,9 +2500,24 @@
 		"artist": "CASH, JOHNNY"
 	},
 	{
+		"albumTitle": "Setlist Live",
+		"price": 10,
+		"artist": "CASH, JOHNNY"
+	},
+	{
 		"albumTitle": "The Christmas Colletion",
 		"price": 10,
 		"artist": "CASH, JOHNNY"
+	},
+	{
+		"albumTitle": "Greatest Hits (3CD)",
+		"artist": "CASH, JOHNNY",
+		"price": 10
+	},
+	{
+		"albumTitle": "Greatest Hits (NY i folie)(3CD)",
+		"artist": "CASH, JOHNNY",
+		"price": 10
 	},
 	{
 		"albumTitle": "Imagine",
@@ -2660,6 +2750,11 @@
 		"artist": "CLAPTON, ERIC"
 	},
 	{
+		"albumTitle": "Complete Clapton (2CD)",
+		"price": 10,
+		"artist": "CLAPTON, ERIC"
+	},
+	{
 		"albumTitle": "From The Cradle",
 		"price": 10,
 		"artist": "CLAPTON, ERIC"
@@ -2705,6 +2800,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Clapton",
+		"artist": "CLAPTON, ERIC",
+		"price": 10
+	},
+	{
 		"albumTitle": "One More Car, One More Rider (2CD)",
 		"artist": "CLAPTON, ERIC",
 		"price": 10
@@ -2735,6 +2835,11 @@
 		"artist": "CLARKSON, KELLY"
 	},
 	{
+		"albumTitle": "Den Anden Verden",
+		"price": 10,
+		"artist": "CLEMENS"
+	},
+	{
 		"albumTitle": "On The Rocks",
 		"price": 10,
 		"artist": "CLIFFTERS, THE"
@@ -2748,6 +2853,11 @@
 		"albumTitle": "Django",
 		"artist": "CLIFFTERS, THE",
 		"price": 15
+	},
+	{
+		"albumTitle": "Gylden Pigtråd (3CD)",
+		"artist": "CLIFFTERS, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Collection",
@@ -2781,6 +2891,11 @@
 	},
 	{
 		"albumTitle": "Civilized Man",
+		"price": 10,
+		"artist": "COCKER, JOE"
+	},
+	{
+		"albumTitle": "For All My Friends",
 		"price": 10,
 		"artist": "COCKER, JOE"
 	},
@@ -2870,7 +2985,32 @@
 		"artist": "COHEN, LEONARD"
 	},
 	{
+		"albumTitle": "Live In London (2CD)",
+		"artist": "COHEN, LEONARD",
+		"price": 10
+	},
+	{
+		"albumTitle": "Popular Problems",
+		"artist": "COHEN, LEONARD",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Essential (2CD)",
+		"artist": "COHEN, LEONARD",
+		"price": 10
+	},
+	{
 		"albumTitle": "A Rush Of Blood To The Head",
+		"price": 10,
+		"artist": "COLDPLAY"
+	},
+	{
+		"albumTitle": "Viva La Vida",
+		"price": 10,
+		"artist": "COLDPLAY"
+	},
+	{
+		"albumTitle": "X&Y",
 		"price": 10,
 		"artist": "COLDPLAY"
 	},
@@ -2920,6 +3060,11 @@
 		"artist": "COLLINS, JUDY"
 	},
 	{
+		"albumTitle": "12''ers",
+		"price": 10,
+		"artist": "COLLINS, PHIL"
+	},
+	{
 		"albumTitle": "Both Sides",
 		"price": 10,
 		"artist": "COLLINS, PHIL"
@@ -2958,6 +3103,11 @@
 		"albumTitle": "Serious Hits Live",
 		"price": 10,
 		"artist": "COLLINS, PHIL"
+	},
+	{
+		"albumTitle": "Testify",
+		"artist": "COLLINS, PHIL",
+		"price": 10
 	},
 	{
 		"albumTitle": "Blue Aconite",
@@ -3055,6 +3205,11 @@
 		"artist": "COUNTING CROWS"
 	},
 	{
+		"albumTitle": "Films About Ghosts, The Best Of",
+		"price": 10,
+		"artist": "COUNTING CROWS"
+	},
+	{
 		"albumTitle": "Hard Candy",
 		"price": 10,
 		"artist": "COUNTING CROWS"
@@ -3088,6 +3243,11 @@
 		"albumTitle": "To The Faithful Departed",
 		"price": 10,
 		"artist": "CRANBERRIES, THE"
+	},
+	{
+		"albumTitle": "A Worm's Life",
+		"price": 10,
+		"artist": "CRASH TEST DUMMIES"
 	},
 	{
 		"albumTitle": "God Shuffled his Feet",
