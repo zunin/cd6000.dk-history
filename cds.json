@@ -530,11 +530,6 @@
 		"artist": "AMOS, TORI"
 	},
 	{
-		"albumTitle": "Heavy Rotation",
-		"price": 10,
-		"artist": "ANASTACIA"
-	},
-	{
 		"albumTitle": "Best Belief",
 		"price": 10,
 		"artist": "ANDERSEN, JACOB"
@@ -1275,11 +1270,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Rock N Soul Music, The Memphis Album",
-		"artist": "BELLI, PETER",
-		"price": 10
-	},
-	{
 		"albumTitle": "Ulven Peter, De 34 Største Hits (2CD)",
 		"artist": "BELLI, PETER",
 		"price": 10
@@ -1607,11 +1597,6 @@
 	{
 		"albumTitle": "Don't Fear The Reaper, The Best Of",
 		"artist": "BLUE ÖYSTER CULT",
-		"price": 10
-	},
-	{
-		"albumTitle": "Fat City",
-		"artist": "BLUES BAND, THE",
 		"price": 10
 	},
 	{
@@ -2183,11 +2168,6 @@
 		"albumTitle": "Eastern Wind",
 		"artist": "BURGH, CHRIS de",
 		"price": 10
-	},
-	{
-		"albumTitle": "Burhan G",
-		"price": 10,
-		"artist": "BURHAN G"
 	},
 	{
 		"albumTitle": "Hjertet Ser",
@@ -3945,22 +3925,7 @@
 		"artist": "DISKOFIL"
 	},
 	{
-		"albumTitle": "Dissing Synger Bellman",
-		"artist": "DISSING, POUL",
-		"price": 10
-	},
-	{
-		"albumTitle": "Jeg Er En Tosset Spillemand",
-		"artist": "DISSING, POUL",
-		"price": 30
-	},
-	{
 		"albumTitle": "Mor Danmark",
-		"artist": "DISSING, POUL",
-		"price": 10
-	},
-	{
-		"albumTitle": "Poul Dissing (Dejlige Danske)(2CD)",
 		"artist": "DISSING, POUL",
 		"price": 10
 	},
@@ -3971,11 +3936,6 @@
 	},
 	{
 		"albumTitle": "I Al Slags Vejr",
-		"price": 10,
-		"artist": "DISSING, POUL & BENNY ANDERSEN"
-	},
-	{
-		"albumTitle": "Oven Visse Vande",
 		"price": 10,
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
 	},
@@ -4416,11 +4376,6 @@
 	},
 	{
 		"albumTitle": "Bortom Det Blå",
-		"price": 10,
-		"artist": "EKDAHL, LISA"
-	},
-	{
-		"albumTitle": "En Samling Sånger",
 		"price": 10,
 		"artist": "EKDAHL, LISA"
 	},
@@ -5495,11 +5450,6 @@
 		"artist": "GLÆSEL, JAN"
 	},
 	{
-		"albumTitle": "Den Dejligste Plade I 100 År, Greatest",
-		"price": 10,
-		"artist": "GNAGS"
-	},
-	{
 		"albumTitle": "Gösta Hammerfedt",
 		"price": 10,
 		"artist": "GNAGS"
@@ -5538,11 +5488,6 @@
 		"albumTitle": "Øjne På Stilke",
 		"price": 10,
 		"artist": "GNAGS"
-	},
-	{
-		"albumTitle": "Er Du Hjemme I Aften/La Det Gro",
-		"artist": "GNAGS",
-		"price": 10
 	},
 	{
 		"albumTitle": "Intercity",
@@ -5748,11 +5693,6 @@
 		"albumTitle": "Himmelstrejfer",
 		"artist": "GRIP, ERIK",
 		"price": 15
-	},
-	{
-		"albumTitle": "Måske Har Du Det Li'som Jeg / 200 Gram Blandet",
-		"artist": "GRIP, ERIK",
-		"price": 10
 	},
 	{
 		"albumTitle": "A Collection (2CD)",
@@ -7735,11 +7675,6 @@
 		"artist": "KJELLERUP, THOMAS"
 	},
 	{
-		"albumTitle": "En Sang Alene",
-		"price": 10,
-		"artist": "KJELLERUP, THOMAS"
-	},
-	{
 		"albumTitle": "Til Anni - Og Alle De Andre (2CD)",
 		"price": 10,
 		"artist": "KJELLERUP, THOMAS"
@@ -8088,11 +8023,6 @@
 		"albumTitle": "Stilla Natt",
 		"price": 10,
 		"artist": "KÖRBERG, TOMMY"
-	},
-	{
-		"albumTitle": "De Største Narrestreger",
-		"price": 10,
-		"artist": "LABAN"
 	},
 	{
 		"albumTitle": "De 36 Bedste Narrestreger",
@@ -10575,11 +10505,6 @@
 		"artist": "NANNA"
 	},
 	{
-		"albumTitle": "Pletskud & Vildskud (NY i folie)",
-		"artist": "NANNA",
-		"price": 10
-	},
-	{
 		"albumTitle": "Små Blå Breve",
 		"artist": "NANNA",
 		"price": 30
@@ -12240,16 +12165,6 @@
 		"artist": "RAY DEE OHH"
 	},
 	{
-		"albumTitle": "Too (NY i folie)",
-		"price": 10,
-		"artist": "RAY DEE OHH"
-	},
-	{
-		"albumTitle": "Det Hele (3CD)",
-		"artist": "RAY DEE OHH",
-		"price": 25
-	},
-	{
 		"albumTitle": "Razorlight",
 		"price": 10,
 		"artist": "RAZORLIGHT"
@@ -12433,11 +12348,6 @@
 		"albumTitle": "Untitled",
 		"price": 10,
 		"artist": "REMBRANDTS, THE"
-	},
-	{
-		"albumTitle": "The Hits",
-		"artist": "REO SPEEDWAGON",
-		"price": 10
 	},
 	{
 		"albumTitle": "Republica",
@@ -15660,11 +15570,6 @@
 		"artist": "TRENTEMØLLER"
 	},
 	{
-		"albumTitle": "Bøf Med Løg",
-		"price": 10,
-		"artist": "TRIER, TROELS & REBECCA BRÜEL"
-	},
-	{
 		"albumTitle": "Hoster Du I Nat..",
 		"price": 10,
 		"artist": "TRIER, TROELS & REBECCA BRÜEL"
@@ -18336,11 +18241,6 @@
 	},
 	{
 		"albumTitle": "Pa-Papegøje",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Tusindvis Af Is",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
