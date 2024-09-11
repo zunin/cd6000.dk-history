@@ -15225,11 +15225,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Best Of",
-		"artist": "TASTE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Greatest Hits (1976)",
 		"artist": "TAYLOR, JAMES",
 		"price": 10
@@ -16823,6 +16818,11 @@
 		"albumTitle": "Conscience",
 		"price": 10,
 		"artist": "WOMACK & WOMACK"
+	},
+	{
+		"albumTitle": "In Square Circle",
+		"price": 10,
+		"artist": "WONDER, STEVIE"
 	},
 	{
 		"albumTitle": "Number Ones",
