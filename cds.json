@@ -2465,6 +2465,11 @@
 		"artist": "CASH, JOHNNY"
 	},
 	{
+		"albumTitle": "Itchy Feet, 20 Foot Tappin' Greats",
+		"price": 10,
+		"artist": "CASH, JOHNNY"
+	},
+	{
 		"albumTitle": "Ring Of Fire, The Legend Of",
 		"price": 10,
 		"artist": "CASH, JOHNNY"
@@ -2975,6 +2980,11 @@
 		"artist": "COLDPLAY"
 	},
 	{
+		"albumTitle": "Mylo Xyloto",
+		"price": 10,
+		"artist": "COLDPLAY"
+	},
+	{
 		"albumTitle": "Viva La Vida",
 		"price": 10,
 		"artist": "COLDPLAY"
@@ -3123,6 +3133,11 @@
 		"albumTitle": "Hits Of The 50's",
 		"price": 10,
 		"artist": "COOKE, SAM"
+	},
+	{
+		"albumTitle": "Greatest Hits",
+		"price": 10,
+		"artist": "COOPER, ALICE"
 	},
 	{
 		"albumTitle": "Compact Jazz",
@@ -3310,9 +3325,29 @@
 		"artist": "CREEDENCE CLEARWATER REVIVAL"
 	},
 	{
+		"albumTitle": "Pendulum",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": 25
+	},
+	{
+		"albumTitle": "So Far So Good",
+		"artist": "CROSS, BILLY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Every Turn Of The World",
 		"price": 10,
 		"artist": "CROSS, CHRISTOPHER"
+	},
+	{
+		"albumTitle": "Back Of My Mind",
+		"artist": "CROSS, CHRISTOPHER",
+		"price": 10
+	},
+	{
+		"albumTitle": "Christopher Cross",
+		"artist": "CROSS, CHRISTOPHER",
+		"price": 15
 	},
 	{
 		"albumTitle": "C'Mon, C'Mon",
@@ -3370,8 +3405,23 @@
 		"artist": "CULLUM, JAMIE"
 	},
 	{
+		"albumTitle": "Greatest Moments/VH1 Storytellers",
+		"artist": "CULTURE CLUB",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Best Of",
 		"artist": "CULTURE CLUB",
+		"price": 10
+	},
+	{
+		"albumTitle": "At Worst, The Best Of",
+		"artist": "CULTURE CLUB & BOY GEORGE",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Very Best Of",
+		"artist": "CULTURE CLUB & BOY GEORGE",
 		"price": 10
 	},
 	{
@@ -3475,6 +3525,16 @@
 		"price": 40
 	},
 	{
+		"albumTitle": "Tyve-Ti (CD+DVD)",
+		"artist": "DALTON",
+		"price": 15
+	},
+	{
+		"albumTitle": "Dylansk",
+		"price": 10,
+		"artist": "DANSKPOP"
+	},
+	{
 		"albumTitle": "Danseorkestret",
 		"price": 10,
 		"artist": "DANSEORKESTRET"
@@ -3508,11 +3568,6 @@
 		"albumTitle": "Vores Bedste (2CD+DVD)",
 		"artist": "DANSER MED DRENGE",
 		"price": 10
-	},
-	{
-		"albumTitle": "Darleens",
-		"price": 10,
-		"artist": "DARLEENS"
 	},
 	{
 		"albumTitle": "Twisted",
@@ -3680,6 +3735,21 @@
 		"artist": "DENVER, JOHN"
 	},
 	{
+		"albumTitle": "The Best Of",
+		"price": 10,
+		"artist": "DEPECHE MODE"
+	},
+	{
+		"albumTitle": "The Singles 81>85",
+		"price": 10,
+		"artist": "DEPECHE MODE"
+	},
+	{
+		"albumTitle": "Ultra",
+		"price": 10,
+		"artist": "DEPECHE MODE"
+	},
+	{
 		"albumTitle": "I Ain't Movin'",
 		"price": 10,
 		"artist": "DES'REE"
@@ -3810,6 +3880,11 @@
 		"artist": "DIDO"
 	},
 	{
+		"albumTitle": "Solid State Rhyme",
+		"price": 10,
+		"artist": "DIESEL"
+	},
+	{
 		"albumTitle": "Situationist Comedy",
 		"price": 10,
 		"artist": "DILLINGER FOUR"
@@ -3826,6 +3901,11 @@
 	},
 	{
 		"albumTitle": "Let's Talk About Love",
+		"price": 10,
+		"artist": "DION, CELINE"
+	},
+	{
+		"albumTitle": "My Love, Ultimate Essential Collection",
 		"price": 10,
 		"artist": "DION, CELINE"
 	},
@@ -3915,11 +3995,6 @@
 		"artist": "DISKOFIL"
 	},
 	{
-		"albumTitle": "Mor Danmark",
-		"artist": "DISSING, POUL",
-		"price": 10
-	},
-	{
 		"albumTitle": "Troubadourens Bedste (2CD)",
 		"artist": "DISSING, POUL",
 		"price": 20
@@ -3970,6 +4045,11 @@
 		"artist": "DISSING, POUL, BENNY ANDERSEN & Radiounderholdningsorkestret"
 	},
 	{
+		"albumTitle": "Dissing Dissing Las & Dissing 3",
+		"artist": "DISSING DISSING LAS & DISSING",
+		"price": 10
+	},
+	{
 		"albumTitle": "Dissing Dissing Von Daler & Dissing",
 		"price": 10,
 		"artist": "DISSING DISSING VON DALER & DISSING"
@@ -3981,6 +4061,11 @@
 	},
 	{
 		"albumTitle": "Taking The Long Way",
+		"price": 10,
+		"artist": "THE DIXIE CHICKS"
+	},
+	{
+		"albumTitle": "Wide Open Spaces",
 		"price": 10,
 		"artist": "THE DIXIE CHICKS"
 	},
@@ -4050,7 +4135,12 @@
 		"artist": "DONOVAN"
 	},
 	{
-		"albumTitle": "Greatest Hits",
+		"albumTitle": "Greatest Hits (Epic)",
+		"price": 10,
+		"artist": "DONOVAN"
+	},
+	{
+		"albumTitle": "Greatest Hits (Double Play)",
 		"price": 10,
 		"artist": "DONOVAN"
 	},
@@ -4125,6 +4215,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Very Best Of (2CD)",
+		"artist": "DOORS, THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Femten Gasolin Sange",
 		"price": 10,
 		"artist": "DR. DANTE"
@@ -4163,6 +4258,11 @@
 		"albumTitle": "Angora By Night",
 		"artist": "DRENGENE FRA ANGORA",
 		"price": 10
+	},
+	{
+		"albumTitle": "Feat. Onkel Jürgen",
+		"price": 10,
+		"artist": "DREWS, JÜRGEN"
 	},
 	{
 		"albumTitle": "The Drifters",
@@ -4265,9 +4365,24 @@
 		"artist": "DUPONT, SASCHA"
 	},
 	{
+		"albumTitle": "Greatest Hits",
+		"price": 10,
+		"artist": "DYLAN, BOB"
+	},
+	{
 		"albumTitle": "Modern Times",
 		"price": 10,
 		"artist": "DYLAN, BOB"
+	},
+	{
+		"albumTitle": "The Best Of",
+		"price": 10,
+		"artist": "DYLAN, BOB"
+	},
+	{
+		"albumTitle": "Bringing It All Back Home",
+		"artist": "DYLAN, BOB",
+		"price": 10
 	},
 	{
 		"albumTitle": "Dylan",
@@ -4280,7 +4395,17 @@
 		"price": 15
 	},
 	{
+		"albumTitle": "Nashville Skyline",
+		"artist": "DYLAN, BOB",
+		"price": 15
+	},
+	{
 		"albumTitle": "Oh Mercy",
+		"artist": "DYLAN, BOB",
+		"price": 10
+	},
+	{
+		"albumTitle": "Pat Garrett & Billy The Kid",
 		"artist": "DYLAN, BOB",
 		"price": 10
 	},
@@ -4296,6 +4421,11 @@
 	},
 	{
 		"albumTitle": "Together Through Life",
+		"artist": "DYLAN, BOB",
+		"price": 10
+	},
+	{
+		"albumTitle": "Unplugged",
 		"artist": "DYLAN, BOB",
 		"price": 10
 	},
@@ -4365,6 +4495,11 @@
 		"artist": "EIDSVÅG, BJØRN"
 	},
 	{
+		"albumTitle": "Human Child",
+		"artist": "EIVØR",
+		"price": 10
+	},
+	{
 		"albumTitle": "Bortom Det Blå",
 		"price": 10,
 		"artist": "EKDAHL, LISA"
@@ -4380,7 +4515,17 @@
 		"artist": "EKDAHL, LISA"
 	},
 	{
+		"albumTitle": "All Over The World, The Very Best Of",
+		"price": 10,
+		"artist": "ELECTRIC LIGHT ORCHESTRA"
+	},
+	{
 		"albumTitle": "ELO's Greatest Hits",
+		"price": 10,
+		"artist": "ELECTRIC LIGHT ORCHESTRA"
+	},
+	{
+		"albumTitle": "ELO's Greatest Hits Volume Two",
 		"price": 10,
 		"artist": "ELECTRIC LIGHT ORCHESTRA"
 	},
@@ -4388,31 +4533,6 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "ELECTRIC LIGHT ORCHESTRA"
-	},
-	{
-		"albumTitle": "Hot Summer Dance",
-		"price": 10,
-		"artist": "ELLINGTON, DUKE"
-	},
-	{
-		"albumTitle": "The Arrival Of Billy Strayhorn",
-		"price": 10,
-		"artist": "ELLINGTON, DUKE"
-	},
-	{
-		"albumTitle": "1941",
-		"price": 10,
-		"artist": "ELLINGTON, DUKE & HIS ORCHESTRA"
-	},
-	{
-		"albumTitle": "1966-1967",
-		"price": 10,
-		"artist": "ELLINGTON, DUKE & HIS ORCHESTRA"
-	},
-	{
-		"albumTitle": "Back To Back",
-		"price": 10,
-		"artist": "ELLINGTON, DUKE & JOHNNY HODGES"
 	},
 	{
 		"albumTitle": "Elisabedst",
@@ -4440,9 +4560,39 @@
 		"price": 40
 	},
 	{
+		"albumTitle": "Serenader",
+		"artist": "ELISABETH",
+		"price": 20
+	},
+	{
 		"albumTitle": "Sotto Voce",
 		"artist": "ELISABETH",
 		"price": 10
+	},
+	{
+		"albumTitle": "Hot Summer Dance",
+		"price": 10,
+		"artist": "ELLINGTON, DUKE"
+	},
+	{
+		"albumTitle": "The Arrival Of Billy Strayhorn",
+		"price": 10,
+		"artist": "ELLINGTON, DUKE"
+	},
+	{
+		"albumTitle": "1941",
+		"price": 10,
+		"artist": "ELLINGTON, DUKE & HIS ORCHESTRA"
+	},
+	{
+		"albumTitle": "1966-1967",
+		"price": 10,
+		"artist": "ELLINGTON, DUKE & HIS ORCHESTRA"
+	},
+	{
+		"albumTitle": "Back To Back",
+		"price": 10,
+		"artist": "ELLINGTON, DUKE & JOHNNY HODGES"
 	},
 	{
 		"albumTitle": "Back For More",
@@ -4498,6 +4648,11 @@
 		"albumTitle": "The Slim Shady LP",
 		"price": 10,
 		"artist": "EMINEM"
+	},
+	{
+		"albumTitle": "De Eneste To",
+		"artist": "ENESTE TO, DE",
+		"price": 10
 	},
 	{
 		"albumTitle": "40 Viser Og Sange Fra 1987-1997 (2CD)",
@@ -13640,11 +13795,6 @@
 		"artist": "SHU-BI-DUA"
 	},
 	{
-		"albumTitle": "Da Mor Var Dreng",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
 		"albumTitle": "Femten Skarpe Skud",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
@@ -13851,11 +14001,6 @@
 	},
 	{
 		"albumTitle": "Sinatra - At The Movies",
-		"price": 10,
-		"artist": "SINATRA, FRANK"
-	},
-	{
-		"albumTitle": "Sinatra Reprise, The Very Good Years",
 		"price": 10,
 		"artist": "SINATRA, FRANK"
 	},
@@ -14440,11 +14585,6 @@
 		"artist": "SPRINGSTEEN, BRUCE"
 	},
 	{
-		"albumTitle": "Magic",
-		"price": 10,
-		"artist": "SPRINGSTEEN, BRUCE"
-	},
-	{
 		"albumTitle": "The Rising",
 		"price": 10,
 		"artist": "SPRINGSTEEN, BRUCE"
@@ -14526,11 +14666,6 @@
 	},
 	{
 		"albumTitle": "Love Among The Cannibals",
-		"artist": "STARSHIP",
-		"price": 10
-	},
-	{
-		"albumTitle": "We Build This City, The Very Best Of",
 		"artist": "STARSHIP",
 		"price": 10
 	},
