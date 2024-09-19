@@ -85,11 +85,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "The Albums (9CD boks)",
-		"artist": "ABBA",
-		"price": 10
-	},
-	{
 		"albumTitle": "I'll Come Back And Love You Forever",
 		"price": 10,
 		"artist": "ABEL, MORTEN"
@@ -3715,21 +3710,6 @@
 		"artist": "DENVER, JOHN"
 	},
 	{
-		"albumTitle": "The Best Of",
-		"price": 10,
-		"artist": "DEPECHE MODE"
-	},
-	{
-		"albumTitle": "The Singles 81>85",
-		"price": 10,
-		"artist": "DEPECHE MODE"
-	},
-	{
-		"albumTitle": "Ultra",
-		"price": 10,
-		"artist": "DEPECHE MODE"
-	},
-	{
 		"albumTitle": "I Ain't Movin'",
 		"price": 10,
 		"artist": "DES'REE"
@@ -4076,11 +4056,6 @@
 	},
 	{
 		"albumTitle": "4",
-		"price": 10,
-		"artist": "DODO & THE DODO'S"
-	},
-	{
-		"albumTitle": "5",
 		"price": 10,
 		"artist": "DODO & THE DODO'S"
 	},
@@ -4460,6 +4435,11 @@
 		"artist": "EIDSVÅG, BJØRN"
 	},
 	{
+		"albumTitle": "Europop",
+		"price": 10,
+		"artist": "EIFFEL 65"
+	},
+	{
 		"albumTitle": "Human Child",
 		"artist": "EIVØR",
 		"price": 10
@@ -4615,6 +4595,11 @@
 		"artist": "EMINEM"
 	},
 	{
+		"albumTitle": "The Very Best Of",
+		"price": 10,
+		"artist": "EN VOGUE"
+	},
+	{
 		"albumTitle": "De Eneste To",
 		"artist": "ENESTE TO, DE",
 		"price": 10
@@ -4700,6 +4685,21 @@
 		"artist": "ERANN D.D."
 	},
 	{
+		"albumTitle": "Cowboy",
+		"price": 10,
+		"artist": "ERASURE"
+	},
+	{
+		"albumTitle": "I Say I Say I Say",
+		"price": 10,
+		"artist": "ERASURE"
+	},
+	{
+		"albumTitle": "Pop 20 Hits!",
+		"price": 10,
+		"artist": "ERASURE"
+	},
+	{
 		"albumTitle": "Wild Wild West",
 		"price": 10,
 		"artist": "ESCAPE CLUB, THE"
@@ -4708,6 +4708,11 @@
 		"albumTitle": "Tahiti",
 		"price": 10,
 		"artist": "ESSEX, DAVID"
+	},
+	{
+		"albumTitle": "Anything For You",
+		"price": 10,
+		"artist": "ESTEFAN, GLORIA"
 	},
 	{
 		"albumTitle": "Cuts Both Ways",
@@ -4733,6 +4738,11 @@
 		"albumTitle": "Yes I Am Melissa",
 		"price": 10,
 		"artist": "ETHERIDGE, MELISSA"
+	},
+	{
+		"albumTitle": "Prisoners In Paradise",
+		"artist": "EUROPE",
+		"price": 20
 	},
 	{
 		"albumTitle": "Rock The Night, The Very Best Of (2CD)",
@@ -4835,6 +4845,11 @@
 		"artist": "FAIRGROUND ATTRACTION"
 	},
 	{
+		"albumTitle": "King For A Day",
+		"price": 10,
+		"artist": "FAITH NO MORE"
+	},
+	{
 		"albumTitle": "Live At Brixton Academy",
 		"price": 10,
 		"artist": "FAITH NO MORE"
@@ -4850,12 +4865,27 @@
 		"artist": "FAITHFULL, MARIANNE"
 	},
 	{
+		"albumTitle": "Best Of 1986-1988",
+		"price": 10,
+		"artist": "FALCH, MICHAEL"
+	},
+	{
+		"albumTitle": "De 17 Bedste",
+		"price": 10,
+		"artist": "FALCH, MICHAEL"
+	},
+	{
 		"albumTitle": "Det Andet Land",
 		"price": 10,
 		"artist": "FALCH, MICHAEL"
 	},
 	{
 		"albumTitle": "Fodspor I Havet",
+		"price": 10,
+		"artist": "FALCH, MICHAEL"
+	},
+	{
+		"albumTitle": "Håbets Hotel",
 		"price": 10,
 		"artist": "FALCH, MICHAEL"
 	},
@@ -4875,7 +4905,17 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Hånden På Hjertet (2CD)",
+		"artist": "FALCH, MICHAEL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Mød Mig I Mørket (2CD)",
+		"artist": "FALCH, MICHAEL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Tossede Verden",
 		"artist": "FALCH, MICHAEL",
 		"price": 10
 	},
@@ -4945,6 +4985,11 @@
 		"artist": "FEDE FINN & FUNNY BOYZ"
 	},
 	{
+		"albumTitle": "Kærligheden Brænder",
+		"price": 10,
+		"artist": "FEDE FINN & FUNNY BOYZ"
+	},
+	{
 		"albumTitle": "Hun Si'r Jeg Ligner Elvis",
 		"price": 10,
 		"artist": "FEDE FINN & FUNNY BOYZ"
@@ -5008,6 +5053,11 @@
 		"albumTitle": "Taxi",
 		"price": 10,
 		"artist": "FERRY, BRYAN"
+	},
+	{
+		"albumTitle": "Mamouna",
+		"artist": "FERRY, BRYAN",
+		"price": 10
 	},
 	{
 		"albumTitle": "More Than This, The Best Of",
@@ -5120,9 +5170,24 @@
 		"artist": "FLEETWOOD MAC"
 	},
 	{
+		"albumTitle": "Rumours",
+		"artist": "FLEETWOOD MAC",
+		"price": 10
+	},
+	{
+		"albumTitle": "Inamorata",
+		"artist": "FLETCHER, GUY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Only You, The Best Of",
 		"price": 10,
 		"artist": "THE FLYING PICKETS"
+	},
+	{
+		"albumTitle": "Moving Waves (remastered)",
+		"artist": "FOCUS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Blue Moon Swamp",
@@ -5200,6 +5265,11 @@
 		"artist": "FRANK, MARIE"
 	},
 	{
+		"albumTitle": "Bang!.. The Greatest Hits Of",
+		"price": 10,
+		"artist": "FRANKIE GOES TO HOLLYWOOD"
+	},
+	{
 		"albumTitle": "Welcome To The Pleasuredome",
 		"price": 10,
 		"artist": "FRANKIE GOES TO HOLLYWOOD"
@@ -5255,6 +5325,16 @@
 		"artist": "FRANZ FERDINAND"
 	},
 	{
+		"albumTitle": "Free At Last",
+		"artist": "FREE",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Last In Line",
+		"artist": "FREE CLOUD NINE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Live",
 		"artist": "FREY, GLENN",
 		"price": 10
@@ -5275,8 +5355,18 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "When The Time Is Right",
+		"artist": "FROST, PER CHRISTIAN",
+		"price": 10
+	},
+	{
 		"albumTitle": "Hey Freddy",
 		"artist": "FRÆK, FREDDY",
+		"price": 10
+	},
+	{
+		"albumTitle": "Funkturistic",
+		"artist": "FUNKSTAR DE LUXE",
 		"price": 10
 	},
 	{
@@ -5540,6 +5630,11 @@
 		"artist": "GLADE SØMÆND, DE"
 	},
 	{
+		"albumTitle": "Med Stiv Kuling Og Håret Tilbage",
+		"artist": "GLADE SØMÆND, DE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Glasvegas",
 		"price": 10,
 		"artist": "GLASVEGAS"
@@ -5565,6 +5660,16 @@
 		"artist": "GNAGS"
 	},
 	{
+		"albumTitle": "Har De Puttet Noget I Kaffen..?",
+		"price": 10,
+		"artist": "GNAGS"
+	},
+	{
+		"albumTitle": "Live Vol. II",
+		"price": 10,
+		"artist": "GNAGS"
+	},
+	{
 		"albumTitle": "Lygtemandens Sang",
 		"price": 10,
 		"artist": "GNAGS"
@@ -5576,11 +5681,6 @@
 	},
 	{
 		"albumTitle": "Ridser, Revner Og Buler",
-		"price": 10,
-		"artist": "GNAGS"
-	},
-	{
-		"albumTitle": "Safari",
 		"price": 10,
 		"artist": "GNAGS"
 	},
@@ -5741,6 +5841,11 @@
 	},
 	{
 		"albumTitle": "The Id",
+		"price": 10,
+		"artist": "GRAY, MACY"
+	},
+	{
+		"albumTitle": "I try.. The Macy Gray Collection",
 		"price": 10,
 		"artist": "GRAY, MACY"
 	},
@@ -11440,11 +11545,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Riot!",
-		"price": 10,
-		"artist": "PARAMORE"
-	},
-	{
 		"albumTitle": "Bird Of Paradise",
 		"price": 10,
 		"artist": "PARKER, CHARLIE"
@@ -12945,17 +13045,7 @@
 		"artist": "RUMOUR SAID FIRE, THE"
 	},
 	{
-		"albumTitle": "Amazing Things",
-		"price": 10,
-		"artist": "RUNRIG"
-	},
-	{
 		"albumTitle": "Everything You See",
-		"price": 10,
-		"artist": "RUNRIG"
-	},
-	{
-		"albumTitle": "Heartland",
 		"price": 10,
 		"artist": "RUNRIG"
 	},
@@ -12985,22 +13075,12 @@
 		"artist": "RUNRIG"
 	},
 	{
-		"albumTitle": "The Cutter And The Clan",
-		"price": 10,
-		"artist": "RUNRIG"
-	},
-	{
 		"albumTitle": "The Highland Connection",
 		"price": 10,
 		"artist": "RUNRIG"
 	},
 	{
 		"albumTitle": "The Stampíng Ground",
-		"price": 10,
-		"artist": "RUNRIG"
-	},
-	{
-		"albumTitle": "Transmitting Live",
 		"price": 10,
 		"artist": "RUNRIG"
 	},
