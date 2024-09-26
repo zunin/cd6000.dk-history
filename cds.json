@@ -5410,6 +5410,11 @@
 		"artist": "PETER GABRIEL"
 	},
 	{
+		"albumTitle": "Birdy - Music From The Film",
+		"artist": "PETER GABRIEL",
+		"price": 10
+	},
+	{
 		"albumTitle": "Peter Gabriel",
 		"artist": "PETER GABRIEL",
 		"price": 10
@@ -5618,6 +5623,11 @@
 		"albumTitle": "Gipsy Kings",
 		"price": 10,
 		"artist": "GIPSY KINGS"
+	},
+	{
+		"albumTitle": "C'Mon Let's Go",
+		"artist": "GIRLSCHOOL",
+		"price": 10
 	},
 	{
 		"albumTitle": "Søforklaringer",
@@ -5880,6 +5890,11 @@
 		"artist": "GREEN DAY"
 	},
 	{
+		"albumTitle": "De Levendes Land",
+		"price": 10,
+		"artist": "GRIP, ERIK"
+	},
+	{
 		"albumTitle": "Kærlighedssange",
 		"price": 10,
 		"artist": "GRIP, ERIK"
@@ -6025,6 +6040,21 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "The Ultimate Collection",
+		"price": 10,
+		"artist": "GUTHRIE, WOODY"
+	},
+	{
+		"albumTitle": "This Land Is Your Land, A Propper Introduction To",
+		"price": 10,
+		"artist": "GUTHRIE, WOODY"
+	},
+	{
+		"albumTitle": "This Land Is Your Land, The ASCH Recordings Vol. 1",
+		"price": 10,
+		"artist": "GUTHRIE, WOODY"
+	},
+	{
 		"albumTitle": "Beautiful Life",
 		"price": 10,
 		"artist": "GUTHRO, BRUCE"
@@ -6125,6 +6155,11 @@
 		"artist": "HANSEN, JOHNNY"
 	},
 	{
+		"albumTitle": "Pornogangster",
+		"price": 10,
+		"artist": "HARALD, L: RON"
+	},
+	{
 		"albumTitle": "Stars Of CCTV",
 		"price": 10,
 		"artist": "HARD-FI"
@@ -6133,6 +6168,11 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "HARLEY, STEVE & COCKNEY REBEL"
+	},
+	{
+		"albumTitle": "Live From Mars (2CD)",
+		"artist": "HARPER, BEN & THE INNOCENT CRIMINALS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Moviestar",
@@ -6145,7 +6185,22 @@
 		"artist": "HARPO"
 	},
 	{
+		"albumTitle": "Blue Kentucky Girl",
+		"artist": "HARRRIS, EMMYLOU",
+		"price": 10
+	},
+	{
 		"albumTitle": "Profile II, The Best Of",
+		"artist": "HARRRIS, EMMYLOU",
+		"price": 10
+	},
+	{
+		"albumTitle": "Red Dirt Girl",
+		"artist": "HARRRIS, EMMYLOU",
+		"price": 10
+	},
+	{
+		"albumTitle": "Songs Of The West",
 		"artist": "HARRRIS, EMMYLOU",
 		"price": 10
 	},
@@ -6280,6 +6335,11 @@
 		"artist": "HEARTBEAT CLUB"
 	},
 	{
+		"albumTitle": "Right Time",
+		"artist": "HEICK, ANNETTE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Audition Ballerina",
 		"price": 10,
 		"artist": "HEIDI (HERLØW)"
@@ -6370,6 +6430,11 @@
 		"artist": "HENDERSSON, CAOLINE"
 	},
 	{
+		"albumTitle": "Don't Explain",
+		"artist": "HENDERSSON, CAOLINE",
+		"price": 10
+	},
+	{
 		"albumTitle": "19 Great Performances (2CD)",
 		"artist": "HENDRIX, JIMI",
 		"price": 10
@@ -6388,6 +6453,11 @@
 		"albumTitle": "The End Of Innocence",
 		"price": 10,
 		"artist": "HENLEY, DON"
+	},
+	{
+		"albumTitle": "Bästa",
+		"artist": "HEP STARS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Songs From Cinema Café",
@@ -6720,7 +6790,17 @@
 		"artist": "HOUSTON, WHITNEY"
 	},
 	{
+		"albumTitle": "The Essential (2CD)",
+		"artist": "HOUSTON, WHITNEY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Blidt Over Dig",
+		"price": 10,
+		"artist": "H.U.G., LARS"
+	},
+	{
+		"albumTitle": "Greatest",
 		"price": 10,
 		"artist": "H.U.G., LARS"
 	},
@@ -6775,6 +6855,11 @@
 		"artist": "HUSH"
 	},
 	{
+		"albumTitle": "Backroads",
+		"artist": "HUSH",
+		"price": 10
+	},
+	{
 		"albumTitle": "Troen & Ingen",
 		"artist": "HUSS, SØREN",
 		"price": 20
@@ -6810,6 +6895,11 @@
 		"artist": "HÄGGKVIST, CAROLA"
 	},
 	{
+		"albumTitle": "Jazz",
+		"artist": "HÆNNING, GITTE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Church Of The Real",
 		"price": 10,
 		"artist": "I GOT YOU ON TAPE"
@@ -6826,6 +6916,11 @@
 	},
 	{
 		"albumTitle": "11 Of The Best",
+		"price": 10,
+		"artist": "IDOL, BILLY"
+	},
+	{
+		"albumTitle": "Charmed Life",
 		"price": 10,
 		"artist": "IDOL, BILLY"
 	},
@@ -6863,6 +6958,11 @@
 		"albumTitle": "Insomniac",
 		"price": 10,
 		"artist": "IGLESIAS, ENRIQUE"
+	},
+	{
+		"albumTitle": "Once Upon Tomorrow (NY i folie)",
+		"artist": "ILLEBORG, JACOB",
+		"price": 10
 	},
 	{
 		"albumTitle": "Left Of The Middle",
@@ -7155,7 +7255,22 @@
 		"artist": "JANES REJOICE"
 	},
 	{
+		"albumTitle": "Chronologie",
+		"price": 10,
+		"artist": "JARRE, JEAN-MICHEL"
+	},
+	{
+		"albumTitle": "Images",
+		"price": 10,
+		"artist": "JARRE, JEAN-MICHEL"
+	},
+	{
 		"albumTitle": "In Concert Houston Lyon",
+		"price": 10,
+		"artist": "JARRE, JEAN-MICHEL"
+	},
+	{
+		"albumTitle": "Oxygene 3",
 		"price": 10,
 		"artist": "JARRE, JEAN-MICHEL"
 	},
@@ -7188,6 +7303,21 @@
 		"albumTitle": "White Lightnin'",
 		"price": 10,
 		"artist": "JENNINGS, WAYLON"
+	},
+	{
+		"albumTitle": "Original Masters",
+		"artist": "JETHRO TULL",
+		"price": 10
+	},
+	{
+		"albumTitle": "M.U. - The Best Of Jethro Tull",
+		"artist": "JETHRO TULL",
+		"price": 10
+	},
+	{
+		"albumTitle": "Through The Years",
+		"artist": "JETHRO TULL",
+		"price": 10
 	},
 	{
 		"albumTitle": "Spirit",
