@@ -645,11 +645,6 @@
 		"artist": "AQUA"
 	},
 	{
-		"albumTitle": "Aquarius",
-		"price": 10,
-		"artist": "AQUA"
-	},
-	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "AQUA"
@@ -5625,11 +5620,6 @@
 		"artist": "GIPSY KINGS"
 	},
 	{
-		"albumTitle": "C'Mon Let's Go",
-		"artist": "GIRLSCHOOL",
-		"price": 10
-	},
-	{
 		"albumTitle": "Søforklaringer",
 		"price": 10,
 		"artist": "GLADE SØMÆND, DE"
@@ -7266,11 +7256,6 @@
 	},
 	{
 		"albumTitle": "In Concert Houston Lyon",
-		"price": 10,
-		"artist": "JARRE, JEAN-MICHEL"
-	},
-	{
-		"albumTitle": "Oxygene 3",
 		"price": 10,
 		"artist": "JARRE, JEAN-MICHEL"
 	},
@@ -9191,11 +9176,6 @@
 	},
 	{
 		"albumTitle": "Det Vi Sku' Miste",
-		"price": 10,
-		"artist": "LOVELESS, SHAKA"
-	},
-	{
-		"albumTitle": "Shaka Loveless",
 		"price": 10,
 		"artist": "LOVELESS, SHAKA"
 	},
