@@ -1530,11 +1530,6 @@
 		"artist": "BLISS"
 	},
 	{
-		"albumTitle": "Parallel Lines",
-		"price": 10,
-		"artist": "BLONDIE"
-	},
-	{
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "BLONDIE"
@@ -1865,11 +1860,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Ziggy Stardust (remastered)",
-		"artist": "BOWIE, DAVID",
-		"price": 10
-	},
-	{
 		"albumTitle": "Everything I Own",
 		"price": 10,
 		"artist": "BOY GEORGE"
@@ -1913,11 +1903,6 @@
 		"albumTitle": "The Light Of Day",
 		"price": 10,
 		"artist": "BRANDOS, THE"
-	},
-	{
-		"albumTitle": "Unonthodox Behaviour",
-		"artist": "BRAND X",
-		"price": 10
 	},
 	{
 		"albumTitle": "Baby Blue, Bob Dylan Gendigtet (2CD)",
@@ -2258,11 +2243,6 @@
 		"albumTitle": "Candlebox",
 		"price": 10,
 		"artist": "CANDLEBOX"
-	},
-	{
-		"albumTitle": "Boggy Depot",
-		"price": 10,
-		"artist": "CANTRELL, JERRY"
 	},
 	{
 		"albumTitle": "Degradation Trip",
@@ -3115,11 +3095,6 @@
 		"artist": "COOPER, ALICE"
 	},
 	{
-		"albumTitle": "Compact Jazz",
-		"price": 10,
-		"artist": "COREA, CHICK"
-	},
-	{
 		"albumTitle": "Euphoria Morning",
 		"price": 10,
 		"artist": "CORNELL, CHRIS"
@@ -3318,11 +3293,6 @@
 		"albumTitle": "Back Of My Mind",
 		"artist": "CROSS, CHRISTOPHER",
 		"price": 10
-	},
-	{
-		"albumTitle": "Christopher Cross",
-		"artist": "CROSS, CHRISTOPHER",
-		"price": 15
 	},
 	{
 		"albumTitle": "C'Mon, C'Mon",
@@ -5315,11 +5285,6 @@
 		"artist": "FRANZ FERDINAND"
 	},
 	{
-		"albumTitle": "Free At Last",
-		"artist": "FREE",
-		"price": 10
-	},
-	{
 		"albumTitle": "The Last In Line",
 		"artist": "FREE CLOUD NINE",
 		"price": 10
@@ -6268,11 +6233,6 @@
 		"albumTitle": "Whaler",
 		"price": 10,
 		"artist": "HAWKINS, SOPHIE B."
-	},
-	{
-		"albumTitle": "Space Bandits",
-		"artist": "HAWKWIND",
-		"price": 10
 	},
 	{
 		"albumTitle": "Kmag Yoko & Other American Stories",
@@ -9475,11 +9435,6 @@
 		"artist": "MALIN, JESSE"
 	},
 	{
-		"albumTitle": "Trilogy",
-		"artist": "MALMSTEN, YNGWIE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Ghetto",
 		"artist": "MALURT",
 		"price": 20
@@ -9691,11 +9646,6 @@
 	},
 	{
 		"albumTitle": "Before These Crowded Streets",
-		"price": 10,
-		"artist": "MATTHEWS BAND, DAVE"
-	},
-	{
-		"albumTitle": "Under The Table And Dreaming",
 		"price": 10,
 		"artist": "MATTHEWS BAND, DAVE"
 	},
@@ -14355,11 +14305,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "World Painted Blood (limited edition)",
-		"artist": "SLAYER",
-		"price": 10
-	},
-	{
 		"albumTitle": "Back On The Right Track",
 		"price": 10,
 		"artist": "SLY & THE FAMILY STONE"
@@ -16296,11 +16241,6 @@
 	},
 	{
 		"albumTitle": "1984",
-		"artist": "VAN HALEN",
-		"price": 10
-	},
-	{
-		"albumTitle": "Balance",
 		"artist": "VAN HALEN",
 		"price": 10
 	},
@@ -18545,11 +18485,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Glamkings Of Rock (2CD)",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Greatest Hits Of The 70's (8CD)",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 40
@@ -18608,11 +18543,6 @@
 		"albumTitle": "Sixties UK (4CD)",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 10
-	},
-	{
-		"albumTitle": "Superhits Of The 80's (4CD)",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 25
 	},
 	{
 		"albumTitle": "The Best Of Woodstock (remastered)",
