@@ -4965,11 +4965,6 @@
 		"artist": "FELICIANO, JOSÉ"
 	},
 	{
-		"albumTitle": "Beverly Way",
-		"price": 10,
-		"artist": "FENGER, SØS"
-	},
-	{
 		"albumTitle": "Camouflage",
 		"price": 10,
 		"artist": "FENGER, SØS"
@@ -7320,6 +7315,11 @@
 		"artist": "JOHN, ELTON"
 	},
 	{
+		"albumTitle": "One Night Only, The Greatest Hits",
+		"price": 10,
+		"artist": "JOHN, ELTON"
+	},
+	{
 		"albumTitle": "Peachtree Road",
 		"price": 10,
 		"artist": "JOHN, ELTON"
@@ -7368,6 +7368,11 @@
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "JOHNNY HATES JAZZ"
+	},
+	{
+		"albumTitle": "Victory Boulevard",
+		"artist": "JOHNSEN, IVAN",
+		"price": 10
 	},
 	{
 		"albumTitle": "Blast",
@@ -7435,6 +7440,11 @@
 		"artist": "JONES, TOM"
 	},
 	{
+		"albumTitle": "Greatest Hits (2CD)",
+		"price": 10,
+		"artist": "JONES, TOM"
+	},
+	{
 		"albumTitle": "I Thank You",
 		"price": 10,
 		"artist": "JONES, TOM"
@@ -7458,6 +7468,11 @@
 		"albumTitle": "Greatest Hits",
 		"artist": "JOPLIN, JANIS",
 		"price": 15
+	},
+	{
+		"albumTitle": "In Concert",
+		"artist": "JOPLIN, JANIS",
+		"price": 10
 	},
 	{
 		"albumTitle": "Pearl",
@@ -7523,6 +7538,11 @@
 		"albumTitle": "16 Hits",
 		"artist": "JØRGENSEN, C.V.",
 		"price": 10
+	},
+	{
+		"albumTitle": "Sjælland",
+		"artist": "JØRGENSEN, C.V.",
+		"price": 30
 	},
 	{
 		"albumTitle": "Skygger & Magi (2CD)",
@@ -7800,6 +7820,11 @@
 		"artist": "KERSHAW, NIK"
 	},
 	{
+		"albumTitle": "The Collection",
+		"price": 10,
+		"artist": "KERSHAW, NIK"
+	},
+	{
 		"albumTitle": "De Her Dage",
 		"price": 10,
 		"artist": "KEY MARIE"
@@ -7818,6 +7843,11 @@
 		"albumTitle": "The Diary Of Alicia Keys",
 		"price": 10,
 		"artist": "KEYS, ALICIA"
+	},
+	{
+		"albumTitle": "I'll Be Around",
+		"artist": "KIBSGAARD, OLE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Annie, I'm Not Your Daddy",
@@ -7843,6 +7873,11 @@
 		"albumTitle": "Sickeningly Pretty & Unpleasantly Vain",
 		"price": 10,
 		"artist": "KILLER"
+	},
+	{
+		"albumTitle": "Sam's Town",
+		"price": 10,
+		"artist": "KILLERS, THE"
 	},
 	{
 		"albumTitle": "King Of The Blues 1989",
@@ -7893,6 +7928,11 @@
 		"albumTitle": "Only By The Night",
 		"price": 10,
 		"artist": "KINGS OF LEON"
+	},
+	{
+		"albumTitle": "Greatest Hits",
+		"artist": "KINKS, THE",
+		"price": 10
 	},
 	{
 		"albumTitle": "Part 1 Lola Versus Powerman",
@@ -8055,6 +8095,11 @@
 		"artist": "KNOPFLER, MARK"
 	},
 	{
+		"albumTitle": "Get Lucky",
+		"price": 10,
+		"artist": "KNOPFLER, MARK"
+	},
+	{
 		"albumTitle": "Golden Heart",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
@@ -8086,6 +8131,11 @@
 	},
 	{
 		"albumTitle": "Shangri-La (CD+DVD)",
+		"artist": "KNOPFLER, MARK",
+		"price": 10
+	},
+	{
+		"albumTitle": "The Ragpickers Dream (2CD)",
 		"artist": "KNOPFLER, MARK",
 		"price": 10
 	},
@@ -8595,6 +8645,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "I",
+		"artist": "LED ZEPPELIN",
+		"price": 10
+	},
+	{
 		"albumTitle": "II",
 		"artist": "LED ZEPPELIN",
 		"price": 10
@@ -8613,6 +8668,11 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "LEE, BRENDA"
+	},
+	{
+		"albumTitle": "The Abbey Road Recordings",
+		"artist": "LEGACY LANE feat. ANNE GADEBERG",
+		"price": 10
 	},
 	{
 		"albumTitle": "Get Lifted",
@@ -8780,6 +8840,11 @@
 		"artist": "LILHOLT, KRISTIAN"
 	},
 	{
+		"albumTitle": "Coincidance",
+		"price": 10,
+		"artist": "LILHOLT, KRISTIAN"
+	},
+	{
 		"albumTitle": "Next Summer",
 		"price": 10,
 		"artist": "LILHOLT, KRISTIAN"
@@ -8788,6 +8853,11 @@
 		"albumTitle": "Vejen Videre (signeret)",
 		"price": 10,
 		"artist": "LILHOLT, KRISTIAN"
+	},
+	{
+		"albumTitle": "Our Song (2CD)",
+		"artist": "LILHOLT, KRISTIAN & IDA FRIIS VIRENFELDT",
+		"price": 10
 	},
 	{
 		"albumTitle": "Amulet (2CD)(NY i folie)",
@@ -8865,6 +8935,11 @@
 		"artist": "LILLER, BJARNE"
 	},
 	{
+		"albumTitle": "16 Største Succes'er Vol. 2",
+		"price": 10,
+		"artist": "LILLER, BJARNE"
+	},
+	{
 		"albumTitle": "Største Succes'er Volume 2",
 		"price": 10,
 		"artist": "LILLER, BJARNE"
@@ -8916,6 +8991,11 @@
 	},
 	{
 		"albumTitle": "Det' Så Dansk",
+		"price": 10,
+		"artist": "LINNET, ANNE"
+	},
+	{
+		"albumTitle": "Her Hos Mig",
 		"price": 10,
 		"artist": "LINNET, ANNE"
 	},
@@ -8980,11 +9060,6 @@
 		"artist": "ANNE LINNET & MARQUIS de SADE"
 	},
 	{
-		"albumTitle": "Krig Og Kærlighed",
-		"artist": "LINNET-SALOMONSEN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Linnet.Salomonsen",
 		"artist": "LINNET-SALOMONSEN",
 		"price": 10
@@ -9028,6 +9103,11 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "LIVING IN A BOX"
+	},
+	{
+		"albumTitle": "Xxxcouture",
+		"price": 10,
+		"artist": "L.O.C."
 	},
 	{
 		"albumTitle": "The Best Of",
@@ -9188,6 +9268,26 @@
 		"albumTitle": "Cleopatra",
 		"price": 10,
 		"artist": "LUMINEERS, THE"
+	},
+	{
+		"albumTitle": "Omaha",
+		"artist": "LUNDELL, ULF",
+		"price": 10
+	},
+	{
+		"albumTitle": "Ripp Rapp",
+		"artist": "LUNDELL, ULF",
+		"price": 10
+	},
+	{
+		"albumTitle": "Slugger",
+		"artist": "LUNDELL, ULF",
+		"price": 10
+	},
+	{
+		"albumTitle": "Slutna Rum 75 95",
+		"artist": "LUNDELL, ULF",
+		"price": 10
 	},
 	{
 		"albumTitle": "Glade Jul",
@@ -14590,17 +14690,7 @@
 		"artist": "SPEARS, BRITHEY"
 	},
 	{
-		"albumTitle": "My Prerogative, Greatest Hits (2CD)",
-		"price": 10,
-		"artist": "SPEARS, BRITHEY"
-	},
-	{
 		"albumTitle": "Oops.. I Did It Again",
-		"price": 10,
-		"artist": "SPEARS, BRITHEY"
-	},
-	{
-		"albumTitle": "The Singles Collection",
 		"price": 10,
 		"artist": "SPEARS, BRITHEY"
 	},
