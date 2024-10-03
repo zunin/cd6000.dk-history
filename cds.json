@@ -425,11 +425,6 @@
 		"artist": "ALBERTE (WINDING)"
 	},
 	{
-		"albumTitle": "Brænder Sol",
-		"price": 10,
-		"artist": "ALBERTE (WINDING)"
-	},
-	{
 		"albumTitle": "Den Forsvundne Skat",
 		"price": 10,
 		"artist": "ALBERTE (WINDING)"
@@ -441,11 +436,6 @@
 	},
 	{
 		"albumTitle": "Tju Bang Chokolademand",
-		"price": 10,
-		"artist": "ALBERTE (WINDING)"
-	},
-	{
-		"albumTitle": "Tænder På Et Kys",
 		"price": 10,
 		"artist": "ALBERTE (WINDING)"
 	},
@@ -713,16 +703,6 @@
 		"albumTitle": "A Car Crash In The Blue",
 		"price": 10,
 		"artist": "ATOMIC SWING"
-	},
-	{
-		"albumTitle": "Before The Dinosaurs",
-		"price": 10,
-		"artist": "AURA"
-	},
-	{
-		"albumTitle": "Columbine",
-		"price": 10,
-		"artist": "AURA"
 	},
 	{
 		"albumTitle": "Cosmic Thing",
@@ -1210,11 +1190,6 @@
 		"artist": "BELLAMI BROTHERS"
 	},
 	{
-		"albumTitle": "Det Bli'r Aldrig Som Det Var I Gamle Dage",
-		"price": 10,
-		"artist": "BELLI, PETER"
-	},
-	{
 		"albumTitle": "Ny Dag På Vej",
 		"price": 10,
 		"artist": "BELLI, PETER"
@@ -1533,11 +1508,6 @@
 		"albumTitle": "The Best Of",
 		"price": 10,
 		"artist": "BLONDIE"
-	},
-	{
-		"albumTitle": "Greatest Hits",
-		"artist": "BLOD SWEAT & TEARS",
-		"price": 10
 	},
 	{
 		"albumTitle": "Hefty Fine",
@@ -3830,11 +3800,6 @@
 		"artist": "DION, CELINE"
 	},
 	{
-		"albumTitle": "My Love, Ultimate Essential Collection",
-		"price": 10,
-		"artist": "DION, CELINE"
-	},
-	{
 		"albumTitle": "...se under <a>",
 		"price": 10,
 		"artist": "DIONE, AURA"
@@ -4365,16 +4330,6 @@
 		"artist": "EAGLES, THE"
 	},
 	{
-		"albumTitle": "Their Greatest",
-		"price": 10,
-		"artist": "EAGLES, THE"
-	},
-	{
-		"albumTitle": "The Complete Greatest Hits (2CD)",
-		"artist": "EAGLES, THE",
-		"price": 10
-	},
-	{
 		"albumTitle": "No Strings",
 		"price": 10,
 		"artist": "EASTON, SHEENA"
@@ -4425,17 +4380,7 @@
 		"artist": "EKDAHL, LISA"
 	},
 	{
-		"albumTitle": "All Over The World, The Very Best Of",
-		"price": 10,
-		"artist": "ELECTRIC LIGHT ORCHESTRA"
-	},
-	{
 		"albumTitle": "ELO's Greatest Hits",
-		"price": 10,
-		"artist": "ELECTRIC LIGHT ORCHESTRA"
-	},
-	{
-		"albumTitle": "ELO's Greatest Hits Volume Two",
 		"price": 10,
 		"artist": "ELECTRIC LIGHT ORCHESTRA"
 	},
@@ -6745,11 +6690,6 @@
 		"artist": "H.U.G., LARS"
 	},
 	{
-		"albumTitle": "Greatest",
-		"price": 10,
-		"artist": "H.U.G., LARS"
-	},
-	{
 		"albumTitle": "Kiss & Hug From A Happy Boy",
 		"price": 10,
 		"artist": "H.U.G., LARS"
@@ -7245,17 +7185,7 @@
 		"artist": "JENNINGS, WAYLON"
 	},
 	{
-		"albumTitle": "Original Masters",
-		"artist": "JETHRO TULL",
-		"price": 10
-	},
-	{
 		"albumTitle": "M.U. - The Best Of Jethro Tull",
-		"artist": "JETHRO TULL",
-		"price": 10
-	},
-	{
-		"albumTitle": "Through The Years",
 		"artist": "JETHRO TULL",
 		"price": 10
 	},
@@ -7540,11 +7470,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Sjælland",
-		"artist": "JØRGENSEN, C.V.",
-		"price": 30
-	},
-	{
 		"albumTitle": "Skygger & Magi (2CD)",
 		"artist": "JØRGENSEN, C.V.",
 		"price": 10
@@ -7681,11 +7606,6 @@
 	},
 	{
 		"albumTitle": "Travelogue",
-		"price": 10,
-		"artist": "KASHMIR"
-	},
-	{
-		"albumTitle": "Trespassers",
 		"price": 10,
 		"artist": "KASHMIR"
 	},
@@ -8091,11 +8011,6 @@
 	},
 	{
 		"albumTitle": "Cal",
-		"price": 10,
-		"artist": "KNOPFLER, MARK"
-	},
-	{
-		"albumTitle": "Get Lucky",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
 	},
@@ -8931,11 +8846,6 @@
 	},
 	{
 		"albumTitle": "16 Største Succes'er Vol. 1",
-		"price": 10,
-		"artist": "LILLER, BJARNE"
-	},
-	{
-		"albumTitle": "16 Største Succes'er Vol. 2",
 		"price": 10,
 		"artist": "LILLER, BJARNE"
 	},
@@ -9965,11 +9875,6 @@
 		"artist": "MEAT LOAF"
 	},
 	{
-		"albumTitle": "Velkommen Til Medina",
-		"price": 10,
-		"artist": "MEDINA"
-	},
-	{
 		"albumTitle": "Countdown To Extinction (remastered)",
 		"artist": "MEGADETH",
 		"price": 10
@@ -10621,11 +10526,6 @@
 	},
 	{
 		"albumTitle": "Jagged Little Pill",
-		"price": 10,
-		"artist": "MORISSETTE, ALANIS"
-	},
-	{
-		"albumTitle": "MTV Unplugged",
 		"price": 10,
 		"artist": "MORISSETTE, ALANIS"
 	},
@@ -17711,11 +17611,6 @@
 	},
 	{
 		"albumTitle": "Christiania",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Come Together, Teaterkoncerten på Gasværket (2CD)",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
