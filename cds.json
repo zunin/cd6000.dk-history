@@ -535,11 +535,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Big Science",
-		"artist": "ANDERSON, LAURIE",
-		"price": 10
-	},
-	{
 		"albumTitle": "Benny Anderssons Orkester",
 		"price": 10,
 		"artist": "ANDERSSONS ORKESTER, BENNY"
@@ -2505,11 +2500,6 @@
 		"artist": "CHARLES, RAY"
 	},
 	{
-		"albumTitle": "Ray Charles, The Definitive",
-		"price": 10,
-		"artist": "CHARLES, RAY"
-	},
-	{
 		"albumTitle": "Originals",
 		"price": 10,
 		"artist": "CHARLES, TINA"
@@ -3821,11 +3811,6 @@
 	},
 	{
 		"albumTitle": "Dire Straits",
-		"price": 10,
-		"artist": "DIRE STRAITS"
-	},
-	{
-		"albumTitle": "Love Over Gold",
 		"price": 10,
 		"artist": "DIRE STRAITS"
 	},
@@ -5465,11 +5450,6 @@
 		"artist": "GENE"
 	},
 	{
-		"albumTitle": "Invisible Touch",
-		"price": 10,
-		"artist": "GENESIS"
-	},
-	{
 		"albumTitle": "Turn It On Again",
 		"price": 10,
 		"artist": "GENESIS"
@@ -6003,11 +5983,6 @@
 		"albumTitle": "4",
 		"artist": "HALBERG LARSEN",
 		"price": 40
-	},
-	{
-		"albumTitle": "Chok Suk Og Koma",
-		"artist": "HALL, HENRIK",
-		"price": 10
 	},
 	{
 		"albumTitle": "Adapter",
@@ -6960,11 +6935,6 @@
 		"artist": "INXS"
 	},
 	{
-		"albumTitle": "Brave New World",
-		"artist": "IRON MAIDEN",
-		"price": 10
-	},
-	{
 		"albumTitle": "Forever Blue",
 		"price": 10,
 		"artist": "ISAAK, CHRIS"
@@ -7605,11 +7575,6 @@
 		"artist": "KASHMIR"
 	},
 	{
-		"albumTitle": "Travelogue",
-		"price": 10,
-		"artist": "KASHMIR"
-	},
-	{
 		"albumTitle": "Zitilities",
 		"price": 10,
 		"artist": "KASHMIR"
@@ -7978,11 +7943,6 @@
 		"albumTitle": "The Real Kjøller Hits 2",
 		"price": 10,
 		"artist": "KJØLLER, POUL"
-	},
-	{
-		"albumTitle": "Okay Okay Boys",
-		"artist": "KLICHE",
-		"price": 30
 	},
 	{
 		"albumTitle": "Deep Cuts",
@@ -12265,11 +12225,6 @@
 		"artist": "RADIOHEAD"
 	},
 	{
-		"albumTitle": "My Iron Lung",
-		"price": 10,
-		"artist": "RADIOHEAD"
-	},
-	{
 		"albumTitle": "OK Computer",
 		"price": 10,
 		"artist": "RADIOHEAD"
@@ -14480,11 +14435,6 @@
 		"artist": "SORT SOL"
 	},
 	{
-		"albumTitle": "Grave Dancers Union",
-		"price": 10,
-		"artist": "SOUL ASYLUM"
-	},
-	{
 		"albumTitle": "The Very Best Of S.O.S.",
 		"price": 10,
 		"artist": "SOUND OF SEDUCTION"
@@ -15013,11 +14963,6 @@
 		"albumTitle": "The BBC Sessions Volume 2 1971-72",
 		"artist": "STONE THE CROWS",
 		"price": 30
-	},
-	{
-		"albumTitle": "Collection",
-		"price": 10,
-		"artist": "STRANGLERS, THE"
 	},
 	{
 		"albumTitle": "A Grand Don't Come For Free",
@@ -16183,11 +16128,6 @@
 		"albumTitle": "Ingen Som Os",
 		"price": 10,
 		"artist": "UFO YEPA"
-	},
-	{
-		"albumTitle": "America's Least Wanted",
-		"price": 10,
-		"artist": "UGLY KID JOE"
 	},
 	{
 		"albumTitle": "Menace To Sobriety",
@@ -17455,11 +17395,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Absolute Music 15",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Absolute Music 16",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17491,11 +17426,6 @@
 	},
 	{
 		"albumTitle": "Absolute Music 24",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Absolute Music 25",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
