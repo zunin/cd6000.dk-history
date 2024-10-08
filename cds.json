@@ -60,11 +60,6 @@
 		"artist": "ABBA"
 	},
 	{
-		"albumTitle": "The Name Of The Game",
-		"price": 10,
-		"artist": "ABBA"
-	},
-	{
 		"albumTitle": "Definitive Collection (2CD+DVD boks)",
 		"artist": "ABBA",
 		"price": 10
@@ -585,11 +580,6 @@
 		"artist": "ANN-LOUISE"
 	},
 	{
-		"albumTitle": "Tættere På",
-		"price": 10,
-		"artist": "DAVID, ANNA"
-	},
-	{
 		"albumTitle": "Skibe Uden Sejl",
 		"price": 10,
 		"artist": "ANNE GRETE"
@@ -623,11 +613,6 @@
 		"albumTitle": "Kim Appleby",
 		"price": 10,
 		"artist": "APPLEBY, KIM"
-	},
-	{
-		"albumTitle": "Aquarium",
-		"price": 10,
-		"artist": "AQUA"
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -713,11 +698,6 @@
 		"albumTitle": "Sensorama",
 		"price": 10,
 		"artist": "BAAL"
-	},
-	{
-		"albumTitle": "Do You Come With Soecial Features?",
-		"artist": "BAAL",
-		"price": 10
 	},
 	{
 		"albumTitle": "Karaoke",
@@ -1591,11 +1571,6 @@
 	},
 	{
 		"albumTitle": "A New Kinda Soul",
-		"price": 10,
-		"artist": "BOEL, HANNE"
-	},
-	{
-		"albumTitle": "Abaco",
 		"price": 10,
 		"artist": "BOEL, HANNE"
 	},
@@ -2860,11 +2835,6 @@
 		"artist": "COHEN, LEONARD"
 	},
 	{
-		"albumTitle": "Old Ideas",
-		"price": 10,
-		"artist": "COHEN, LEONARD"
-	},
-	{
 		"albumTitle": "So Long Marianne",
 		"price": 10,
 		"artist": "COHEN, LEONARD"
@@ -3023,11 +2993,6 @@
 		"albumTitle": "We Are In Love",
 		"price": 10,
 		"artist": "CONNICK JR., HARRY"
-	},
-	{
-		"albumTitle": "Boomers Story",
-		"price": 10,
-		"artist": "COODER, RY"
 	},
 	{
 		"albumTitle": "Get Rhythn",
@@ -3240,11 +3205,6 @@
 		"price": 25
 	},
 	{
-		"albumTitle": "So Far So Good",
-		"artist": "CROSS, BILLY",
-		"price": 10
-	},
-	{
 		"albumTitle": "Every Turn Of The World",
 		"price": 10,
 		"artist": "CROSS, CHRISTOPHER"
@@ -3428,11 +3388,6 @@
 		"albumTitle": "Dalton Var Her (2CD+DVD)",
 		"artist": "DALTON",
 		"price": 40
-	},
-	{
-		"albumTitle": "Tyve-Ti (CD+DVD)",
-		"artist": "DALTON",
-		"price": 15
 	},
 	{
 		"albumTitle": "Dylansk",
@@ -3653,11 +3608,6 @@
 		"albumTitle": "Master Series",
 		"artist": "DEXYS MIDNIGHT RUNNERS",
 		"price": 20
-	},
-	{
-		"albumTitle": "Temporality",
-		"price": 10,
-		"artist": "DIAMOND DRIVE"
 	},
 	{
 		"albumTitle": "Death And Progress",
@@ -3885,11 +3835,6 @@
 		"artist": "DISSING, POUL & BENNY ANDERSEN"
 	},
 	{
-		"albumTitle": "Svantes Viser",
-		"price": 10,
-		"artist": "DISSING, POUL & BENNY ANDERSEN"
-	},
-	{
 		"albumTitle": "Live - For Fuld Udblæsning (2CD)",
 		"artist": "DISSING, POUL & BENNY ANDERSEN",
 		"price": 10
@@ -3923,11 +3868,6 @@
 		"albumTitle": "Dissing Dissing Las & Dissing 3",
 		"artist": "DISSING DISSING LAS & DISSING",
 		"price": 10
-	},
-	{
-		"albumTitle": "Dissing Dissing Von Daler & Dissing",
-		"price": 10,
-		"artist": "DISSING DISSING VON DALER & DISSING"
 	},
 	{
 		"albumTitle": "The Dissociatives",
@@ -4220,11 +4160,6 @@
 		"artist": "DÛNÉ"
 	},
 	{
-		"albumTitle": "We Are In There You Are Out Here",
-		"price": 10,
-		"artist": "DÛNÉ"
-	},
-	{
 		"albumTitle": "Wild Hearts (2CD)",
 		"price": 10,
 		"artist": "DÛNÉ"
@@ -4505,11 +4440,6 @@
 		"artist": "ENGELBRECHT, HELGE"
 	},
 	{
-		"albumTitle": "Absolut Ansager (signeret)",
-		"price": 10,
-		"artist": "ENGELBRECHT, HELGE & BAND"
-	},
-	{
 		"albumTitle": "Liv & Glade Dage",
 		"price": 10,
 		"artist": "ENGELBRECHT, HELGE & BAND"
@@ -4758,11 +4688,6 @@
 		"albumTitle": "A Collection Of Her Best Recordings",
 		"price": 10,
 		"artist": "FAITHFULL, MARIANNE"
-	},
-	{
-		"albumTitle": "Best Of 1986-1988",
-		"price": 10,
-		"artist": "FALCH, MICHAEL"
 	},
 	{
 		"albumTitle": "De 17 Bedste",
@@ -5345,11 +5270,6 @@
 		"artist": "GANGWAY"
 	},
 	{
-		"albumTitle": "Daily Garbage",
-		"price": 10,
-		"artist": "GARBAGE"
-	},
-	{
 		"albumTitle": "Garbage",
 		"price": 10,
 		"artist": "GARBAGE"
@@ -5540,22 +5460,12 @@
 		"artist": "GNAGS"
 	},
 	{
-		"albumTitle": "Har De Puttet Noget I Kaffen..?",
-		"price": 10,
-		"artist": "GNAGS"
-	},
-	{
 		"albumTitle": "Live Vol. II",
 		"price": 10,
 		"artist": "GNAGS"
 	},
 	{
 		"albumTitle": "Lygtemandens Sang",
-		"price": 10,
-		"artist": "GNAGS"
-	},
-	{
-		"albumTitle": "Plads Til Begejstring",
 		"price": 10,
 		"artist": "GNAGS"
 	},
@@ -5603,11 +5513,6 @@
 		"albumTitle": "Safari (remastered)(NY i folie)",
 		"artist": "GNAGS",
 		"price": 10
-	},
-	{
-		"albumTitle": "Dizzy Up The Girl",
-		"price": 10,
-		"artist": "GOO GOO DOLLS, THE"
 	},
 	{
 		"albumTitle": "The Good, The Bad & The Queen",
@@ -5760,16 +5665,6 @@
 		"artist": "GREEN DAY"
 	},
 	{
-		"albumTitle": "Warning:",
-		"price": 10,
-		"artist": "GREEN DAY"
-	},
-	{
-		"albumTitle": "De Levendes Land",
-		"price": 10,
-		"artist": "GRIP, ERIK"
-	},
-	{
 		"albumTitle": "Kærlighedssange",
 		"price": 10,
 		"artist": "GRIP, ERIK"
@@ -5836,11 +5731,6 @@
 	},
 	{
 		"albumTitle": "Drik Nu Din Kaffe Skat, Så kan Vi Lede Efter Den Sko Bagefter",
-		"price": 10,
-		"artist": "GRØNBECH, IB"
-	},
-	{
-		"albumTitle": "Hvad Er Det, Der Får En Rimeligt Velbegavet Dansker Til At Flytte Til Sverige",
 		"price": 10,
 		"artist": "GRØNBECH, IB"
 	},
@@ -6023,11 +5913,6 @@
 		"albumTitle": "Mit Ferieparadis",
 		"price": 10,
 		"artist": "HANSEN, JOHNNY"
-	},
-	{
-		"albumTitle": "Pornogangster",
-		"price": 10,
-		"artist": "HARALD, L: RON"
 	},
 	{
 		"albumTitle": "Stars Of CCTV",
@@ -6728,11 +6613,6 @@
 		"albumTitle": "Morris On",
 		"price": 10,
 		"artist": "HUTCHINGS, ASHLEY m.fl."
-	},
-	{
-		"albumTitle": "Levende Poeters Klub",
-		"price": 10,
-		"artist": "HVID SJOKOLADE"
 	},
 	{
 		"albumTitle": "Blott En Dag",
@@ -7965,11 +7845,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "Lips Against The Steel",
-		"artist": "KNOPFLER, DAVID",
-		"price": 10
-	},
-	{
 		"albumTitle": "Cal",
 		"price": 10,
 		"artist": "KNOPFLER, MARK"
@@ -8093,11 +7968,6 @@
 		"albumTitle": "Are You Gonna Go My Way",
 		"price": 10,
 		"artist": "KRAVITZ, LENNY"
-	},
-	{
-		"albumTitle": "Alt Det Du Brænder For (Sonet)",
-		"price": 10,
-		"artist": "KREBS, POUL"
 	},
 	{
 		"albumTitle": "Dansen Månen & Vejen",
@@ -8355,19 +8225,9 @@
 		"price": 30
 	},
 	{
-		"albumTitle": "Wisdom Is Sexy",
-		"price": 10,
-		"artist": "LARSEN, KIM & BELLAMI"
-	},
-	{
 		"albumTitle": "Yummi Yummi",
 		"artist": "LARSEN, KIM & BELLAMI",
 		"price": 10
-	},
-	{
-		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (papcover)",
-		"price": 10,
-		"artist": "LARSEN, KIM & KJUKKEN"
 	},
 	{
 		"albumTitle": "7-9-13",
@@ -8865,11 +8725,6 @@
 		"artist": "LINNET, ANNE"
 	},
 	{
-		"albumTitle": "Her Hos Mig",
-		"price": 10,
-		"artist": "LINNET, ANNE"
-	},
-	{
 		"albumTitle": "Jeg Er Jo Lige Her",
 		"price": 10,
 		"artist": "LINNET, ANNE"
@@ -8918,11 +8773,6 @@
 		"albumTitle": "Cha Cha Cha",
 		"artist": "ANNE LINNET BAND",
 		"price": 10
-	},
-	{
-		"albumTitle": "En Elsker",
-		"price": 10,
-		"artist": "ANNE LINNET & MARQUIS de SADE"
 	},
 	{
 		"albumTitle": "Hvid Magi",
@@ -9291,11 +9141,6 @@
 	},
 	{
 		"albumTitle": "Bounty Blue",
-		"price": 10,
-		"artist": "MADSEN, JOHNNY"
-	},
-	{
-		"albumTitle": "Nattegn",
 		"price": 10,
 		"artist": "MADSEN, JOHNNY"
 	},
@@ -9865,17 +9710,7 @@
 		"artist": "MELANIE C"
 	},
 	{
-		"albumTitle": "Freedom's Road (læs beskrivelsen)",
-		"price": 10,
-		"artist": "MELLENCAMP, JOHN COUGAR"
-	},
-	{
 		"albumTitle": "Human Wheels",
-		"price": 10,
-		"artist": "MELLENCAMP, JOHN COUGAR"
-	},
-	{
-		"albumTitle": "Mr. Happy Go LuckY",
 		"price": 10,
 		"artist": "MELLENCAMP, JOHN COUGAR"
 	},
@@ -10051,11 +9886,6 @@
 	},
 	{
 		"albumTitle": "Colours",
-		"price": 10,
-		"artist": "MICHAEL LEARNS TO ROCK"
-	},
-	{
-		"albumTitle": "Michael Learns To Rock",
 		"price": 10,
 		"artist": "MICHAEL LEARNS TO ROCK"
 	},
@@ -10985,11 +10815,6 @@
 		"artist": "NIKOLAJ"
 	},
 	{
-		"albumTitle": "Sidder På En Raket",
-		"price": 10,
-		"artist": "NIKOLAJ & PILOTERNE"
-	},
-	{
 		"albumTitle": "Solar Plexus",
 		"price": 10,
 		"artist": "NIKOLAJ & PILOTERNE"
@@ -11096,11 +10921,6 @@
 	},
 	{
 		"albumTitle": "First Conversation",
-		"price": 10,
-		"artist": "NORBY, CÆCILIE"
-	},
-	{
-		"albumTitle": "I Had A Ball",
 		"price": 10,
 		"artist": "NORBY, CÆCILIE"
 	},
@@ -11405,11 +11225,6 @@
 		"artist": "ONE TWO"
 	},
 	{
-		"albumTitle": "Hvide Løgne",
-		"price": 10,
-		"artist": "ONE TWO"
-	},
-	{
 		"albumTitle": "One Two",
 		"price": 10,
 		"artist": "ONE TWO"
@@ -11443,11 +11258,6 @@
 		"albumTitle": "Teddy",
 		"price": 10,
 		"artist": "ORUP"
-	},
-	{
-		"albumTitle": "Early Recordings",
-		"price": 10,
-		"artist": "OSBORNE, JOAN"
 	},
 	{
 		"albumTitle": "How Sweet It Is",
@@ -12875,11 +12685,6 @@
 		"artist": "ROSANES, TAMRA"
 	},
 	{
-		"albumTitle": "Line Dance Party",
-		"price": 10,
-		"artist": "ROSANES, TAMRA"
-	},
-	{
 		"albumTitle": "Over The Ocean",
 		"price": 10,
 		"artist": "ROSANES, TAMRA"
@@ -13760,11 +13565,6 @@
 		"artist": "SHU-BI-DUA"
 	},
 	{
-		"albumTitle": "3",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
 		"albumTitle": "4",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
@@ -13785,27 +13585,12 @@
 		"artist": "SHU-BI-DUA"
 	},
 	{
-		"albumTitle": "8",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
 		"albumTitle": "9",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
 	{
-		"albumTitle": "10",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
 		"albumTitle": "11",
-		"price": 10,
-		"artist": "SHU-BI-DUA"
-	},
-	{
-		"albumTitle": "12",
 		"price": 10,
 		"artist": "SHU-BI-DUA"
 	},
@@ -14405,19 +14190,9 @@
 		"artist": "SNOW PATROL"
 	},
 	{
-		"albumTitle": "På Den Anden Side",
-		"price": 10,
-		"artist": "SOMMER, PETER"
-	},
-	{
 		"albumTitle": "Til Rotterne, Til Kragerne, Til Hundene",
 		"artist": "SOMMER, PETER",
 		"price": 10
-	},
-	{
-		"albumTitle": "Flow My Firetear",
-		"price": 10,
-		"artist": "SORT SOL"
 	},
 	{
 		"albumTitle": "Glamourpuss",
@@ -14426,11 +14201,6 @@
 	},
 	{
 		"albumTitle": "Snakecharmer",
-		"price": 10,
-		"artist": "SORT SOL"
-	},
-	{
-		"albumTitle": "Unspoiled Monsters",
 		"price": 10,
 		"artist": "SORT SOL"
 	},
@@ -14611,11 +14381,6 @@
 	},
 	{
 		"albumTitle": "The Rising",
-		"price": 10,
-		"artist": "SPRINGSTEEN, BRUCE"
-	},
-	{
-		"albumTitle": "Tunnel Of Love",
 		"price": 10,
 		"artist": "SPRINGSTEEN, BRUCE"
 	},
@@ -15023,11 +14788,6 @@
 		"albumTitle": "The Essential (2CD)",
 		"price": 10,
 		"artist": "STREISAND, BARBARA"
-	},
-	{
-		"albumTitle": "First Impressions Of Earth",
-		"price": 10,
-		"artist": "STROKES, THE"
 	},
 	{
 		"albumTitle": "Greatest Hits",
@@ -17805,11 +17565,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "Jeg Elsker Dig 2, Alle Tiders Danske Ballader (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "Kitch Hits 1",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -17975,11 +17730,6 @@
 		"artist": "DIVERSE KUSTNERE"
 	},
 	{
-		"albumTitle": "NOW That's What I Call Christmas (2CD)",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
 		"albumTitle": "O Florens Rosa",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
@@ -18051,11 +17801,6 @@
 	},
 	{
 		"albumTitle": "Sebastian's Cyrano",
-		"price": 10,
-		"artist": "DIVERSE KUSTNERE"
-	},
-	{
-		"albumTitle": "Sebastian's Skatteøen",
 		"price": 10,
 		"artist": "DIVERSE KUSTNERE"
 	},
