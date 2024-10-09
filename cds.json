@@ -2870,11 +2870,6 @@
 		"artist": "COLDPLAY"
 	},
 	{
-		"albumTitle": "Mylo Xyloto",
-		"price": 10,
-		"artist": "COLDPLAY"
-	},
-	{
 		"albumTitle": "Viva La Vida",
 		"price": 10,
 		"artist": "COLDPLAY"
@@ -6915,11 +6910,6 @@
 		"artist": "JACKSON, MICHAEL"
 	},
 	{
-		"albumTitle": "This Is It (2CD 'bog')",
-		"price": 10,
-		"artist": "JACKSON, MICHAEL"
-	},
-	{
 		"albumTitle": "Thriller",
 		"price": 10,
 		"artist": "JACKSON, MICHAEL"
@@ -8930,6 +8920,21 @@
 		"artist": "LOVE JULIE"
 	},
 	{
+		"albumTitle": "DK",
+		"price": 10,
+		"artist": "LOVE SHOP"
+	},
+	{
+		"albumTitle": "Sendt Fra Himlen 1990-2004",
+		"price": 10,
+		"artist": "LOVE SHOP"
+	},
+	{
+		"albumTitle": "Copenhagen Screaming!",
+		"artist": "LOVE SHOP",
+		"price": 10
+	},
+	{
 		"albumTitle": "Exploding Star",
 		"price": 10,
 		"artist": "LOVEBITES"
@@ -9166,11 +9171,6 @@
 	},
 	{
 		"albumTitle": "Halgal Halbal (2CD)",
-		"artist": "MADSEN, JOHNNY",
-		"price": 10
-	},
-	{
-		"albumTitle": "Madsen På Den Anden Side",
 		"artist": "MADSEN, JOHNNY",
 		"price": 10
 	},
@@ -10068,11 +10068,6 @@
 		"albumTitle": "On Honeymoon (2012)",
 		"price": 10,
 		"artist": "MISS B HAVEN"
-	},
-	{
-		"albumTitle": "Blue",
-		"artist": "MITCHELL, JONI",
-		"price": 20
 	},
 	{
 		"albumTitle": "Alkymi",
@@ -11613,11 +11608,6 @@
 		"albumTitle": "The Defamation Of Strickland Banks",
 		"price": 10,
 		"artist": "PLAN B"
-	},
-	{
-		"albumTitle": "Raising Sand",
-		"artist": "PLANT, ROBERT & ALISON KRAUS",
-		"price": 10
 	},
 	{
 		"albumTitle": "Det Sidste Ord",
