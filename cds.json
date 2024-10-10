@@ -5760,16 +5760,6 @@
 		"artist": "GUNS 'N ROSES"
 	},
 	{
-		"albumTitle": "Chineese Democracy",
-		"price": 10,
-		"artist": "GUNS 'N ROSES"
-	},
-	{
-		"albumTitle": "GNR Lies",
-		"price": 10,
-		"artist": "GUNS 'N ROSES"
-	},
-	{
 		"albumTitle": "Greatest Hits",
 		"price": 10,
 		"artist": "GUNS 'N ROSES"
@@ -5778,21 +5768,6 @@
 		"albumTitle": "The Spaghetti Incident",
 		"price": 10,
 		"artist": "GUNS 'N ROSES"
-	},
-	{
-		"albumTitle": "Use Your Illusion I",
-		"price": 10,
-		"artist": "GUNS 'N ROSES"
-	},
-	{
-		"albumTitle": "Use Your Illusion II",
-		"price": 10,
-		"artist": "GUNS 'N ROSES"
-	},
-	{
-		"albumTitle": "Live Washington DC 17.7.1992 (unofficial)",
-		"artist": "GUNS 'N ROSES",
-		"price": 10
 	},
 	{
 		"albumTitle": "Soon",
@@ -5825,32 +5800,7 @@
 		"artist": "GUTHRO, BRUCE"
 	},
 	{
-		"albumTitle": "De Gyldne Løver",
-		"price": 10,
-		"artist": "GYLDNE LØVER, DE"
-	},
-	{
-		"albumTitle": "Den Lille Café",
-		"price": 10,
-		"artist": "GYLDNE LØVER, DE"
-	},
-	{
-		"albumTitle": "Fæ & Folk (2CD)",
-		"price": 10,
-		"artist": "GYLDNE LØVER, DE"
-	},
-	{
-		"albumTitle": "Hvor Mågerne Skriger, I Live I 25 År",
-		"price": 10,
-		"artist": "GYLDNE LØVER, DE"
-	},
-	{
 		"albumTitle": "Løvernes Bedste - Live -",
-		"price": 10,
-		"artist": "GYLDNE LØVER, DE"
-	},
-	{
-		"albumTitle": "Vi Er Ikke Som De Andre",
 		"price": 10,
 		"artist": "GYLDNE LØVER, DE"
 	},
@@ -9490,11 +9440,6 @@
 		"artist": "MAYER, JOHN"
 	},
 	{
-		"albumTitle": "Where The Light Is, Live In LA (2CD)",
-		"artist": "MAYER, JOHN",
-		"price": 20
-	},
-	{
 		"albumTitle": "Trampoline",
 		"price": 10,
 		"artist": "MAVERICKS, THE"
@@ -10035,27 +9980,7 @@
 		"artist": "MINOGUE, KYLIE"
 	},
 	{
-		"albumTitle": "Enjoy Yourself",
-		"price": 10,
-		"artist": "MINOGUE, KYLIE"
-	},
-	{
 		"albumTitle": "Kylie",
-		"price": 10,
-		"artist": "MINOGUE, KYLIE"
-	},
-	{
-		"albumTitle": "Kylie Minogue (1998)",
-		"price": 10,
-		"artist": "MINOGUE, KYLIE"
-	},
-	{
-		"albumTitle": "Light Years",
-		"price": 10,
-		"artist": "MINOGUE, KYLIE"
-	},
-	{
-		"albumTitle": "Rhythm Of Love",
 		"price": 10,
 		"artist": "MINOGUE, KYLIE"
 	},
@@ -10321,11 +10246,6 @@
 	},
 	{
 		"albumTitle": "Supposed Former Infatuation Junkie",
-		"price": 10,
-		"artist": "MORISSETTE, ALANIS"
-	},
-	{
-		"albumTitle": "The Collection",
 		"price": 10,
 		"artist": "MORISSETTE, ALANIS"
 	},
