@@ -9035,7 +9035,17 @@
 		"artist": "MADONNA"
 	},
 	{
+		"albumTitle": "GHV2",
+		"price": 10,
+		"artist": "MADONNA"
+	},
+	{
 		"albumTitle": "Like A Prayer (digital recording)",
+		"price": 10,
+		"artist": "MADONNA"
+	},
+	{
+		"albumTitle": "Live A Virgin",
 		"price": 10,
 		"artist": "MADONNA"
 	},
@@ -9056,6 +9066,11 @@
 	},
 	{
 		"albumTitle": "The Immaculate Collection",
+		"price": 10,
+		"artist": "MADONNA"
+	},
+	{
+		"albumTitle": "True Blue",
 		"price": 10,
 		"artist": "MADONNA"
 	},
@@ -9115,9 +9130,19 @@
 		"price": 30
 	},
 	{
+		"albumTitle": "De Tørre & De Bedste (3CD+DVD)",
+		"artist": "MADSEN, JOHNNY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Den Blinde Lotterisælger...",
 		"artist": "MADSEN, JOHNNY",
 		"price": 30
+	},
+	{
+		"albumTitle": "Godt Nyt",
+		"artist": "MADSEN, JOHNNY",
+		"price": 10
 	},
 	{
 		"albumTitle": "Halgal Halbal (2CD)",
@@ -9126,6 +9151,11 @@
 	},
 	{
 		"albumTitle": "Madsens Største, 40 Af De Fede (2CD)",
+		"artist": "MADSEN, JOHNNY",
+		"price": 10
+	},
+	{
+		"albumTitle": "Regnmanden",
 		"artist": "MADSEN, JOHNNY",
 		"price": 10
 	},
@@ -9181,6 +9211,11 @@
 	},
 	{
 		"albumTitle": "Det Krøllede Håb",
+		"price": 10,
+		"artist": "MAGTENS KORRIDORER"
+	},
+	{
+		"albumTitle": "Friværdi",
 		"price": 10,
 		"artist": "MAGTENS KORRIDORER"
 	},
@@ -9280,6 +9315,11 @@
 		"artist": "MANHATTAN TRANSFER, THE"
 	},
 	{
+		"albumTitle": "Swing",
+		"price": 10,
+		"artist": "MANHATTAN TRANSFER, THE"
+	},
+	{
 		"albumTitle": "The Offbeat Of Avenues",
 		"price": 10,
 		"artist": "MANHATTAN TRANSFER, THE"
@@ -9310,6 +9350,16 @@
 		"artist": "MANN, AIMEE"
 	},
 	{
+		"albumTitle": "Mechanical Animals",
+		"artist": "MANSON, MARILYN",
+		"price": 10
+	},
+	{
+		"albumTitle": "Smells Like Children",
+		"artist": "MANSON, MARILYN",
+		"price": 10
+	},
+	{
 		"albumTitle": "White Trash (2CD sampack)",
 		"artist": "MANSON, MARILYN",
 		"price": 10
@@ -9320,6 +9370,16 @@
 		"artist": "MARIA LUCIA"
 	},
 	{
+		"albumTitle": "Esstential Collection",
+		"artist": "MARILLION",
+		"price": 10
+	},
+	{
+		"albumTitle": "Kayleigh",
+		"artist": "MARILLION",
+		"price": 10
+	},
+	{
 		"albumTitle": "Misplaced Childhood",
 		"artist": "MARILLION",
 		"price": 20
@@ -9328,6 +9388,11 @@
 		"albumTitle": "Pure (2CD)",
 		"price": 10,
 		"artist": "MARLEY, BOB & THE WAILERS"
+	},
+	{
+		"albumTitle": "Greatest Hits",
+		"artist": "MARMALADE",
+		"price": 10
 	},
 	{
 		"albumTitle": "The Very Best Of",
@@ -9405,12 +9470,22 @@
 		"price": 20
 	},
 	{
+		"albumTitle": "Rødt Og Hvidt 2",
+		"artist": "MATHILDE",
+		"price": 30
+	},
+	{
 		"albumTitle": "All For Fame",
 		"price": 10,
 		"artist": "MATTHEW, SIMON"
 	},
 	{
 		"albumTitle": "Before These Crowded Streets",
+		"price": 10,
+		"artist": "MATTHEWS BAND, DAVE"
+	},
+	{
+		"albumTitle": "Crash",
 		"price": 10,
 		"artist": "MATTHEWS BAND, DAVE"
 	},
@@ -9585,6 +9660,11 @@
 		"artist": "McLEAN, DON"
 	},
 	{
+		"albumTitle": "The Best Of",
+		"price": 10,
+		"artist": "McTELL, Ralph"
+	},
+	{
 		"albumTitle": "Best Times",
 		"price": 10,
 		"artist": "ME, SHE & HER"
@@ -9616,6 +9696,11 @@
 	},
 	{
 		"albumTitle": "The Collection (BMG)",
+		"price": 10,
+		"artist": "MEAT LOAF"
+	},
+	{
+		"albumTitle": "The Meat Loaf Collection",
 		"price": 10,
 		"artist": "MEAT LOAF"
 	},
@@ -9695,6 +9780,11 @@
 		"artist": "MELUA, KATIE"
 	},
 	{
+		"albumTitle": "Live At The O2 Arena",
+		"price": 10,
+		"artist": "MELUA, KATIE"
+	},
+	{
 		"albumTitle": "Pictures",
 		"price": 10,
 		"artist": "MELUA, KATIE"
@@ -9705,9 +9795,24 @@
 		"artist": "MELUA, KATIE"
 	},
 	{
+		"albumTitle": "Secret Symphony (2CD)",
+		"artist": "MELUA, KATIE",
+		"price": 10
+	},
+	{
 		"albumTitle": "...But Still Gentlemen",
 		"artist": "MELVIS",
 		"price": 30
+	},
+	{
+		"albumTitle": "And His Gentlemen Siden 1958",
+		"artist": "MELVIS",
+		"price": 10
+	},
+	{
+		"albumTitle": "Business As Usual",
+		"price": 10,
+		"artist": "MEN AT WORK"
 	},
 	{
 		"albumTitle": "Contraband, The Best Of",
@@ -9756,6 +9861,11 @@
 	},
 	{
 		"albumTitle": "Death Magnetic",
+		"artist": "METALLICA",
+		"price": 10
+	},
+	{
+		"albumTitle": "Hard Wired.. To Self-Destruct (2CD)",
 		"artist": "METALLICA",
 		"price": 10
 	},
@@ -9950,6 +10060,11 @@
 		"artist": "MILLER BAND, STEVE"
 	},
 	{
+		"albumTitle": "The Steve Miller Band",
+		"price": 10,
+		"artist": "MILLER BAND, STEVE"
+	},
+	{
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "MILLER BAND, STEVE"
@@ -10000,12 +10115,22 @@
 		"artist": "MO, LAURA"
 	},
 	{
+		"albumTitle": "Last Night",
+		"price": 10,
+		"artist": "MOBY"
+	},
+	{
 		"albumTitle": "Alone",
 		"price": 10,
 		"artist": "MODERN TALKING"
 	},
 	{
 		"albumTitle": "Back For Good",
+		"price": 10,
+		"artist": "MODERN TALKING"
+	},
+	{
+		"albumTitle": "The * Collection",
 		"price": 10,
 		"artist": "MODERN TALKING"
 	},
@@ -10446,8 +10571,8 @@
 	},
 	{
 		"albumTitle": "Sikken' Dejlig Dag",
-		"price": 10,
-		"artist": "MØLLER, STIG"
+		"artist": "MØLLER, STIG",
+		"price": 30
 	},
 	{
 		"albumTitle": "Cracks",
@@ -10560,6 +10685,11 @@
 		"artist": "NELSON, HAWK"
 	},
 	{
+		"albumTitle": "Six Hours At Pedernales",
+		"price": 10,
+		"artist": "NELSON, WILLIE"
+	},
+	{
 		"albumTitle": "USADSB",
 		"artist": "NEPHEW",
 		"price": 10
@@ -10573,11 +10703,6 @@
 		"albumTitle": "Roskilde 07.07.07 (CD+DVD)",
 		"artist": "NEPHEW",
 		"price": 10
-	},
-	{
-		"albumTitle": "Six Hours At Pedernales",
-		"price": 10,
-		"artist": "NELSON, WILLIE"
 	},
 	{
 		"albumTitle": "Brother's Keeper",
@@ -15040,11 +15165,6 @@
 		"price": 10
 	},
 	{
-		"albumTitle": "True Stories",
-		"artist": "TALKING HEADS",
-		"price": 10
-	},
-	{
 		"albumTitle": "Tame & Maffay",
 		"artist": "TAME & MAFFAY",
 		"price": 10
@@ -15293,11 +15413,6 @@
 		"albumTitle": "Zimmer 483",
 		"price": 10,
 		"artist": "TOKIO HOTEL"
-	},
-	{
-		"albumTitle": "Onka's Big Moka",
-		"price": 10,
-		"artist": "TOPLOADER"
 	},
 	{
 		"albumTitle": "Here I Am",
@@ -16265,11 +16380,6 @@
 		"artist": "WAY BACK WHEN"
 	},
 	{
-		"albumTitle": "The Best Of",
-		"artist": "WEATHER REPORT",
-		"price": 20
-	},
-	{
 		"albumTitle": "Ovation, The Best Of",
 		"artist": "WEBBER, ANDREW LLOYD",
 		"price": 10
@@ -16846,11 +16956,6 @@
 	},
 	{
 		"albumTitle": "Greatest Hits (1999)",
-		"price": 10,
-		"artist": "ZZ Top"
-	},
-	{
-		"albumTitle": "Rancho Texicano, The Very Best Of (2CD)",
 		"price": 10,
 		"artist": "ZZ Top"
 	},
@@ -18111,11 +18216,6 @@
 	},
 	{
 		"albumTitle": "Sixties UK (4CD)",
-		"artist": "DIVERSE KUSTNERE",
-		"price": 10
-	},
-	{
-		"albumTitle": "The Best Of Woodstock (remastered)",
 		"artist": "DIVERSE KUSTNERE",
 		"price": 10
 	},
