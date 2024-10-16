@@ -9160,6 +9160,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Ses Vi I Slesvig",
+		"artist": "MADSEN, JOHNNY",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Blues",
 		"artist": "MADSEN, JOHNNY",
 		"price": 10
@@ -9485,6 +9490,16 @@
 		"artist": "MATTHEWS BAND, DAVE"
 	},
 	{
+		"albumTitle": "Trampoline",
+		"price": 10,
+		"artist": "MAVERICKS, THE"
+	},
+	{
+		"albumTitle": "From Hell To Paradise",
+		"artist": "MAVERICKS, THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "The Best Of Me",
 		"price": 10,
 		"artist": "MAXI PRIEST"
@@ -9510,9 +9525,9 @@
 		"artist": "MAYER, JOHN"
 	},
 	{
-		"albumTitle": "Trampoline",
-		"price": 10,
-		"artist": "MAVERICKS, THE"
+		"albumTitle": "Den Nye Stil",
+		"artist": "MC EINAR",
+		"price": 10
 	},
 	{
 		"albumTitle": "Listen To The Heat",
@@ -9733,6 +9748,11 @@
 		"albumTitle": "Northern Star",
 		"price": 10,
 		"artist": "MELANIE C"
+	},
+	{
+		"albumTitle": "Ude Af Mine Hænder",
+		"artist": "MELLEMBLOND",
+		"price": 10
 	},
 	{
 		"albumTitle": "Human Wheels",
@@ -10165,6 +10185,11 @@
 		"artist": "MOGENSEN, JOHN"
 	},
 	{
+		"albumTitle": "Samlede Værker (6CD boks)",
+		"price": 10,
+		"artist": "MOGENSEN, JOHN"
+	},
+	{
 		"albumTitle": "Stop En Halv",
 		"price": 10,
 		"artist": "MOGENSEN, JOHN"
@@ -10248,6 +10273,11 @@
 		"albumTitle": "Øl Er Gud",
 		"price": 10,
 		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)"
+	},
+	{
+		"albumTitle": "Platheder På Et Fundament Af Sjofelhed",
+		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)",
+		"price": 10
 	},
 	{
 		"albumTitle": "Jeg Er Her For Dig",
@@ -10355,6 +10385,11 @@
 		"artist": "MOORE, GARY"
 	},
 	{
+		"albumTitle": "Out In The Fields, The Very Best Of",
+		"artist": "MOORE, GARY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Jagged Little Pill",
 		"price": 10,
 		"artist": "MORISSETTE, ALANIS"
@@ -10400,6 +10435,11 @@
 		"price": 15
 	},
 	{
+		"albumTitle": "Viva Hate",
+		"artist": "MORRISSEY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Your Arsenal",
 		"artist": "MORRISSEY",
 		"price": 10
@@ -10413,6 +10453,11 @@
 		"albumTitle": "All The Beauty...",
 		"price": 10,
 		"artist": "MORTAL LOVE"
+	},
+	{
+		"albumTitle": "Another Mother Further",
+		"artist": "MOTHERS FINEST",
+		"price": 10
 	},
 	{
 		"albumTitle": "Passport",
@@ -10490,6 +10535,11 @@
 		"artist": "MUNGO JERRY"
 	},
 	{
+		"albumTitle": "In The Summertime, Golden Hits",
+		"price": 10,
+		"artist": "MUNGO JERRY"
+	},
+	{
 		"albumTitle": "The Very Best Of",
 		"price": 10,
 		"artist": "MUNGO JERRY"
@@ -10527,6 +10577,11 @@
 	{
 		"albumTitle": "Isn't Anything",
 		"artist": "MY BLOODY VALENTINE",
+		"price": 10
+	},
+	{
+		"albumTitle": "Low Velocity Bullets",
+		"artist": "MY SOUND OF SILENCE",
 		"price": 10
 	},
 	{
@@ -10570,6 +10625,11 @@
 		"price": 30
 	},
 	{
+		"albumTitle": "Til Dig",
+		"artist": "MØLLER, STIG",
+		"price": 10
+	},
+	{
 		"albumTitle": "Cracks",
 		"price": 10,
 		"artist": "NABIHA"
@@ -10580,6 +10640,11 @@
 		"artist": "NABIHA"
 	},
 	{
+		"albumTitle": "Den Nat Af Alle Naetter",
+		"price": 10,
+		"artist": "NABOERNE"
+	},
+	{
 		"albumTitle": "The Place I Call Home",
 		"price": 10,
 		"artist": "NAJA ROSA"
@@ -10588,6 +10653,11 @@
 		"albumTitle": "Rocking Horse",
 		"price": 10,
 		"artist": "NANNA"
+	},
+	{
+		"albumTitle": "Pletskud & Vildskud",
+		"artist": "NANNA",
+		"price": 10
 	},
 	{
 		"albumTitle": "Små Blå Breve",
@@ -10616,6 +10686,11 @@
 	},
 	{
 		"albumTitle": "I Danmark Er Jeg Født",
+		"price": 10,
+		"artist": "NATASJA"
+	},
+	{
+		"albumTitle": "Shooting Star",
 		"price": 10,
 		"artist": "NATASJA"
 	},
@@ -10660,7 +10735,17 @@
 		"artist": "NATURAL BORN HIPPIES"
 	},
 	{
+		"albumTitle": "The Nocturnal Silence (remastered)",
+		"artist": "NECROPHOBIC",
+		"price": 10
+	},
+	{
 		"albumTitle": "Den Gyldne Nøgle (CD+DVD)",
+		"price": 10,
+		"artist": "NEIGHBOURS"
+	},
+	{
+		"albumTitle": "Det Gådefulde Folk (signeret)",
 		"price": 10,
 		"artist": "NEIGHBOURS"
 	},
@@ -10695,6 +10780,11 @@
 		"price": 10
 	},
 	{
+		"albumTitle": "Hjertestarter",
+		"artist": "NEPHEW",
+		"price": 10
+	},
+	{
 		"albumTitle": "Roskilde 07.07.07 (CD+DVD)",
 		"artist": "NEPHEW",
 		"price": 10
@@ -10703,6 +10793,11 @@
 		"albumTitle": "Brother's Keeper",
 		"price": 10,
 		"artist": "NEVILLE BROTHERS, THE"
+	},
+	{
+		"albumTitle": "Alene For Dig",
+		"price": 10,
+		"artist": "NEWS"
 	},
 	{
 		"albumTitle": "Crazy Lazy City",
@@ -10790,7 +10885,17 @@
 		"artist": "NHØP"
 	},
 	{
+		"albumTitle": "Årgang 79",
+		"price": 10,
+		"artist": "NIARN"
+	},
+	{
 		"albumTitle": "Get Inside",
+		"price": 10,
+		"artist": "NICE DEVICE"
+	},
+	{
+		"albumTitle": "The Album",
 		"price": 10,
 		"artist": "NICE DEVICE"
 	},
@@ -10865,6 +10970,11 @@
 		"artist": "NILS"
 	},
 	{
+		"albumTitle": "A Little Touch Of Schmilsson In The Night",
+		"artist": "NILSSON, HARRY",
+		"price": 10
+	},
+	{
 		"albumTitle": "Flashback",
 		"price": 10,
 		"artist": "NILSSON, LISA"
@@ -10915,9 +11025,19 @@
 		"artist": "NINA & FREDERIK"
 	},
 	{
+		"albumTitle": "Everything Is",
+		"price": 10,
+		"artist": "NINE BLACK ALPS"
+	},
+	{
 		"albumTitle": "Nevermind",
 		"price": 10,
 		"artist": "NIRVANA"
+	},
+	{
+		"albumTitle": "All The Best Songs",
+		"artist": "NO USE FOR A NAME",
+		"price": 10
 	},
 	{
 		"albumTitle": "Noah",
@@ -10985,6 +11105,16 @@
 		"artist": "NORMAN, CHRIS"
 	},
 	{
+		"albumTitle": "Just A Man",
+		"price": 10,
+		"artist": "NORMAN, CHRIS"
+	},
+	{
+		"albumTitle": "Midnight Lady (Star Collection)",
+		"price": 10,
+		"artist": "NORMAN, CHRIS"
+	},
+	{
 		"albumTitle": "The Hits! (2CD)",
 		"price": 10,
 		"artist": "NORMAN, CHRIS"
@@ -10998,6 +11128,11 @@
 		"albumTitle": "Storm",
 		"price": 10,
 		"artist": "NOVA, HEATHER"
+	},
+	{
+		"albumTitle": "300 Days At Sea",
+		"artist": "NOVA, HEATHER",
+		"price": 10
 	},
 	{
 		"albumTitle": "I Stedet For En Tatovering",
@@ -11018,6 +11153,21 @@
 		"albumTitle": "Navnløs",
 		"price": 10,
 		"artist": "NØRLUND, NIKOLAJ"
+	},
+	{
+		"albumTitle": "Nye Optagelser",
+		"price": 10,
+		"artist": "NØRLUND, NIKOLAJ"
+	},
+	{
+		"albumTitle": "Tændstik",
+		"price": 10,
+		"artist": "NØRLUND, NIKOLAJ"
+	},
+	{
+		"albumTitle": "Det Naturlige",
+		"artist": "NØRLUND, NIKOLAJ",
+		"price": 10
 	},
 	{
 		"albumTitle": "Am I Not Your Girl",
@@ -11085,6 +11235,11 @@
 		"artist": "OFFSPRING, THE"
 	},
 	{
+		"albumTitle": "Splinter (CD+DVD)",
+		"artist": "OFFSPRING, THE",
+		"price": 10
+	},
+	{
 		"albumTitle": "Yes",
 		"price": 10,
 		"artist": "OH NO ONO"
@@ -11096,6 +11251,11 @@
 	},
 	{
 		"albumTitle": "Crisis",
+		"price": 10,
+		"artist": "OLDFIELD, MIKE"
+	},
+	{
+		"albumTitle": "Earth Moving",
 		"price": 10,
 		"artist": "OLDFIELD, MIKE"
 	},
