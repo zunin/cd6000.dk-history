@@ -3,4 +3,7 @@ export interface HistoryEntry {
   albumTitle: string;
   price: string;
   origin: string;
+  quality: string | "unknown";
+  type: "Album" | "Single"
 }
+  

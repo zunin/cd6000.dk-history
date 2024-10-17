@@ -44,7 +44,9 @@ export class ProxyAlbumDetailPage implements AlbumDetailPage {
             albumTitle: cleanText(albumNameRow?.textContent),
             artist: cleanText(artistNameRow?.textContent),
             price: this.formatter.format(price),    
-            origin: this.url
+            origin: this.url,
+            quality: "unknown",
+            type: "Album"
         } 
     }
 }
