@@ -8,6 +8,7 @@
 				"--allow-net",
 				"--unsafely-ignore-certificate-errors=cd6000.dk",
 				"--allow-write=./cds.json",
+				"--allow-read=./cds.json",
 				"index.ts"
 			],
 			"problemMatcher": [

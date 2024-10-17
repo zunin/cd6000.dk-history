@@ -13,7 +13,7 @@ jobs:
     - name: Install Deno
       uses: denoland/setup-deno@v1
       with:
-        deno-version: v1.x
+        deno-version: v2.x
     - name: Check out this repo
       uses: actions/checkout@v3
     - name: Fetch latest data
@@ -22,6 +22,7 @@ jobs:
           --allow-net \
           --unsafely-ignore-certificate-errors=cd6000.dk \
           --allow-write=./cds.json \
+          --allow-read=./cds.json \
           index.ts
     - name: Commit and push if it changed
       run: |-
