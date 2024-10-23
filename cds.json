@@ -18048,6 +18048,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE DANISH COLLECTION (2CD)",
+		"artist": "MIKE OLDFIELD",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/oldfield_the_danish_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "EN GROS (2CD)",
 		"artist": "ALLAN OLSEN",
 		"price": "10,00 kr.",
@@ -18100,6 +18108,14 @@
 		"artist": "ALLAN OLSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/sange_for_rygere.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LUN LUFT OVER DANMARK",
+		"artist": "ALLAN OLSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/lun_luft.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18168,10 +18184,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BROTHERS TO BROTHERS (CD+DVD digipack)",
+		"artist": "BRØDRENE OLSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/brothers_to_brothers.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ROCKSTALGI",
 		"artist": "BRØDRENE OLSEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/rockstalgi.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WINGS OF EUROVISION",
+		"artist": "BRDR. OLSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/wings_of_eurovision.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18328,6 +18360,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "OZZMOSIS",
+		"artist": "OZZY OSBOURNE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/ozzmosis.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NO MORE TEARS",
 		"artist": "OZZY OSBOURNE",
 		"price": "20,00 kr.",
@@ -18384,10 +18424,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SOUND OF A REBEL",
+		"artist": "OUTLANDISH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sound_of_a_rebel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF VOL. 1",
 		"artist": "BUCK OWENS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/buck_owens_very_best_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DEEP DARK OCEAN",
+		"artist": "OYSTERBAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/deep_dark_ocean.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18436,6 +18492,14 @@
 		"artist": "ROBERT PALMER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/robert_palmer_dont_explain.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HONEY",
+		"artist": "ROBERT PALMER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/robert_palmer_honey.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18516,6 +18580,14 @@
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dolly_greatest_camden.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HALOS & HORNS",
+		"artist": "DOLLY PARTON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/halos_and_horns.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18656,6 +18728,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NIGHTLIFE",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/nightlife.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "POPART, THE HITS",
 		"artist": "PET SHOP BOYS",
 		"price": "10,00 kr.",
@@ -18684,6 +18764,14 @@
 		"artist": "PETER PAUL & MARY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/peter_paul_mary_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "A NIGHT IN VIENNA",
+		"artist": "OSCAR PETERSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/a_night_in_vienna.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18880,6 +18968,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF..",
+		"artist": "THE POGUES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/pogues_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "THE POINTER SISTERS",
 		"price": "10,00 kr.",
@@ -18976,6 +19072,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ALWAYS ON MY MIND The Ultimate Love Song Collection",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/always_on_my_mind.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AS RECORDED AT MADISON SQUARE GARDEN",
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
@@ -18992,6 +19096,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GOOD ROCKIN' TONIGHT LIVE",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elvis_good_rockin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ROCKS",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elvis_rocks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THAT'S ALL RIGHT MAMA",
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
@@ -19004,6 +19124,22 @@
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/elvis_great_performances.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE WONDERFUL WORLD OF CHRISTMAS",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elvis_wonderful_christmas.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE PLATINUM COLLECTION (3CD)",
+		"artist": "ELVIS PRESLEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/elvis_platinum.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19544,10 +19680,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NIGHT OWL",
+		"artist": "GERRY RAFFERTY",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/night_owl.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NORTH & SOUTH",
+		"artist": "GERRY RAFFERTY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/north_and_south.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OVER MY HEAD",
 		"artist": "GARY RAFFERTY",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/over_my_head.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RIGHT DOWN THE LINE THE BEST OF",
+		"artist": "GERRY RAFFERTY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/right_down_the_line.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RAGE AGAINST THE MACHINE",
+		"artist": "RAGE AGAINST THE MACHINE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rage_against_the_machine.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19624,6 +19792,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MORE SWEETS..",
+		"artist": "HUGO RASMUSSEN JESPER THILO - DOUGH RANEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hugo_more_sweets.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SIGNATURE COLLECTION (3CD DIGIPACK)",
 		"artist": "THE RAT PACK",
 		"price": "10,00 kr.",
@@ -19652,6 +19828,14 @@
 		"artist": "PIA RAUG",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/hej_lille_droem_saga.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DET digte af Inger Christensen",
+		"artist": "PIA RAUG",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/pia_raug_det.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19736,6 +19920,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RAVEN IN THE GRAVE",
+		"artist": "THE RAVEONETTES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/raven_in_the_grave.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHIP IT ON",
 		"artist": "THE RAVEONETTES",
 		"price": "10,00 kr.",
@@ -19808,6 +20000,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE ROAD TO HELL",
+		"artist": "CHRIS REA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_road_to_hell.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "CHRIS REA",
 		"price": "10,00 kr.",
@@ -19820,6 +20020,14 @@
 		"artist": "CHRIS REA",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/on_the_beach.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DREAM NO. 7",
+		"artist": "REAMON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dream_no_7.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20064,6 +20272,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FAST MOVING CONSUMER GOODS",
+		"artist": "REMEE & THE MIDAS TOUCH",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/fast_moving_consumer_goods.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "REPUBLICA",
 		"artist": "REPUBLICA",
 		"price": "10,00 kr.",
@@ -20204,6 +20420,22 @@
 		"artist": "JASCHA RICHTER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/where_i_belong.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RIELATIN'",
+		"artist": "ALEX RIEL",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/rielatin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE AT JIVE",
+		"artist": "ALEX RIEL/LUTZ BÜCHNER QUARTET",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/live_at_jive.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
