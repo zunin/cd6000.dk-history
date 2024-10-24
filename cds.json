@@ -3640,14 +3640,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GRATEFUL",
-		"artist": "CARPARK NORTH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/grateful.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BEST DAYS GREATEST & LIVE (CD+DVD)",
 		"artist": "CARPARK NORTH",
 		"price": "30,00 kr.",
@@ -12888,14 +12880,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "II",
-		"artist": "LAKE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/lake_ii.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LAMB",
 		"artist": "LAMB",
 		"price": "10,00 kr.",
@@ -18028,14 +18012,6 @@
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tubular_bells.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TUBULAR BELLS II",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tubular_bells_ii.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
