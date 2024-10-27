@@ -7752,14 +7752,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DYLANESQUE",
-		"artist": "BRYAN FERRY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dylanesque.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TAXI",
 		"artist": "BRYAN FERRY",
 		"price": "10,00 kr.",
@@ -9788,14 +9780,6 @@
 		"artist": "JIMI HENDRIX",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/hendrix_ultimate.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BUILDING THE PERFECT BEAST",
-		"artist": "DON HENLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/building_the_perfect_beast.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15040,14 +15024,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DOO-WOPS & HOOLIGANS",
-		"artist": "BRUNO MARS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/doowops_and_hooligans.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE BEST OF",
 		"artist": "RICKY MARTIN",
 		"price": "10,00 kr.",
@@ -17232,14 +17208,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ALENE FOR DIG (Favoritter)",
-		"artist": "NEWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alene_for_dig.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CRAZY, LAZY CITY",
 		"artist": "NEWS",
 		"price": "10,00 kr.",
@@ -17936,14 +17904,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AMAROK",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/amarok.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CRISIS",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
@@ -17984,14 +17944,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "QE2",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/qe2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE ORCHESTRAL TUBULAR BELLS",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
@@ -18012,14 +17964,6 @@
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/voyager.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE DANISH COLLECTION (2CD)",
-		"artist": "MIKE OLDFIELD",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/oldfield_the_danish_collection.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18164,14 +18108,6 @@
 		"artist": "BRØDRENE OLSEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/rockstalgi.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "WINGS OF EUROVISION",
-		"artist": "BRDR. OLSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/wings_of_eurovision.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19072,14 +19008,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ROCKS",
-		"artist": "ELVIS PRESLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elvis_rocks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THAT'S ALL RIGHT MAMA",
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
@@ -19092,14 +19020,6 @@
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/elvis_great_performances.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE WONDERFUL WORLD OF CHRISTMAS",
-		"artist": "ELVIS PRESLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elvis_wonderful_christmas.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21024,14 +20944,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "JORDEN KALDER",
-		"artist": "RUGSTED & KREUTZFELDT",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/jorden_kalder.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BOYS DON'T CRY",
 		"artist": "RUMER",
 		"price": "10,00 kr.",
@@ -21108,14 +21020,6 @@
 		"artist": "RUNRIG",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_highland_connection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE STAMPING GROUND",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_stamping_ground.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24992,22 +24896,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE 20/20 EXPERIENCE",
-		"artist": "JUSTIN TIMBERLAKE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_20-20_experience.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE 20/20 EXPERIENCE",
-		"artist": "JUSTIN TIMBERLAKE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_20-20_experience_12.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NOVEMBER LIGHT",
 		"artist": "THE TIME",
 		"price": "10,00 kr.",
@@ -26348,14 +26236,6 @@
 		"artist": "VIVID",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/vivid_go.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BEYOND HELL ABOVE HEAVEN",
-		"artist": "VOLBEAT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/beyond_hell_1.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
