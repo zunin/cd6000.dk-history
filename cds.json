@@ -17904,14 +17904,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "EARTH MOVING",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/earth_moving.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ELEMENTS, THE BEST OF",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
@@ -17920,34 +17912,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FIVE MILES OUT",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/five_miles_out.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PLATINUM",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/platinum.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE ORCHESTRAL TUBULAR BELLS",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_orchestral_tubular_bells.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TUBULAR BELLS",
-		"artist": "MIKE OLDFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tubular_bells.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21000,22 +20968,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE BIG WHEEL",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_big_wheel.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE HIGHLAND CONNECTION",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_highland_connection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "50 GREAT SONGS (3CD+DVD)",
 		"artist": "RUNRIG",
 		"price": "30,00 kr.",
@@ -22092,14 +22044,6 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubidua_6.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SHU-BI-DUA 7",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/shubidua_7.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
