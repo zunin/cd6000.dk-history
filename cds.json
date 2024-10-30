@@ -15256,14 +15256,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TRIPPING THE LIVE FANTASTIC HIGHLIGHTS",
-		"artist": "PAUL McCARTNEY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/tripping_the_live_highlights.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TRIPPING THE LIVE FANTASTIC (2CD)",
 		"artist": "PAUL McCARTNEY",
 		"price": "40,00 kr.",
@@ -18288,14 +18280,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SOUND OF A REBEL",
-		"artist": "OUTLANDISH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sound_of_a_rebel.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF VOL. 1",
 		"artist": "BUCK OWENS",
 		"price": "10,00 kr.",
@@ -18568,54 +18552,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BEHAVIOUR",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pet_shop_behaviour.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DISCO",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pet_shop_disco.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "INTROSPECTIVE",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/introspective.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "NIGHTLIFE",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nightlife.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "POPART, THE HITS",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/popart.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "VERY",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GI' GAS",
 		"artist": "PETER + DE ANDRE KOPIER",
 		"price": "20,00 kr.",
@@ -18668,14 +18604,6 @@
 		"artist": "TOM PETTY",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/full_moon_fever.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "INTO THE GREAT WIDE OPEN",
-		"artist": "TOM PETTY & THE HEARTBREAKERS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/into_the_great_wide_open.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19412,6 +19340,14 @@
 		"artist": "QUEEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/queen_the_works.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ACCELERATE",
+		"artist": "R.E.M.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/accelerate.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20408,6 +20344,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MUSIC FOR THE NATIVE AMERICANS",
+		"artist": "ROBERT ROBERTSON & THE RED ROAD ENSEMBLE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/music_for_the_native.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "TOM ROBINSON BAND",
 		"price": "10,00 kr.",
@@ -20592,10 +20536,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BLUE & LONESOME",
+		"artist": "ROLLING STONES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/blue_and_lonesome.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DIRTY WORK",
 		"artist": "THE ROLLING STONES",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/dirty_work.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NO SECURITY",
+		"artist": "ROLLING STONES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/no_security.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21336,6 +21296,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "INTO A SECRET LAND",
+		"artist": "SANDRA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/into_a_secret_land.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "SANTANA",
 		"price": "10,00 kr.",
@@ -21616,6 +21584,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BEST OF SCORPIONS",
+		"artist": "SCORPIONS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/scorpions_best_rca.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BEST OF ROCKERS N' BALLADS",
 		"artist": "SCORPIONS",
 		"price": "20,00 kr.",
@@ -21636,6 +21612,14 @@
 		"artist": "SCORPIONS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/still_loving_you.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE ESSENTIAL SCORPIONS",
+		"artist": "SCORPIONS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/scorpions_essential.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21700,6 +21684,22 @@
 		"artist": "SEBASTIAN",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/de_bedste_sange_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DE STØRSTE HITS",
+		"artist": "SEBASTIAN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/sebastian_stoerste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DEN STORE FLUGT",
+		"artist": "SEBASTIAN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/den_store_flugt.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21848,6 +21848,46 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "CHAOS A.D.",
+		"artist": "SEPULTURA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/chaos_ad.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ROOTS",
+		"artist": "SEPULTURA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/roots.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BENEATH THE REMAINS (remastered)",
+		"artist": "SEPULTURA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/beneath_the_remains.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SCHIZOPHRENIA (remastered)",
+		"artist": "SEPULTURA",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/schizophrenia_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NEVER MIND THE BOLLOCKS",
+		"artist": "SEX PISTOLS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/never_mind_the_bollocks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SHADOW KING",
 		"artist": "SHADOW KING",
 		"price": "10,00 kr.",
@@ -21892,6 +21932,14 @@
 		"artist": "RHAVI SHANKAR",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/shankar_essential.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FEARGAL SHARKEY",
+		"artist": "FEARGAL SHARKEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/feargal_sharkey.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22176,6 +22224,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RAP JUL & GODT NYTÅR",
+		"artist": "SHU-BI-DUA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/rap_jul.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AFTENSTEMNING MINE FAVORITTER II",
 		"artist": "LENE SIEL",
 		"price": "10,00 kr.",
@@ -22220,6 +22276,14 @@
 		"artist": "CARLY SIMON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/carly_simon_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BRIDGE OVER TROUBLED WATER",
+		"artist": "SIMON & GARFUNKEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bridge_over.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22372,6 +22436,22 @@
 		"artist": "SIMPLY RED",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/men_and_women.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NEW COLD DREAM 81-82-83-84",
+		"artist": "SIMPLE MINDS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/new_gold_dream.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CRY",
+		"artist": "SIMPLE MINDS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/simple_minds_cry.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22540,6 +22620,14 @@
 		"artist": "SIXPENCE NONE THE RICHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_fatherless.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BIG TIME",
+		"artist": "SKAGARACK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/big_time.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27740,6 +27828,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/am20.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 21",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am21.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
