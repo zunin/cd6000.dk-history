@@ -3640,6 +3640,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GRATEFUL",
+		"artist": "CARPARK NORTH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/grateful.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BEST DAYS GREATEST & LIVE (CD+DVD)",
 		"artist": "CARPARK NORTH",
 		"price": "30,00 kr.",
@@ -4484,14 +4492,6 @@
 		"artist": "LEONARD COHEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dear_heather.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DEATH OF A LADIES MAN",
-		"artist": "LEONARD COHEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/death_of_a_ladies_man.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8760,14 +8760,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SAFARI (remastered)",
-		"artist": "GNAGS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/safari_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SAFARI (remastered) (NY i folie)",
 		"artist": "GNAGS",
 		"price": "25,00 kr.",
@@ -12024,14 +12016,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "I'LL BE AROUND",
-		"artist": "OLE KIBSGAARD",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/ill_be_around.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ANNIE, I'M NOT YOUR DADDY",
 		"artist": "KID CREOLE AND THE COCONUTS",
 		"price": "10,00 kr.",
@@ -12460,14 +12444,6 @@
 		"artist": "MARK KNOPFLER",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/shangri_la.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE RAGPICKER'S DREAM (2CD)",
-		"artist": "MARK KNOPFLER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_ragpickers_dream_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15148,14 +15124,6 @@
 		"artist": "MAXI PRIEST",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/maxi_priest_the_best_of_me.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BATTLE STUDIES",
-		"artist": "JOHN MAYER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/battle_studies.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21820,6 +21788,14 @@
 		"artist": "TOMMY SEEBACH",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/hip_hurra.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KOMPLET & RARITETER (11 CD BOKS)",
+		"artist": "TOMMY SEEBACH",
+		"price": "125,00 kr.",
+		"origin": "https://cd6000.dk/tommy_seebach_boks.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
