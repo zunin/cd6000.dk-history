@@ -728,14 +728,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SAP (EP)",
-		"artist": "ALICE IN CHAINS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sap.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALL SAINTS",
 		"artist": "ALL SAINTS",
 		"price": "10,00 kr.",
@@ -1228,14 +1220,6 @@
 		"artist": "JOAN BAEZ",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/play_me_backwards.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TRILOGY (3CD)",
-		"artist": "JOAN BAEZ",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/baez_trilogy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2192,14 +2176,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "MEDÜLLA",
-		"artist": "BJÖRK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/medulla.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "POST",
 		"artist": "BJÖRK",
 		"price": "10,00 kr.",
@@ -2476,14 +2452,6 @@
 		"artist": "BLUR",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_great_escape.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THINK TANK (i flot 'bog')",
-		"artist": "BLUR",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/think_tank_bog.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3776,14 +3744,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AT FOLSOM PRISON",
-		"artist": "JOHNNY CASH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cash_at_folsom.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ITCHY FEET 20 FOOT TAPPIN' GREATS",
 		"artist": "JOHNNY CASH",
 		"price": "10,00 kr.",
@@ -4416,22 +4376,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CIVILIZED MAN",
-		"artist": "JOE COCKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/civilized_man.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FOR ALL MY FRIENDS",
-		"artist": "JOE COCKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/for_all_my_friends.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "JOE COCKER",
 		"price": "10,00 kr.",
@@ -4528,14 +4472,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SO LONG MARIANNE",
-		"artist": "LEONARD COHEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/so_long_marianne_columbia.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TEN NEW SONGS",
 		"artist": "LEONARD COHEN",
 		"price": "10,00 kr.",
@@ -4556,14 +4492,6 @@
 		"artist": "LEONARD COHEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/cohen_live_in_london_cd.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "POPULAR PROBLEMS",
-		"artist": "LEONARD COHEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/popular_problems.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5100,14 +5028,6 @@
 		"artist": "CREEDENCE CLEARWATER REVIVAL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ccr_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PENDULUM",
-		"artist": "CREEDENCE CLEARWATER REVIVAL",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/pendulum.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6408,14 +6328,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE SOFT PARADE",
-		"artist": "THE DOORS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/the_soft_parade.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF (2CD)",
 		"artist": "THE DOORS",
 		"price": "20,00 kr.",
@@ -6916,14 +6828,6 @@
 		"artist": "ELISABETH",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/serenader.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SOTTO VOCE",
-		"artist": "ELISABETH",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/sotto_voce.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7524,14 +7428,6 @@
 		"artist": "MICHAEL FALCH",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/hele_vejen.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HÅNDEN PÅ HJERTET VERSION 2.0 (2CD)",
-		"artist": "MICHAEL FALCH",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/haanden_paa_hjertet_20.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8300,22 +8196,6 @@
 		"artist": "PETER GABRIEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/gabriel_us.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BIRDY MUSIC FROM THE FILM",
-		"artist": "PETER GABRIEL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/birdy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PETER GABRIEL",
-		"artist": "PETER GABRIEL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/peter_gabriel.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9840,14 +9720,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LITTLE HEAD",
-		"artist": "JOHN HIATT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/little_head.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE HIGHWAYMEN (3CD SET)",
 		"artist": "THE HIGHWAYMEN",
 		"price": "20,00 kr.",
@@ -10544,14 +10416,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LUST FOR LIFE",
-		"artist": "IGGY POP",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/lust_for_life.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EUPHORIA",
 		"artist": "ENRIQUE IGLESIAS",
 		"price": "10,00 kr.",
@@ -10564,14 +10428,6 @@
 		"artist": "ENRIQUE IGLESIAS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/iglesias_insomniac.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ONCE UPON TOMORROW (NY i folie)",
-		"artist": "JACOB ILLEBORG",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/once_upon_tomorrow.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10748,14 +10604,6 @@
 		"artist": "INXS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/inxs_x.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FOREVER BLUE",
-		"artist": "CHRIS ISAAK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/forever_blue.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11440,14 +11288,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "IN CONCERT",
-		"artist": "JANIS JOPLIN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/janis_joplin_in_concert.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PEARL",
 		"artist": "JANIS JOPLIN",
 		"price": "20,00 kr.",
@@ -12100,14 +11940,6 @@
 		"artist": "CAROLE KING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tapestry.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SWEET SEASONS",
-		"artist": "CAROLE KING",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/sweet_seasons.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14128,14 +13960,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "COPENHAGEN SCREAMING!",
-		"artist": "LOVE SHOP",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/copenhagen_screaming.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EXPLODING STAR",
 		"artist": "LOVEBITES",
 		"price": "10,00 kr.",
@@ -14804,14 +14628,6 @@
 		"artist": "MANIC STREET PREACHERS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/know_your_enemy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SEND AWAY THE TIGERS",
-		"artist": "MANIC STREET PREACHERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/send_away_the_tigers.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15996,14 +15812,6 @@
 		"artist": "MIKE & THE MECHANICS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/word_of_mouth.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HEART TO HEART",
-		"artist": "MIKKELBORG KNUDSEN N.H.Ø.P",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/heart_to_heart.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17432,14 +17240,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A LITTLE TOUCH OF SCHMILSSON IN THE NIGHT",
-		"artist": "HARRY NILSSON",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/harry_nilsson_a_little_touch.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FLASHBACK",
 		"artist": "LISA NILSSON",
 		"price": "10,00 kr.",
@@ -17724,14 +17524,6 @@
 		"artist": "NIKOLAJ NØRLUND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/taendstik.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DET NATURLIGE",
-		"artist": "NIKOLAJ NØRLUND",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/det_naturlige.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19408,14 +19200,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AMNESIAC",
-		"artist": "RADIOHEAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/amnesiac.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "OK COMPUTER",
 		"artist": "RADIOHEAD",
 		"price": "10,00 kr.",
@@ -19764,14 +19548,6 @@
 		"artist": "CHRIS REA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/chris_rea_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ON THE BEACH",
-		"artist": "CHRIS REA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/on_the_beach.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22328,14 +22104,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CELEBRATION",
-		"artist": "SIMPLE MINDS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/simple_minds_celebration.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GLITTERING PRIZE",
 		"artist": "SIMPLE MINDS",
 		"price": "10,00 kr.",
@@ -23036,14 +22804,6 @@
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/uncovered_too.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TAG MED MIG (NY i folie)",
-		"artist": "SNEAKERS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/tag_med_mig_ny.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24744,14 +24504,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NAKED SELF",
-		"artist": "THETHE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/naked_self.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SEMI-DETACHED",
 		"artist": "TERAPY",
 		"price": "10,00 kr.",
@@ -24868,14 +24620,6 @@
 		"artist": "TANITA TIKARAM",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/acient_heart.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "EVERYBODY'S ANGEL",
-		"artist": "TINITA TIKARAM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/everybodys_angel.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25084,14 +24828,6 @@
 		"artist": "TRENTEMØLLER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_last_resort.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HOSTER DU I NAT",
-		"artist": "TROELS TRIER & REBEKKA BRÜEL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hoster_du_i_nat.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
