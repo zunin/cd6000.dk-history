@@ -680,6 +680,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LYSE NÆTTER",
+		"artist": "ALBERTE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/lyse_naetter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SVENSKE SPOR",
 		"artist": "ALBERTE",
 		"price": "10,00 kr.",
@@ -21860,6 +21868,14 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubidua_11.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "12",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_12.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
