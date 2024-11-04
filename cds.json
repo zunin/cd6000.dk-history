@@ -12704,14 +12704,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TAKE ME HOME",
-		"artist": "H.P. LANGE & TROELS JENSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/take_me_home.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BEHOLD",
 		"artist": "MADS LANGER",
 		"price": "10,00 kr.",
@@ -13324,14 +13316,6 @@
 		"artist": "JERRY LEE LEWIS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/great_balls_of_fire.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREAT BALLS OF FIRE",
-		"artist": "JERRY LEE LEWIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/great_balls_of_fire_vintage.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14376,14 +14360,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GODT NYT",
-		"artist": "JOHNNY MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/godt_nyt.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HALGAL HALBAL (2CD) 1992",
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
@@ -15328,14 +15304,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "UDE AF MINE HÆNDER",
-		"artist": "MELLEMBLOND",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/ude_af_mine_haender.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HUMAN WHEELS",
 		"artist": "JOHN COUGAR MELLENCAMP",
 		"price": "10,00 kr.",
@@ -16192,34 +16160,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "16 UNFORGETTABLE HITS",
-		"artist": "THE MOODY BLUES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/16_unforgettable_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EVERY GOOD BOY DESERVES FAVOUR (digital remastered)",
 		"artist": "THE MOODY BLUES",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/every_good_boy_deserves_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SONGS IN WHITE SATIN",
-		"artist": "THE MOODY BLUES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/songs_in_white_satin.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "THE MOODY BLUES",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/moody_blues_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16452,14 +16396,6 @@
 		"artist": "NANA MOUSKOURI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/passport.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE COLLECTION",
-		"artist": "THE MOVE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/move_collection.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
