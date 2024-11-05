@@ -2728,14 +2728,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE BEST OF (2CD) (unofficial)",
-		"artist": "BON JOVI",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/bon_jovi_best2_unofficial.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GOLD, 20 SUPER HITS",
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
@@ -5108,14 +5100,6 @@
 		"artist": "CROWDED HOUSE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/woodface.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LIVE & ALIVE VOL. 2 (unofficial)",
-		"artist": "CROWDED HOUSE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/live_and_alive_vol2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
