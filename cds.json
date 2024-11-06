@@ -12656,22 +12656,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FINE CONDITION (obs : 'eftergjort' bagscan !!)",
-		"artist": "PAUL LAMB & THE KING SNAKES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/fine_condition.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SHE'S A KILLER (obs : 'eftergjort' bagscan !!)",
-		"artist": "PAUL LAMB & THE KING SNAKES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/shes_a_killer.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SMILE",
 		"artist": "SUSANNE LANA",
 		"price": "10,00 kr.",
@@ -14360,38 +14344,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "REGNMANDEN (CD+DVD)",
-		"artist": "JOHNNY MADSEN",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/regnmanden.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ROOM SERVICE",
-		"artist": "JOHNNY MADSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/room_service.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SES VI I SLESVIG",
-		"artist": "JOHNNY MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/ses_vi_i_slesvig.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BLUES",
-		"artist": "JOHNNY MADSEN",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/johnny_madsen_the_blues.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STORM",
 		"artist": "VANESSA-MAE",
 		"price": "10,00 kr.",
@@ -14892,14 +14844,6 @@
 		"artist": "THE MAVERICKS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/trampoline.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FROM HELL TO PARADISE",
-		"artist": "THE MAVERICKS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/from_hell_to_paradise.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20472,6 +20416,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AVALON",
+		"artist": "ROXY MUSIC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/avalon.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE COLLECTION TRIBUTE TO THE BEATLES",
 		"artist": "RUBBER BAND",
 		"price": "10,00 kr.",
@@ -21280,6 +21232,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PURE INSTINCT",
+		"artist": "SCORPIONS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/pure_instinct.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "STILL LOVING YOU",
 		"artist": "SCORPIONS",
 		"price": "20,00 kr.",
@@ -21920,6 +21880,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SOME PEOPLE HAVE REAL PROBLEMS",
+		"artist": "SIA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/some_people_have_real_problems.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AFTENSTEMNING MINE FAVORITTER II",
 		"artist": "LENE SIEL",
 		"price": "10,00 kr.",
@@ -22504,10 +22472,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NIGHT TIME, MY TIME",
+		"artist": "SKY FERREIRA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/night_time_my_time.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE SLADE COLLECTION 81-87",
 		"artist": "SLADE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/slade_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WALL OF HITS",
+		"artist": "SLADE II",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/slade_wall_of_hits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22540,6 +22524,22 @@
 		"artist": "SLAUGHTER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/slaughter_the_wild_life.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DEVINE INTERVENTION",
+		"artist": "SLAYER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/devine_intervention.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE UNDEAD includes EP : HAUNTING THE CHAPEL",
+		"artist": "SLAYER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/live_undead_haunting.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22696,6 +22696,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIGHT A CANDLE, THE CHRISTMAS ALBUM",
+		"artist": "SMOKIE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/light_a_candle.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OUR DANISH COLLECTION (2CD)",
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
@@ -22780,6 +22788,14 @@
 		"artist": "PETER SOMMER",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/til_rotterne.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CIRCLE HITS THE FLAME BEST OF",
+		"artist": "SORT SOL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/circle_hits_the_flame.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22892,6 +22908,14 @@
 		"artist": "SP JUST FROST",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/live_in_cph.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PEACE IN THE VALLEY",
+		"artist": "SP JUST FROST",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/peace_in_the_valley.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23064,6 +23088,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BORN IN THE USA",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/born_in_the_usa.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
@@ -23112,6 +23144,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/springsteen_e_street_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LIVE 1975-85 disc 1",
 		"artist": "BRUCE SPRINGSTEEN & E-STREET BAND",
 		"price": "15,00 kr.",
@@ -23136,10 +23176,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND",
+		"albumTitle": "LIVE 1975-1985 (3CD) 1986",
+		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND COLUMBIA BESTIL NR. 24462",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/springsteen_e_street_greatest.htm",
+		"origin": "https://cd6000.dk/springsteen_live_3.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23172,6 +23212,14 @@
 		"artist": "ALVIS STARDUST",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/stardust_greatest_and_latest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHE HANGS BRIGHTLY",
+		"artist": "MAZZY STAR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/she_hangs_brightly.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23292,6 +23340,14 @@
 		"artist": "GWEN STEFANI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_sweet_escape.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "JUST NU NÄR INGET ÄR FOR EVIGT",
+		"artist": "PERRY STEINBÄCK & DEKADANSORKESTERN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/just_nu_naer_inget.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23464,6 +23520,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "STORYTELLER",
+		"artist": "ROD STEWART",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rod_stewart_story_teller_d2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THANKS FOR THE MEMORY The Great American Songbook Vol. IV",
 		"artist": "ROD STEWART",
 		"price": "10,00 kr.",
@@ -23524,6 +23588,14 @@
 		"artist": "CURTIS STIGERS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/time_was.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DUMB ANGEL",
+		"artist": "STINA STINA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dumb_angel.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23596,14 +23668,6 @@
 		"artist": "JOSS STONE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_soul_sessions.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "12 GRACIOUS MELODIES",
-		"artist": "STONE TEMPLE PILOTS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/12_gracious_melodies.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24280,10 +24344,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ESSENTIAL",
+		"artist": "TALK TALK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/talk_talk_essential.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TAME & MAFFAY",
 		"artist": "TAME & MAFFAY",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/tame_and_maffay.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CHEMICAL INVASION",
+		"artist": "TANKARD",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/chemical_invasion.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE MEANING OF LIFE",
+		"artist": "TANKARD",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/tankard_the_meaning_of_life.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24468,6 +24556,14 @@
 		"artist": "JESPER THILO",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/shufflin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "I REMEMBER BOONE",
+		"artist": "JESPER THILO QUARTET",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/i_remember_boone.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24720,22 +24816,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "12 MEMORIES",
-		"artist": "TRAVIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/12_memories.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE MAN WHO",
-		"artist": "MIKA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_man_who.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "VOLUME 1",
 		"artist": "TRAVELING WILBURYS",
 		"price": "10,00 kr.",
@@ -24760,6 +24840,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "12 MEMORIES (unofficial)",
+		"artist": "TRAVIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/travis_12_memories_19.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE MAN WHO",
+		"artist": "MIKA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_man_who.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE LAST RESORT",
 		"artist": "TRENTEMØLLER",
 		"price": "10,00 kr.",
@@ -24768,10 +24864,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "R.I.D.E.",
+		"artist": "TRICK PONY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/trick_pony_ride.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SANGE TIL ROSA",
+		"artist": "TROELS TRIER",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/sange_til_rosa.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BAR RØV OG GUMMISKO (lettere bulet bagcover)",
+		"artist": "TROELS TRIER & REBEKKA BRÜHL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bar_roev.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "STARDUST BODEGA",
 		"artist": "TROELS TRIER & REBEKKA BRÜEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/stardust_bodega.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TO TYKKE MED BRØD",
+		"artist": "TROELS TRIER & REBEKKA BRÜEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/to_tykke_med_broed.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24836,6 +24964,14 @@
 		"artist": "WALTER TROUT BAND",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/motivation_of_love.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KUN TIL SILD",
+		"artist": "TRUSSETYVEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/kun_til_sild.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24952,6 +25088,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIVE USA (unofficial)",
+		"artist": "TINA TURNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/tina_turner_live_usa.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DRASTIC FANTASTIC",
 		"artist": "KT TURNSTALL",
 		"price": "10,00 kr.",
@@ -25048,6 +25192,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VERDENS LYKKELIGSTE BAND (2CD)",
+		"artist": "TV-2",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/verdens_lykkeligste_band.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VERDENS LYKKELIGSTE MAND",
 		"artist": "TV-2",
 		"price": "10,00 kr.",
@@ -25132,6 +25284,14 @@
 		"artist": "SHANIA TWAIN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shania_twain_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHANIA TWAIN",
+		"artist": "SHANIA TWAIN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shania_twain.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
