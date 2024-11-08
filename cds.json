@@ -14288,14 +14288,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "UDENFOR SÆSONEN",
-		"artist": "JOHNNY MADSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/udenfor_saesonen.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CHECKPOINT CHARLIE",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -14332,14 +14324,6 @@
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/halgal_halbal.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MADSENS STØRSTE (2CD)",
-		"artist": "JOHNNY MADSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/madsens_stoerste.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
