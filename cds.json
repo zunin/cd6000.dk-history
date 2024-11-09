@@ -14320,10 +14320,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GODT NYT",
+		"artist": "JOHNNY MADSEN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/godt_nyt.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HALGAL HALBAL (2CD) 1992",
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/halgal_halbal.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MADSENS STØRSTE (2CD)",
+		"artist": "JOHNNY MADSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/madsens_stoerste.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
