@@ -5280,14 +5280,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SCARE YOURSELF SPECIAL DVD EDITION (CD+DVD)",
-		"artist": "D.A.D.",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/scare_yourself_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE EARLY YEARS (2CD)",
 		"artist": "D.A.D.",
 		"price": "20,00 kr.",
@@ -13908,14 +13900,6 @@
 		"artist": "LOVE SHOP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/love_shop_dk.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SENDT FRA HIMLEN 1990-2004",
-		"artist": "LOVE SHOP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sendt_fra_himlen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
