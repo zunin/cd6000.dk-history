@@ -2128,22 +2128,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ALL THAT WE ARE",
-		"artist": "ANNETTE BJERGFELDT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/all_that_we_are.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SONGS FOR MODERN MAMMALS",
-		"artist": "ANNETTE BJERGFELDT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/songs_for_modern_mammals.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALL IN",
 		"artist": "SYS BJERRE",
 		"price": "10,00 kr.",
@@ -7644,14 +7628,6 @@
 		"artist": "ROXY MUSIC",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/more_than_this.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SLAVE TO LOVE THE VERY BEST OF THE BALLADS",
-		"artist": "BRYAN FERRY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/slave_to_love.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14264,14 +14240,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BOUNTY BLUE",
-		"artist": "JOHNNY MADSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bounty_blue.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CHECKPOINT CHARLIE",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -14280,34 +14248,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CHECKPOINT CHARLIE (NY i folie)",
-		"artist": "JOHNNY MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/checkpoint_charlie_ny.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DE TØRRE & DE BEDSTE (3CD+DVD digipack)",
-		"artist": "JOHNNY MADSEN",
-		"price": "75,00 kr.",
-		"origin": "https://cd6000.dk/de_toerre_cd-dvd.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DEN BLINDE LOTTERISÆLGER SIDDER GANSKE STILLE PÅ ET FLERFARVET LYSSTOFRØR OG KIGGER OPMÆRKSOMT UD PÅ HAVET",
 		"artist": "JOHNNY MADSEN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/den_blinde_lotterisaelger.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GODT NYT",
-		"artist": "JOHNNY MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/godt_nyt.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14552,14 +14496,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SWING",
-		"artist": "MANHATTAN TRANSFER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/swing.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE OFFBEAT OF AVENUES",
 		"artist": "THE MANHATTAN TRANSFER",
 		"price": "10,00 kr.",
@@ -14716,14 +14652,6 @@
 		"artist": "RICKY MARTIN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ricky_martin_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE FIRST 40 YEARS (2CD)",
-		"artist": "HANK MARVIN & THE SHADOWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hank_marvin_first_40.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20944,6 +20872,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ORIGINAL ALBUM CLASSICS (5CD 'papboks')",
+		"artist": "JOE SATRIANI",
+		"price": "75,00 kr.",
+		"origin": "https://cd6000.dk/satriani_5_albums.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ACTUAL REALITY",
 		"artist": "SAVAGE AFFAIR",
 		"price": "10,00 kr.",
@@ -24752,6 +24688,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IV",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/toto_4.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PAST TO PRESENT 1977-1990",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -25216,6 +25160,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DET GODE LIV",
+		"artist": "TV-2",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/det_gode_liv.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FANTASTISKE TOYOTA",
 		"artist": "TV-2",
 		"price": "20,00 kr.",
@@ -25236,6 +25188,14 @@
 		"artist": "TV-2",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/nutidens_unge.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VERDEN ER VIDUNDERLIG",
+		"artist": "TV-2",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/verden_er_vidunderlig.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25392,6 +25352,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SIG DU KA' LI' MIG",
+		"artist": "TØSEDRENGENE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sig_du_ka_li_mig.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "3",
+		"artist": "TØSEDRENGENE",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/toesedrengene_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ALLE VORE HÅB",
 		"artist": "TØSEDRENGENE",
 		"price": "20,00 kr.",
@@ -25404,6 +25380,14 @@
 		"artist": "TØSEDRENGENE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/toesedrengene_allerbedste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DET GÅR FREMAD",
+		"artist": "TØSEDRENGENE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/det_gaar_fremad_1.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25616,6 +25600,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SANGE TIL ELISABETH",
+		"artist": "MAJBRITTE ULRIKKEHOLM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sange_til_elisabeth.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DANCING WITH TEARS IN MY EYES",
+		"artist": "ULTRAVOX",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/dancing_with_tears.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "REVELATION",
+		"artist": "ULTRAVOX",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/revelation.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DET ER MIG DER HOLDER TRÆERNE SAMMEN",
 		"artist": "UNDER BYEN",
 		"price": "20,00 kr.",
@@ -25640,6 +25648,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BE HERE",
+		"artist": "KEITH URBAN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/be_here.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GOLDEN ROAD",
+		"artist": "KEITH URBAN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/golden_road.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "1984",
 		"artist": "VAN HALEN",
 		"price": "15,00 kr.",
@@ -25660,6 +25684,30 @@
 		"artist": "VAN HALEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/right_here_right_now.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ASTRAL WEEKS",
+		"artist": "VAN MORRISON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/astral_weeks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BACK ON TOP",
+		"artist": "VAN MORRISON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/back_on_top.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BANG MASTERS",
+		"artist": "VAN MORRISON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bang_masters.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25720,6 +25768,38 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "A SENSE OF WONDER",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/a_sense_of_wonder.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AVALON SUNSET",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/avalon_sunset.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BROWN EYED GIRL",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/brown_eyed_girl.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DOWN THE ROAD",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/down_the_road.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GOODBYE BABY",
 		"artist": "VAN MORRISON",
 		"price": "20,00 kr.",
@@ -25736,10 +25816,50 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MAGIC TIME",
+		"artist": "VAN MORRISON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/magic_time.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PAY THE DEVIL",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/pay_the_devil.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TOO LONG IN EXILE",
+		"artist": "VAN MORRISON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/too_long_in_exile.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SUPER HITS",
+		"artist": "VAN MORRISON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/van_morrison_super_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VAN MORRISON (2CD)",
 		"artist": "VAN MORRISON",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/van_morrison.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "YOU WIN AGAIN",
+		"artist": "VAN MORRISON LINDA GAIL LEWIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/you_win_again.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25872,6 +25992,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VERSATILE (remastered)",
+		"artist": "LAGIX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/lagix.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NÅR JEG DRØMMER",
 		"artist": "PETER VESTH",
 		"price": "10,00 kr.",
@@ -25932,6 +26060,14 @@
 		"artist": "MADS VINDING JACOB FISCHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/over_the_rainbow.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE KINGDOM",
+		"artist": "MADS VINDING TRIO ALEX RIEL & ENRICO PIERANUNZI",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/mads_vinding_trio.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26112,6 +26248,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "WHITE WINDS",
+		"artist": "ANDREAS VOLLENWEIDER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/white_winds.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BOOK OF ROSES",
 		"artist": "ANDREAS VOLLENWEIDER",
 		"price": "15,00 kr.",
@@ -26176,6 +26320,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HISTORY",
+		"artist": "LOUDON WAINWRIGHT III",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/loudon_history.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ATTEMPTED MOUSTAGE",
+		"artist": "LOUDON WAINWRIGHT III",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/attempted_moustage.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "UNREQUITED",
+		"artist": "LOUDON WAINWRIGHT III",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/unrequited.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "I KNOW YOU'RE MARRIED, BUT I'VE GOT FEELINGS TOO",
 		"artist": "MARTHA WAINWRIGHT",
 		"price": "10,00 kr.",
@@ -26232,6 +26400,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIGE HER LIGE NU",
+		"artist": "RASMUS WALTER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lige_her_lige_nu.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "JAMIE WALTERS",
 		"artist": "JAMIE WALTERS",
 		"price": "10,00 kr.",
@@ -26248,6 +26424,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SURGERY",
+		"artist": "THE WARLOCKS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/surgery.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LET IT OUT",
 		"artist": "WARWICK AVENUE",
 		"price": "10,00 kr.",
@@ -26260,6 +26444,14 @@
 		"artist": "DIONNE WARWICK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/friends_can_be_lovers.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "DIONNE WARWICK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dionne_warwick_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26440,10 +26632,26 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE FINAL",
-		"artist": "WHAM",
+		"albumTitle": "WHIGFIELD II",
+		"artist": "WHIGFIELD",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wham_the_final.htm",
+		"origin": "https://cd6000.dk/whigfield_ii.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WHIGFIELD SPECIAL EDITION",
+		"artist": "WHIGFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/whigfield_special.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "INSULT TO INJURY + LIVE NEW YORK 1986",
+		"artist": "WHIPLASH",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/insult_to_injury.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
