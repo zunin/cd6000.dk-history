@@ -504,14 +504,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NIDAROS",
-		"artist": "BJÖRN AFZELIUS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nidaros.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NÄRA DEJ",
 		"artist": "BJÖRN AFZELIUS",
 		"price": "10,00 kr.",
@@ -8040,14 +8032,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TEA WITH THE QUEEN",
-		"artist": "FREYA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tea_with_the_queen.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EN MUSIKALSK REJSE",
 		"artist": "LOUISE FRIBO",
 		"price": "10,00 kr.",
@@ -9516,14 +9500,6 @@
 		"artist": "THOMAS HELMIG",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/helmig_wanted.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ÅRENE GÅR, DE STØRSTE AF DE FØRSTE",
-		"artist": "THOMAS HELMIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/aarene_gaar.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15508,14 +15484,6 @@
 		"artist": "ANNE DORTE MICHELSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hvis_du_vidste.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MELLEM DIG OG MIG",
-		"artist": "ANNE DORTE MICHELSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mellem_dig_og_mig.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25648,22 +25616,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BE HERE",
-		"artist": "KEITH URBAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/be_here.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GOLDEN ROAD",
-		"artist": "KEITH URBAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/golden_road.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "1984",
 		"artist": "VAN HALEN",
 		"price": "15,00 kr.",
@@ -25684,14 +25636,6 @@
 		"artist": "VAN HALEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/right_here_right_now.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ASTRAL WEEKS",
-		"artist": "VAN MORRISON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/astral_weeks.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27684,14 +27628,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/am01.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ABSOLUTE MUSIC 2",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/am02.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
