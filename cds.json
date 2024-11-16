@@ -5112,14 +5112,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE BEST OF",
-		"artist": "CULTURE CLUB",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/culture_club_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "AT WORST.. THE BEST OF",
 		"artist": "BOY GEORGE and CULTURE CLUB",
 		"price": "10,00 kr.",
@@ -5844,14 +5836,6 @@
 		"artist": "CELINE DION",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/lets_talk_about_love.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BROTHERS IN ARMS",
-		"artist": "DIRE STRAITS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/brothers_in_arms_alm.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11028,14 +11012,6 @@
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/elton_the_one.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF (2CD)",
-		"artist": "ELTON JOHN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elton_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20784,14 +20760,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WHITE TRASH / RED FRONT",
-		"artist": "THE SANDMEN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/white_trashw.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ANALOG",
 		"artist": "SOLVEIG SANDNES",
 		"price": "10,00 kr.",
@@ -24204,14 +24172,6 @@
 		"artist": "T-REX",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/t-rex_best_vol1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "T-REX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/t-rex_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
