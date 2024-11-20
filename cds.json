@@ -2072,22 +2072,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NEW WORLD DISORDER",
-		"artist": "BIOHAZARD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/new_world_disorder.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "NO HOLDS BARRED",
-		"artist": "BIOHAZARD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/no_holds_barred.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STATE OF THE WORLD ADDRESS",
 		"artist": "BIOHAZARD",
 		"price": "10,00 kr.",
@@ -8796,14 +8780,6 @@
 		"artist": "GREEN DAY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dookie.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "INSOMNIAC",
-		"artist": "GREEN DAY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/insomniac.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17360,14 +17336,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SPLINTER",
-		"artist": "THE OFFSPRING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/offspring_splinter.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "YES",
 		"artist": "OH NO ONO",
 		"price": "10,00 kr.",
@@ -19028,14 +18996,6 @@
 		"artist": "RAMMSTEIN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/reise_reise.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RANCID",
-		"artist": "RANCID",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rancid.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22288,14 +22248,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "STOOSH",
-		"artist": "SKUNK ANANSIE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stoosh.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SKY 1",
 		"artist": "SKY",
 		"price": "10,00 kr.",
@@ -22540,6 +22492,14 @@
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/smokie_celebration.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FROM THE HEART",
+		"artist": "SMOKIE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/smokie_from_the_heart.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23100,6 +23060,14 @@
 		"artist": "STARS ON 45",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/stars_on_45_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ON THE OUTSIDE",
+		"artist": "STARSAILOR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/on_the_outside.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24152,6 +24120,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DE ALLERSTØRSTE SANGE (3CD)",
+		"artist": "LIS SØRENSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/de_allerstoerste_sange.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BRIDGE OF SPIES",
 		"artist": "T'PAU",
 		"price": "10,00 kr.",
@@ -24372,6 +24348,14 @@
 		"artist": "THE THE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hanky_panky.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DUSK (lille fold på bagcover)",
+		"artist": "THE THE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/dusk.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25872,6 +25856,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VELVET UNDERGROUND & NICO (remastered)",
+		"artist": "THE VELVET UNDERGROUND & NICO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_velvet_underground_and_nico.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "UNDSKYLD",
 		"artist": "VENTER PÅ FAR",
 		"price": "10,00 kr.",
@@ -26928,6 +26920,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIONESS: HIDDEN TREASURES",
+		"artist": "AMY WINEHOUSE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/lioness_hidden_treasures.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "JOHNNY WINTER",
 		"artist": "JOHNNY WINTER",
 		"price": "10,00 kr.",
@@ -27008,6 +27008,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FAMILY SPIRIT",
+		"artist": "WOMACK & WOMACK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/family_spirit.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LOVE SONGS 20 CLASSIC HITS",
+		"artist": "STEVIE WONDER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/stevie_wonder_love_songs.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "IN SQUARE CIRCLE (digital recording)",
 		"artist": "STEVIE WONDER",
 		"price": "10,00 kr.",
@@ -27064,10 +27080,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "COEXIST",
+		"artist": "THE XX",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/coexist.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE XX",
+		"artist": "THE XX",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_xx.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OFF THE DEEP END",
 		"artist": "\"WEIRD\" AL YANKOVIC",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/off_the_deep_end.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "THE YARDBIRDS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/yardbirds_greatest_pulsar.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27100,6 +27140,14 @@
 		"artist": "YAZZ",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/yazz_wanted.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHOW YOUR BONES",
+		"artist": "YEAH YEAH YEAHS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/show_your_bones.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27180,6 +27228,14 @@
 		"artist": "NEIL YOUNG",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/after_the_goldrush.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS (org. master mixes)",
+		"artist": "NEIL YOUNG",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/neil_young_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27328,6 +27384,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIVE",
+		"artist": "FINN ZIEGLER'S HJØRNE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/finn_zieglers_hjoerne.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ZINDY",
 		"artist": "ZINDY (LAURSEN)",
 		"price": "10,00 kr.",
@@ -27384,6 +27448,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IST DAS ALLES? 13 HÖHEPUNKTE MIT DEN ÄRZTEN",
+		"artist": "DIE ÄRZTE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/ist_das_alles.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "JAZZ IST ANDERS (i 'pizzakasse')",
 		"artist": "DIE ÄRZTE",
 		"price": "20,00 kr.",
@@ -27404,6 +27476,14 @@
 		"artist": "ÖRENLYD",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/ind_under_himlen.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SÅ HOLD DOG KÆFT!",
+		"artist": "ØSTKYST HUSTLERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/saa_hold_dog_kaeft.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28032,6 +28112,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK Præsentation (2CD) 1963-96",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_pr2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK Smagsprøver",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -28116,6 +28204,38 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dm_i_dansk_rap_99.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 1 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 2 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 3 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO JUL (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_jul.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28352,6 +28472,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "JULEHITS",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/julehits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "KITCH HITS VOLUME 1",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -28372,6 +28500,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kitch_hits_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KITCH HITS 4 SPECIAL EDITION",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kitch_hits_4.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28632,22 +28768,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PUNK GENERATION : GOD SAVE THE QUEEN",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/punk_god_save.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PUNK GENERATION : MY WAY",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/punk_my_way.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "RED HOT",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -28732,6 +28852,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/sebastians_cyrano.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SEBASTIAN's PIPPI",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pippi.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28904,6 +29032,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE SPIRIT OF CHRISTMAS",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_spirit_of_christmas.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE SUPERSTARS COLLECTION VOL. 1",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29012,6 +29148,22 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/very_best_91-92.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE VERY BEST OF ROCK MUSIC 1971-75 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_very_best_of_rock_music_1971-75.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE VERY BEST OF ROCK MUSIC 1980-83 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_very_best_of_rock_music_1980-83.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29236,6 +29388,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/100_summer_hits_rids.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "200 PARTYHITS (9CD boks)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/200_partyhits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
