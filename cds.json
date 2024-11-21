@@ -7304,14 +7304,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DE 17 BEDSTE",
-		"artist": "MICHAEL FALCH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/de_17_bedste.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DET ANDET LAND",
 		"artist": "MICHAEL FALCH",
 		"price": "10,00 kr.",
@@ -12528,14 +12520,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "... KEEP SMILING",
-		"artist": "LAID BACK",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/keep_smiling.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "WHY IS EVERYBODY IN SUCH A HURRY!",
 		"artist": "LAID BACK",
 		"price": "30,00 kr.",
@@ -15284,14 +15268,6 @@
 		"artist": "METALLICA",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/st_anger_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "EGGS ARE FUNNY",
-		"artist": "MEW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/eggs_are_funny.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20056,14 +20032,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DIANA EXTENDED",
-		"artist": "DIANA ROSS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/diana_extended.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LOVE & LIFE THE VERY BEST OF",
 		"artist": "DIANA ROSS",
 		"price": "10,00 kr.",
@@ -22084,14 +22052,6 @@
 		"artist": "SIXPENCE NONE THE RICHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_fatherless.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BIG TIME",
-		"artist": "SKAGARACK",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/big_time.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24168,14 +24128,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ESSENTIAL",
-		"artist": "TALK TALK",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/talk_talk_essential.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TAME & MAFFAY",
 		"artist": "TAME & MAFFAY",
 		"price": "20,00 kr.",
@@ -25760,14 +25712,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BIG DREAMERS NEVER SLEEP",
-		"artist": "GINO VANELLI",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/big_dreamers_never_sleep.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "YOU KEEP ME HANGIN ON",
 		"artist": "VANILLA FUDGE",
 		"price": "10,00 kr.",
@@ -27076,22 +27020,6 @@
 		"artist": "KITTY WU",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/knives_and_daggers.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "COEXIST",
-		"artist": "THE XX",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/coexist.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE XX",
-		"artist": "THE XX",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_xx.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
