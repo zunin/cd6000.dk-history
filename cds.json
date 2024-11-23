@@ -400,14 +400,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PERMANENT VACATION",
-		"artist": "AEROSMITH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/permanent_vacation.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PUMP",
 		"artist": "AEROSMITH",
 		"price": "10,00 kr.",
@@ -1660,14 +1652,6 @@
 		"artist": "THE BEATLES",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/let_it_be.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LET IT BE.. NAKED",
-		"artist": "THE BEATLES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/let_it_be_naked.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4000,14 +3984,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE LONG BLACK VEIL",
-		"artist": "THE CHIEFTAINS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_long_black_veil.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HONEYBURST",
 		"artist": "TIM CHRISTENSEN",
 		"price": "10,00 kr.",
@@ -4888,14 +4864,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HITS",
-		"artist": "RANDY CRAWFORD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/crawford_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SECRET COMBINATION",
 		"artist": "RANDY CRAWFORD",
 		"price": "10,00 kr.",
@@ -5136,14 +5104,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "I SKOVEN SKULLE VÆRE GILDE",
-		"artist": "CÆSAR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_skoven_skulle.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EVERYTHING GLOWS",
 		"artist": "DAD",
 		"price": "10,00 kr.",
@@ -5164,14 +5124,6 @@
 		"artist": "DAD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/helpyourselfish.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MONSTER PHILOSOPHY",
-		"artist": "D.A.D.",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/monster_philosophy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5260,14 +5212,6 @@
 		"artist": "DALTON",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/dalton_var_her.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DYLANSK 12 BOB DYLAN SANGE PÅ DANSK",
-		"artist": "DANSKBOB",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dylansk.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6140,14 +6084,6 @@
 		"artist": "DONOVAN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/donovan_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "DONOVAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/donovan_greatest_double_play.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8008,14 +7944,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WHEN THE TIME IS RIGHT",
-		"artist": "PER CHRISTIAN FROST",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/when_the_time_is_right.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HEJ FREDDY",
 		"artist": "FREDDY FRÆK",
 		"price": "10,00 kr.",
@@ -9368,14 +9296,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "RIGHT TIME",
-		"artist": "ANETTE HEICK",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/heick_right_time.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "AUDITION BALLERINA",
 		"artist": "HEIDI (HERLØW)",
 		"price": "10,00 kr.",
@@ -9604,14 +9524,6 @@
 		"artist": "JOHN HIATT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/john_hiatt_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE HIGHWAYMEN (3CD SET)",
-		"artist": "THE HIGHWAYMEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_highwaymen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12880,14 +12792,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FOLLOW ME THE GREATEST HITS",
-		"artist": "AMANDA LEAR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/amanda_lear_follow_me.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE * COLLECTION",
 		"artist": "AMANDA LEAR",
 		"price": "10,00 kr.",
@@ -15220,14 +15124,6 @@
 		"artist": "FREDDY MERCURY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/freddy_mercury_album.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DESERTER'S SONGS",
-		"artist": "MERCURY REV",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/deserters_songs_bag.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19616,14 +19512,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "RIELATIN'",
-		"artist": "ALEX RIEL",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/rielatin.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIVE AT JIVE",
 		"artist": "ALEX RIEL/LUTZ BÜCHNER QUARTET",
 		"price": "15,00 kr.",
@@ -20715,14 +20603,6 @@
 		"albumTitle": "SUPERNATURAL",
 		"artist": "CARLOS SANTANA",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/shaman.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SUPERNATURAL",
-		"artist": "CARLOS SANTANA",
-		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/supernatural.htm",
 		"quality": "unknown",
 		"type": "Album"
@@ -21276,14 +21156,6 @@
 		"artist": "SEPULTURA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/chaos_ad.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ROOTS",
-		"artist": "SEPULTURA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/roots.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22624,14 +22496,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DE BEDSTE SOUVENIRS (2CD)",
-		"artist": "SOUVENIRS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/souvenirs_bedste.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SOUVE9RS",
 		"artist": "SOUVENIRS",
 		"price": "10,00 kr.",
@@ -22988,14 +22852,6 @@
 		"artist": "ALVIS STARDUST",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/stardust_greatest_and_latest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SHE HANGS BRIGHTLY",
-		"artist": "MAZZY STAR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/she_hangs_brightly.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23420,14 +23276,6 @@
 		"artist": "STING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_dream_of_the_blue_turtles.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF STING & THE POLICE",
-		"artist": "STING & THE POLICE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sting_and_the_police_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24392,26 +24240,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CRADLESONG",
-		"artist": "ROB THOMAS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cradlesong.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SO BE IT",
 		"artist": "REBEKKA THORNBECH",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/so_be_it.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RIDE 'TILL I DIE",
-		"artist": "GEORGE THOROGOOD & The Destroyers",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ride_till_i_die.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24668,14 +24500,6 @@
 		"artist": "TROELS TRIER",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/sange_til_rosa.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BAR RØV OG GUMMISKO (lettere bulet bagcover)",
-		"artist": "TROELS TRIER & REBEKKA BRÜHL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bar_roev.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26040,14 +25864,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "OUTLAW GENTLEMEN & SHADY LADIES",
-		"artist": "VOLLBEAT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/outlaw_gentlemen.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BEYOND HELL ABOVE HEAVEN (CD+DVD)",
 		"artist": "VOLBEAT",
 		"price": "30,00 kr.",
@@ -27140,14 +26956,6 @@
 		"artist": "NEIL YOUNG",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/after_the_goldrush.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREATEST HITS (org. master mixes)",
-		"artist": "NEIL YOUNG",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/neil_young_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
