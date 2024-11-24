@@ -15616,18 +15616,18 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "JOHN MOGENSEN (6CD)",
-		"artist": "JOHN MOGENSEN",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/john_mogensen_boks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STOP EN HALV",
 		"artist": "JOHN MOGENSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/stop_en_halv.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "JOHN MOGENSEN (6CD)",
+		"artist": "JOHN MOGENSEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/john_mogensen_boks.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
