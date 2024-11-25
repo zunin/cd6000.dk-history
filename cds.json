@@ -1328,10 +1328,58 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "I EN LILLE BÅD DER GYNGER",
+		"artist": "BAMSE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/i_en_lille_baad_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIGE NU!",
+		"artist": "BAMSE",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/lige_nu.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SOLEN SKINNER",
+		"artist": "BAMSE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/solen_skinner.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TÆT PÅ (CD/DVD)",
 		"artist": "FLEMMING BAMSE JØRGENSEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/bamse_taet_paa.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VORES DAMER",
+		"artist": "BAMSE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/vores_damer.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CAN'T HELP FALLING IN LOVE",
+		"artist": "BAMSE & BAMSES VENNER",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/bamse_cant_help.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "YESTERDAY",
+		"artist": "BAMSE & BAMSES VENNER",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/bamse_yesterday.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5128,26 +5176,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NO FUEL LEFT FOR THE PILGRIMS",
-		"artist": "DISNEYLAND AFTER DARK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/no_fuel_left_for_the_pilgrims.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PSYCHOPATICO (2CD)",
 		"artist": "D.A.D.",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/psychopatico.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RISKIN' IT ALL",
-		"artist": "D-A-D",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/riskin_it_all.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5164,14 +5196,6 @@
 		"artist": "D.A.D.",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/simpatico.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SOFT DOGS",
-		"artist": "DAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/soft_dogs.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
