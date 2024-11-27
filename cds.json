@@ -40,6 +40,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ARRIVAL - RING RING",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/arrival_ring_ring.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GOLD",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -64,10 +72,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE DANISH COLLECTION",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/abba_danish.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "The Definitive Collection",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/abba_definitive.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE HITS",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/abba_the_hits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -92,6 +116,14 @@
 		"artist": "ABBA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_music_still_goes_on.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WATERLOO",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/waterloo.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -152,6 +184,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DAG EFTER DAG (2CD) DIGTE AF CARL SCHARNBERG",
+		"artist": "PETER ABRAHAMSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/dag_efter_dag.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HJEMLÆNGSEL",
+		"artist": "PETER ABRAHAMSEN & BELL PEPPER BOYS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hjemlaengsel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FRIHED, RET OG TRO",
 		"artist": "PETER ABRAHAMSEN JANNIE LÆRKEDAHL & BELL PEPPER BOYS",
 		"price": "10,00 kr.",
@@ -164,6 +212,38 @@
 		"artist": "TROELS ABRAHAMSEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/blck.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FLICK OF THE SWITCH (tidl. ejernavn på frontcover)",
+		"artist": "AC/DC",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/flick_of_the_switch_10.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOR THOSE ABOUT TO ROCK (tidl. ejernavn på frontcover)",
+		"artist": "AC/DC",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_those_about_to_rock_10.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LET THERE BE ROCK (tidl. ejernavn på frontcover)",
+		"artist": "AC/DC",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/let_there_be_rock_10.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WHO MADE WHO (tidl. ejernavn på frontcover)",
+		"artist": "AC/DC",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/who_made_who_10.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -688,6 +768,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DE STØRSTE & DE MINDSTE (2CD)",
+		"artist": "ALBERTE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/de_stoerste_og_de_mindste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SWINGIN' THE BLUES",
+		"artist": "COUNT BASIE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/swingin_the_blues.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FROSTMORGEN",
 		"artist": "ALBERTE WINDING & BENJAMIN KOPPEL",
 		"price": "25,00 kr.",
@@ -736,6 +832,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TENEMENT SYMPHONY",
+		"artist": "MARC ALMOND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/tenement_symphony.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ALPHABEAT",
 		"artist": "ALPHABEAT",
 		"price": "10,00 kr.",
@@ -756,6 +860,14 @@
 		"artist": "ALPHABEAT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/this_is_alphabeat.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOREVER YOUNG",
+		"artist": "ALPHAVILLE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/alphaville_forever_young.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -912,6 +1024,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MUSIC IS TAKING OVER",
+		"artist": "ANNA DAVID",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/music_is_taking_over.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SKIBE UDEN SEJL DET BEDSTE AF DET BEDSTE",
 		"artist": "ANNE GRETE",
 		"price": "10,00 kr.",
@@ -976,6 +1096,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AQUARIUS",
+		"artist": "AQUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/aquarius.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MEGALOMANIA",
 		"artist": "AQUA",
 		"price": "40,00 kr.",
@@ -992,6 +1120,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HUMBUG",
+		"artist": "ARCTIC MONKEYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/humbug.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DON'T ASK",
 		"artist": "TINA ARENA",
 		"price": "10,00 kr.",
@@ -1000,10 +1136,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IN LUST WE TRUST",
+		"artist": "THE ARK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/in_lust_we_trust.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHAT'S INSIDE",
 		"artist": "JOAN ARMATRADING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/whats_inside.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MASSIVE LUXURY OVERDOSE",
+		"artist": "ARMY OF LOVERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/massive_luxury_overdose.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1112,6 +1264,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE SUPREME MACHINE",
+		"artist": "BAAL",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/the_supreme_machine.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SWINGTIME AGAIN",
 		"artist": "ALICE BABS",
 		"price": "10,00 kr.",
@@ -1156,6 +1316,14 @@
 		"artist": "BACK TO BACK",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/back_to_back_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "POPFICTION",
+		"artist": "BACK TO BACK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/popfiction.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1608,6 +1776,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PRECIOUS",
+		"artist": "ALAN BARTON",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/precious.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BASIC INJECTION",
 		"artist": "BASIC ELEMENT",
 		"price": "10,00 kr.",
@@ -1620,6 +1796,22 @@
 		"artist": "COUNT BASIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/swingin_the_blues.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE PERFORMANCE",
+		"artist": "DAME SHIRLEY BASSEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_performance.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE GREATEST HITS",
+		"artist": "SHIRLEY BASSEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shirley_bassey_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2844,6 +3036,14 @@
 		"artist": "BOY GEORGE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boy_george_everything.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "EVERYBODY ELSE",
+		"artist": "AXEL BOYS QUARTET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/everybody_else.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27304,6 +27504,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "10CC",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/10cc_the_very_best_of.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ALLE BØRNENE",
 		"artist": "2 x KAJ",
 		"price": "25,00 kr.",
@@ -27396,14 +27604,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/absolute_christmas_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ABSOLUTE DISCO (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/absolute_disco.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27600,14 +27800,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ABSOLUTE SUMMERHITS 2012 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/absolute_summerhits_2012.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ACOUSTIC LOVE SONGS (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -27652,14 +27844,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/alle_tiders_danske_hits_1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ALLETIDERS FOR FULD JUL (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/alletiders_for_fuld_jul.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28628,14 +28812,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/sommer_pop.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SOMMERHITS TOP 100 (4CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sommerhits_top_100.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
