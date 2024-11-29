@@ -40,14 +40,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ARRIVAL - RING RING",
-		"artist": "ABBA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/arrival_ring_ring.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -1096,10 +1088,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AQUARIUM",
+		"artist": "AQUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/aquarium.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AQUARIUS",
 		"artist": "AQUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/aquarius.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AQUARIUS (med autografer fra alle 4)",
+		"artist": "AQUA",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/aquarius_autograf.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
