@@ -32,6 +32,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "EAST OF THE SUN, WEST OF THE MOON",
+		"artist": "A-HA",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/east_of_the_sun.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MEMORIAL BEACH",
+		"artist": "A-HA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/memorial_beach.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "18 HITS",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -480,6 +496,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DONE WITH MIRRORS",
+		"artist": "AEROSMITH",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/done_with_mirrors.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AVANTI CD 1",
 		"artist": "BJÖRN AFZELIUS",
 		"price": "10,00 kr.",
@@ -872,6 +896,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FROM THE CHOIRGIRL HOTEL",
+		"artist": "TORI AMOS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/from_the_choirgirl_hotel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LITTLE EARTHQUAKES",
 		"artist": "TORI AMOS",
 		"price": "10,00 kr.",
@@ -1068,6 +1100,22 @@
 		"artist": "ANNE GRETE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/vinden_vender.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PENIKUFESIN",
+		"artist": "ANTHRAX",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/penikufesin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STATE OF EUPHORIA",
+		"artist": "ANTHRAX",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/state_of_euphoria.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7468,6 +7516,14 @@
 		"artist": "MARIANNE FAITHFULL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/a_collection_of_her_best_recordings.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DE 17 BEDSTE",
+		"artist": "MICHAEL FALCH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/de_17_bedste.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18288,14 +18344,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PLACEBO",
-		"artist": "PLACEBO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/placebo.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE DEFAMATION OF STRICKLAND BANKS",
 		"artist": "PLAN B",
 		"price": "10,00 kr.",
@@ -28792,14 +28840,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SEBASTIAN's PIPPI",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pippi.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SOFT ROCK (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -28956,14 +28996,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_sixties_decade_1967.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE SPIRIT OF CHRISTMAS",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_spirit_of_christmas.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
