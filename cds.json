@@ -688,22 +688,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "MOON SAFARI",
-		"artist": "AIT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/moon_safari.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "POCKET SYMPHONY",
-		"artist": "AIR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pocket_symphony.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GO AHEAD AND DO IT",
 		"artist": "AIRHEADS",
 		"price": "10,00 kr.",
@@ -1172,14 +1156,6 @@
 		"artist": "ARCADE FIRE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_suburbs.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HUMBUG",
-		"artist": "ARCTIC MONKEYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/humbug.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3780,14 +3756,6 @@
 		"artist": "MARIAH CAREY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/carey_music_box.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RAINBOW",
-		"artist": "MARIAH CAREY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/carey_rainbow.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6416,14 +6384,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LISTEN TO THE MUSIC THE VERY BEST OF",
-		"artist": "THE DOOBIE BROTHERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/listen_to_the_music.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "L.A. WOMAN",
 		"artist": "THE DOORS",
 		"price": "10,00 kr.",
@@ -7720,14 +7680,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CAMOUFLAGE",
-		"artist": "SØS FENGER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/camouflage.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NØGLEN TIL PARADIS (Søs synger Bent Fabricius Bjerre) (lille tidl. ejersignatur på frontcover)",
 		"artist": "SØS FENGER",
 		"price": "10,00 kr.",
@@ -7748,14 +7700,6 @@
 		"artist": "SØS FENGER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/soes.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "VINTERDAGE",
-		"artist": "SØS FENGER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/vinterdage.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8340,14 +8284,6 @@
 		"artist": "ERIC GADD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_right_way.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SÅDAN ER REGLERNE",
-		"artist": "DEN GALE POSE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/saadan_er_reglerne.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11840,14 +11776,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DU & JAG DÖDEN",
-		"artist": "KENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/du_og_jag_doeden.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HAGNESTA HILL",
 		"artist": "KENT",
 		"price": "10,00 kr.",
@@ -11872,26 +11800,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TILBAKA TIL SAMTIDEN",
-		"artist": "KENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tilbaka_til_samtiden.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "NIK KERSHAW",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/nik_kershaw_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "NIK KERSHAW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nik_kershaw_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12260,14 +12172,6 @@
 		"artist": "POUL KJØLLER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kjoeller_hits_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DEEP CUTS",
-		"artist": "THE KNIFE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/deep_cuts.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17440,14 +17344,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PHILHARMONICS (2CD)",
-		"artist": "AGNES OBEL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/philharmonics2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FIREBALL ZONE",
 		"artist": "RIC OCASEK",
 		"price": "20,00 kr.",
@@ -18424,14 +18320,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DUMMY",
-		"artist": "PORTISHEAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dummy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DANIEL POWTER",
 		"artist": "DANIEL POWTER",
 		"price": "10,00 kr.",
@@ -19096,14 +18984,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "RAGE AGAINST THE MACHINE",
-		"artist": "RAGE AGAINST THE MACHINE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rage_against_the_machine.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NICK OF TIME",
 		"artist": "BONNIE RAITT",
 		"price": "10,00 kr.",
@@ -19132,22 +19012,6 @@
 		"artist": "RAMMSTEIN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/liebe_ist_fuer_alle_da_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LIEBE IST FÜR ALLE DA (2CD)",
-		"artist": "RAMMSTEIN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/liebe_ist_fuer_alle_da_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "REISE REISE",
-		"artist": "RAMMSTEIN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/reise_reise.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19280,34 +19144,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LUST LUST LUST (digipack) (lille afrivning på bagcover)",
-		"artist": "THE RAVEONETTES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/lust_lust_lust.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PRETTY IN BLACK",
 		"artist": "THE RAVEONETTES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/pretty_in_black.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RAVEN IN THE GRAVE",
-		"artist": "THE RAVEONETTES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/raven_in_the_grave.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "WHIP IT ON",
-		"artist": "THE RAVEONETTES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/whip_it_on.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20572,14 +20412,6 @@
 		"artist": "RÖYKSOPP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/junior.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DIAMOND LIFE",
-		"artist": "SADE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/diamond_life.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25128,14 +24960,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DET GODE LIV",
-		"artist": "TV-2",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/det_gode_liv.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FANTASTISKE TOYOTA",
 		"artist": "TV-2",
 		"price": "20,00 kr.",
@@ -26376,14 +26200,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GREATEST HITS 1979-1990",
-		"artist": "DIONNE WARWICK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/warwick_greatest_1979.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE ESSENTIAL COLLETION (2CD)",
 		"artist": "DIONNE WARWICK",
 		"price": "10,00 kr.",
@@ -27056,14 +26872,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NUMBER ONES",
-		"artist": "STEVIE WONDER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wonder_number_ones.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SONG REVIEW A GREATEST HITS COLLECTION",
 		"artist": "STEVIE WONDER",
 		"price": "10,00 kr.",
@@ -27100,14 +26908,6 @@
 		"artist": "KITTY WU",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/knives_and_daggers.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "OFF THE DEEP END",
-		"artist": "\"WEIRD\" AL YANKOVIC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/off_the_deep_end.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
