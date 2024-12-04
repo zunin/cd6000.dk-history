@@ -40,14 +40,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "MEMORIAL BEACH",
-		"artist": "A-HA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/memorial_beach.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "18 HITS",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -492,14 +484,6 @@
 		"artist": "AEROSMITH",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/pump.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DONE WITH MIRRORS",
-		"artist": "AEROSMITH",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/done_with_mirrors.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1096,14 +1080,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "STATE OF EUPHORIA",
-		"artist": "ANTHRAX",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/state_of_euphoria.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "KIM APPLEBY",
 		"artist": "KIM APPLEBY",
 		"price": "10,00 kr.",
@@ -1464,6 +1440,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BAMSES VENNER",
+		"artist": "BAMSES VENNER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bamses_venner_pool.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BE MY GUEST",
 		"artist": "FL. BAMSE JØRGENSEN",
 		"price": "10,00 kr.",
@@ -1528,6 +1512,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HAR DU LYST...",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/har_du_lyst.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "I EN LILLE BÅD DER GYNGER",
 		"artist": "BAMSE",
 		"price": "15,00 kr.",
@@ -1544,10 +1536,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ROCKCREME",
+		"artist": "BAMSES VENNER",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/rockcreme.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SOLEN SKINNER",
 		"artist": "BAMSE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/solen_skinner.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SPOR 8",
+		"artist": "BAMSES VENNER",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/spor_8.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SUTSKO",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sutsko.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SÅDAN SET",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/saadan_set.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1604,6 +1628,14 @@
 		"artist": "BAMSES VENNER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/b_og_v.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BAMSES VENNER",
+		"artist": "BAMSES VENNER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bamses_venner_pool.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1680,6 +1712,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HAR DU LYST...",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/har_du_lyst.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "KOMPLET 1973-1981 (GULDBOKSEN)(10CD)",
 		"artist": "BAMSES VENNER",
 		"price": "125,00 kr.",
@@ -1704,10 +1744,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SPOR 8",
+		"artist": "BAMSES VENNER",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/spor_8.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SUTSKO",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sutsko.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "KOMPLET 1982-1994 (SØLVBOKSEN)(9CD+DVD)",
 		"artist": "BAMSES VENNER",
 		"price": "125,00 kr.",
 		"origin": "https://cd6000.dk/bamse_soelvboks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SÅDAN SET",
+		"artist": "BAMSES VENNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/saadan_set.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1748,6 +1812,14 @@
 		"artist": "BAND OF HORSES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/cease_to_begin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MIRAGE ROCK",
+		"artist": "BAND OF HORSES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/mirage_rock.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1848,6 +1920,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FOREST WALK",
+		"artist": "PETER BASTIAN & STIG MØLLER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/forest_walk.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AROUND THE NEXT DREAM",
 		"artist": "BBM",
 		"price": "10,00 kr.",
@@ -1876,6 +1956,14 @@
 		"artist": "THE BEATLES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/beatles_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "1962-1966 (unofficial ?)",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/1962-1966_lancer.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1920,6 +2008,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HEAR THE BEATLES TELL ALL INTERVIEWS WITH THE BEATLES FROM 1964",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hear_the_beatles_tell_all.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HELP!",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/help.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LET IT BE",
 		"artist": "THE BEATLES",
 		"price": "20,00 kr.",
@@ -1928,10 +2032,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LOVE",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_beatles_love.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PLEASE PLEASE ME",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/please_please_me.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SGT. PEPPER'S LONELY HEARTS CLUB BAND",
 		"artist": "THE BEATLES",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/sgt_pepper.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE EARLY TAPES OF THE BEATLES with TONY SHERIDAN..",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/beatles_early_tapes.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1992,10 +2120,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MIDNITE VULTURES",
+		"artist": "BECK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/midnite_vultures.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ODELAY",
 		"artist": "BECK!",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/odelay.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SEA CHANGE (lille fold på bagcover)",
+		"artist": "BECK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sea_change.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2104,6 +2248,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "JEG ER SOM JEG ER",
+		"artist": "PETER BELLI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/jeg_er_som_jeg_er.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NY DAG PÅ VEJ",
 		"artist": "PETER BELLI",
 		"price": "10,00 kr.",
@@ -2152,6 +2304,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "YEAH",
+		"artist": "PETER BELLI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/yeah.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HELT IGENNEM RESPEKTABEL Peter Belli 1959-1999 (2CD)",
 		"artist": "PETER BELLI",
 		"price": "20,00 kr.",
@@ -2164,6 +2324,14 @@
 		"artist": "PETER BELLI",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/ulven_peter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BUT BEAUTIFUL",
+		"artist": "MARIE BERGMAN & THE DANISH RADIO BIG BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/but_beautiful.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2208,10 +2376,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ONLY REVOLUTIONS",
+		"artist": "BIFFY CLYRO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/only_revolutions.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BIFROST'S BEDSTE",
 		"artist": "BIFROST",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/bifrosts_bedste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HJERTE TIL SALG (2CD)",
+		"artist": "BIFROST",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/hjerte_til_salg.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2304,6 +2488,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MIDNIGHT HOUR (2CD+1DVD) 2005",
+		"artist": "BIG FAT SNAKE UNIVERSAL BESTIL NR. 24680",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/midnight_hour_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE BOX (10CD) 2005",
 		"artist": "BIG FAT SNAKE CMC BESTIL NR. 108a",
 		"price": "10,00 kr.",
@@ -2348,6 +2540,14 @@
 		"artist": "MICHELLE BIRKBALLE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/4_track_ep.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KRÆVER EGENTLIG IKKE MEGET",
+		"artist": "MICHELLE BIRKBALLE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/kraever_egentlig.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2408,6 +2608,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VESPERTINE",
+		"artist": "BJÖRK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/vespertine.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VOLTA",
 		"artist": "BJÖRK",
 		"price": "10,00 kr.",
@@ -2420,6 +2628,14 @@
 		"artist": "BJØRN & OKAY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/bjoern_okay_stoerste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIONS",
+		"artist": "THE BLACK CROWES",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/lions.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2452,6 +2668,14 @@
 		"artist": "MARY BLACK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/mary_black_collected.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE SABBATH COLLECTION",
+		"artist": "BLACK SABBATH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/black_sabbath_collection.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2568,6 +2792,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PARALLEL LINES",
+		"artist": "BLONDIE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/parallel_lines.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "BLONDIE",
 		"price": "10,00 kr.",
@@ -2668,6 +2900,14 @@
 		"artist": "BLUR",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/blur.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE BEST OF BLUR",
+		"artist": "BLUR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/blur_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2948,6 +3188,14 @@
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boney_m_gold.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HAPPY CHRISTMAS",
+		"artist": "BONEY M",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/boney_m_happy_christmas.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11608,14 +11856,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CRUZENTIAL",
-		"artist": "KASHMIR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cruzential.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE GOOD LIFE",
 		"artist": "KASHMIR",
 		"price": "10,00 kr.",
@@ -12348,14 +12588,6 @@
 		"artist": "NIKOLAJ KOPPEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/koppel_short_stories.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "KORN",
-		"artist": "KORN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/korn.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15324,14 +15556,6 @@
 		"artist": "METALLICA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/reload.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "S&M (2CD)",
-		"artist": "METALLICA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/s_and_m.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19264,14 +19488,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CALIFORNICATION",
-		"artist": "RED HOT CHILI PEPPERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/californication.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "RED HOT CHILI PEPPERS",
 		"price": "10,00 kr.",
@@ -19284,14 +19500,6 @@
 		"artist": "RED HOT CHILI PEPPERS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/im_with_you.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STADIUM ARCADIUM (2CD)",
-		"artist": "RED HOT CHILI PEPPERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stadium_arcadium.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
