@@ -2632,14 +2632,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LIONS",
-		"artist": "THE BLACK CROWES",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/lions.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE END",
 		"artist": "THE BLACK EYED PEAS",
 		"price": "10,00 kr.",
@@ -6392,6 +6384,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "OVER ADSKILLIGE GRÆNSER",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/over_adskillige_graenser.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SKYND DIG LANGSOMT",
 		"artist": "POUL DISSING, BENNY ANDERSEN & JENS JEFSEN",
 		"price": "10,00 kr.",
@@ -6428,14 +6428,6 @@
 		"artist": "DISSING, ANDERSEN & Radiounderholdningsorkestret",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hilsen_til_foraarssolen.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "OVER ADSKILLIGE GRÆNSER",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/over_adskillige_graenser.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11680,26 +11672,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SOLGT TIL STANGLAKRIDS",
-		"artist": "C.V. JØRGENSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/solgt_til_stanglakrids.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STORBYENS SMÅ OASER",
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/storbyens_smaa_oaser.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "VILD I VARMEN",
-		"artist": "C.V. JØRGENSEN",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/vild_i_varmen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
