@@ -5272,30 +5272,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HARD CANDY",
-		"artist": "COUNTING CROWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hard_candy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RECOVERING THE SATELLITES",
-		"artist": "COUNTING CROWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/recovering_the_satellites.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THIS DESERT LIFE",
-		"artist": "COUNTING CROWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/this_desert_life.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE BEST OF",
 		"artist": "COWBOY JUNKIES",
 		"price": "15,00 kr.",
@@ -5660,6 +5636,14 @@
 		"artist": "D.A.D.",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/simpatico.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SOFT DOGS",
+		"artist": "DAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/soft_dogs.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6936,14 +6920,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "JOHN WESLEY HARDING",
-		"artist": "BOB DYLAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/john_wesley_harding.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NASHVILLE SKYLINE",
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
@@ -7092,14 +7068,6 @@
 		"artist": "LISA EKDAHL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/bortom_det_blaa.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GIVE ME THAT SLOW KNOWING SMILE",
-		"artist": "LISA EKDAHL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/give_me_that_slow_knowing_smile.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7708,14 +7676,6 @@
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_real_thing.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "A COLLECTION OF HER BEST RECORDINGS",
-		"artist": "MARIANNE FAITHFULL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_collection_of_her_best_recordings.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12192,22 +12152,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PART 1: LOLA VERSUS POWERMAN AND THE MONEYGROUND",
-		"artist": "THE KINKS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/lola_versus.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BEST OF THE BALLADS",
-		"artist": "THE KINKS feat RAY DAVIES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kinks_best_ballads.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SKU' DU SPØRG' FRA NO'EN",
 		"artist": "KIRSTEN & SØREN",
 		"price": "10,00 kr.",
@@ -14464,14 +14408,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DEN BLINDE LOTTERISÆLGER SIDDER GANSKE STILLE PÅ ET FLERFARVET LYSSTOFRØR OG KIGGER OPMÆRKSOMT UD PÅ HAVET",
-		"artist": "JOHNNY MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/den_blinde_lotterisaelger.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HALGAL HALBAL (2CD) 1992",
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
@@ -15908,14 +15844,6 @@
 		"artist": "MISS B. HAVEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/on_honeymoon_2012.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ALKYMI",
-		"artist": "LAURA MO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alkymi.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21424,14 +21352,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AMERICAN INDUSTRIAL BALLADS.. AND MORE (2CD)",
-		"artist": "PETE SEEGER",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/american_industrial.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "THE SEEKERS",
 		"price": "15,00 kr.",
@@ -22612,14 +22532,6 @@
 		"artist": "THE SMITHS",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/louder_than_bombs_bag.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "CELEBRATION",
-		"artist": "SMOKIE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/smokie_celebration.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23992,14 +23904,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NY PASSAGER",
-		"artist": "SIGNE SVENDSEN",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/ny_passager.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "OLDIES BUT GREATEST 1",
 		"artist": "SVENNE & LOTTA",
 		"price": "10,00 kr.",
@@ -24756,14 +24660,6 @@
 		"artist": "THE TRAVELING WILBURYS RHINO BESTIL NR. 22379",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/traveling_wilburys.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "12 MEMORIES (unofficial)",
-		"artist": "TRAVIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/travis_12_memories_19.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26272,14 +26168,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "I KNOW YOU'RE MARRIED, BUT I'VE GOT FEELINGS TOO",
-		"artist": "MARTHA WAINWRIGHT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_know_youre_married.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "WANT ONE",
 		"artist": "RUFUS WAINWRIGHT",
 		"price": "15,00 kr.",
@@ -27652,6 +27540,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/am01.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 2",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am02.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
