@@ -2328,14 +2328,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BUT BEAUTIFUL",
-		"artist": "MARIE BERGMAN & THE DANISH RADIO BIG BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/but_beautiful.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "4",
 		"artist": "BEYONCÉ",
 		"price": "10,00 kr.",
@@ -6968,26 +6960,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HELL FREEZES OVER",
-		"artist": "EAGLES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hell_freezes_over.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HOTEL CALIFORNIA",
 		"artist": "EAGLES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hotel_california.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HOTEL CALIFORNIA (digitally remastered)",
-		"artist": "EAGLES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hotel_california_remastered.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16984,22 +16960,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE ETERNAL TRAVELLER",
-		"artist": "NIELS-HENNING ØRSTED PEDERSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_eternal_traveller.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THIS IS ALL I ASK",
-		"artist": "NHØP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/this_is_all_i_ask.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ÅRGANG 79",
 		"artist": "NIARN",
 		"price": "10,00 kr.",
@@ -18208,22 +18168,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A NIGHT IN VIENNA",
-		"artist": "OSCAR PETERSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_night_in_vienna.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "NIGHT TRAIN",
-		"artist": "THE OSCAR PETERSON TRIO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/night_train.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "TOM PETTY & THE HEARTBREAKERS",
 		"price": "10,00 kr.",
@@ -18676,14 +18620,6 @@
 		"artist": "PRIVATE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/my_secret_lover2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE WELL'S ON FIRE",
-		"artist": "PROCOL HARUM",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/the_wells_on_fire.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
