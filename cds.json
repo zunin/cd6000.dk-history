@@ -3192,6 +3192,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RIVERS OF BABYLON PRESENTING: BONEY M",
+		"artist": "BONEY M",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rivers_of_babylon.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE * COLLECTION",
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
@@ -3204,6 +3212,14 @@
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boney_m_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE MOST BEAUTIFUL CHRISTMAS SONGS OF THE WORLD",
+		"artist": "BONEY M",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/boney_m_most_beautiful.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3244,6 +3260,14 @@
 		"artist": "THE BOOTLES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_bootles_live.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SANTANA",
+		"artist": "BORDERLINE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/borderline_santana.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3560,6 +3584,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BRYGMANN'S BEDSTE SANGE",
+		"artist": "MARTIN BRYGMANN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/brygmanns_bedste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "JEG FANDT EN SANG PÅ VEJEN",
 		"artist": "KAJA BRÜEL",
 		"price": "10,00 kr.",
@@ -3636,6 +3668,14 @@
 		"artist": "JEFF BUCKLEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/grace.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SO REAL: SONGS FROM JEFF BUCKLEY",
+		"artist": "JEFF BUCKLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/so_real_songs.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3744,6 +3784,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BURHAN G",
+		"artist": "BURHAN G",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/burhan_g.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DIN FOR EVIGT",
+		"artist": "BURHAN G",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/din_for_evigt.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PAS PÅ PIGERNE",
+		"artist": "BURHAN G",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/pas_paa_pigerne.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HJERTET SER",
 		"artist": "KAREN BUSK",
 		"price": "10,00 kr.",
@@ -3752,10 +3816,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AERIAL (2CD)",
+		"artist": "KATE BUSH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/aerial.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE KICK INSIDE",
 		"artist": "KATE BUSH",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/the_kick_inside.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE RED SHOES",
+		"artist": "KATE BUSH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_red_shoes.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3824,10 +3904,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PLAY THE SONGS OF BOB DYLAN",
+		"artist": "THE BYRDS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/byrds_play_dylan.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TRIP THRU HELL",
 		"artist": "C.A. QUINTET",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/trip_thru_hell.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "COMFORT EAGLE",
+		"artist": "CAKE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/comfort_eagle.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3840,10 +3936,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PRESSURE CHIEF",
+		"artist": "CAKE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pressure_chief.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PROLONGING THE MAGIC",
 		"artist": "CAKE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/prolonging_the_magic.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CLASSIC",
+		"artist": "J.J. CALE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/jj_cale_classic.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4072,6 +4184,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MIT VIEL VIEL HERZ",
+		"artist": "HOWARD CARPENDALE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/mit_viel_viel_herz.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "COME ON COME ON",
 		"artist": "MARY CHAPIN CARPENTER",
 		"price": "10,00 kr.",
@@ -4168,6 +4288,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BACK IN MY LIFE AGAIN (chinese unofficial release)",
+		"artist": "CARPENTERS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/back_in_my_life_again.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE DEFINITIVE COLLECTION",
 		"artist": "MARTIN CARTHY",
 		"price": "10,00 kr.",
@@ -4192,10 +4320,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "COUNTRY CLASSICS (3CD)",
+		"artist": "JOHNNY CASH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cash_country_classics.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ITCHY FEET 20 FOOT TAPPIN' GREATS",
 		"artist": "JOHNNY CASH",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/johnny_cach_itchy_feet.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MAN IN BLACK (2CD)",
+		"artist": "JOHNNY CASH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/man_in_black.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4236,6 +4380,14 @@
 		"artist": "JOHNNY CASH",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/johnny_cash_greatest_3_ny.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STORYTELLERS",
+		"artist": "JOHNNY CASH & WILLIE NELSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cash_nelson_storytellers.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4488,6 +4640,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RHINE GOLD",
+		"artist": "CHOIR OF YOUNG BELIEVERS",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/rhine_gold.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HONEYBURST",
 		"artist": "TIM CHRISTENSEN",
 		"price": "10,00 kr.",
@@ -4508,6 +4668,14 @@
 		"artist": "TIM CHRISTENSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/superior.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE AT ABBEY ROAD STUDIOS 2004 (2CD)",
+		"artist": "TIM CHRISTENSEN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/tim_christensen_abbey.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4552,10 +4720,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TOLD YOU SO",
+		"artist": "CHRISTOPHER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/told_you_so.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AS THE ROOTS UNDO",
 		"artist": "CIRCLE TAKES THE SQUARE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/as_the_roots_undo.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MAGIC & MADNESS",
+		"artist": "CIRCUS OF POWER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/magic_and_madness.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4584,6 +4768,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SIRIUS",
+		"artist": "CLANNAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sirius.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE BEST OF",
+		"artist": "ERIC CLAPTON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/clapton_best_of.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CHRONICLES THE BEST OF",
 		"artist": "ERIC CLAPTON",
 		"price": "10,00 kr.",
@@ -4596,6 +4796,14 @@
 		"artist": "ERIC CLAPTON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/clapton_complete.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ERIC CLAPTON & THE YARDBIRDS",
+		"artist": "ERIC CLAPTON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/eric_clapton_and_the_yardbirds.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4704,10 +4912,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FROM NOW ON",
+		"artist": "PETULA CLARK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/from_now_on.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "PETULA CLARK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/petula_clark_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ALL I EVER WANTED",
+		"artist": "KELLY CLARKSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/all_i_ever_wanted.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -4832,6 +5056,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "JOE COCKER (digitally remastered)",
+		"artist": "JOE COCKER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/joe_cocker_bell_records.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LIVE",
 		"artist": "JOE COCKER",
 		"price": "10,00 kr.",
@@ -4912,6 +5144,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "OLD IDEAS (NY i folie)",
+		"artist": "LEONARD COHEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/old_ideas.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SO LONG MARIANNE",
+		"artist": "LEONARD COHEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/so_long_marianne_columbia.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TEN NEW SONGS",
 		"artist": "LEONARD COHEN",
 		"price": "10,00 kr.",
@@ -4936,6 +5184,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SONGS FROM THE ROAD",
+		"artist": "LEONARD COHEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/songs_from_the_road.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE ESSENTIAL (2CD)",
 		"artist": "LEONARD COHEN",
 		"price": "20,00 kr.",
@@ -4948,6 +5204,14 @@
 		"artist": "COLDPLAY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/a_rush_of_blood_to_the_head.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PARACHUTES",
+		"artist": "COLDPLAY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/parachutes.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5036,6 +5300,14 @@
 		"artist": "JUDY COLLINS",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/judy_collins_times.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "12'ERS",
+		"artist": "PHIL COLLINS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/collins_12ers.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5260,6 +5532,14 @@
 		"artist": "COUNTING CROWS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/films_about_ghosts.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "COVERDALE PAGE",
+		"artist": "COVERDALE / PAGE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/coverdale_page.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27652,6 +27932,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/am26.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 27",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am27.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
