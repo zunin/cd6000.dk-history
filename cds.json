@@ -2648,14 +2648,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE SABBATH COLLECTION",
-		"artist": "BLACK SABBATH",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/black_sabbath_collection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALL SOULS ALIVE",
 		"artist": "THE BLACKEYED SUSANS",
 		"price": "10,00 kr.",
@@ -4372,14 +4364,6 @@
 		"artist": "JOHNNY CASH",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/johnny_cash_greatest_3_ny.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STORYTELLERS",
-		"artist": "JOHNNY CASH & WILLIE NELSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cash_nelson_storytellers.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23140,14 +23124,6 @@
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/18_tracks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BORN IN THE USA",
-		"artist": "BRUCE SPRINGSTEEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/born_in_the_usa.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
