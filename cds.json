@@ -232,14 +232,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LET THERE BE ROCK (tidl. ejernavn på frontcover)",
-		"artist": "AC/DC",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/let_there_be_rock_10.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "WHO MADE WHO (tidl. ejernavn på frontcover)",
 		"artist": "AC/DC",
 		"price": "10,00 kr.",
@@ -256,34 +248,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BLACK ICE",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/black_ice.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FLICK OF THE SWITCH",
 		"artist": "AC/DC",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/flick_of_the_switch.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FOR THOSE ABOUT TO ROCK",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/for_those_about_to_rock.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LET THERE BE ROCK",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/let_there_be_rock_cd.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1108,14 +1076,6 @@
 		"artist": "AQUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/aquarius.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "AQUARIUS (med autografer fra alle 4)",
-		"artist": "AQUA",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/aquarius_autograf.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3160,14 +3120,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HAPPY CHRISTMAS",
-		"artist": "BONEY M",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/boney_m_happy_christmas.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "MORE GOLD 20 SUPER HITS VOL. II",
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
@@ -3196,14 +3148,6 @@
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boney_m_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE MOST BEAUTIFUL CHRISTMAS SONGS OF THE WORLD",
-		"artist": "BONEY M",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/boney_m_most_beautiful.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5508,14 +5452,6 @@
 		"artist": "COUNTING CROWS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/films_about_ghosts.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "COVERDALE PAGE",
-		"artist": "COVERDALE / PAGE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/coverdale_page.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22444,14 +22380,6 @@
 		"artist": "SKO / TORP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hey_you.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ON A LONG LONELY NIGHT",
-		"artist": "SKO & TORP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/on_a_long_lonely_night.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
