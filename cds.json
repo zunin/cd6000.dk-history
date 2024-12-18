@@ -5448,6 +5448,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MIGHTY LIKE A ROSE",
+		"artist": "ELVIS COSTELLO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/mighty_like_a_rose.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AUGUST AND EVERYTHING AFTER",
 		"artist": "COUNTING CROWS",
 		"price": "10,00 kr.",
@@ -5744,6 +5752,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "CULTURE CLUB",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/culture_club_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "AT WORST.. THE BEST OF",
 		"artist": "BOY GEORGE and CULTURE CLUB",
 		"price": "10,00 kr.",
@@ -5780,6 +5796,14 @@
 		"artist": "CUT n' MOVE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/peace_love_&_harmony.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE REAL CÆSAR HITS 15 FRÆKKE",
+		"artist": "CÆSAR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_real_caesar_hits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6016,6 +6040,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MILES IN BERLIN",
+		"artist": "MILES DAVIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/miles_in_berlin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PORGY AND BESS",
+		"artist": "MILES DAVIS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/porgy_and_bess.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OF THE HEART, OF THE SOUL AND THE CROSS THE UTOPIAN EXPERIENCE",
 		"artist": "P.M. DAWN",
 		"price": "10,00 kr.",
@@ -6028,6 +6068,14 @@
 		"artist": "P.M. DAWN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_bliss_album.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TELL IT YO MY HEART",
+		"artist": "TAYLOR DANE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/tell_it_to_my_heart.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6056,10 +6104,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DE ENESTE TO",
+		"artist": "DE ENESTE TO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/de_eneste_to.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TV ON THE RADIO",
+		"artist": "DEAR SCIENCE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/tv_on_the_radio.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DEATH VALLEY SLEEPERS",
+		"artist": "DEATH VALLEY SLEEPERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/death_valley_sleepers.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HOME",
 		"artist": "DEEP BLUE SOMETHING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/deep_blue_something_home.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IN ROCK",
+		"artist": "DEEP PURPLE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/deep_purple_in_rock.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6092,6 +6172,14 @@
 		"artist": "DEF LEPPARD",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/def_leppard_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PYROMANIA",
+		"artist": "DEF LEPPARD",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/pyromania.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6192,6 +6280,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ULTRA",
+		"artist": "DEPECHE MODE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/depeche_mode_ultra.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PLAYING THE ANGEL (SACD+DVD)",
+		"artist": "DEPECHE MODE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/playing_the_angel_cd_dvd.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "I AIN'T MOVIN'",
 		"artist": "DES'REE",
 		"price": "10,00 kr.",
@@ -6228,6 +6332,14 @@
 		"artist": "DIAMOND HEAD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/death_and_progress.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS VOL. 2",
+		"artist": "NEIL DIAMOND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/neil_diamond_greatest_vol2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6360,6 +6472,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GONE TO TEXAS",
+		"artist": "DICTE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/gone_to_texas.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THIS IS COOL",
 		"artist": "DICTE",
 		"price": "10,00 kr.",
@@ -6404,6 +6524,22 @@
 		"artist": "DILLINGER FOUR",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/situationist_comedy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BRACE AGAINST THE STORM (lettere 'vand-bulet' bagcover)",
+		"artist": "JACOB DINESEN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/brace_against_v.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BRACE AGAINST THE STORM",
+		"artist": "JACOB DINESEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/brace_against.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6544,10 +6680,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEN SORTE SEJLER & ANDRE SØMANDSSANGE",
+		"artist": "POUL DISSING",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/den_sorte_sejler.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "JEG ER EN TOSSET SPILLEMAND",
+		"artist": "POUL DISSING",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/jeg_er_en_tosset_spillemand.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SMERTEFULDE SANGE",
+		"artist": "POUL DISSING",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/smetefulde_sange.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TROUBADOURENS BEDSTE (2CD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/troubadourens_bedste.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "16 SANGE",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/16_sange.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6576,6 +6744,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SVANTES VISER",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/svantes_viser_elap.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SVANTES VISER",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/svantes_viser_recart.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LIVE - FOR FULD UDBLÆSNING (CD+DVD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "25,00 kr.",
@@ -6588,6 +6772,14 @@
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/svantes_viser.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ZOO SANGE",
+		"artist": "POUL DISSING & IRENE BECKER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/zoo_sange.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6620,6 +6812,14 @@
 		"artist": "DISSING DISSING LAS & DISSING",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/dissing_dissing_las_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GRÆSSET MÅ BETRÆDES",
+		"artist": "DISSING, DISSING, von DALER, LAS & DISSING",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/graesset_maa_betraedes.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6668,6 +6868,38 @@
 		"artist": "DIZZY MIZZ LIZZY",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/dizzy_live_2010.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PAYBACK TIME",
+		"artist": "DJ ALIGATOR PROJECT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/payback_time.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CLOSE ENCOUNTER VOL. 2",
+		"artist": "NIELS LAN DOKY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/close_encounters_vol_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MISTY DAWN",
+		"artist": "DOKY NHØP RIEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/misty_dawn.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LISTEN TO THE MUSIC THE VERY BEST OF",
+		"artist": "THE DOOBIE BROTHERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/listen_to_the_music.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6796,6 +7028,14 @@
 		"artist": "TOM DONOVAN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/skagen_rose.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AN AMERICAN PRAYER",
+		"artist": "JIM MORRISON & THE DOORS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/an_american_prayer.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7056,6 +7296,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BIG THING",
+		"artist": "DURAN DURAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/big_thing.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CLASSICS (5CD 'papboks')",
+		"artist": "IAN DURY & THE BLOCKHEADS",
+		"price": "75,00 kr.",
+		"origin": "https://cd6000.dk/ian_dury_classics_5.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SASCHA DUPONT",
+		"artist": "SASCHA DUPONT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sascha_dupont.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ENTER METROPOLIS",
 		"artist": "DÜNÉ",
 		"price": "10,00 kr.",
@@ -7068,14 +7332,6 @@
 		"artist": "DUNÉ",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/wild_hearts.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SASCHA DUPONT",
-		"artist": "SASCHA DUPONT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sascha_dupont.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7104,6 +7360,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BOB DYLAN (remastered)",
+		"artist": "BOB DYLAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/bob_dylan.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DYLAN (remastered)",
 		"artist": "BOB DYLAN",
 		"price": "20,00 kr.",
@@ -7128,10 +7392,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PLANET WAVES",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/planet_waves.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SLOW TRAIN COMING",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/slow_train_coming.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE COLLECTION",
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/dylan_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE FREEWHEELIN' (remastered)",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/the_freewheelin.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7148,6 +7436,14 @@
 		"artist": "BOB DYLAN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/together_through_life.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "A MOUTHFUL",
+		"artist": "THE DØ",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/a_mouthful.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
