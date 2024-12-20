@@ -3752,14 +3752,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AERIAL (2CD)",
-		"artist": "KATE BUSH",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/aerial.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE KICK INSIDE",
 		"artist": "KATE BUSH",
 		"price": "15,00 kr.",
@@ -6896,14 +6888,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LISTEN TO THE MUSIC THE VERY BEST OF",
-		"artist": "THE DOOBIE BROTHERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/listen_to_the_music.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "2",
 		"artist": "DODO & THE DODO'S",
 		"price": "10,00 kr.",
@@ -7360,50 +7344,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BOB DYLAN (remastered)",
-		"artist": "BOB DYLAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/bob_dylan.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DYLAN (remastered)",
-		"artist": "BOB DYLAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dylan_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "NASHVILLE SKYLINE",
-		"artist": "BOB DYLAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/nashville_skyline.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "OH MERCY",
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/oh_mercy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PLANET WAVES",
-		"artist": "BOB DYLAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/planet_waves.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SLOW TRAIN COMING",
-		"artist": "BOB DYLAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/slow_train_coming.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
