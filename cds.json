@@ -7448,6 +7448,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DAISIES OF THE GALAXY",
+		"artist": "EELS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/daisies_of_the_galaxy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEAUTIFUL FREAK",
+		"artist": "EELS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/beautiful_freak.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ALT DU VIL HA",
+		"artist": "BJØRN EIDSVÅG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/alt_du_vil_ha.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SKYFRI HIMMEL",
 		"artist": "BJØRN EIDSVÅG",
 		"price": "10,00 kr.",
@@ -7496,6 +7520,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "OLYCKSSYSTER",
+		"artist": "LISA EKDAHL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/olyckssyster.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ELO's GREATEST HITS",
 		"artist": "ELO",
 		"price": "10,00 kr.",
@@ -7508,6 +7540,14 @@
 		"artist": "ELO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/elo_very_best_dino.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TIME",
+		"artist": "ELECTRIC LIGHT ORCHESTRA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/elo_time.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7548,6 +7588,14 @@
 		"artist": "ELISABETH",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/lystens_oe.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LÆR MIG NATTENS STJERNE",
+		"artist": "ELISABETH",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/laer_mig_nattens_stjerne.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7640,6 +7688,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SHADOW OF LOVE",
+		"artist": "BOEL EMBORG VINDING RIEL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/shadow_of_love.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TRILOGY",
+		"artist": "EMERSON LAKE & PALMER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/elp_trilogy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CURTAIN CALL",
 		"artist": "EMINEM",
 		"price": "10,00 kr.",
@@ -7712,6 +7776,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LE ROI EST MORT VIVE LE ROI",
+		"artist": "ENIGMA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/le_roi_est_mort.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MCMXC a.d.",
 		"artist": "ENIGMA",
 		"price": "10,00 kr.",
@@ -7724,6 +7796,14 @@
 		"artist": "ENIGMA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_cross_of_changes.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE SCREEN BEHIND THE MIRROR",
+		"artist": "ENIGMA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_screen_behind_the_mirror.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7840,6 +7920,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "WILD!",
+		"artist": "ERASURE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/erasure_wild.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WILD WILD WEST",
 		"artist": "THE ESCAPE CLUB",
 		"price": "10,00 kr.",
@@ -7916,6 +8004,14 @@
 		"artist": "EUROPE",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/rock_the_night.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SIMPLY THE BEST",
+		"artist": "EUROPE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/europe_simply.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8072,6 +8168,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NINE",
+		"artist": "FAIRPORT CONVENTION",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/fairport_nine.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MOAT ON THE LEDGE LIVE AT BROUGHTON CASTLE",
+		"artist": "FAIRPORT CONVENTION",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/moat_on_the_ledge.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ALBUM OF THE YEAR",
+		"artist": "FAITH NO MORE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/album_of_the_year.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "KING FOR A DAY",
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
@@ -8092,6 +8212,14 @@
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_real_thing.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STRANGE WEATHER",
+		"artist": "MARIANNE FAITHFULL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/strange_weather.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8288,6 +8416,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE REMINDER / LET IT DIE (remastered)",
+		"artist": "FEIST",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_reminder_let_it_die.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LIGHT MY FIRE",
 		"artist": "JOSÉ FELICIANO",
 		"price": "10,00 kr.",
@@ -8376,6 +8512,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BIG CITY SHUFFLE VOL. 2",
+		"artist": "FESSOR'S BIG CITY BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/big_city_shuffle_vol2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HAPPY FEET BLUES",
+		"artist": "FESSOR'S BIG CITY BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/happy_feet_blues.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HOT & SWEET",
 		"artist": "FESSOR'S BIG CITY BAND",
 		"price": "10,00 kr.",
@@ -8404,6 +8556,14 @@
 		"artist": "FIELFRAZ",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/fielfraz_shine.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SLICK",
+		"artist": "FIELFRAZ",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/fielfraz_slick.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8444,6 +8604,14 @@
 		"artist": "HELENE FISHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/helene_fisher_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SO NAH WIE DU",
+		"artist": "HELENE FISCHER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/so_nah_wie_du.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8504,6 +8672,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "KILLING ME SOFTLY (digitally remastered)",
+		"artist": "ROBERTA FLACK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/killing_me_softly_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AT WAR WITH THE MYSTICS (lille fold på bagcover)",
+		"artist": "THE FLAMING LIPS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/at_war_with_the_mystics.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "FLEETWOOD MAC",
 		"price": "10,00 kr.",
@@ -8536,10 +8720,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF (2CD) (remastered)",
+		"artist": "FLEETWOOD MAC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/fleetwood_mac_very_best_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "INAMORATA",
 		"artist": "GUY FLETCHER",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/inamorata.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEST OF FLIPPERS",
+		"artist": "FLIPPERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/flippers_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HOWL AT THE MOON",
+		"artist": "THE FLOOR IS MADE OF LAVA",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/howl_at_the_moon.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8584,6 +8792,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE LONG ROAD HOME THE ULTIMATE FOGERTY / CCR COLLECTION",
+		"artist": "JOHN FOGERTY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_long_road_home.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IN YOUR HONOR (2CD)",
+		"artist": "FOO FIGHTERS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/in_your_honor.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST AND BEYOND",
 		"artist": "FOREIGNER",
 		"price": "10,00 kr.",
@@ -8608,6 +8832,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "INSIDE INFORMATION",
+		"artist": "FOREIGNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/inside_information.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "12 ROUNDS",
 		"artist": "NINA FORSBERG",
 		"price": "10,00 kr.",
@@ -8624,6 +8856,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SAMLEDE UDGIVELSER 1957-1964 + SJÆLDNE UDGIVELSER (4CD) 1996",
+		"artist": "FOUR JACKS NPG BESTIL NR. 24839",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/four_jacks_samlede.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREAT SONGS AND PERFORMANCES....",
 		"artist": "THE FOUR TOPS",
 		"price": "10,00 kr.",
@@ -8632,10 +8872,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "SAMANTHA FOX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/samantha_fox_greatest_tring.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "I WANNA HAVE SOME FUN",
+		"artist": "SAMANTHA FOX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/i_wanna_have_some_fun.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE HITS COLLECTION",
 		"artist": "SAMANTHA FOX",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/samantha_fox_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FRAMPTON COMES ALIVE",
+		"artist": "PETER FRAMPTON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/frampton_comes_alive.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8668,6 +8932,14 @@
 		"artist": "MARIE FRANK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/vermilion.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVERPOOL",
+		"artist": "FRANKIE GOES TO HOLLYWOOD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/liverpool.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8756,6 +9028,14 @@
 		"artist": "FRANZ FERDINAND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/franz_ferdinand.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DEN STÄNDIGA RESAN",
+		"artist": "MARIA FREDRIKSSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/den_staendiga_resan.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8976,6 +9256,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "A FOREIGN AFFAIR I (2CD)",
+		"artist": "GASOLIN",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/a_foreign_affair_i.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DERUDAF - FOREVER",
 		"artist": "GASOLIN",
 		"price": "20,00 kr.",
@@ -9048,6 +9336,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BLACK BOX (9CD) 2003",
+		"artist": "GASOLIN COLUMBIA BESTIL NR. 24847",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/gasolin_black_box.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST & LATEST",
 		"artist": "GLORIA GAYNOR",
 		"price": "10,00 kr.",
@@ -9108,6 +9404,14 @@
 		"artist": "GENESIS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/we_cant_dance.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ABACAB",
+		"artist": "GENESIS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/abacab.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9232,10 +9536,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GNAGS GREATEST Den Dejligste Plade i 100 År",
+		"artist": "GNAGS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/gnags_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GÖSTA HAMMERFEDT",
 		"artist": "GNAGS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/goesta_hammerfedt.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HAR DE PUTTET NOGET I KAFFEN",
+		"artist": "GNAGS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/har_de_puttet_noget_i_kaffen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
