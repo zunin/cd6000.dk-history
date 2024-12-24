@@ -7696,14 +7696,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TRILOGY",
-		"artist": "EMERSON LAKE & PALMER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/elp_trilogy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CURTAIN CALL",
 		"artist": "EMINEM",
 		"price": "10,00 kr.",
@@ -8168,22 +8160,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NINE",
-		"artist": "FAIRPORT CONVENTION",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/fairport_nine.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MOAT ON THE LEDGE LIVE AT BROUGHTON CASTLE",
-		"artist": "FAIRPORT CONVENTION",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/moat_on_the_ledge.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALBUM OF THE YEAR",
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
@@ -8212,14 +8188,6 @@
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_real_thing.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STRANGE WEATHER",
-		"artist": "MARIANNE FAITHFULL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/strange_weather.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8892,14 +8860,6 @@
 		"artist": "SAMANTHA FOX",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/samantha_fox_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FRAMPTON COMES ALIVE",
-		"artist": "PETER FRAMPTON",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/frampton_comes_alive.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10100,6 +10060,14 @@
 		"artist": "DE GYLDNE LØVER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/loevernes_bedste_live.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VI ER IKKE SOM DE ANDRE",
+		"artist": "DE GYLDNE LØVER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/vi_er_ikke_som_de_andre.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
