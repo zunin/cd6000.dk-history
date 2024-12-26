@@ -28720,38 +28720,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ELDORADO 1 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/eldorado_1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ELDORADO 2 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/eldorado_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ELDORADO 3 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/eldorado_3.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ELDORADO JUL (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/eldorado_jul.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "EN HYLDEST TIL SEBASTIAN",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29900,6 +29868,38 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/danske_60er_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 1 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 2 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 3 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO JUL (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_jul.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
