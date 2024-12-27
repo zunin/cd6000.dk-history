@@ -2457,17 +2457,17 @@
 	},
 	{
 		"albumTitle": "THE BOX (10CD) 2005",
-		"artist": "BIG FAT SNAKE CMC BESTIL NR. 108a",
+		"artist": "BIG FAT SNAKE CMC BESTIL NR. 108",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/big_fat_snake_box_a.htm",
+		"origin": "https://cd6000.dk/big_fat_snake_box.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "THE BOX (10CD) 2005",
-		"artist": "BIG FAT SNAKE CMC BESTIL NR. 108a",
+		"artist": "BIG FAT SNAKE CMC BESTIL NR. 108",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/big_fat_snake_box_a.htm",
+		"origin": "https://cd6000.dk/big_fat_snake_box.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7344,6 +7344,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BLONDE ON BLONDE (REMASTERED)",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/blonde_on_blonde.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OH MERCY",
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
@@ -8684,14 +8692,6 @@
 		"artist": "FLEETWOOD MAC",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/rumours.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF (2CD) (remastered)",
-		"artist": "FLEETWOOD MAC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/fleetwood_mac_very_best_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12024,6 +12024,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF (2CD)",
+		"artist": "ELTON JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elton_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GOODBYE YELLOW BRICK ROAD",
 		"artist": "ELTON JOHN",
 		"price": "15,00 kr.",
@@ -12196,6 +12204,14 @@
 		"artist": "TOM JONES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tom_jones_the_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "JANIS JOPLIN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/janis_joplin_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13456,6 +13472,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIBERTINER",
+		"artist": "L.O.C.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/libertiner.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "XXXCOUTURE",
+		"artist": "L.O.C.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/xxxcouture.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DE 36 BEDSTE NARRESTREGER (2CD)",
 		"artist": "LABAN",
 		"price": "15,00 kr.",
@@ -14568,14 +14600,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "XXXCOUTURE",
-		"artist": "L.O.C.",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/xxxcouture.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE BEST OF",
 		"artist": "LOBO",
 		"price": "10,00 kr.",
@@ -15104,6 +15128,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "UDENFOR SÆSONEN",
+		"artist": "JOHNNY MADSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/udenfor_saesonen.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CHECKPOINT CHARLIE",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -15624,6 +15656,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BATTLE STUDIES",
+		"artist": "JOHN MAYER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/battle_studies.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CONTINUUM",
 		"artist": "JOHN MAYER",
 		"price": "10,00 kr.",
@@ -15724,6 +15764,22 @@
 		"artist": "PAUL McCARTNEY",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/tripping_the_live.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TRIPPING THE LIVE FANTASTIC (2CD)",
+		"artist": "PAUL McCARTNEY",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/tripping_the_live.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WINGSPAN, HITS & HISTORY (2CD) (remastered)",
+		"artist": "PAUL McCARTNEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/wingspan.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16304,6 +16360,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MICHAEL LEARNS TO ROCK GREATEST HITS",
+		"artist": "MICHAEL LEARNS TO ROCK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/mltr_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NOTHING TO LOOSE",
 		"artist": "MICHAEL LEARNS TO ROCK",
 		"price": "10,00 kr.",
@@ -16536,6 +16600,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIGHT YEARS",
+		"artist": "KYLIE MONOGUE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/light_years.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MELLEM HJERTER OG SPAR",
 		"artist": "MISS B. HEAVEN",
 		"price": "10,00 kr.",
@@ -16700,6 +16772,14 @@
 		"artist": "MONRAD & RISLUND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/1991.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "A LA PLAGE",
+		"artist": "TOTALPETROLEUM (Monrad & Riislund)",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/a_la_plage.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17608,6 +17688,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BACK TO BASICS THE VERY BEST OF",
+		"artist": "OLIVIA NEWTON JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/olivia_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BANKS OF THE OHIO",
 		"artist": "OLIVIA NEWTON-JOHN",
 		"price": "10,00 kr.",
@@ -17780,6 +17868,14 @@
 		"artist": "PETER A.G. NIELSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ag_solo.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NIK & JAY",
+		"artist": "NIK & JAY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/nik_&_jay.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20744,6 +20840,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HOT ROCKS 64-71 (2CD)",
+		"artist": "THE ROLLING STONES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hot_rocks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NO SECURITY",
 		"artist": "ROLLING STONES",
 		"price": "20,00 kr.",
@@ -21416,6 +21520,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IMELLEM ESBJERG OG FANØ",
+		"artist": "SAND PÅ GULVET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/imellem_esbjerg_og_fanoe_elap.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OUR VERSION OF EVENTS (NY i folie)",
 		"artist": "EMELI SANDE",
 		"price": "10,00 kr.",
@@ -21460,6 +21572,14 @@
 		"artist": "THE SANDMEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/western_blood.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEAUTIES AND BEASTS BEST OF (2CD)",
+		"artist": "THE SANDMEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/beauties_and_beasts.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23252,6 +23372,14 @@
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/uncovered_too.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE HIT BOX (10CD) 2003",
+		"artist": "SMOKIE CMC BESTIL NR. 149",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/smokie_hit_box.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25156,6 +25284,14 @@
 		"artist": "TINTIN OG HÅRTØRRERNE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/mad_guppies.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PLAY THAT JIVE",
+		"artist": "TINTIN & HÅRTØRRERNE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/play_that_jive.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
