@@ -8840,14 +8840,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "SAMANTHA FOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/samantha_fox_greatest_tring.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "I WANNA HAVE SOME FUN",
 		"artist": "SAMANTHA FOX",
 		"price": "10,00 kr.",
@@ -8988,14 +8980,6 @@
 		"artist": "FRANZ FERDINAND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/franz_ferdinand.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DEN STÄNDIGA RESAN",
-		"artist": "MARIA FREDRIKSSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/den_staendiga_resan.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9212,14 +9196,6 @@
 		"artist": "ART GARFUNKEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/garfunkel_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "A FOREIGN AFFAIR I (2CD)",
-		"artist": "GASOLIN",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/a_foreign_affair_i.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19192,10 +19168,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GREATEST HITS (remastered)",
+		"artist": "THE POLICE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/police_greatest_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THEIR GREATEST HITS",
 		"artist": "THE POLICE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/police_their_greatest_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ZENYATTA MONDATTA",
+		"artist": "THE POLICE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/zenyatta.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19988,6 +19980,14 @@
 		"artist": "PIA RAUG / STEVE DOBROGOZS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/raug_husker_du.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HJERTESPROGET",
+		"artist": "PIA RAUG & STEVE DOBROGOSZ",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hjertesproget.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22368,6 +22368,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "3",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "4",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
@@ -22460,6 +22468,14 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubidua_18.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DA MOR VAR DRENG",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/da_mor_var_dreng.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22620,6 +22636,14 @@
 		"artist": "SIMON & GARFUNKEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/simon_garfunkel_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE CONCERT IN CENTRAL PARK",
+		"artist": "SIMON & GARFUNKEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_concert_in_central_park.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22804,6 +22828,14 @@
 		"artist": "FRANK SINATRA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/frank_sinatra_in_celebration.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MY WAY, THE BEST OF",
+		"artist": "FRANK SINATRA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sinatra_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
