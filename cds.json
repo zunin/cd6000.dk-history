@@ -12496,6 +12496,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TRAVELOGUE",
+		"artist": "KASHMIR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/travelogue.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ZITILITIES",
 		"artist": "KASHMIR",
 		"price": "10,00 kr.",
@@ -17984,6 +17992,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FROM THE MUDDY BANKS OF THE WISHKAH",
+		"artist": "NIRVANA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/from_the_muddy_banks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NEVERMIND",
 		"artist": "NIRVANA",
 		"price": "10,00 kr.",
@@ -18260,6 +18276,14 @@
 		"artist": "BILLY OCEAN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/billy_ocean_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AMERICANA",
+		"artist": "THE OFFSPRING",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/americana.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23416,6 +23440,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GREATEST (2CD)",
+		"artist": "SNEAKERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sneakers_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TOTALE (4CD)",
 		"artist": "SNEAKERS",
 		"price": "25,00 kr.",
@@ -23668,6 +23700,14 @@
 		"artist": "SPICE GIRLS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/spice_girls_forever.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "SPICE GIRLS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/spice_girls_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24308,6 +24348,14 @@
 		"artist": "JOSS STONE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_soul_sessions.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "12 GRACIOUS MELODIES",
+		"artist": "STONE TEMPLE PILOTS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/12_gracious_melodies.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26584,6 +26632,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TIME FLIES",
+		"artist": "VAYA CON DIOS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/time_flies.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DAYS OF OPEN HAND",
 		"artist": "SUZANNE VEGA",
 		"price": "10,00 kr.",
@@ -27244,6 +27300,14 @@
 		"artist": "WET WET WET",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/end_of_part_one.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE FINAL",
+		"artist": "WHAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/wham_the_final.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
