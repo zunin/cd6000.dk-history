@@ -4640,14 +4640,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TOLD YOU SO",
-		"artist": "CHRISTOPHER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/told_you_so.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "AS THE ROOTS UNDO",
 		"artist": "CIRCLE TAKES THE SQUARE",
 		"price": "10,00 kr.",
@@ -7272,6 +7264,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SAX-A-GO-GO",
+		"artist": "CANDY DULFER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sax_a_go_go.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SPÆND HJELMEN",
 		"artist": "DIE DUMME DÁNEN",
 		"price": "10,00 kr.",
@@ -9664,6 +9664,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LUKAS GRAHAM",
+		"artist": "LUKAS GRAHAM",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/lukas_graham_2015.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LUKAS GRAHAM",
+		"artist": "LUKAS GRAHAM",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/lukas_graham_2016.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS 1996-98",
+		"artist": "GRAMSESPEKTRUM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/gramsespektrum_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SHE",
 		"artist": "GRAND AVENUE",
 		"price": "10,00 kr.",
@@ -9676,6 +9700,14 @@
 		"artist": "GRAND AVENUE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_outside.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEHIND THE EYES",
+		"artist": "AMY GRANT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/behind_the_eyes.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9832,6 +9864,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PSALME",
+		"artist": "ERIK GRIP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/psalme.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VELKOMMEN I DET GRØNNE",
 		"artist": "ERIK GRIP",
 		"price": "10,00 kr.",
@@ -9904,6 +9944,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DENGANG JEG VAR BETTE",
+		"artist": "IB GRØNBECH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dengang_jeg_var_bette.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DER ER INGEN, DER FORSTÅR EN SKID...",
 		"artist": "IB GRØNBECH",
 		"price": "10,00 kr.",
@@ -9920,10 +9968,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HVAD ER DET DER FÅR EN RIMELIGT VELBEGAVET MAND TIL AT FLYTTE TIL SVERIGE",
+		"artist": "IB GRØNBECH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hvad_er_det.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HVORFOR MÅ JEG IK' FÅ BEATLES-HÅR (og andre frasorterede hits)",
 		"artist": "IB GRØNBECH",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hvorfor_maa_jeg_ik_faa_beatleshaar.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE",
+		"artist": "HERBERT GRÖNEMEYER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/groenemeyer_live.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9940,6 +10004,14 @@
 		"artist": "HERBERT GRÖNEMEYER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/spruenge.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ZWÖLF",
+		"artist": "HERBERT GRÖNEMEYER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/zwoelf.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -9968,6 +10040,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "G 'N R LIES",
+		"artist": "GUNS N' ROSES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/gnr_lies.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "GUNS & ROSES",
 		"price": "10,00 kr.",
@@ -9976,10 +10056,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BEST OF (unofficial)",
+		"artist": "GUNS N' ROSES",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/gnr_best_unofficial.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE SPAGHETTI INCIDENT",
 		"artist": "GUNS N' ROSES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_spaghetti_incident.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "USE YOUR ILLUSION II",
+		"artist": "GUNS & ROSES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/use_your_illusion_ii.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10072,6 +10168,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "A TOUCH OF EXCELLENCE",
+		"artist": "MARTIN HALL",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/a_touch_of_excellence.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ADAPTER",
 		"artist": "MARTIN HALL",
 		"price": "20,00 kr.",
@@ -10128,6 +10232,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HEAD HUNTERS",
+		"artist": "HERBIE HANCOCK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/head_hunters.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MIT FERIEPARADIS",
 		"artist": "JOHNNY HANSEN",
 		"price": "10,00 kr.",
@@ -10136,10 +10248,18 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "STARS OF CCTV",
-		"artist": "HARD-FI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stars_of_cctv.htm",
+		"albumTitle": "NEDE MED ØL",
+		"artist": "HARDINGER",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/nede_med_oel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MORE THAN SOMEWHAT THE VERY BEST OF",
+		"artist": "STEVE HARLEY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/more_than_somewhat.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10148,6 +10268,14 @@
 		"artist": "STEVE HARLEY & COCKNEY REBEL",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/steve_harley_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DIAMONDS ON THE INSIDE",
+		"artist": "BEN HARPER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/diamonds_on_the_inside.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10232,10 +10360,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "STORIES FROM THE CITY STORIES FROM THE SEA",
+		"artist": "PJ HARVEJ",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pj_harvey_stories_from.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LET ENGLAND SHAKE",
 		"artist": "PJ HARVEY",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/let_england_shake.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TO BRING YOU MY LOVE",
+		"artist": "PJ HARVEY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/to_bring_you_my_love.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10276,6 +10420,14 @@
 		"artist": "NIELS HAUSGAARD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/som_jeg_altid_plejer_at_sige.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHOW (CD+DVD)",
+		"artist": "NIELS HAUSGAARD",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/niels_hausgaard_show.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10504,6 +10656,38 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "S/H (lettere 'bulet' frontcover)",
+		"artist": "LASSE HELNER",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/lasse_helner_sh.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TIME AND AGAIN",
+		"artist": "LASSE HELNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/time_and_again.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HEMPLER",
+		"artist": "CLAUS HEMPLER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hempler.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RETURN OF THE YES MAN",
+		"artist": "CLAUS HEMPLER",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/return_of_the_yes_man.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CINEMATAZTIC",
 		"artist": "CAROLINE HENDERSON",
 		"price": "10,00 kr.",
@@ -10548,6 +10732,22 @@
 		"artist": "JIMI HENDRIX",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/jimi_hendrix_19_great.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RADIO ONE",
+		"artist": "THE JIMI HENDRIX EXPERIENCE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/hendrix_radio_one.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE LAST EXPERIENCE",
+		"artist": "THE JIMI HENDRIX EXPERIENCE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/the_last_experience.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10612,6 +10812,14 @@
 		"artist": "HERMAN'S HERMITS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/theres_a_kind_of_hush.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "OUR DANISH COLLECTION",
+		"artist": "HERMAN'S HERMITS",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/hermans_hermits_danish.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10716,6 +10924,14 @@
 		"artist": "THERA HOEYMANS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/vertical.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SUSANNA HOFFS",
+		"artist": "SUSANNA HOFFS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/susanna_hoffs.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11112,6 +11328,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "KYSSER HIMLEN FARVEL",
+		"artist": "LARS H.U.G.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kysser_himlen_farvel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SAVE ME FROM THIS ROCK 'n' ROLL",
 		"artist": "LARS H.U.G.",
 		"price": "10,00 kr.",
@@ -11168,6 +11392,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "STENÅLDERN KAN BOJA (paphylster)",
+		"artist": "BOB HUND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/stenaaldern_kan_boeja.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "A LIFETIME",
 		"artist": "HUSH",
 		"price": "10,00 kr.",
@@ -11204,6 +11436,14 @@
 		"artist": "ASHLEY HUTCHINGS Richard Thompson  Dave Mattacks  John Kirkpatrick  Barry Dransfield",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/morris_on.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SÅ'N ER VI (små fejl på frontcover)",
+		"artist": "HVID SJOKOLADE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/saan_er_vi.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11300,6 +11540,14 @@
 		"artist": "BILLY IDOL",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/cyberpunk.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WHIPLASH SMILE",
+		"artist": "BILLY IDOL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/whiplash_smile.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11480,10 +11728,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEFINITIVE INXS",
+		"artist": "INXS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/definitive_inxs.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ELEGANTLY WASTED",
 		"artist": "INXS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/elegantly_wasted.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE BABY LIVE",
+		"artist": "INXS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/live_baby_live.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11732,6 +11996,14 @@
 		"artist": "JAMIROQUAI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/emergency_on_planet.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HIGH TIMES SINGLES 1992-2006",
+		"artist": "JAMIROQUAI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/high_times.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16340,14 +16612,6 @@
 		"artist": "MICHAEL LEARNS TO RICK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/mltr_colours.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MICHAEL LEARNS TO ROCK GREATEST HITS",
-		"artist": "MICHAEL LEARNS TO ROCK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mltr_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22660,14 +22924,6 @@
 		"artist": "SIMON & GARFUNKEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/simon_garfunkel_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE CONCERT IN CENTRAL PARK",
-		"artist": "SIMON & GARFUNKEL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_concert_in_central_park.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -30088,14 +30344,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "63 HITS FROM THE SENSATIONAL SEVENTIES",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/seventies_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DANSKE 60'ER HITS",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
@@ -30236,22 +30484,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/postkort_fra_livet.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "REMEMBER THE 70's 3CD 'sampack' box",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/remember_the_70s.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SIXTIES UK (4CD) (sampak pap-'boks')",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/sixties_uk.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
