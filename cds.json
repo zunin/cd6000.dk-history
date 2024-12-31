@@ -10360,14 +10360,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "STORIES FROM THE CITY STORIES FROM THE SEA",
-		"artist": "PJ HARVEJ",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pj_harvey_stories_from.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LET ENGLAND SHAKE",
 		"artist": "PJ HARVEY",
 		"price": "20,00 kr.",
@@ -10672,22 +10664,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HEMPLER",
-		"artist": "CLAUS HEMPLER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hempler.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RETURN OF THE YES MAN",
-		"artist": "CLAUS HEMPLER",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/return_of_the_yes_man.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CINEMATAZTIC",
 		"artist": "CAROLINE HENDERSON",
 		"price": "10,00 kr.",
@@ -10732,22 +10708,6 @@
 		"artist": "JIMI HENDRIX",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/jimi_hendrix_19_great.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "RADIO ONE",
-		"artist": "THE JIMI HENDRIX EXPERIENCE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/hendrix_radio_one.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE LAST EXPERIENCE",
-		"artist": "THE JIMI HENDRIX EXPERIENCE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/the_last_experience.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15912,14 +15872,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BATTLE STUDIES",
-		"artist": "JOHN MAYER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/battle_studies.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CONTINUUM",
 		"artist": "JOHN MAYER",
 		"price": "10,00 kr.",
@@ -18256,14 +18208,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FROM THE MUDDY BANKS OF THE WISHKAH",
-		"artist": "NIRVANA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/from_the_muddy_banks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NEVERMIND",
 		"artist": "NIRVANA",
 		"price": "10,00 kr.",
@@ -20268,14 +20212,6 @@
 		"artist": "PIA RAUG / STEVE DOBROGOZS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/raug_husker_du.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HJERTESPROGET",
-		"artist": "PIA RAUG & STEVE DOBROGOSZ",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hjertesproget.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
