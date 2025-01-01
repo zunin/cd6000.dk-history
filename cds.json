@@ -56,14 +56,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LOVE STORIES",
-		"artist": "ABBA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/abba_love_stories.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "MORE ABBA GOLD",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -3208,14 +3200,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BEST OF (2CD) (remastered)",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/bowie_best_of_2cd.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HEATHEN",
 		"artist": "DAVID BOWIE",
 		"price": "15,00 kr.",
@@ -5648,14 +5632,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "C'MON, C'MON",
-		"artist": "SHERYL CROW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cmon_cmon.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SHERYL CROW",
 		"artist": "SHERYL CROW",
 		"price": "10,00 kr.",
@@ -5676,14 +5652,6 @@
 		"artist": "SHERYL CROW",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_globe_sessions.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE GLOBE SESSIONS (tour edition 2CD set)",
-		"artist": "SHERYL CROW",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_globe_sessions_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5996,22 +5964,6 @@
 		"artist": "CRAIG DAVID",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_story_goes.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "OTHER PEOPLE'S LIVES",
-		"artist": "RAY DAVIES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/other_peoples_lives_bag.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "WORKING MAN'S CAFÉ",
-		"artist": "RAY DAVIES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/working_mans_cafe_bag.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7976,22 +7928,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NEVER ENOUGH",
-		"artist": "MELISSA ETHERIDGE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/never_enough.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "YES I AM",
-		"artist": "MELISSA ETHERIDGE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/yes_i_am.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PRISONERS IN PARADISE",
 		"artist": "EUROPE",
 		"price": "20,00 kr.",
@@ -8988,14 +8924,6 @@
 		"artist": "FREE CLOUD NINE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_last_in_line.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LIVE",
-		"artist": "GLENN FREY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/glenn_frey_live.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10632,14 +10560,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "COVER",
-		"artist": "LASSE HELNER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/lasse_helner_cover.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "MEMPHIS STATION",
 		"artist": "LASSE HELNER",
 		"price": "20,00 kr.",
@@ -10652,14 +10572,6 @@
 		"artist": "LASSE HELNER",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/lasse_helner_sh.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TIME AND AGAIN",
-		"artist": "LASSE HELNER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/time_and_again.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10716,14 +10628,6 @@
 		"artist": "JIMI HENDRIX",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/hendrix_ultimate.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE END OF INNOCENCE",
-		"artist": "DON HENLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_end_of_innocence.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14120,14 +14024,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "II",
-		"artist": "LED ZEPPELIN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/led_zeppelin_ii.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "REMASTERS (2CD)",
 		"artist": "LED ZEPPELIN",
 		"price": "20,00 kr.",
@@ -14484,22 +14380,6 @@
 		"artist": "LARS LILHOLT BAND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/gi_det_blaa_tilbage.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I EN SOMMERNAT",
-		"artist": "LILHOLT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_en_sommernat.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "JENS LANGKNIV",
-		"artist": "LARS LILHOLT BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jens_langkniv_universal.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16328,14 +16208,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "LIVE AT THE O2 ARENA",
-		"artist": "KATIE MELUA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/melua_o2_arena.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PICTURES",
 		"artist": "KATIE MELUA",
 		"price": "10,00 kr.",
@@ -16348,14 +16220,6 @@
 		"artist": "KATIE MELUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/piece_by_piece.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SECRET SYMPHONY (2CD)",
-		"artist": "KATIE MELUA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/secret_symphony_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20056,14 +19920,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PABLO HONEY",
-		"artist": "RADIOHEAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pablo_honey.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NIGHT OWL",
 		"artist": "GERRY RAFFERTY",
 		"price": "30,00 kr.",
@@ -23540,14 +23396,6 @@
 		"artist": "THE SMITHS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_interviews.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LOUDER THAN BOMBS",
-		"artist": "THE SMITHS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/louder_than_bombs_bag.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
