@@ -7232,14 +7232,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BIG THING",
-		"artist": "DURAN DURAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/big_thing.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CLASSICS (5CD 'papboks')",
 		"artist": "IAN DURY & THE BLOCKHEADS",
 		"price": "75,00 kr.",
@@ -8100,14 +8092,6 @@
 		"artist": "FAIRGROUND ATTRACTION",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/fairground_masters.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ALBUM OF THE YEAR",
-		"artist": "FAITH NO MORE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/album_of_the_year.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11860,14 +11844,6 @@
 		"artist": "JAMIROQUAI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/emergency_on_planet.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HIGH TIMES SINGLES 1992-2006",
-		"artist": "JAMIROQUAI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/high_times.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26660,22 +26636,6 @@
 		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/texas_flood_d.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "VAYA CON DIOS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/vaya_con_dios_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TIME FLIES",
-		"artist": "VAYA CON DIOS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/time_flies.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
