@@ -1720,14 +1720,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "KOMPLET 1982-1994 (SØLVBOKSEN)(9CD+DVD)",
-		"artist": "BAMSES VENNER",
-		"price": "125,00 kr.",
-		"origin": "https://cd6000.dk/bamse_soelvboks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SÅDAN SET",
 		"artist": "BAMSES VENNER",
 		"price": "20,00 kr.",
@@ -3548,14 +3540,6 @@
 		"artist": "BTO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/bto_collection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "YOU AIN'T SEEN NOTHING YET",
-		"artist": "BACHMAN TURNER OVERDRIVE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/you_aint_seen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7496,14 +7480,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TIME",
-		"artist": "ELECTRIC LIGHT ORCHESTRA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/elo_time.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ELISABEDST",
 		"artist": "ELISABETH",
 		"price": "20,00 kr.",
@@ -9256,14 +9232,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ABACAB",
-		"artist": "GENESIS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/abacab.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PALOMA BLANCA",
 		"artist": "GEORGE BAKER SELECTION",
 		"price": "10,00 kr.",
@@ -9476,14 +9444,6 @@
 		"artist": "GNAGS",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/gnags_live_1_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SAFARI (remastered) (NY i folie)",
-		"artist": "GNAGS",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/safari_rem_ny.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12068,14 +12028,6 @@
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/peachtree_road.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "REG STRIKES BACK",
-		"artist": "ELTON JOHN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/reg_strikes_back.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26468,14 +26420,6 @@
 		"artist": "VAN MORRISON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/van_morrison_best_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BEST OF, VOLUME TWO",
-		"artist": "VAN MORRISON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/van_morrison_best_vol2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
