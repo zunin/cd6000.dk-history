@@ -1696,26 +1696,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ROCKCREME",
-		"artist": "BAMSES VENNER",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/rockcreme_bag.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SPOR 8",
 		"artist": "BAMSES VENNER",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/spor_8.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SUTSKO",
-		"artist": "BAMSES VENNER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/sutsko.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7248,14 +7232,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "BOB DYLAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bob_dylan_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "MODERN TIMES",
 		"artist": "BOB DYLAN",
 		"price": "10,00 kr.",
@@ -7308,14 +7284,6 @@
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/time_out_of_mind.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TOGETHER THROUGH LIFE",
-		"artist": "BOB DYLAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/together_through_life.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10276,14 +10244,6 @@
 		"artist": "NIELS HAUSGAARD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/naar_alt_kommer_til_alt.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SOM JEG ALTID PLEJER AT SIGE",
-		"artist": "NIELS HAUSGAARD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/som_jeg_altid_plejer_at_sige.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15512,14 +15472,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PURE (2CD)",
-		"artist": "BOB MARLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/marley_pure.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "THE MARMALADE",
 		"price": "10,00 kr.",
@@ -20724,14 +20676,6 @@
 		"artist": "THE ROCKING GHOSTS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/belinda.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GYLDEN PIGTRÅD (3CD)",
-		"artist": "THE ROCKING GHOSTS",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/gylden_pigtraad.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
