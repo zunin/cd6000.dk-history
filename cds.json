@@ -208,22 +208,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FLICK OF THE SWITCH (tidl. ejernavn på frontcover)",
-		"artist": "AC/DC",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/flick_of_the_switch_10.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FOR THOSE ABOUT TO ROCK (tidl. ejernavn på frontcover)",
-		"artist": "AC/DC",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/for_those_about_to_rock_10.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LET THERE BE ROCK (tidl. ejernavn på frontcover)",
 		"artist": "AC/DC",
 		"price": "10,00 kr.",
@@ -2760,14 +2744,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DON'T FEAR THE REAPER THE BEST OF (obs : 'eftergjort' bagscan !!)",
-		"artist": "BLUE ÖYSTER CULT",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dont_fear_the_reaper.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALL THE LOST SOULS",
 		"artist": "JAMES BLUNT",
 		"price": "10,00 kr.",
@@ -3124,14 +3100,6 @@
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boney_m_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE BURDENS OF BEING UPRIGHT",
-		"artist": "TRACY BONHAM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_burdens_of_being_upright.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -6040,14 +6008,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "IN ROCK",
-		"artist": "DEEP PURPLE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/deep_purple_in_rock.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ADRENALIZE",
 		"artist": "DEF LEPPARD",
 		"price": "10,00 kr.",
@@ -7184,14 +7144,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SAX-A-GO-GO",
-		"artist": "CANDY DULFER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sax_a_go_go.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SPÆND HJELMEN",
 		"artist": "DIE DUMME DÁNEN",
 		"price": "10,00 kr.",
@@ -7252,14 +7204,6 @@
 		"artist": "BOB DYLAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/blonde_on_blonde.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "OH MERCY",
-		"artist": "BOB DYLAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/oh_mercy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7860,14 +7804,6 @@
 		"artist": "ETERNAL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/always_and_forever.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PRISONERS IN PARADISE",
-		"artist": "EUROPE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/prisoners_in_paradise.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8500,14 +8436,6 @@
 		"artist": "ELLA FITZGERALD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/fitzgerald_sings.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GOLD",
-		"artist": "ELLA FITZGERALD & LOUIS ARMSTRONG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/fitzgerald_gold.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -10844,14 +10772,6 @@
 		"artist": "BENNY HOLST",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/himlen_maa_vente.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "JES HOLTSØ & MORTEN WITTROCK BAND",
-		"artist": "JES HOLTSØ & MORTEN WITTROCK BAND",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/jes_holtsoe.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14800,14 +14720,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "VOL. II",
-		"artist": "(LOW BUDGET) BLUES BAND feat. MATS RONANDER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/low_budget_blues.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE COLLECTION",
 		"artist": "PACO de LUCIA",
 		"price": "10,00 kr.",
@@ -14820,14 +14732,6 @@
 		"artist": "STEVE LUKATHER",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/lukather.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE GOLD COLLECTION",
-		"artist": "LULU",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/lulu_gold.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15208,14 +15112,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DET KRØLLEDE HÅB",
-		"artist": "MAGTENS KORRIDORER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/det_kroellede_haab.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FRIVÆRDI",
 		"artist": "MAGTENS KORRIDORER",
 		"price": "10,00 kr.",
@@ -15228,14 +15124,6 @@
 		"artist": "MAGTENS KORRIDORER",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/imperiet_falder.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MILAN ALLÉ (digipack)",
-		"artist": "MAGTENS KORRIDORER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/milan_alle.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15276,14 +15164,6 @@
 		"artist": "MALURT",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/spoegelser.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SUPERLOVE (CD+DVD)",
-		"artist": "MALURT",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/superlove.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18456,14 +18336,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WALL OF PRIDE",
-		"artist": "OMAR AND THE HOWLERS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/wall_of_pride.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SUGAR TAX",
 		"artist": "OMD",
 		"price": "10,00 kr.",
@@ -20600,14 +20472,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE BEST OF",
-		"artist": "TOM ROBINSON BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tom_robinson_band_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "MY TRUTH",
 		"artist": "ROBYN",
 		"price": "10,00 kr.",
@@ -22180,14 +22044,6 @@
 		"artist": "RHAVI SHANKAR",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/shankar_essential.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FEARGAL SHARKEY",
-		"artist": "FEARGAL SHARKEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/feargal_sharkey.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25104,14 +24960,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HANKY PANKY",
-		"artist": "THE THE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hanky_panky.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DUSK (lille fold på bagcover)",
 		"artist": "THE THE",
 		"price": "15,00 kr.",
@@ -27972,14 +27820,6 @@
 		"artist": "ZAPP ZAPP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/what_does_fish_is.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SHEIK YERBOUTI",
-		"artist": "FRANK ZAPPA",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/sheik_yerbouti.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
