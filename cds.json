@@ -10944,14 +10944,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WAITING FOR ALICE",
-		"artist": "HOTEL HUNGER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/waiting_for_alice.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HOME",
 		"artist": "HOT HOUSE FLOWERS",
 		"price": "10,00 kr.",
@@ -28308,6 +28300,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/am24.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 25",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am25.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
