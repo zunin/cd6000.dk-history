@@ -11728,6 +11728,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "EQUINOXE",
+		"artist": "JEAN-MICHEL JARRE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/equinoxe.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "IMAGES THE BEST OF",
 		"artist": "JEAN-MICHEL JARRE",
 		"price": "10,00 kr.",
@@ -11740,6 +11748,14 @@
 		"artist": "JEAN MICHEL JARRE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/jarre_in_concert.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "OXYGENE",
+		"artist": "JEAN-MICHEL JARRE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/oxygene.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11768,6 +11784,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "OXYGENE NEW MASTER RECORDING",
+		"artist": "JEAN MICHEL JARRE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/oxygene_new_master.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TOMORROW THE GREEN GRASS",
 		"artist": "THE JAYHAWKS",
 		"price": "10,00 kr.",
@@ -11788,6 +11812,14 @@
 		"artist": "WAYLON JENNINGS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/white_lightnin.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GET BORN",
+		"artist": "JET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/get_born.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11864,6 +11896,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "COLD SPRING HARBOUR",
+		"artist": "BILLY JOEL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/cold_spring_harbour.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS 1970-2002 (2CD)",
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
@@ -11876,6 +11916,22 @@
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ice_on_fire.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE IN AUSTRALIA",
+		"artist": "ELTON JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elton_live_australia.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LOVE SONGS",
+		"artist": "ELTON JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elton_love_songs_pickwick.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12016,6 +12072,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEN TØRSTIGE DIGTER",
+		"artist": "JOKEREN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/den_toerstige_digter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CAMILLE JONES",
 		"artist": "CAMILLE JONES",
 		"price": "10,00 kr.",
@@ -12048,6 +12112,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "COME AWAY WITH ME (2CD)",
+		"artist": "NORAH JONES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/come_away_with_me_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FEELS LIKE HOME",
 		"artist": "NORAH JONES",
 		"price": "10,00 kr.",
@@ -12056,10 +12128,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NOT TOO LATE",
+		"artist": "NORAH JONES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/not_too_late.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FLYING COWBOYS (fold på bagcover)",
+		"artist": "RICKIE LEE JONES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/flying_cowboys.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PIRATES (tidl ejersignatur på innercover)",
 		"artist": "RICKIE LEE JONES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/pirates.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RICKI LEE JONES",
+		"artist": "RICKI LEE JONES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rickie_lee_jones.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12272,6 +12368,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FACE IN THE CROWD",
+		"artist": "JIMMY JØRGENSEN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/face_in_the_crowd.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PAINTED DESERT SERENADE",
 		"artist": "JOSHUA KADISON",
 		"price": "10,00 kr.",
@@ -12416,10 +12520,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "KANSAS",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/kansas_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "INGEN SMALLE STEDER",
 		"artist": "KAREN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ingen_smalle_steder.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NO BALANCE PALACE",
+		"artist": "KASHMIR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/no_balance_palace.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12476,6 +12596,22 @@
 		"artist": "KATO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kato_behind_closed_doors.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DISCOLIZED",
+		"artist": "KATO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/discolized.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DISCOLIZED (2CD)",
+		"artist": "KATO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/discolized_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12712,6 +12848,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEUCES WILD",
+		"artist": "B.B. KING",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/deuces_wild.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "KING OF THE BLUES 1989",
 		"artist": "B.B. KING",
 		"price": "10,00 kr.",
@@ -12752,6 +12896,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IN THE COURT OF THE CRIMSON KING (remastered)",
+		"artist": "KING CRIMSON",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/in_the_court.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AHA SHAKE HEARTBREAK",
+		"artist": "KINGS OF LEON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/aha_shake_heartbreak.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BECAUSE OF THE TIMES",
 		"artist": "KINGS OF LEON",
 		"price": "10,00 kr.",
@@ -12788,6 +12948,14 @@
 		"artist": "THE KINKS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kinks_greatest_br_music.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KIRA & THE KINDRED SPIRITS",
+		"artist": "KIRA & THE KINDRED SPIRITS",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/kira_and_the_kindred_spirits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13080,6 +13248,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SMÅ SKRIDT",
+		"artist": "KONTEKST",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/smaa_skridt.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GET DOWN ON IT THE VERY BEST OF",
 		"artist": "KOOL & THE GANG",
 		"price": "10,00 kr.",
@@ -13152,6 +13328,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIFE IS PEACHY",
+		"artist": "KORN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/life_is_peachy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ISALENA",
 		"artist": "SØREN KRAGH- JACOBSEN",
 		"price": "10,00 kr.",
@@ -13160,10 +13344,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HINKERUDER PÅ MOTORVEJEN",
+		"artist": "SØREN KRAGH-JACOBSEN & LEIF LINDSKOV",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/hinkeruder.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LOVE SCENES",
+		"artist": "DIANA KRALL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/love_scenes.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE GIRL IN THE OTHER ROOM",
 		"artist": "DIANA KRALL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_girl_in_the_other_room.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE LOOK OF LOVE",
+		"artist": "DIANA KRALL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_look_of_love.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13296,6 +13504,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "JENNIFER",
+		"artist": "POUL KREBS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/jennifer.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NAT NU, UNDER STJERNERNE",
 		"artist": "KREBS BAND",
 		"price": "10,00 kr.",
@@ -13348,6 +13564,22 @@
 		"artist": "KRIS KRISTOFFERSON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kristofferson_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HEADHUNTER",
+		"artist": "KROKUS",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/krokus_headhunter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STAMPEDE",
+		"artist": "KROKUS",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/krokus_stampede.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13444,6 +13676,14 @@
 		"artist": "LAMB",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/lamb.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOR YOUR ENTERTAINMENT",
+		"artist": "ADAM LAMBERT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_your_entertainment_14.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27368,6 +27608,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEN STORE GUSTAV WINCKLER BOKS 1953-1960 (4CD)",
+		"artist": "GUSTAV WINCKLER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/gustav_winckler_boks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GUSTAV WINCKLER (5CD BOKS)",
 		"artist": "GUSTAV WINCKLER",
 		"price": "40,00 kr.",
@@ -28036,6 +28284,22 @@
 		"artist": "2 x KAJ",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/alle_boernene.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "5 X KAJ",
+		"artist": "5 X KAJ",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/5xkaj.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KAJ SYNGER POP",
+		"artist": "5 x KAJ",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/kaj_synger_pop.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
