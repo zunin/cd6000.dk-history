@@ -3496,14 +3496,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CALL ME IRRESPONSIBLE",
-		"artist": "MICHAEL BUBLÉ",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/call_me_irresponsible.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "IT'S TIME",
 		"artist": "MICHAEL BUBLÉ",
 		"price": "10,00 kr.",
@@ -5684,14 +5676,6 @@
 		"artist": "CUT n' MOVE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/peace_love_&_harmony.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE REAL CÆSAR HITS 15 FRÆKKE",
-		"artist": "CÆSAR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_real_caesar_hits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8388,14 +8372,6 @@
 		"artist": "HELENE FISCHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/so_nah_wie_du.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "EN AFTEN MED FISKER THOMAS - OG ALLE VENNERNE",
-		"artist": "BUNDGARNSFISKERNE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bundgarnsfiskerne.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12216,14 +12192,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "JANIS JOPLIN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/janis_joplin_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "JANIS JOPLIN",
 		"price": "15,00 kr.",
@@ -12656,14 +12624,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DESTINATION",
-		"artist": "RONAN KEATING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/destination.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TURN IT ON",
 		"artist": "RONAN KEATING",
 		"price": "10,00 kr.",
@@ -12676,22 +12636,6 @@
 		"artist": "RONAN KEATING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/keating_turn_it_on.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "VISER & SØMANDSSANGE",
-		"artist": "LONE KELLERMANN & NIELS SØMAND",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/viser_og_soemandssange.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FØR NATTEN BLI'R TIL DAG",
-		"artist": "LONE KELLERMANN & ROCKBANDET",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/foer_natten_blir.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19632,14 +19576,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "SUZI QUATRO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/quatro_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "WHAT GOES AROUND, GREATEST & LATEST",
 		"artist": "SUZI QUATRO",
 		"price": "10,00 kr.",
@@ -24072,14 +24008,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "CAT STEVENS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cat_stevens_very_best_island.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "WILD WORLD",
 		"artist": "CAT STEVENS",
 		"price": "10,00 kr.",
@@ -26048,30 +25976,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "PAS PÅ DINE BLÅ ØJNE",
-		"artist": "TØSEDRENGENE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pas_paa_dine_blaa_oejne.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SIG DU KA' LI' MIG",
-		"artist": "TØSEDRENGENE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sig_du_ka_li_mig.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "3",
-		"artist": "TØSEDRENGENE",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/toesedrengene_3.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALLE VORE HÅB",
 		"artist": "TØSEDRENGENE",
 		"price": "20,00 kr.",
@@ -26092,14 +25996,6 @@
 		"artist": "TØSEDRENGENE",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/det_gaar_fremad_1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I SIKRE HÆNDER",
-		"artist": "TØSEDRENGENE",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/i_sikre_haender.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
