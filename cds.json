@@ -11048,14 +11048,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "STENÅLDERN KAN BOJA (paphylster)",
-		"artist": "BOB HUND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stenaaldern_kan_boeja.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "A LIFETIME",
 		"artist": "HUSH",
 		"price": "10,00 kr.",
@@ -11196,14 +11188,6 @@
 		"artist": "BILLY IDOL",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/cyberpunk.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "WHIPLASH SMILE",
-		"artist": "BILLY IDOL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/whiplash_smile.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12332,14 +12316,6 @@
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/storbyens_smaa_oaser.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FACE IN THE CROWD",
-		"artist": "JIMMY JØRGENSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/face_in_the_crowd.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26880,14 +26856,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WANT ONE",
-		"artist": "RUFUS WAINWRIGHT",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/want_one.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ASYLUM YEARS (digitally remastered)",
 		"artist": "TOW WAITS",
 		"price": "20,00 kr.",
@@ -27172,14 +27140,6 @@
 		"artist": "WHIGFIELD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/whigfield_special.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "INSULT TO INJURY + LIVE NEW YORK 1986",
-		"artist": "WHIPLASH",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/insult_to_injury.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
