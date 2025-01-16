@@ -8176,14 +8176,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE REMINDER / LET IT DIE (remastered)",
-		"artist": "FEIST",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_reminder_let_it_die.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIGHT MY FIRE",
 		"artist": "JOSÉ FELICIANO",
 		"price": "10,00 kr.",
@@ -9412,14 +9404,6 @@
 		"artist": "LUKAS GRAHAM",
 		"price": "40,00 kr.",
 		"origin": "https://cd6000.dk/lukas_graham_2015.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LUKAS GRAHAM",
-		"artist": "LUKAS GRAHAM",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/lukas_graham_2016.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11424,14 +11408,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WICKED GAME",
-		"artist": "CHRIS ISAK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wicked_game.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "VI SOM ALDRIG LANDAT",
 		"artist": "PATRIK ISAKSSON",
 		"price": "10,00 kr.",
@@ -12768,14 +12744,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DEUCES WILD",
-		"artist": "B.B. KING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/deuces_wild.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "KING OF THE BLUES 1989",
 		"artist": "B.B. KING",
 		"price": "10,00 kr.",
@@ -12812,14 +12780,6 @@
 		"artist": "CAROLE KING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tapestry.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "IN THE COURT OF THE CRIMSON KING (remastered)",
-		"artist": "KING CRIMSON",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/in_the_court.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13568,6 +13528,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LAIDEST GREATEST",
+		"artist": "LAID BACK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/laidest_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHY IS EVERYBODY IN SUCH A HURRY!",
 		"artist": "LAID BACK",
 		"price": "30,00 kr.",
@@ -13604,6 +13572,22 @@
 		"artist": "k.d. LANG",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ingenue.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ALONGSIDE THE BLUES",
+		"artist": "H.P.LANGE & TROELS JENSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/alongside_the_blues.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TAKE ME HOME",
+		"artist": "H.P. LANGE & TROELS JENSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/take_me_home.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13716,6 +13700,22 @@
 		"artist": "KIM LARSEN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/vaersgo_2310.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KIELGASTEN",
+		"artist": "KIM LARSEN & BELLAMI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kielgasten.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WISDOM IS SEXY",
+		"artist": "LARSEN & BELLAMI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/wisdom_is_sexy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -13932,6 +13932,14 @@
 		"artist": "CYNDI LAUPER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/twelve_deadly_cyns.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LAZYBOY TV (CD+DVD)",
+		"artist": "LAZYBOY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lazyboy_tv.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14216,6 +14224,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "CREATURE",
+		"artist": "LIFE AFTER WEEKEND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/creature.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LIFEHOUSE",
 		"artist": "LIFEHOUSE",
 		"price": "10,00 kr.",
@@ -14236,6 +14252,14 @@
 		"artist": "LIGHTHOUSE FAMILY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/lighthouse_family_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WHATEVER GETS YOU THROUGH THE DAY",
+		"artist": "LIGHTHOUSE FAMILY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/whatever_gets_you_through_the_day.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14496,6 +14520,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LINNET'S JUL (papcover)",
+		"artist": "ANNE LINNET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/linnets_jul_pap.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MIN SANG",
 		"artist": "ANNE LINNET",
 		"price": "10,00 kr.",
@@ -14552,6 +14584,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GO' SØNDAG MORN'",
+		"artist": "ANNE LINNET",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/go_soendag_morn.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CHA CHA CHA",
 		"artist": "ANNE LINNET BAND",
 		"price": "20,00 kr.",
@@ -14564,6 +14604,22 @@
 		"artist": "ANNE LINNET MARQUIS de SADE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hvid_magi.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "EN ELSKER",
+		"artist": "ANNE LINNET MARQUIS de SADE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/en_elsker.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MARQUIS de SADE",
+		"artist": "ANNE LINNET MARQUIS de SADE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/marquis_de_sade.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14792,6 +14848,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FOREVER CHANGES (remastered & expanded)",
+		"artist": "LOVE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/forever_changes_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LOVE WILL KILL YOU",
 		"artist": "LOVE JULIE",
 		"price": "10,00 kr.",
@@ -14884,6 +14948,14 @@
 		"artist": "THE LUMINEERS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/cleopatra.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MÅNE ÖVER HAVÄNG",
+		"artist": "ULF LUNDELL",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/maane_oever_havaeng.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15160,6 +15232,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BOUNTY BLUE",
+		"artist": "JOHNNY MADSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/bounty_blue.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "CHECKPOINT CHARLIE",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -15356,6 +15436,14 @@
 		"artist": "MANI SPINX",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/post_modern_panic.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOREVER DELAYED, THE GREATEST HITS",
+		"artist": "MANIC STREET PREACHERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/forever_delayed.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15592,6 +15680,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "YOURSELF OR SOMEONE LIKE YOU",
+		"artist": "MATCHBOX TWENTY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/yourself_or_someone_like_you.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "RØDT & HVIDT",
 		"artist": "MATHILDE",
 		"price": "20,00 kr.",
@@ -15692,6 +15788,14 @@
 		"artist": "THE McCALMANS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tangled_web.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FLOWERS IN THE DIRT",
+		"artist": "PAUL McCARTNEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/flowers_in_the_dirt.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15992,6 +16096,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FOR ALTID SPECIAL EDCITION (2CD)",
+		"artist": "MEDINA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_altid_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VELKOMMEN TIL MEDINA",
+		"artist": "MEDINA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/velkommen_til_medina.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "COUNTDOWN TO EXTINCTION (remastered)",
 		"artist": "MEGADETH",
 		"price": "20,00 kr.",
@@ -16004,6 +16124,14 @@
 		"artist": "MEGADETH",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/cryptic_writings_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "YOUTHANASIA",
+		"artist": "MEGADETH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/youthanasia.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16168,6 +16296,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THIS IS JAZZ",
+		"artist": "AL DI MEOLA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/this_is_jazz.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MOTHERLAND",
 		"artist": "NATALIE MERCHANT",
 		"price": "10,00 kr.",
@@ -16180,6 +16316,14 @@
 		"artist": "NATALIE MERCHANT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tigerlily.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE SECRET MIGRATION",
+		"artist": "MERCURY REV",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_secret_migration.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16340,6 +16484,14 @@
 		"artist": "MICHAEL LEARNS TO ROCK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/played_on_pepper.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ETERNITY",
+		"artist": "MICHAEL LEARNS TO ROCK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/eternity.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23364,14 +23516,6 @@
 		"artist": "SNOW",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/12_inches.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "UP TO NOW (2CD) THE BEST OF",
-		"artist": "SNOW PATROL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/up_to_now.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
