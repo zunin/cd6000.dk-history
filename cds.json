@@ -11832,14 +11832,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "COLD SPRING HARBOUR",
-		"artist": "BILLY JOEL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/cold_spring_harbour.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS 1970-2002 (2CD)",
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
@@ -13576,14 +13568,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ALONGSIDE THE BLUES",
-		"artist": "H.P.LANGE & TROELS JENSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/alongside_the_blues.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TAKE ME HOME",
 		"artist": "H.P. LANGE & TROELS JENSEN",
 		"price": "20,00 kr.",
@@ -13708,14 +13692,6 @@
 		"artist": "KIM LARSEN & BELLAMI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/kielgasten.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "WISDOM IS SEXY",
-		"artist": "LARSEN & BELLAMI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wisdom_is_sexy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14608,22 +14584,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "EN ELSKER",
-		"artist": "ANNE LINNET MARQUIS de SADE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/en_elsker.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MARQUIS de SADE",
-		"artist": "ANNE LINNET MARQUIS de SADE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/marquis_de_sade.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LINNET-SALOMONSEN",
 		"artist": "LINNET-SALOMONSEN",
 		"price": "20,00 kr.",
@@ -15232,14 +15192,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BOUNTY BLUE",
-		"artist": "JOHNNY MADSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/bounty_blue.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CHECKPOINT CHARLIE",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -15788,14 +15740,6 @@
 		"artist": "THE McCALMANS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tangled_web.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FLOWERS IN THE DIRT",
-		"artist": "PAUL McCARTNEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/flowers_in_the_dirt.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
