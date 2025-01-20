@@ -3512,14 +3512,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GRACE",
-		"artist": "JEFF BUCKLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/grace.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SO REAL: SONGS FROM JEFF BUCKLEY",
 		"artist": "JEFF BUCKLEY",
 		"price": "10,00 kr.",
@@ -4300,22 +4292,6 @@
 		"artist": "PETER CETERA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/youre_the_inspiration.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "COLLECTION",
-		"artist": "TRACY CHAPMAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/chapman_collection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "CROSSROADS",
-		"artist": "TRACY CHAPMAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/chapman_crossroads.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -5544,14 +5520,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "EVERY TURN OF THE WORLD",
-		"artist": "CHRISTOPHER CROSS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/every_turn_of_the_world.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BACK OF MY MIND",
 		"artist": "CHRISTOPHER CROSS",
 		"price": "20,00 kr.",
@@ -6128,14 +6096,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ULTRA",
-		"artist": "DEPECHE MODE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/depeche_mode_ultra.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PLAYING THE ANGEL (SACD+DVD)",
 		"artist": "DEPECHE MODE",
 		"price": "30,00 kr.",
@@ -6164,14 +6124,6 @@
 		"artist": "DESTINY'S CHILD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/8_days_of_christmas.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MASTER SERIES",
-		"artist": "DEXYS MIDNIGHT RUNNERS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dexy_midnight_runners_master.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -7368,14 +7320,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "ELO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elo_very_best_dino.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ELISABEDST",
 		"artist": "ELISABETH",
 		"price": "20,00 kr.",
@@ -7980,14 +7924,6 @@
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_real_thing.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DE 17 BEDSTE",
-		"artist": "MICHAEL FALCH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/de_17_bedste.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -11508,14 +11444,6 @@
 		"artist": "MICHAEL JACKSON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dangerous.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "HISTORY (2CD)",
-		"artist": "MICHAEL JACKSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jackson_history.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16040,14 +15968,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FOR ALTID SPECIAL EDCITION (2CD)",
-		"artist": "MEDINA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/for_altid_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "VELKOMMEN TIL MEDINA",
 		"artist": "MEDINA",
 		"price": "10,00 kr.",
@@ -17188,14 +17108,6 @@
 		"artist": "NANA MOUSKOURI",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/passport.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ALF",
-		"artist": "ALISON MOYET",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alf.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19160,14 +19072,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ECHOES, THE BEST OF (2CD)",
-		"artist": "PINK FLOYD",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/echoes.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE WALL (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -19500,14 +19404,6 @@
 		"artist": "PRINCE & THE NEW POWER GENERATION",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/love_symbol.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "PURPLE RAIN",
-		"artist": "PRINCE & THE REVOLUTION",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/purple_rain.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23344,14 +23240,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE INTERVIEW speak 01a (NY i folie)",
-		"artist": "THE SMITHS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_interviews.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FROM THE HEART",
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
@@ -24988,14 +24876,6 @@
 		"artist": "TAKE THAT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/beautiful_world.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE COLOUR OF SPRING",
-		"artist": "TALK TALK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_colour_of_spring_bag.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
