@@ -16144,6 +16144,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "CARGO / BUSINESS AS USUAL (2CD)",
+		"artist": "MEN AT WORK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/cargo_business.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "APPARANTLY UNAFFECTED",
 		"artist": "MARIA MENA",
 		"price": "10,00 kr.",
@@ -16200,10 +16208,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LOAD",
+		"artist": "METALLICA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/metallica_load.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "RELOAD",
 		"artist": "METALLICA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/reload.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ST. ANGER",
+		"artist": "METALLICA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/st_anger_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AND JUSTICE FOR ALL",
+		"artist": "METALLICA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/and_justice_for_all.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BALLADS (unofficial)",
+		"artist": "METALLICA",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/metallica_ballads_needle.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16216,6 +16256,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GARAGE INC (2CD) (remastered)",
+		"artist": "METALLICA",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/garage_inc2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "HARDWIRED.. TO SELF- DESTRUCT (2CD)",
 		"artist": "METALLICA",
 		"price": "30,00 kr.",
@@ -16224,10 +16272,42 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ST. ANGER (CD+DVD)",
+		"albumTitle": "KILL 'EM ALL",
 		"artist": "METALLICA",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/st_anger_2.htm",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/kill_em_all.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HARDWIRED.. TO SELF- DESTRUCT (2CD)",
+		"artist": "METALLICA",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/hardwired_to_self-destruct.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MASTER OF PUPPETS",
+		"artist": "METALLICA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/master_of_puppets.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RIDE THE LIGHTNING",
+		"artist": "METALLICA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/ride_the_lightning.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ST. ANGER",
+		"artist": "METALLICA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/st_anger_1.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16480,6 +16560,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIVING YEARS",
+		"artist": "MIKE + THE MECHANICS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/living_years.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "MIKE & THE MECANICS M6",
 		"artist": "MIKE & THE MECANICS",
 		"price": "10,00 kr.",
@@ -16524,6 +16612,22 @@
 		"artist": "STEVE MILLER BAND",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/steve_miller_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS 1974-78",
+		"artist": "STEVE MILLER BAND",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/steve_miller_greatest_74.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE!",
+		"artist": "STEVE MILLER BAND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/steve_miller_live.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16600,6 +16704,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HEJIRA",
+		"artist": "JONI MITCHELL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hejira.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NO ONE WILL FORCE YOU",
+		"artist": "LIZ MITCHELL",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/no_one_will_force_you.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "LAST NIGHT",
 		"artist": "MOBY",
 		"price": "10,00 kr.",
@@ -16632,6 +16752,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "MODERN TALKING",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/modern_talking_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHO LOVE BAD NEWS",
 		"artist": "MODEST MOUSE",
 		"price": "10,00 kr.",
@@ -16644,6 +16772,14 @@
 		"artist": "JOEY MOE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/joey_moe_midnat.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "?",
+		"artist": "JOHN MOGENSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/john_spoergsmaalstegn.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16768,6 +16904,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DE TYKKE SYNGER (CD+DVD)",
+		"artist": "MONRAD & RISLUND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/de_tykke_synger.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DEN STORE JULEBASAR",
 		"artist": "MONRAD & RISLUND",
 		"price": "10,00 kr.",
@@ -16872,10 +17016,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DAYS OF FUTURE PASSED (digitally remastered)",
+		"artist": "THE MOODY BLUES",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/days_of_future_passed.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "EVERY GOOD BOY DESERVES FAVOUR (digital remastered)",
 		"artist": "THE MOODY BLUES",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/every_good_boy_deserves_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IN SEARCH OF THE LOST CHORD (digitally remastered)",
+		"artist": "THE MOODY BLUES",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/in_search_of_the_lost_chord.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -16940,6 +17100,14 @@
 		"artist": "MOONJAM",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/flashback.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "A DIFFERENT BEAT",
+		"artist": "GARY MOORE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/a_different_beat.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17036,6 +17204,14 @@
 		"artist": "MORRISSEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/maladjusted.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RINGLEADER OF THE TORMENTORS (lille fold på bagcover - derfor pris)",
+		"artist": "MORRISSEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/ringleader_of.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17256,6 +17432,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ORIGIN OF SYMMETRY",
+		"artist": "MUSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/origin_of_symmetry.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHOWBIZ",
+		"artist": "MUSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/showbiz.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE RESISTANCE (CD+DVD)",
 		"artist": "MUSE",
 		"price": "10,00 kr.",
@@ -17332,6 +17524,14 @@
 		"artist": "ALANNAH MYLES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/rockinghorse.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FANTASY",
+		"artist": "MÜNCHENER FREIHEIT",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/fantasy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17576,6 +17776,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "INTERKOM KOM IND",
+		"artist": "NEPHEW",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/interkom_kom_ind.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "USADSB",
 		"artist": "NEPHEW",
 		"price": "10,00 kr.",
@@ -17704,6 +17912,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SOUL KISS",
+		"artist": "OLIVIA NEWTON JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/soul_kiss.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "OLIVIA NEWTON-JOHN",
 		"price": "10,00 kr.",
@@ -17728,6 +17944,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "OLIVIA NEWTON-JOHN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/olivia_best_of.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BACK TO BASICS THE VERY BEST OF",
 		"artist": "OLIVIA NEWTON JOHN",
 		"price": "10,00 kr.",
@@ -17744,10 +17968,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HOMMAGE ONCE UPON A TIME",
+		"artist": "N.H.Ø.P./MIKKELBORG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hommage.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ÅRGANG 79",
 		"artist": "NIARN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/aargang_79.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HANG ON TO A DREAM",
+		"artist": "THE NICE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/hang_on_to_a_dream.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17840,6 +18080,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HIGHEST HOPES THE BEST OF",
+		"artist": "NIGHTWISH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/highest_hopes.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NIK & JAY",
 		"artist": "NIK & JAY",
 		"price": "10,00 kr.",
@@ -17848,10 +18096,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "2",
+		"artist": "NIK & JAY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/nik_og_jay2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "3 : FRESH FRI FLY",
 		"artist": "NIK & JAY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/fresh_fri_fly.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DE STØRSTE (2CD+live DVD)",
+		"artist": "NIK & JAY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/nik_og_jay_stoerste_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
