@@ -16616,14 +16616,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "GREATEST HITS 1974-78",
-		"artist": "STEVE MILLER BAND",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/steve_miller_greatest_74.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIVE!",
 		"artist": "STEVE MILLER BAND",
 		"price": "20,00 kr.",
@@ -17028,14 +17020,6 @@
 		"artist": "THE MOODY BLUES",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/every_good_boy_deserves_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "IN SEARCH OF THE LOST CHORD (digitally remastered)",
-		"artist": "THE MOODY BLUES",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/in_search_of_the_lost_chord.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
