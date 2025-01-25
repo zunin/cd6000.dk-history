@@ -4712,22 +4712,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FROM NOW ON",
-		"artist": "PETULA CLARK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/from_now_on.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "PETULA CLARK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/petula_clark_very_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ALL I EVER WANTED",
 		"artist": "KELLY CLARKSON",
 		"price": "10,00 kr.",
@@ -6696,10 +6680,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "2",
-		"artist": "DODO & THE DODO'S",
+		"albumTitle": "1",
+		"artist": "DODO & THE DODO's",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dodo2.htm",
+		"origin": "https://cd6000.dk/dodo1.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18112,14 +18096,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SOLAR PLEXUS",
-		"artist": "NIKOLAJ & PILOTERNE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/solar_plexus.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIVE (CD+DVD)",
 		"artist": "NIKOLAJ & PILOTERNE",
 		"price": "25,00 kr.",
@@ -22360,14 +22336,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NEVER MIND THE BOLLOCKS",
-		"artist": "SEX PISTOLS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/never_mind_the_bollocks.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "SHADOW KING",
 		"artist": "SHADOW KING",
 		"price": "10,00 kr.",
@@ -22576,10 +22544,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SHU-BI-DUA 7",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_7.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "8",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_8.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SHU-BI-DUA 9",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubidua_9.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SHU-BI-DUA 10",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_10.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
