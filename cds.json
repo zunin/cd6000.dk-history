@@ -17256,6 +17256,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ALF",
+		"artist": "ALISON MOYET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/alf.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SINGLES",
 		"artist": "ALISON MOYET",
 		"price": "10,00 kr.",
@@ -18200,10 +18208,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "IN UTERO",
+		"artist": "NIRVANA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/in_utero.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "NEVERMIND",
 		"artist": "NIRVANA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/nevermind.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "NIRVANA (REMASTERED)",
+		"artist": "NIRVANA",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/nirvana.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18276,6 +18300,14 @@
 		"artist": "CÆCILIE NORBY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/my_corner_of_the_sky.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LONDON/PARIS",
+		"artist": "CÆCILIE NORBY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/london-paris.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18424,10 +18456,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE LION AND THE COBRA",
+		"artist": "SINEAD O'CONNOR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_lion_and_the_cobra.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BEST OF - NATURALLY",
 		"artist": "GILBERT O'SULLIVAN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/osullivan_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BECAUSE OF YOU",
+		"artist": "PAUL OAKLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/because_of_you.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18444,6 +18492,22 @@
 		"artist": "OASIS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/standing_on_the_shoulders_of_giants.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AVENTINE",
+		"artist": "AGNES OBEL",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/aventine.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PHILHARMONICS (2CD)",
+		"artist": "AGNES OBEL",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/philharmonics2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18500,6 +18564,14 @@
 		"artist": "OFFSPRING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/smash.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "OH LAND",
+		"artist": "OH LAND",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/oh_land.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18768,6 +18840,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ROCKHOUSE",
+		"artist": "ROY ORBISON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rockhouse.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BÄSTA (2CD)",
 		"artist": "ORUP",
 		"price": "10,00 kr.",
@@ -18968,6 +19048,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "ROBERT PALMER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/palmer_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "A FEVER YOU CAN'T SWEAT OUT",
 		"artist": "PANIC AT THE DISCO",
 		"price": "10,00 kr.",
@@ -19020,6 +19108,14 @@
 		"artist": "CHARLIE PARKER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/chasin_the_bird.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE",
+		"artist": "ALAN PARSONS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/alan_parsons_live.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19112,6 +19208,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BACK IN THE BOX",
+		"artist": "PASSION ORANGE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/back_in_the_box.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "E RITORNO DA TE THE BEST OF",
 		"artist": "LAURA PAUSINI",
 		"price": "10,00 kr.",
@@ -19152,6 +19256,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VS.",
+		"artist": "PEARL JAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/vs.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "YIELD",
+		"artist": "PEARL JAM",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/yield.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "STADIG BESKIDT",
 		"artist": "PEDE B",
 		"price": "10,00 kr.",
@@ -19164,6 +19284,22 @@
 		"artist": "KATY PERRY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/one_of_the_boys.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ACTUALLY",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/actually.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "INTROSPECTIVE",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/introspective.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19296,6 +19432,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PINK FLOYD EMI",
+		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_division_bell.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE WALL (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -19316,6 +19460,14 @@
 		"artist": "PLACEBO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/once_more_with_feeling.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PLACEBO",
+		"artist": "PLACEBO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/placebo.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19344,10 +19496,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HELL'S DITCH",
+		"artist": "THE POGUES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hells_ditch.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF..",
 		"artist": "THE POGUES",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/pogues_very_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HOT HOT HOT",
+		"artist": "BUSTER POINDEXTER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/hot_hot_hot.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19416,6 +19584,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DUMMY",
+		"artist": "PORTISHEAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dummy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DANIEL POWTER",
 		"artist": "DANIEL POWTER",
 		"price": "10,00 kr.",
@@ -19456,6 +19632,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "30.000.000 ELVIS FANS CAN'T BE WRONG",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/30000000_elvis.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ALWAYS ON MY MIND The Ultimate Love Song Collection",
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
@@ -19468,6 +19652,22 @@
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/as_recorded_at_madison.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELVIS FOR EVERYONE",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elvis_for_everyone.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SVENSKA HITS",
+		"artist": "ELVIS PRESLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elvis_svenska_hits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
