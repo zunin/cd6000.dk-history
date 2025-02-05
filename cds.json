@@ -14144,14 +14144,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WHATEVER GETS YOU THROUGH THE DAY",
-		"artist": "LIGHTHOUSE FAMILY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/whatever_gets_you_through_the_day.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIKE YOU DO BEST OF THE LIGHTNING SEEDS",
 		"artist": "THE LIGHTNING SEEDS",
 		"price": "10,00 kr.",
@@ -14988,14 +14980,6 @@
 		"artist": "MADONNA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/like_a_prayer_digital.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "LIKE A VIRGIN",
-		"artist": "MADONNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/like_a_virgin.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19152,14 +19136,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "QUEEN OF COUNTRY (2CD)",
-		"artist": "DOLLY PARTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/queen_of_country.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STØRSTE HITS",
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
@@ -19284,6 +19260,14 @@
 		"artist": "KATY PERRY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/one_of_the_boys.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ANIMAL HEART OBS : oprindeligt udgivet som digipack - men denne er 'beklippet til' en alm. CD - derfor prisen (og forsiden)",
+		"artist": "NINA PERSSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/animal_heart.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19840,6 +19824,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE PRODIGAL STRANGER 1991",
+		"artist": "PROCOL HARUM BMG BESTIL NR. 25106",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_prodigal_stranger.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BEATS ME",
 		"artist": "PSYCHED UP JANIS",
 		"price": "10,00 kr.",
@@ -19860,6 +19852,14 @@
 		"artist": "PSYCHED UP JANIS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/swell.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE QUIET ALBUM",
+		"artist": "PSYCHED UP JANIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_quiet_album.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19964,6 +19964,22 @@
 		"artist": "PÅ SLAGET 12",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tror_du_virklig.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AVALANCHE",
+		"artist": "QUADRON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/avalanche.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE GOLD COLLECTION",
+		"artist": "SUZI QUATRO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/suzi_quatro_gold.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20208,10 +20224,34 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HAIL TO THE THIEF (lille fold på bagcover)",
+		"artist": "RADIOHEAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hail_to_the_thief_warner.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KID A (lille fold på bagcover)",
+		"artist": "RADIOHEAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kid_a.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "OK COMPUTER",
 		"artist": "RADIOHEAD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ok_computer.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PABLO HONEY",
+		"artist": "RADIOHEAD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pablo_honey.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20276,6 +20316,14 @@
 		"artist": "RAMMSTEIN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/liebe_ist_fuer_alle_da_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HERZELEID",
+		"artist": "RAMMSTEIN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/herzeleid.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -20832,6 +20880,30 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "20 ORIGINAL GREATS",
+		"artist": "CLIFF RICHARD & THE SHADOWS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cliff_20_original_greats.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SUMMER HOLIDAY",
+		"artist": "CLIFF RICHARD & THE SHADOWS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/summer_holiday.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TALK IS CHEAP",
+		"artist": "KEITH RICHARDS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/talk_is_cheap.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DANCING IN THE CEILING",
 		"artist": "LIONEL RICHIE",
 		"price": "10,00 kr.",
@@ -20980,6 +21052,22 @@
 		"artist": "THOMAS RING",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/wrong_side_of_the_daylight.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STOLEN MOMENTS",
+		"artist": "LEE RITENOUR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/stolen_moments.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PERMANENT SHADE OF BLUE",
+		"artist": "ROACHFORD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/permanent_shade_oif_blue.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21576,6 +21664,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RECOVERY",
+		"artist": "RUNRIG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/recovery.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "30 YEAR JOURNEY - THE BEST",
 		"artist": "RUNRIG",
 		"price": "10,00 kr.",
@@ -21656,6 +21752,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SE DIG IKKE TILBAGE",
+		"artist": "RÅSTOF",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/se_dig_ikke_tilbage.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DIAMOND LIFE",
+		"artist": "SADE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/diamond_life.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PROMISE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -21732,6 +21844,14 @@
 		"artist": "SAGA",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/wildest_dreams.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "SAILOR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sailor_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21828,6 +21948,14 @@
 		"artist": "SANNE SALOMONSEN",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/where_blue_begins.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE SHOW (CD+DVD)",
+		"artist": "SANNE SALOMONSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sanne_the_show.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22264,6 +22392,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PLATINUM COLLECTION 2000 (unofficial)",
+		"artist": "SCORPIONS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/scorpions_platinum.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PURE INSTINCT",
 		"artist": "SCORPIONS",
 		"price": "20,00 kr.",
@@ -22380,6 +22516,14 @@
 		"artist": "SEBASTIAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/miraklernes_tid.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SEBASTIAN CMC",
+		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sebastian_musical.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25964,14 +26108,6 @@
 		"artist": "TINA TURNER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tina_all_the_best.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BREAK EVERY RULE",
-		"artist": "TINA TURNER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/break_every_rule.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
