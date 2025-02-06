@@ -21488,14 +21488,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "JOYRIDE",
-		"artist": "ROXETTE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/joyride.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LOOK SHARP!",
 		"artist": "ROXETTE",
 		"price": "10,00 kr.",
@@ -21516,14 +21508,6 @@
 		"artist": "ROXETTE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_ballad_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TOURISM",
-		"artist": "ROXETTE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tourism.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
