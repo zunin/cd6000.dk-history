@@ -3832,14 +3832,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A MAN AND HIS BLUES",
-		"artist": "JOHN CAMPBELL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_man_and_his_blues.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ONE BELIEVER",
 		"artist": "JOHN CAMPBELL",
 		"price": "20,00 kr.",
@@ -8008,14 +8000,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "ON THE BEACH",
-		"artist": "CHRIS FARLOWE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/farlowe_on_the_beach.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "AGE OF REASON",
 		"artist": "JOHN FARNHAM",
 		"price": "10,00 kr.",
@@ -9944,14 +9928,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "MOVIE STAR GREATEST HITS",
-		"artist": "HARPO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/harpo_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BLUE KENTUCKY GIRL",
 		"artist": "EMMYLOU HARRIS",
 		"price": "20,00 kr.",
@@ -11172,14 +11148,6 @@
 		"artist": "INCIBUS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/science.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "1200 CURFEWS (2CD)",
-		"artist": "INDIGO GIRLS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/1200_curfews.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17488,14 +17456,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FANTASY",
-		"artist": "MÜNCHENER FREIHEIT",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/fantasy.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "A MONTH OF UNREQUITED LOVE (2CD)",
 		"artist": "MICHAEL MØLLER",
 		"price": "10,00 kr.",
@@ -19480,14 +19440,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HELL'S DITCH",
-		"artist": "THE POGUES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/hells_ditch.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF..",
 		"artist": "THE POGUES",
 		"price": "20,00 kr.",
@@ -21092,14 +21044,6 @@
 		"artist": "ROBEN & KNUD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/vivaldi_og_ven.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "MUSIC FOR THE NATIVE AMERICANS",
-		"artist": "ROBERT ROBERTSON & THE RED ROAD ENSEMBLE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/music_for_the_native.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23424,22 +23368,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DIVINE DISCONTENT",
-		"artist": "SIXPENCE NONE THE RICHER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/divine_discontent.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE FATHERLESS AND THE WIDOW",
-		"artist": "SIXPENCE NONE THE RICHER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_fatherless.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "B-SIDE OURSELVES (EP)",
 		"artist": "SKID ROW",
 		"price": "10,00 kr.",
@@ -24824,14 +24752,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A GRAND DON'T COME FOR FREE",
-		"artist": "THE STREETS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_grand_dont_come_for_free.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "A GRAND DON'T COME FOR FREE / ORIGINAL PIRATE MATERIAL (2CD)",
 		"artist": "THE STREETS",
 		"price": "10,00 kr.",
@@ -24844,14 +24764,6 @@
 		"artist": "THE STREETS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/a_grand_dont_come_for_free_original.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "EVERYTHING IS BORROWED",
-		"artist": "THE STREETS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/everything_is_borrowed.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26720,14 +26632,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "REVELATION",
-		"artist": "ULTRAVOX",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/revelation.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "DET ER MIG DER HOLDER TRÆERNE SAMMEN",
 		"artist": "UNDER BYEN",
 		"price": "20,00 kr.",
@@ -26836,14 +26740,6 @@
 		"artist": "VAN MORRISON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/van_morrison1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "A SENSE OF WONDER",
-		"artist": "VAN MORRISON",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/a_sense_of_wonder.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
