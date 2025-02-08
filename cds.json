@@ -14792,14 +14792,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "OMAHA",
-		"artist": "ULF LUNDELL",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/omaha.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "RIPP RAPP",
 		"artist": "ULF LUNDELL",
 		"price": "30,00 kr.",
@@ -22444,14 +22436,6 @@
 		"artist": "SEBASTIAN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/miraklernes_tid.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SEBASTIAN CMC",
-		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sebastian_musical.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
