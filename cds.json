@@ -21824,6 +21824,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE EXTREMIST",
+		"artist": "JOE SATRIANI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_extremist.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ORIGINAL ALBUM CLASSICS (5CD 'papboks')",
 		"artist": "JOE SATRIANI",
 		"price": "75,00 kr.",
@@ -22336,6 +22344,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "COLLECTION",
+		"artist": "THE SEEKERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/seekers_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "THE SEEKERS",
 		"price": "15,00 kr.",
@@ -22384,6 +22400,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BEST OF",
+		"artist": "THE SHADOWS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shadows_best_discy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE COOLEST CUTS",
 		"artist": "SHAKATAK",
 		"price": "10,00 kr.",
@@ -22428,6 +22452,14 @@
 		"artist": "FEARGAL SHARKEY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/feargal_sharkey_wish.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VEGA 22.10.96",
+		"artist": "THE SHARING PATROL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/vega_221096.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22536,10 +22568,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "2",
+		"albumTitle": "1",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/shubidua_2.htm",
+		"origin": "https://cd6000.dk/shubidua_1.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22744,6 +22776,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "1000 FORMS OF FEAR",
+		"artist": "SIA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/1000_forms_of_fear.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SOME PEOPLE HAVE REAL PROBLEMS",
 		"artist": "SIA",
 		"price": "10,00 kr.",
@@ -22772,6 +22812,14 @@
 		"artist": "LENE SIEL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/lene_siel_favoritter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STILL FRIENDS",
+		"artist": "CHRISTIAN SIEVERT JUKKA TOLONEN",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/still_friends.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -22856,6 +22904,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SURPRISE",
+		"artist": "PAUL SIMON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/paul_simon_surprise.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE RHYTHM OF THE SAINTS (papcover)",
 		"artist": "PAUL SIMON",
 		"price": "10,00 kr.",
@@ -22900,6 +22956,14 @@
 		"artist": "SIMPLE MINDS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/street_fighting_years.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IN THE CITY OF LIGHT LIVE (2CD)",
+		"artist": "SIMPLE MINDS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/in_the_city_of_light.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23116,6 +23180,30 @@
 		"artist": "SISTERS OF MERCY",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/vision_thing_bag.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BIG TIME",
+		"artist": "SKAGARACK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/big_time.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HUNGRY FOR A GAME",
+		"artist": "SKAGARACK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/hungry_for_a_game.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "SKAGARACK",
+		"artist": "SKAGARACK",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/skagarack.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23488,6 +23576,38 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "NEW NOON (2CD)",
+		"artist": "ELLIOT SMITH",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/new_moon.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "EASTER",
+		"artist": "PATTI SMITH GROUP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/easter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IN THE LONELY HOUR",
+		"artist": "SAM SMITH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/in_the_lonely_hour.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEST... I",
+		"artist": "THE SMITHS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_smiths_best_i.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FROM THE HEART",
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
@@ -23508,6 +23628,14 @@
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/light_a_candle.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ON THE WIRE",
+		"artist": "SMOKIE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/on_the_wire.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23560,6 +23688,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TAKE A MINUTE (CD+DVD)",
+		"artist": "SMOKIE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/take_a_minute.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE HIT BOX (10CD) 2003",
 		"artist": "SMOKIE CMC BESTIL NR. 149",
 		"price": "10,00 kr.",
@@ -23600,6 +23736,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MIRACLE",
+		"artist": "S.O.A.P.",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/soap_miracle.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TIL ROTTERNE, TIL KRAGERNE TIL HUNDENE",
 		"artist": "PETER SOMMER",
 		"price": "25,00 kr.",
@@ -23632,6 +23776,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FLOW MY FIRETEAR",
+		"artist": "SORT SOL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/flow_my_firetear.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF S.O.S.",
 		"artist": "SOUND OF SEDUCTION",
 		"price": "10,00 kr.",
@@ -23656,10 +23808,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DOWN ON THE UPSIDE",
-		"artist": "SOUNDGARDEN",
+		"albumTitle": "GRAVE DANCERS UNION",
+		"artist": "SOUL ASYLUM",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/down_on_the_upside.htm",
+		"origin": "https://cd6000.dk/grave_dancers.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23780,6 +23932,14 @@
 		"artist": "BRITNEY SPEARS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/britney_blackout.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BRITNEY",
+		"artist": "BRITNEY SPEARS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/britney.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24352,6 +24512,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ATLANTIC CROSSING",
+		"artist": "ROD STEWART",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/atlantic_crossing.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "STICKS 'N' FIRE",
 		"artist": "STICKS 'N' FIRE",
 		"price": "10,00 kr.",
@@ -24604,6 +24772,14 @@
 		"artist": "ANDREW STRONG",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/andrew_strong_strong.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BELLEVUE",
+		"artist": "HENRIK STRUBE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/bellevue.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
