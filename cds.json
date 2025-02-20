@@ -19992,14 +19992,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "KID A (lille fold på bagcover)",
-		"artist": "RADIOHEAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kid_a.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "OK COMPUTER",
 		"artist": "RADIOHEAD",
 		"price": "10,00 kr.",
@@ -21496,6 +21488,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SOLDIER OF LOVE",
+		"artist": "SADE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/soldier_of_love.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "STRONGER THAN PRIDE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -22232,6 +22232,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MUSICAL HIGHLIGHTS (2CD)",
+		"artist": "SEBASTIAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/musical_highlights.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PÅ VULKANER",
 		"artist": "SEBASTIAN",
 		"price": "25,00 kr.",
@@ -22352,6 +22360,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "BOB SEGER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/bob_seger_greatest.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHERE ARE MY SHOES",
 		"artist": "SIDSEL BEN SEMMANE",
 		"price": "10,00 kr.",
@@ -22380,6 +22396,14 @@
 		"artist": "SEPULTURA",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/schizophrenia_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KISS THIS",
+		"artist": "SEX PISTOLS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/kiss_this.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23384,6 +23408,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FOLKEMON",
+		"artist": "SKYCLAD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/folkemon.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE SLADE COLLECTION 81-87",
 		"artist": "SLADE",
 		"price": "10,00 kr.",
@@ -23456,26 +23488,18 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "BACK ON THE RIGHT TRACK",
-		"artist": "SLY & THE FAMILY STONE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/back_on_the_right_track.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STAND!",
-		"artist": "SLY & THE FAMILY STONE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stand.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BACKTRACKS",
 		"artist": "SLY & THE FAMILY STONE",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/backtracks.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VOL. 3: THE SUBLIMINAL VERSES",
+		"artist": "SLIPNOT",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/the_subliminal_verses.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -23776,6 +23800,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MARK II",
+		"artist": "SORTEN MULD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sorten_muld_mark_ii.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE VERY BEST OF S.O.S.",
 		"artist": "SOUND OF SEDUCTION",
 		"price": "10,00 kr.",
@@ -23804,6 +23836,14 @@
 		"artist": "SOUL ASYLUM",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/grave_dancers.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "A-SIDES",
+		"artist": "SOUNDGARDEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/soundgarden_a-sides.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -24912,6 +24952,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIVE AT JAZZCUB",
+		"artist": "SUMMER OF LOVE feat. PIERRE DØRGE & CHRISTIAN SIEVERT",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/live_at_jazzcub.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "I SHOULD COCO",
 		"artist": "SUPERGRASS",
 		"price": "10,00 kr.",
@@ -25248,6 +25296,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DEJLIGE DANSKE (2CD)",
+		"artist": "LIS SØRENSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/lis_soerensen_dejlige_danske.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BRIDGE OF SPIES",
 		"artist": "T'PAU",
 		"price": "10,00 kr.",
@@ -25260,6 +25316,14 @@
 		"artist": "T-PAU",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tpau_rage.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CHILDREN OF THE REVOLUTION AN INTRODUCTION TO MARC BOLAN (2CD)",
+		"artist": "T-REX",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/children_of_the_revolution.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25568,6 +25632,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "EVERY KINDS OF LONELINESS",
+		"artist": "TANITA TIKARAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/every_kinds_of_loneliness.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE CAPPUCCINO SONGS",
+		"artist": "TANITA TIKARAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_cappuccino_songs.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE SWEET KEEPER",
 		"artist": "TINITA TIKARAM",
 		"price": "10,00 kr.",
@@ -25588,6 +25668,14 @@
 		"artist": "THE TIME",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/november_light.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TIN MACHINE",
+		"artist": "TIN MACHIN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/tin_machine.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25640,6 +25728,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "FAHRENHEIT",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/fahrenheit.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS (2CD)",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -25656,6 +25752,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "KINGDOM OF DESIRE",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kingdom_of_desire.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "PAST TO PRESENT 1977-1990",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -25664,10 +25768,42 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SUPER HITS",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/toto_super_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TAMBU",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/tambu.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TAMBU",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tambu_bag.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE SEVENTH ONE",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_seventh_one.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THROUGH THE LOOKING GLASS",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/through_the_looking_glass.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25700,6 +25836,14 @@
 		"artist": "TOYS OF JOY",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/one_of_these_days.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "RECOVERING THE WASTED YEARS",
+		"artist": "MIKE TRAMP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/recovering_the_wasted_years.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25908,6 +26052,14 @@
 		"artist": "TINE TURNER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tina_turner_live_in_europe.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PRIVATE DANCER",
+		"artist": "TINA TURNER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/private_dancer.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26260,6 +26412,14 @@
 		"artist": "TÆSKEHOLDET",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/vi_sparker_roev.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LUGTER LIDT AF FISK",
+		"artist": "TØSEDRENGENE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/lugter_lidt_af_fisk.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
