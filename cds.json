@@ -26680,6 +26680,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VOL. 1 THE EARLY YEARS - & VOL. 2 THE MIDDLE YEARS (2CD)",
+		"artist": "THE UNITED STATES OF AMERICA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_united_states_1-2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AFTENLAND EXPRESS",
+		"artist": "JENS UNMACK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/afterland_express.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VEJEN HJEM FRA ROCKNROLL",
 		"artist": "JENS UNMACK",
 		"price": "10,00 kr.",
@@ -26688,10 +26704,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE ULTRA ZONE",
+		"artist": "STEVE VAI",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_ultra_zone.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "1984",
 		"artist": "VAN HALEN",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/1984.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BALANCE",
+		"artist": "VAN HALEN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/balance.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26708,6 +26740,14 @@
 		"artist": "VAN HALEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/right_here_right_now.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "VAN HALEN",
+		"artist": "VAN HALEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/van_halen.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26772,6 +26812,14 @@
 		"artist": "VAN MORRISON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/van_morrison1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AT THE MOVIES",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/van_morrison_at_the_movies.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26872,6 +26920,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "REPRISE 1990-1999",
+		"artist": "VANGELIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/reprise_1990-1999.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "YOU KEEP ME HANGIN ON",
 		"artist": "VANILLA FUDGE",
 		"price": "10,00 kr.",
@@ -26900,6 +26956,14 @@
 		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/couldnt_stand.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/vaughan_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26948,6 +27012,14 @@
 		"artist": "SUZANNE VEGA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/suzanne_vega.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CONTRABAND",
+		"artist": "VELVET REVOLVER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/contraband.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27060,6 +27132,14 @@
 		"artist": "MADS VINDING TRIO ALEX RIEL & ENRICO PIERANUNZI",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/mads_vinding_trio.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "KØBENHAVN BY NIGHT",
+		"artist": "VILDNIS",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/koebenhavn_by_night.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27192,6 +27272,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ROCK THE REBEL/METAL THE DEVIL",
+		"artist": "VOLBEAT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rock_the_rebel.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BEYOND HELL ABOVE HEAVEN (CD+DVD)",
 		"artist": "VOLBEAT",
 		"price": "30,00 kr.",
@@ -27312,6 +27400,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "WANT TWO",
+		"artist": "RUFUS WAINWRIGHT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/want_two1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "ASYLUM YEARS (digitally remastered)",
 		"artist": "TOW WAITS",
 		"price": "20,00 kr.",
@@ -27372,6 +27468,14 @@
 		"artist": "JAMIE WALTERS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/walters_ride.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BAGSY ME",
+		"artist": "THE WANNADIES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bagsy_me.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27440,6 +27544,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE PROS AND CONS OF HITCH HIKING",
+		"artist": "ROGER WATERS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_pros_and_cons.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "SOME FUTURE",
 		"artist": "WAY BACK WHEN",
 		"price": "10,00 kr.",
@@ -27452,6 +27564,14 @@
 		"artist": "AMDREW LLOYD WEBBER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/ovation.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PINKERTON",
+		"artist": "WEEZER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pinkerton.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -27784,6 +27904,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "PINBALL WIZARD THE COLLECTION",
+		"artist": "THE WHO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/pinball_wizzard_collection.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE WHO (remastered)",
 		"artist": "THE WHO",
 		"price": "20,00 kr.",
@@ -27792,10 +27920,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THEN AND NOW! 1964-2007",
+		"artist": "THE WHO",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/then_and_now.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THIRTY YEARS OF MAXIMUM RNB disc 3",
 		"artist": "THE WHO",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/thirty_years_of_maximum_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TOMMY (2CD)",
+		"artist": "THE WHO",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/tommy2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28104,6 +28248,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "WSOV (NY i folie)",
+		"artist": "VRONG SIDE OF VEGAS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/wsov.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "WHO SAID ANGELS",
 		"artist": "WSA WHO SAID ANGELS",
 		"price": "10,00 kr.",
@@ -28124,6 +28276,22 @@
 		"artist": "KITTY WU",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/knives_and_daggers.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ANYWAY THE WIND BLOWS",
+		"artist": "BILL WYMAN'S RHYTHM KINGS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/anyway_the_wind_blows.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GLORIEPROTESE",
+		"artist": "ÜBERMENCH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/glorieprotese.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28164,6 +28332,14 @@
 		"artist": "YAZZ",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/yazz_wanted.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "IT'S BLITZ!",
+		"artist": "YEAH YEAH YEAHS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/its_blitz.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28220,6 +28396,30 @@
 		"artist": "TRISHA YEARWOOD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/thinkin_about_you.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FRAGILE (remastered)",
+		"artist": "YES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/yes_fragile.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "UNION",
+		"artist": "YES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/yes_union.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "I AM NOT AFRAID OF YOU AND I WILL BEAT YOUR ASS",
+		"artist": "YO LA TENGO",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/i_am_not_afraid_of_you.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28296,6 +28496,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "RAGGED GLORY",
+		"artist": "NEIL YOUNG + CRAZY HORSE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/ragged_glory.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FROM TIME TO TIME",
 		"artist": "PAUL YOUNG",
 		"price": "10,00 kr.",
@@ -28356,6 +28564,14 @@
 		"artist": "ZAPP ZAPP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/what_does_fish_is.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "EXCITABLE BOY (remastered)",
+		"artist": "WARREN ZEVON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/excitable_boy.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
