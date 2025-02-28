@@ -2104,14 +2104,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SATURDAY NIGHT FEVER",
-		"artist": "BEE BEES DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/saturday_night_fever.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "BEE GEES",
 		"price": "10,00 kr.",
@@ -4596,14 +4588,6 @@
 		"artist": "ERIC CLAPTON",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/slowhand.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STAGES",
-		"artist": "ERIC CLAPTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stages.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21488,14 +21472,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SOLDIER OF LOVE",
-		"artist": "SADE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/soldier_of_love.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "STRONGER THAN PRIDE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -21564,14 +21540,6 @@
 		"artist": "SAGA",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/wildest_dreams.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "SAILOR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sailor_greatest.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25728,26 +25696,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FAHRENHEIT",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/fahrenheit.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "GREATEST HITS (2CD)",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/toto_greatest_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "IV",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/toto_4.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -25760,34 +25712,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "SUPER HITS",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/toto_super_hits.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "TAMBU",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tambu.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TAMBU",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tambu_bag.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE SEVENTH ONE",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_seventh_one.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
