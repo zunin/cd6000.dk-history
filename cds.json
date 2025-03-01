@@ -2152,14 +2152,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "JEG ER SOM JEG ER",
-		"artist": "PETER BELLI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jeg_er_som_jeg_er.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NY DAG PÅ VEJ",
 		"artist": "PETER BELLI",
 		"price": "10,00 kr.",
@@ -19256,14 +19248,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HOT TOGETHER",
-		"artist": "POINTER SISTERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hot_together.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "FLESH & BLOOD",
 		"artist": "POISON",
 		"price": "10,00 kr.",
@@ -23228,14 +23212,6 @@
 		"artist": "BJÖRN SKIFS",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/bjoern_skifs_collection_emi.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE COLLECTION",
-		"artist": "BJÖRN SKIFS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/skifs_collection.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28656,14 +28632,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "MISSIONÆR",
-		"artist": "ANNIKA AAKJÆR",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/missionaer.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CAJSA STINA",
 		"artist": "CAJSA STINA ÅKERSTRÖM",
 		"price": "10,00 kr.",
@@ -28812,14 +28780,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/a_very_special_christmas_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "ABBA THE TRIBUTE",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/abba_the_tribute.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29612,14 +29572,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/jeg_elsker_dig_1.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "JULEHITS",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/julehits.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
