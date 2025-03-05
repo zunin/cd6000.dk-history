@@ -224,6 +224,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BACK IN BLACK (remastered)",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/back_in_black_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BALLBREAKER",
 		"artist": "AC/DC",
 		"price": "20,00 kr.",
@@ -232,10 +240,74 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BLACK ICE",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/black_ice.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BLOW UP YOUR VIDEO",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/blow_up_your_video.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "FLICK OF THE SWITCH",
 		"artist": "AC/DC",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/flick_of_the_switch.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FLY ON THE WALL",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/fly_on_the_wall.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOR THOSE ABOUT TO ROCK (WE SALUTE YOU)",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/for_those_about_to_rock.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HIGHWAY TO HELL (remastered)",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/highway_to_hell_rem.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "LIVE",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/acdc_live.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ROCK OR BURST",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/rock_or_burst.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STIFF UPPER LIP",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/stiff_upper_lip.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -26608,6 +26680,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ALIEN LOVE SECRETS",
+		"artist": "STEVE VAI",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/alien_love_secrets.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE ULTRA ZONE",
 		"artist": "STEVE VAI",
 		"price": "20,00 kr.",
@@ -28304,14 +28384,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FRAGILE (remastered)",
-		"artist": "YES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/yes_fragile.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "UNION",
 		"artist": "YES",
 		"price": "20,00 kr.",
@@ -28544,6 +28616,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AFTERBURNER",
+		"artist": "ZZ TOP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/afterburner.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "ZZ TOP",
 		"price": "10,00 kr.",
@@ -28684,6 +28764,14 @@
 		"artist": "10CC",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/10cc_the_very_best_of.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ALIVE - THE VERY BEST OF 10cc",
+		"artist": "10cc",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/10cc_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29184,6 +29272,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DANSK GULDALDER JAZZ VOL. 3",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dansk_guldalder_jazz_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DANSK MELODI GRAND PRIX 2002",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29264,6 +29360,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1964-68 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_64-68.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1981-83 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29276,6 +29380,22 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dbadm_84-86.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1985-87 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_85-87.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1986-88 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_86-88.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29300,6 +29420,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dbadm_90-92.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1992-94 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_92-94.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29412,6 +29540,14 @@
 		"artist": "DIVERSE KUNSTNERE (Jesper Klein, Allan Mortensen, Morten Eisner, Christoffer Bro m.fl.)",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/folk_og_roevere.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "FOR FULD MUSIK 3 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_fuld_musik_3.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -30016,6 +30152,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "TEATERKONCERT BOB DYLAN AARHUS TEATER (single CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/teaterkoncert_bob_dylan.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE 80'S COLLECTION",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -30076,6 +30220,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/the_pink_album.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE REAL DANSKTOP 2",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_real_dansktop_2.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -30472,10 +30624,26 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE BRIDGE SCHOOL CONCERTS",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_bridge_school.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DANSKE 60'ER HITS",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/danske_60er_hits.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DANSKTOP GENNEM 40 ÅR (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/dansktop_gennem_40_aar.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -30500,6 +30668,14 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "50,00 kr.",
 		"origin": "https://cd6000.dk/eldorado_3.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "ELDORADO 4 (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "75,00 kr.",
+		"origin": "https://cd6000.dk/eldorado_4.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
