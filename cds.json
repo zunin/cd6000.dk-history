@@ -1616,14 +1616,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "YESTERDAY",
-		"artist": "BAMSE & BAMSES VENNER",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/bamse_yesterday.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "16",
 		"artist": "BAMSES VENNER",
 		"price": "10,00 kr.",
@@ -4096,14 +4088,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "AS TIMES GO BY",
-		"artist": "CARPENTERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/carpenters_as_times.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CARPENTERS",
 		"artist": "CARPENTERS",
 		"price": "10,00 kr.",
@@ -5740,14 +5724,6 @@
 		"artist": "DANSEORKESTRET",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/danseorkestret.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "KOM TILBAGE NU",
-		"artist": "DANSEORKESTRET",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kom_tilbage_nu_universal.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -8500,14 +8476,6 @@
 		"artist": "THE FOUR TOPS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/four_tops_great_performances.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I WANNA HAVE SOME FUN",
-		"artist": "SAMANTHA FOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_wanna_have_some_fun.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -12568,14 +12536,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "TAPESTRY",
-		"artist": "CAROLE KING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tapestry.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "AHA SHAKE HEARTBREAK",
 		"artist": "KINGS OF LEON",
 		"price": "10,00 kr.",
@@ -13728,26 +13688,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DET' EN HEMLIGHED",
-		"artist": "LECIA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/det_en_hemlighed.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE COLLECTION",
 		"artist": "LECIA & LUCIENNE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/lecia_og_lucienne_collection.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I (repress - digipack)",
-		"artist": "LED ZEPPELIN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/led_zeppelin_i.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -14604,14 +14548,6 @@
 		"artist": "LOVE JULIE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/love_will_kill_you.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DK",
-		"artist": "LOVE SHOP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/love_shop_dk.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -15972,14 +15908,6 @@
 		"artist": "MEN AT WORK",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/men_at_work_contraband.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "CARGO / BUSINESS AS USUAL (2CD)",
-		"artist": "MEN AT WORK",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/cargo_business.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -18144,14 +18072,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HITS FROM THE HEART",
-		"artist": "CHRIS NORMAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hits_from_the_heart.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "JUST A MAN",
 		"artist": "CHRIS NORMAN",
 		"price": "25,00 kr.",
@@ -18844,14 +18764,6 @@
 		"artist": "ROBERT PALMER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/robert_palmer_honey.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "ROBERT PALMER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/palmer_very_best.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -21512,14 +21424,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "DIAMOND LIFE",
-		"artist": "SADE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/diamond_life.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "PROMISE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -22344,14 +22248,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "FOR FULD MUSIK DET BEDSTE MED",
-		"artist": "TOMMY SEEBACH",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/tommy_seebach_bedste.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "HIP HURRA (2CCD)",
 		"artist": "TOMMY SEEBACH",
 		"price": "15,00 kr.",
@@ -22780,14 +22676,6 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubilaeum.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "STÆRK TOBAK (2CD+bonus CD)",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/staerk_tobak.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28312,14 +28200,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WANTED",
-		"artist": "YAZZ",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/yazz_wanted.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "IT'S BLITZ!",
 		"artist": "YEAH YEAH YEAHS",
 		"price": "10,00 kr.",
@@ -28864,14 +28744,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A VERY SPECIAL CHRISTMAS 2",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_very_special_christmas_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "ABSOLUTE CHRISTMAS 2 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29184,14 +29056,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "CALIFORNIA DREAMING (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/california_dreaming.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "CAPITOL COUNTRY MUSIC CLASSICS : 1970",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -29316,14 +29180,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dansktoppens_juleparade.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DEJLIGE DANSKE (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dejlige_danske_slagere.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29540,14 +29396,6 @@
 		"artist": "DIVERSE KUNSTNERE (Jesper Klein, Allan Mortensen, Morten Eisner, Christoffer Bro m.fl.)",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/folk_og_roevere.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FOR FULD MUSIK 3 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/for_fuld_musik_3.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -29968,14 +29816,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NAT & DAG 2 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nat_og_dag_2.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NOW SUMMER 2003 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -30304,14 +30144,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1980-81 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_80-81.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "THE VERY BEST OF POP MUSIC 1981-82 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -30324,14 +30156,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/very_best_82-83.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1983-84 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_83-84.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
