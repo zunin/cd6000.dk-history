@@ -216,22 +216,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "WHO MADE WHO (tidl. ejernavn på frontcover)",
-		"artist": "AC/DC",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/who_made_who_10.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "BACK IN BLACK (remastered)",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/back_in_black_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "BALLBREAKER",
 		"artist": "AC/DC",
 		"price": "20,00 kr.",
@@ -280,14 +264,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "HIGHWAY TO HELL (remastered)",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/highway_to_hell_rem.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "LIVE",
 		"artist": "AC/DC",
 		"price": "15,00 kr.",
@@ -316,6 +292,14 @@
 		"artist": "AC/DC",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/the_razors_edge.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "WHO MADE WHO",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/who_made_who.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -404,6 +388,22 @@
 		"artist": "BRYAN ADAMS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/waking_up_the_neighbours.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CIRCLE OF ONE",
+		"artist": "OLETTA ADAMS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/circle_of_one.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "MOVING ON",
+		"artist": "OLETTA ADAMS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/oletta_moving_on.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -632,6 +632,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BJÖRN AFZELIUS & GLOBETROTTERS CMC REBELLE RECORDS",
+		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/danska_naetter.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GRANDE FINALE (2CD) (digitally remastered)",
 		"artist": "BJÖRN AFZELIUS & GLOBETROTTERS",
 		"price": "40,00 kr.",
@@ -840,6 +848,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "AN EVENING WITH 2nd SET",
+		"artist": "THE ALLMAN BROTHERS BAND",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/allman_brothers_2nd_set.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "TENEMENT SYMPHONY",
 		"artist": "MARC ALMOND",
 		"price": "20,00 kr.",
@@ -876,6 +892,30 @@
 		"artist": "ALPHAVILLE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/alphaville_forever_young.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HEARTWARE",
+		"artist": "CHRISTIAN ALVAD",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/heartware.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HILLSIDE TUNINGS",
+		"artist": "CHRISTIAN ALVAD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hillside_tunings.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BEYOND DARKNESS",
+		"artist": "CHRISTIAN ALVAD RASMUS LYBERTH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/beyond_darkness.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -956,6 +996,14 @@
 		"artist": "MIKE ANDERSEN BAND",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/my_love_for_the_blues.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "STRANGE ANGELS",
+		"artist": "LAURIE ANDERSON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/strange_angels.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1088,6 +1136,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "VERDEN ER GAL",
+		"artist": "ANNE GRETE feat. PETER THORUP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/verden_er_gal.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "VINDEN VENDER",
 		"artist": "ANNE GRETE",
 		"price": "20,00 kr.",
@@ -1208,6 +1264,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "HEAT OF THE MOMENT",
+		"artist": "ASIA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_heat_of_the_moment.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DETOUR",
+		"artist": "MARIE ASKEHAVE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/detour.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DANCING ALONG WITH VOLUME 2",
 		"artist": "SVEND ASMUSSEN",
 		"price": "10,00 kr.",
@@ -1256,6 +1328,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "ACROSS THE UNIVERSE OF LANGUAGES",
+		"artist": "B FOR BANG",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/across_the_universe_of_languages.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "COSMIC THING",
 		"artist": "B-52s",
 		"price": "10,00 kr.",
@@ -1268,6 +1348,22 @@
 		"artist": "THE B-52s",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/good_stuff.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "AWAKE AND BREATHE",
+		"artist": "B*WITCHED",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/awake_and_breathe.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "B*WITCHED",
+		"artist": "B*WITCHED",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/b-witched.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1384,6 +1480,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "SEASONED AND SERVED (2CD)",
+		"artist": "BACKSEAT",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/seasoned_and_served.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BACKYARD BABIES",
 		"artist": "BACKYARD BABIES",
 		"price": "10,00 kr.",
@@ -1408,6 +1512,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "THE ESSENTIAL FROM THE HEART (LIVE)",
+		"artist": "JOAN BAEZ",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/baez_the_essential.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "TRILOGY (3CD)",
+		"artist": "JOAN BAEZ",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/baez_trilogy.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DON'T SING",
 		"artist": "BAGDAD DAGBLAD",
 		"price": "40,00 kr.",
@@ -1428,6 +1548,22 @@
 		"artist": "BAMSE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/15_staerke_paa_stribe.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "15 STÆRKE PÅ STRIBE VOL. 2",
+		"artist": "BAMSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/15_staerke_paa_stribe_vol_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "1988",
+		"artist": "BAMSE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/bamse_1988.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -1880,6 +2016,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "I AM WHAT I AM",
+		"artist": "SHIRLEY BASSEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/i_am_what_i_am.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "THE PERFORMANCE",
 		"artist": "DAME SHIRLEY BASSEY",
 		"price": "20,00 kr.",
@@ -1932,6 +2076,14 @@
 		"artist": "THE BEATLES",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/beatles_1.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "HELP!",
+		"artist": "THE BEATLES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/help_eac.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2196,6 +2348,14 @@
 		"artist": "HARRY BELAFONTE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/to_wish_you_a_merry_christmas.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CHRISTMAS ALBUM",
+		"artist": "BELLAMY BROTHERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bellamy_christmas.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2472,6 +2632,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "MATA LEÂO",
+		"artist": "BIOHAZARD",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/mata_leao.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "4 TRACK EP",
 		"artist": "MICHELLE BIRKBALLE",
 		"price": "10,00 kr.",
@@ -2612,6 +2780,22 @@
 		"artist": "THOMAS BLACHMANN, AL GAMI AND REMEE",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/four_corners_of_cool.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "BLAST",
+		"artist": "BLAST",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/blast_blast.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "PSYCHO POWER",
+		"artist": "BLEEDER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/psycho_power.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -2760,6 +2944,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "LIFE OF A GHOST",
+		"artist": "BLUE FOUNDATION",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/life_of_a_ghost.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "DIAMOND ON A DUMP",
 		"artist": "THE BLUE JUNCTION",
 		"price": "10,00 kr.",
@@ -2772,6 +2964,14 @@
 		"artist": "THE BLUE VAN",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/love_shot.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "DON'T FEAR THE REAPER THE BEST OF",
+		"artist": "BLUE ÖYSTER CULT",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/dont_fear_the_reaper.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3016,6 +3216,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "BON JOVI",
+		"artist": "BON JOVI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bon_jovi.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "BOUNCE",
 		"artist": "BON JOVI",
 		"price": "10,00 kr.",
@@ -3096,6 +3304,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "DESTINATION ANYWHERE (2CD)",
+		"artist": "JON BON JOVI",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/destination_anywhere_2.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "GREATEST HITS, THE ULTIMATE COLLECTION (2CD)",
+		"artist": "BON JOVI",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/bon_jovi_greatest_ultimate.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "GOLD, 20 SUPER HITS",
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
@@ -3132,6 +3356,22 @@
 		"artist": "BONEY M",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/boney_m_best.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE COMPLETE COLLECTION (2CD)",
+		"artist": "BONEY M",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/boney_m_complete.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "THE MAGIC OF THE DANISH COLL. (2CD)",
+		"artist": "BONEY M",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/boney_m_danish.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -3212,6 +3452,14 @@
 		"artist": "DAVID BOWIE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/bowie_singles.htm",
+		"quality": "unknown",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "CHEAPNESS AND BEAUTY",
+		"artist": "BOY GEORGE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cheapness_and_beauty.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17384,26 +17632,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "NU GRIBER DET GODT NOK OM SIG",
-		"artist": "DE NATTERGALE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nu_griber_det_godt_nok_om_sig.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "NU KA' DET VIST IK' BLI' MEGET BEDRE",
 		"artist": "DE NATTERGALE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/nu_kan_det_vist.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "SONGS FROM THE JULEKALENDER",
-		"artist": "DE NATTERGALE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_julekalender.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -17764,14 +17996,6 @@
 		"artist": "NICKNAME",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/nickname.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "DIE GROSSEN ERFOLGE",
-		"artist": "NICOLE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/die_grossen_erfolge.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -19656,14 +19880,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "RO MIT HJERTE",
-		"artist": "PÅ SLAGET 12",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ro_mit_hjerte.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "TROR DU VIRK'LIG AT LIVET BLI'R GENUDSENDT",
 		"artist": "PÅ SLAGET 12",
 		"price": "10,00 kr.",
@@ -19716,14 +19932,6 @@
 		"artist": "QUEEN +",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/queen_greatest_iii.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREATEST HITS III (remastered)",
-		"artist": "QUEEN +",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/queen_greatest_iii_remastered.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
@@ -28500,14 +28708,6 @@
 		"artist": "ZZ TOP",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/zz_top_greatest.htm",
-		"quality": "unknown",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "ZZ TOP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/zz_top_greatest_1999.htm",
 		"quality": "unknown",
 		"type": "Album"
 	},
