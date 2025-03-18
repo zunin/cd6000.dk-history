@@ -12,6 +12,8 @@ export class AlbumPage {
     this.client = new DomClient(url);
   }
 
+  
+
   async getAlbumPages(cachedCDs: Array<HistoryEntry>): Promise<Array<AlbumDetailPage>> {
     const page = await this.client.fetchDOM();
     const anchorTags = page.getElementsByTagName("a");

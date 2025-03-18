@@ -7,8 +7,9 @@
 			"args": [
 				"--allow-net",
 				"--unsafely-ignore-certificate-errors=cd6000.dk",
-				"--allow-write=./cds.json",
-				"--allow-read=./cds.json",
+				"--allow-write",
+				"--allow-read",
+          		"--allow-env",
 				"index.ts"
 			],
 			"problemMatcher": [

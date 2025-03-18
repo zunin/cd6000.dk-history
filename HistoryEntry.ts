@@ -4,6 +4,12 @@ export interface HistoryEntry {
   price: string;
   origin: string;
   quality: string | "unknown";
-  type: "Album" | "Single"
+  type: string;
+  musicbrainz?: {
+    releaseGroupId?: string;
+    artist?: string;
+    albumTitle?: string;
+    type?: string;
+  }
 }
   
