@@ -22,8 +22,8 @@ jobs:
           --allow-net \
           --unsafely-ignore-certificate-errors=cd6000.dk \
           --allow-write=./cds.json \
-          --allow-read
-          --allow-env
+          --allow-read \
+          --allow-env \
           index.ts
     - name: Commit and push if it changed
       run: |-
