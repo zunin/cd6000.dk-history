@@ -1197,15 +1197,6 @@
 		}
 	},
 	{
-		"albumTitle": "ULTIMATE ALABAMA 20 #1 HITS",
-		"artist": "ALABAMA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alabama_ultimate.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "ALLE VERDENS HJØRNER",
 		"artist": "ALBERTE",
 		"price": "10,00 kr.",
@@ -2067,20 +2058,6 @@
 			"releaseGroupId": "c3d4a540-b8a6-4b49-9568-3f36ab37f651",
 			"albumTitle": "Make Our Hearts Sway",
 			"artist": "Artificial Brothers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HEAT OF THE MOMENT",
-		"artist": "ASIA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_heat_of_the_moment.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e2661011-5d0b-3ffa-bdb7-12251d97d227",
-			"albumTitle": "The Very Best of Asia: Heat of the Moment (1982–1990)",
-			"artist": "Asia",
 			"type": "Album"
 		}
 	},
@@ -3777,20 +3754,6 @@
 			"releaseGroupId": "0d86f74c-8cd8-3647-b4fd-18e5063323cd",
 			"albumTitle": "N.B.",
 			"artist": "Natasha Bedingfield",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ONE NIGHT ONLY",
-		"artist": "BEE GEES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/one_night_only.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "63d5c5d1-07b8-3a0c-a31f-37bd02be6aa3",
-			"albumTitle": "One Night Only",
-			"artist": "Bee Gees",
 			"type": "Album"
 		}
 	},
@@ -8108,20 +8071,6 @@
 		}
 	},
 	{
-		"albumTitle": "LONG COLD WINTER",
-		"artist": "CINDERELLA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/long_cold_winter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a960b51a-cf20-3284-a031-296d99dc11be",
-			"albumTitle": "Long Cold Winter",
-			"artist": "Cinderella",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "AS THE ROOTS UNDO",
 		"artist": "CIRCLE TAKES THE SQUARE",
 		"price": "10,00 kr.",
@@ -9966,20 +9915,6 @@
 		}
 	},
 	{
-		"albumTitle": "EVERY TURN OF THE WORLD",
-		"artist": "CHRISTOPHER CROSS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/every_turn_of_the_world.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fd5ec64f-b95b-3e67-b9a5-f28bdad9d11a",
-			"albumTitle": "Every Turn of the World",
-			"artist": "Christopher Cross",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SHERYL CROW",
 		"artist": "SHERYL CROW",
 		"price": "10,00 kr.",
@@ -10369,20 +10304,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "PETROLEUM OCH TÅNG",
-		"artist": "EVA DAHLGREN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/petroleum_och.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9afdb6b4-30f5-326d-be8e-e98e896d626c",
-			"albumTitle": "Petroleum och tång",
-			"artist": "Eva Dahlgren",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "DALTON",
@@ -14340,20 +14261,6 @@
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "KÆRLIGHEDEN BRÆNDER",
 			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HUN SI'R JEG LIGNER ELVIS",
-		"artist": "FEDE FINN & FUNNYBOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hun_sir.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -18936,15 +18843,6 @@
 			"artist": "Ashley Hutchings",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "SÅ'N ER VI (små fejl på frontcover)",
-		"artist": "HVID SJOKOLADE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/saan_er_vi.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "BLOTT EN DAG",
@@ -38876,15 +38774,6 @@
 		}
 	},
 	{
-		"albumTitle": "SMASHES TRASHERS (CD+DVD)",
-		"artist": "SKUNK ANANSIE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/smashes_trashes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SKY 1",
 		"artist": "SKY",
 		"price": "10,00 kr.",
@@ -45366,15 +45255,6 @@
 		}
 	},
 	{
-		"albumTitle": "ASYLUM YEARS (digitally remastered)",
-		"artist": "TOW WAITS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/asylum_years.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "CLOSING TIME",
 		"artist": "TOM WAITS",
 		"price": "20,00 kr.",
@@ -45384,20 +45264,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "35c9a4b0-d4dd-3e6f-87fd-2185519296e2",
 			"albumTitle": "Closing Time",
-			"artist": "Tom Waits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HEARTATTACK AND VINE",
-		"artist": "TOM WAITS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/heartattack_and_vine.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6a9906e1-1ab2-37e1-980b-5e4889661089",
-			"albumTitle": "Heartattack and Vine",
 			"artist": "Tom Waits",
 			"type": "Album"
 		}
@@ -49658,20 +49524,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "O FLORENS ROSA",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OG DET VAR DANMARK",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/og_det_var_danmark.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "OG DET VAR DANMARK",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
