@@ -4477,6 +4477,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "TOGETHER",
+		"artist": "BLAKE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/blake_together.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ca4acdc7-788a-46b3-b302-31ca20e0f115",
+			"albumTitle": "Together",
+			"artist": "Blake",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BLAST",
 		"artist": "BLAST",
 		"price": "40,00 kr.",
@@ -11639,6 +11653,20 @@
 		}
 	},
 	{
+		"albumTitle": "6",
+		"artist": "DODO & THE DODOS",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/dodo6.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3f052dea-e12f-4b0d-9935-85e24d22c1ce",
+			"albumTitle": "'6'",
+			"artist": "Dodo and the Dodo’s",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALL BORO KINGS",
 		"artist": "DOG EAT DOG",
 		"price": "10,00 kr.",
@@ -12224,6 +12252,20 @@
 		}
 	},
 	{
+		"albumTitle": "WE ARE IN THERE, YOU ARE OUT HERE",
+		"artist": "DÚNÉ",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/we_are_in_there.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "55568494-39b8-4d07-a958-eb22624b1be8",
+			"albumTitle": "We Are in There You Are Out Here",
+			"artist": "Dúné",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WILD HEARTS (CD+DVD)",
 		"artist": "DUNÉ",
 		"price": "20,00 kr.",
@@ -12231,6 +12273,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "LIVE !",
+		"artist": "DÚNČ",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/dune_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6463116f-367a-4d8c-8692-7bf72591686a",
+			"albumTitle": "[untitled]",
+			"artist": "Z’EV, John Duncan, Aidan Baker, Fear Falls Burning",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "MODERN TIMES",
@@ -12313,6 +12369,20 @@
 			"releaseGroupId": "c0afd49b-dddd-433c-8761-eef733b6d573",
 			"albumTitle": "Live at Birdland",
 			"artist": "Pierre Dørge & New Jungle Orchestra",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PEER GYNT",
+		"artist": "PIERRE CØRGE & NEW JUNGLE ORCHESTRA",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/peer_gynt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "86c28b3d-a412-32c7-9580-3b7528dd2975",
+			"albumTitle": "Grieg: Peer Gynt Suites Nos. 1 & 2. Ellington/Strayhorn: Suite Thursday",
+			"artist": "Duke Ellington and His Orchestra",
 			"type": "Album"
 		}
 	},
@@ -12531,6 +12601,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "3707903e-f693-3979-a46d-a08933099ecf",
 			"albumTitle": "ELO’s Greatest Hits",
+			"artist": "Electric Light Orchestra",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "ELECTRIC LIGHT ORCHESTRA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/elo_very_best_versailles.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e451d56d-90a2-3bf0-8292-8444bd412a2e",
+			"albumTitle": "The Very Best Of",
 			"artist": "Electric Light Orchestra",
 			"type": "Album"
 		}
@@ -12903,6 +12987,20 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE SENSUALITY DEVOTION THE GREATEST HITS",
+		"artist": "ENIGMA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/love_sensuality.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "60b3c72e-0bff-384c-8c25-da7d06a9ab05",
+			"albumTitle": "Love Sensuality Devotion: The Greatest Hits",
+			"artist": "Enigma",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MCMXC a.d.",
 		"artist": "ENIGMA",
 		"price": "10,00 kr.",
@@ -13136,6 +13234,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE INNOCENTS",
+		"artist": "ERASURE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_innocents.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7739a5e3-4616-3e08-a8d5-d1da69e86da5",
+			"albumTitle": "The Innocents",
+			"artist": "Erasure",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WILD!",
 		"artist": "ERASURE",
 		"price": "10,00 kr.",
@@ -13230,6 +13342,34 @@
 			"releaseGroupId": "c6b5a2f7-4e14-3b17-8367-121a10590d31",
 			"albumTitle": "Always & Forever",
 			"artist": "Eternal",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SUPER HITS",
+		"artist": "EUROPE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/europe_super.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "334d8637-cb1c-32ce-8c80-f99b1e951b6e",
+			"albumTitle": "Super Hits",
+			"artist": "Europe",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "OUT OF THIS WORLD",
+		"artist": "EUROPE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/out_of_this_world.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8a2ac0cf-ff97-3894-bb42-8f1f57d9c791",
+			"albumTitle": "Out of This World",
+			"artist": "Europe",
 			"type": "Album"
 		}
 	},
@@ -13401,6 +13541,20 @@
 		}
 	},
 	{
+		"albumTitle": "BE OKAY",
+		"artist": "EYEQ",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/be_okay.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dde370c8-1ea7-317f-92b3-1feac7ef8cd6",
+			"albumTitle": "Be Okay",
+			"artist": "eyeQ",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CENTURY",
 		"artist": "ERIK FABER",
 		"price": "10,00 kr.",
@@ -13485,6 +13639,20 @@
 		}
 	},
 	{
+		"albumTitle": "BEFORE THE POISON",
+		"artist": "MARIANNE FAITHFULL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/before_the_poison.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e16121eb-8163-309a-add4-d169b75aa435",
+			"albumTitle": "Before the Poison",
+			"artist": "Marianne Faithfull",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "KING FOR A DAY",
 		"artist": "FAITH NO MORE",
 		"price": "10,00 kr.",
@@ -13509,6 +13677,20 @@
 			"releaseGroupId": "5b6fc942-a05b-443c-b3f4-ac529ce8e17d",
 			"albumTitle": "The Real Thing",
 			"artist": "Faith No More",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DE VILDESTE FUGLE",
+		"artist": "MICHAEL FALCH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/de_vildeste_fugle.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "eba6c1db-29c3-38b8-af74-c129ccb09a7c",
+			"albumTitle": "De vildeste fugle",
+			"artist": "Michael Falch",
 			"type": "Album"
 		}
 	},
@@ -13583,6 +13765,15 @@
 		}
 	},
 	{
+		"albumTitle": "FALDER DU NU",
+		"artist": "MICHAEL FALCH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/falder_du_nu.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "HELE VEJEN 1980-2010",
 		"artist": "MICHAEL FALCH",
 		"price": "25,00 kr.",
@@ -13592,6 +13783,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HJEMVEJE LIVE (2CD)",
+		"artist": "MICHAEL FALCH",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/hjemveje_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "MICHAEL FALCH",
+		"artist": "MICHAEL FALCH",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/michael_falch.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8574b9c3-449c-3325-896e-9868ca08b141",
+			"albumTitle": "Michael Falch",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MØD MIG I MØRKET (2CD) DE 37 BEDSTE SANGE",
 		"artist": "MICHAEL FALCH",
 		"price": "20,00 kr.",
@@ -13599,6 +13813,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "NYE REJSENDE",
+		"artist": "MICHAEL FALCH",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/nye_rejsende.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f8da29d2-5f29-3ea7-a38a-7beba5979b0f",
+			"albumTitle": "Nye rejsende",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "TOSSEDE VERDEN",
@@ -13667,6 +13895,20 @@
 			"releaseGroupId": "423937c3-f3b9-4f52-be63-956eb079b2aa",
 			"albumTitle": "Georgie Fame and the Blue Flames",
 			"artist": "Georgie Fame & the Blue Flames",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DIVISION ONE",
+		"artist": "FAR CORPORATION",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/division_one.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cc1ef8fb-7631-37ad-b543-8f4722f2545f",
+			"albumTitle": "Division One: The Album",
+			"artist": "Far Corporation",
 			"type": "Album"
 		}
 	},
@@ -13899,6 +14141,20 @@
 		}
 	},
 	{
+		"albumTitle": "DYLANESQUE",
+		"artist": "BRYAN FERRY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/dylanesque.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e7bae303-1d3a-3309-ad79-718f15e52199",
+			"albumTitle": "Dylanesque",
+			"artist": "Bryan Ferry",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MAMOUNA",
 		"artist": "BRYAN FERRY",
 		"price": "15,00 kr.",
@@ -14057,6 +14313,20 @@
 		}
 	},
 	{
+		"albumTitle": "ELECTRIC ARGUMENTS",
+		"artist": "THE FIREMAN (Paul McCartney)",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/electric_arguments.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1e116d60-b12d-3776-abc5-b822bf82917f",
+			"albumTitle": "Electric Arguments",
+			"artist": "The Fireman",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE NIL",
 		"artist": "NEIL FINN",
 		"price": "10,00 kr.",
@@ -14086,6 +14356,20 @@
 	},
 	{
 		"albumTitle": "BEST OF",
+		"artist": "HELENE FISCHER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/helene_fischer_best_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0c023f24-eae3-485d-bae5-4f49ef6c82bd",
+			"albumTitle": "100% Best Of",
+			"artist": "Helene Fischer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BEST OF",
 		"artist": "HELENE FISHER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/helene_fisher_best.htm",
@@ -14108,6 +14392,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "62c27338-368a-3aeb-be26-70d2d64a54d8",
 			"albumTitle": "So nah wie du",
+			"artist": "Helene Fischer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ZAUBERMOND",
+		"artist": "HELENE FISCHER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/zaubermond.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c79b1956-5ebe-3c91-b668-afee4d56002b",
+			"albumTitle": "Zaubermond",
 			"artist": "Helene Fischer",
 			"type": "Album"
 		}
@@ -14171,6 +14469,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "I'M THE ONE",
+		"artist": "ROBERTA FLACK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/im_the_one.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35c9950c-24bb-34e6-bbde-954b0b1e7f48",
+			"albumTitle": "I’m the One",
+			"artist": "Roberta Flack",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "KILLING ME SOFTLY (digitally remastered)",
@@ -14368,6 +14680,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "FOGHAT",
+		"artist": "FOGHAT",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/foghat.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5857ebd9-cd69-3535-9419-33aab5003000",
+			"albumTitle": "Foghat",
+			"artist": "Foghat",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "IN YOUR HONOR (2CD)",
 		"artist": "FOO FIGHTERS",
 		"price": "15,00 kr.",
@@ -14375,6 +14701,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TALK TO YOUR DAUGHTER",
+		"artist": "ROBBEN FORD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/talk_to_your_daughter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "78fa45b7-9f5a-3f98-a63e-bf75d5de177b",
+			"albumTitle": "Talk to Your Daughter",
+			"artist": "Robben Ford",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE VERY BEST AND BEYOND",
