@@ -4598,20 +4598,6 @@
 		}
 	},
 	{
-		"albumTitle": "BLIND MELON",
-		"artist": "BLIND MELON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/blind_melon.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c606501d-93b9-39a6-bb4c-503233ff7be5",
-			"albumTitle": "Blind Melon",
-			"artist": "Blind Melon",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ENEMA OF THE STATE",
 		"artist": "BLINK 182",
 		"price": "10,00 kr.",
@@ -14136,20 +14122,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "610b0c51-9900-37d1-a1d6-9599c860728f",
 			"albumTitle": "Taxi",
-			"artist": "Bryan Ferry",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DYLANESQUE",
-		"artist": "BRYAN FERRY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/dylanesque.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e7bae303-1d3a-3309-ad79-718f15e52199",
-			"albumTitle": "Dylanesque",
 			"artist": "Bryan Ferry",
 			"type": "Album"
 		}
@@ -31432,20 +31404,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "6991ee67-214f-49e2-a890-5febae7e17b0",
 			"albumTitle": "Greatest Hits",
-			"artist": "Tom Petty and the Heartbreakers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INTO THE GREAT WIDE OPEN",
-		"artist": "TOM PETTY & THE HEARTBREAKERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/into_the_great_wide_open_bag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84c5eeb2-5278-35cb-96d5-85297ca5d964",
-			"albumTitle": "Into the Great Wide Open",
 			"artist": "Tom Petty and the Heartbreakers",
 			"type": "Album"
 		}
