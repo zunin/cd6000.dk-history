@@ -2941,15 +2941,6 @@
 		}
 	},
 	{
-		"albumTitle": "13 RIGTIGE m.m.",
-		"artist": "BAMSES VENNER",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/bamse_13_rigtige.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "CAN'T HELP FALLING IN LOVE",
 		"artist": "BAMSE & BAMSES VENNER",
 		"price": "25,00 kr.",
@@ -11156,29 +11147,6 @@
 		"artist": "DIRTY JOBS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/wrong_side_of_vegas.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DANSANT",
-		"artist": "DISKOFIL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dansant.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "054f0fc5-7745-312b-a346-6c4149a9b320",
-			"albumTitle": "Dansant [Dang’sang]",
-			"artist": "Diskofil",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EN KØDRAND AF KLASSIKERE (2CD)",
-		"artist": "DISKOFIL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/en_kødrand_af_klassikere.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -32257,20 +32225,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "MISSISSIPPI",
-		"artist": "PUSSYCAT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mississippi.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7298a780-3067-4bc2-93c3-43526bd70e11",
-			"albumTitle": "Mississippi",
-			"artist": "Pussycat",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PCD",
 		"artist": "PUSSYCAT DOLLS",
 		"price": "10,00 kr.",
@@ -33989,20 +33943,6 @@
 		}
 	},
 	{
-		"albumTitle": "A GIRL LIKE ME",
-		"artist": "RIHANNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rihanna_a_girl_like_me.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "51797d3d-7071-30ee-9fb3-d60aad857ef0",
-			"albumTitle": "A Girl Like Me",
-			"artist": "Rihanna",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOOD GIRL GONE BAD RELOADED",
 		"artist": "RIHANNA",
 		"price": "10,00 kr.",
@@ -34488,20 +34428,6 @@
 			"releaseGroupId": "a4cfbe46-ae2a-4edb-b885-619aa57fa877",
 			"albumTitle": "Self-titled",
 			"artist": "Did Jesus Get Stoned?",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NO SECURITY",
-		"artist": "ROLLING STONES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/no_security.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7fe31c92-8c46-3e4c-b998-7b466ea74f8e",
-			"albumTitle": "No Security",
-			"artist": "The Rolling Stones",
 			"type": "Album"
 		}
 	},
@@ -36644,20 +36570,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "WISH",
-		"artist": "FEARGAL SHARKEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/feargal_sharkey_wish.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1a1f06de-5979-3652-94af-777d8b9da674",
-			"albumTitle": "Wish",
-			"artist": "Feargal Sharkey",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "VEGA 22.10.96",
 		"artist": "THE SHARING PATROL",
 		"price": "20,00 kr.",
@@ -37122,15 +37034,6 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubilaeum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "SHU-BI-DUA 200 (10CD) 2003",
-		"artist": "SHU-BI-DUA CMC BESTIL NR. 22242",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/shubidua_200.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -39989,20 +39892,6 @@
 		}
 	},
 	{
-		"albumTitle": "STICKS 'N' FIRE",
-		"artist": "STICKS 'N' FIRE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sticks_n_fire.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7d63cb2-4a1d-3dc2-82a0-b19d23f586da",
-			"albumTitle": "Sticks 'n' Fire",
-			"artist": "Sticks 'n' Fire",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "INFLAMMABLE MATERIAL",
 		"artist": "STIFF LITTLE FINGERS",
 		"price": "15,00 kr.",
@@ -41669,20 +41558,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE CAPPUCCINO SONGS",
-		"artist": "TANITA TIKARAM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_cappuccino_songs.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1135f9f3-196a-38d5-8096-f68cbb523417",
-			"albumTitle": "The Cappuccino Songs",
-			"artist": "Tanita Tikaram",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "THE SWEET KEEPER",
@@ -46711,20 +46586,6 @@
 		}
 	},
 	{
-		"albumTitle": "DANSKTOPPEN 25 ÅR MED 'THE REAL DANSKTOP' (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/25_aar_med_the_real_dansktop.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DANSKTOPPEN 25 ÅR MED 'THE REAL DANSKTOP' (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "25 ROCK HITS vol. 1 THE MASTERS OF THE ROCK-ERA",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -47476,20 +47337,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DANSKTOPPENS JULEPARADE",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DEM JEG ELSKER 32 DANSKE SANGE (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dem_jeg_elsker.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DEM JEG ELSKER 32 DANSKE SANGE (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
