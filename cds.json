@@ -8272,20 +8272,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE BREEZE AN APPRECIATION OF J.J. CALE",
-		"artist": "ERIC CLAPTON & FRIENDS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_breeze.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "391a0cb8-62f3-4c20-bd67-a289f52a4f04",
-			"albumTitle": "The Breeze: An Appreciation of JJ Cale",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RIDING WITH THE KING",
 		"artist": "B.B. KING & ERIC CLAPTON",
 		"price": "10,00 kr.",
@@ -9330,34 +9316,6 @@
 		}
 	},
 	{
-		"albumTitle": "HARD CANDY",
-		"artist": "COUNTING CROWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hard_candy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "155b90ec-183a-399f-b686-585a41dc0b93",
-			"albumTitle": "Hard Candy",
-			"artist": "Counting Crows",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RECOVERING THE SATELLITES",
-		"artist": "COUNTING CROWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/recovering_the_satellites.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9bb18f1a-ae46-3fd5-83f6-a86c5f46a5f0",
-			"albumTitle": "Recovering the Satellites",
-			"artist": "Counting Crows",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GIRLS NIGHT OUT",
 		"artist": "COWGIRLS",
 		"price": "10,00 kr.",
@@ -9911,6 +9869,20 @@
 		"artist": "DAD",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/everything_glows.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GOOD CLEAN FAMILY ENTERTAINMENT, YOU CAN TRUST",
+		"artist": "D.A.D.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/good_clean_family_entertainment.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -11579,6 +11551,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1ad06517-07c2-3faf-9420-ea0cb89fdb0f",
 			"albumTitle": "Dodo and the Dodo's 4",
+			"artist": "Dodo and the Dodo’s",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "5",
+		"artist": "DODO & THE DODO'S",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dodo5.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bdc2d2ad-33d4-3f48-bc1c-5a92b5be0165",
+			"albumTitle": "Dodo & the Dodo's 5",
 			"artist": "Dodo and the Dodo’s",
 			"type": "Album"
 		}
@@ -28927,34 +28913,6 @@
 			"releaseGroupId": "2db5577b-e07e-3a18-8bd8-f91c9fd1a1a0",
 			"albumTitle": "Six Hours at Pedernales",
 			"artist": "Willie Nelson, Curtis Potter",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INTERKOM KOM IND",
-		"artist": "NEPHEW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/interkom_kom_ind.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9341f77e-a41f-3f06-a8bb-c96f52f2da6c",
-			"albumTitle": "Interkom kom ind",
-			"artist": "Nephew",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "USADSB",
-		"artist": "NEPHEW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/usadsb.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "54536b79-ca5e-3888-8c9d-a80e4477decc",
-			"albumTitle": "USADSB",
-			"artist": "Nephew",
 			"type": "Album"
 		}
 	},
@@ -46945,6 +46903,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "05e90b3a-8ac8-4533-9363-d42172732001",
 			"albumTitle": "Absolute Music 25",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 26",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am26.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9aaaeab-f56a-30f3-9753-b27061f4c546",
+			"albumTitle": "Absolute Music 26",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 28",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am28.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a6141ec5-05ae-320d-a0b0-98c412341ea3",
+			"albumTitle": "Absolute Music 28",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
