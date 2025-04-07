@@ -46922,6 +46922,20 @@
 		}
 	},
 	{
+		"albumTitle": "ABSOLUTE MUSIC 27",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am27.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6ab91e82-8000-33a3-9fdf-d710bd71d6f4",
+			"albumTitle": "Absolute Music 27",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ABSOLUTE MUSIC 28",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
