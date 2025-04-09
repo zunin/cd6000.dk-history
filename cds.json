@@ -9842,29 +9842,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE REAL CÆSAR HITS",
-		"artist": "CÆSAR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/caesar_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "95481c08-0067-3c5a-9342-0ee4bcc67d09",
-			"albumTitle": "15 Frække - The Real Cæsar Hits",
-			"artist": "Cæsar",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STORKESPRINGVANDET ALLE TIDERS CÆSAR",
-		"artist": "CÆSAR",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/storkespringvandet.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "EVERYTHING GLOWS",
 		"artist": "DAD",
 		"price": "10,00 kr.",
