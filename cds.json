@@ -15144,6 +15144,15 @@
 		}
 	},
 	{
+		"albumTitle": "RISE UP",
+		"artist": "ERIC GADD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/rise_up.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE RIGHT WAY",
 		"artist": "ERIC GADD",
 		"price": "10,00 kr.",
@@ -15154,6 +15163,20 @@
 			"releaseGroupId": "55316926-3f96-314c-894f-7afbc37dc764",
 			"albumTitle": "The Right Way",
 			"artist": "Eric Gadd",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEFINITIONEN AF EN STODDER",
+		"artist": "DEN GALE POSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/definitionen_af_en_stodder.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0337c64c-e530-3b2e-b8ef-fa937ee9e625",
+			"albumTitle": "Definitionen af en Stodder",
+			"artist": "Den Gale Pose",
 			"type": "Album"
 		}
 	},
@@ -15282,6 +15305,15 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "A FOREIGN AFFAIR I (2CD)",
+		"artist": "GASOLIN",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/a_foreign_affair_i.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DERUDAF - FOREVER",
@@ -15730,6 +15762,20 @@
 		}
 	},
 	{
+		"albumTitle": "EN UNDERLIG FISK",
+		"artist": "GNAGS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/en_underlig_fisk.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "25f598b5-45f7-344e-a168-96c365c38207",
+			"albumTitle": "En underlig fisk",
+			"artist": "Gnags",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "INTERCITY",
 		"artist": "GNAGS",
 		"price": "30,00 kr.",
@@ -15753,10 +15799,33 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LEGEPLADSEN",
+		"artist": "GNAGS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/legepladsen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5a5b8725-b4d6-3117-a174-7a08c1b1a199",
+			"albumTitle": "Legepladsen",
+			"artist": "Gnags",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE VOL. I (remastered)",
 		"artist": "GNAGS",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/gnags_live_1_rem.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SAFARI (remastered)",
+		"artist": "GNAGS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/safari.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -16491,6 +16560,34 @@
 		}
 	},
 	{
+		"albumTitle": "USE YOUR ILLUSION I",
+		"artist": "GUNS N' ROSES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/use_your_illusion_i.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
+			"albumTitle": "Use Your Illusion I",
+			"artist": "Guns N’ Roses",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "USE YOUR ILLUSION II",
+		"artist": "GUNS & ROSES",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/use_your_illusion_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "617c9f00-9488-3a70-a994-9de312541617",
+			"albumTitle": "Use Your Illusion II",
+			"artist": "Guns N’ Roses",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SOON",
 		"artist": "TROELS GUSTAVSEN",
 		"price": "30,00 kr.",
@@ -16570,6 +16667,34 @@
 		}
 	},
 	{
+		"albumTitle": "SLIPPIN' IN",
+		"artist": "BUDDY GUY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/slippin_in.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5f47a475-e959-39ff-b894-afffe955c99b",
+			"albumTitle": "Slippin' In",
+			"artist": "Buddy Guy",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEN LILLE CAFE LIVE PÅ 'SKRÅEN'",
+		"artist": "DE GYLDNE LØVER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/den_lille_cafe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6f469db3-789f-401e-a2f6-57b6b824ac11",
+			"albumTitle": "Untitled 13",
+			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LØVERNES BEDSTE LIVE",
 		"artist": "DE GYLDNE LØVER",
 		"price": "10,00 kr.",
@@ -16631,6 +16756,20 @@
 			"releaseGroupId": "784a705b-287c-4109-a9d9-0e5edca7de5f",
 			"albumTitle": "Untitled #347",
 			"artist": "Francisco López, GX Jupitter‐Larsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SIXTEEN GREATEST",
+		"artist": "HALBEWRG LARSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sixteen_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4fa6aa01-b0ab-3c8a-9faa-b3cdcdf8d888",
+			"albumTitle": "Sixteen Greatest",
+			"artist": "Halberg Larsen",
 			"type": "Album"
 		}
 	},
@@ -16994,6 +17133,20 @@
 		}
 	},
 	{
+		"albumTitle": "NÅR ALT KOMMER TIL ALT",
+		"artist": "NIELS HAUSGAARD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/naar_alt_kommer_til_alt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bd7d369d-4695-3a11-8569-e5f46d71bac2",
+			"albumTitle": "Når alt kommer til alt",
+			"artist": "Niels Hausgaard",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SHOW (CD+DVD)",
 		"artist": "NIELS HAUSGAARD",
 		"price": "15,00 kr.",
@@ -17342,6 +17495,29 @@
 		}
 	},
 	{
+		"albumTitle": "KÆRE MASKINE",
+		"artist": "THOMAS HELMIG BROTHERS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/kaere_maskine.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cf517d6f-0b96-411c-a621-3abc08d80a8d",
+			"albumTitle": "Kære Maskine",
+			"artist": "Thomas Helmig Brothers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COVER",
+		"artist": "LASSE HELNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lasse_helner_cover.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "MEMPHIS STATION",
 		"artist": "LASSE HELNER",
 		"price": "20,00 kr.",
@@ -17420,6 +17596,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "JIMI HENDRIX (2CD)",
+		"artist": "JIMI HENDRIX",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/jimi_hendrix_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2cd7f87-97ea-4d48-9319-998cc2d5af77",
+			"albumTitle": "[untitled]",
+			"artist": "Blood Axis, Robert N. Taylor",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE JIMI HENDRIX EXPERIENCE",
+		"artist": "JIMI HENDRIX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_jimi_hendrix_experience.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "688f78b7-5d3b-361f-b362-89152095c978",
+			"albumTitle": "The Jimi Hendrix Experience",
+			"artist": "The Jimi Hendrix Experience",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "19 GREAT PERFORMANCES (2CD)",
 		"artist": "JIMI HENDRIX",
 		"price": "30,00 kr.",
@@ -17444,6 +17648,20 @@
 			"releaseGroupId": "459c2851-a143-3494-bae8-9784d9bb75cf",
 			"albumTitle": "The Ultimate Experience",
 			"artist": "Jimi Hendrix",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "INSIDE JOB",
+		"artist": "DON HENLEY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/inside_job.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3806abc5-ed69-36ad-b6bd-62321e255eab",
+			"albumTitle": "Inside Job",
+			"artist": "Don Henley",
 			"type": "Album"
 		}
 	},
@@ -17564,6 +17782,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b3f3deec-f424-3021-ad08-c24f65e59a56",
 			"albumTitle": "Greatest Hits and More",
+			"artist": "John Hiatt",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WALK ON",
+		"artist": "JOHN HIATT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/walk_on.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "502441c4-fb3e-3d05-acb8-bd215cd90fbe",
+			"albumTitle": "Walk On",
 			"artist": "John Hiatt",
 			"type": "Album"
 		}
@@ -17737,6 +17969,20 @@
 			"releaseGroupId": "5f6f82ab-a95f-3e50-b9e1-60f14a838724",
 			"albumTitle": "When You’re a Boy",
 			"artist": "Susanna Hoffs",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LIVE THROUGH THIS",
+		"artist": "HOLE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/live_through_this.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fe676d05-f97c-303a-890b-da53c69e5d42",
+			"albumTitle": "Live Through This",
+			"artist": "Hole",
 			"type": "Album"
 		}
 	},
@@ -17959,6 +18205,20 @@
 		}
 	},
 	{
+		"albumTitle": "BOOGIE MAN",
+		"artist": "JOHN LEE HOOKER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/boogie_man.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7f0ab0e1-7cad-4616-9265-2f8f6399430a",
+			"albumTitle": "Boogie Man",
+			"artist": "John Lee Hooker",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BOOM BOOM",
 		"artist": "JOHN LEE HOOKER",
 		"price": "10,00 kr.",
@@ -18024,6 +18284,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "2de52330-f003-310c-bc99-94438bf5a904",
 			"albumTitle": "The Healer",
+			"artist": "John Lee Hooker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ENDLESS BOOGIE",
+		"artist": "JOHN LEE HOOKER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/endless_boogie.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "11f1fcc8-2dc1-3a90-a390-ca922935d898",
+			"albumTitle": "Endless Boogie",
 			"artist": "John Lee Hooker",
 			"type": "Album"
 		}
@@ -18249,6 +18523,20 @@
 			"releaseGroupId": "5b5819ef-b8cc-3c9e-8f1e-45063a56afbb",
 			"albumTitle": "Home",
 			"artist": "Hothouse Flowers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HOUSE OF PAIN",
+		"artist": "HOUSE OF PAIN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/house_of_pain.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "22821d1b-28b3-31f7-84ca-25436862dd27",
+			"albumTitle": "House of Pain",
+			"artist": "House of Pain",
 			"type": "Album"
 		}
 	},
@@ -18564,6 +18852,20 @@
 		}
 	},
 	{
+		"albumTitle": "MY FAVORITE SONGS",
+		"artist": "GITTE HÆNNING",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/gitte_haenning_favorite_songs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f12b44c4-4b5f-48e5-b5a5-2675eccaee23",
+			"albumTitle": "My Favorite Songs",
+			"artist": "Gitte Hænning",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CHURCH OF THE REAL",
 		"artist": "I GOT YOU ON TAPE",
 		"price": "10,00 kr.",
@@ -18648,6 +18950,20 @@
 		}
 	},
 	{
+		"albumTitle": "VITAL IDOL",
+		"artist": "BILLY IDOL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/vital_idol.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b6a210a8-b148-34c9-8d10-f5380feca910",
+			"albumTitle": "Vital Idol",
+			"artist": "Billy Idol",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CYBERPUNK",
 		"artist": "BILLY IDOL",
 		"price": "20,00 kr.",
@@ -18709,6 +19025,20 @@
 			"releaseGroupId": "74f6e575-52bf-300b-824e-e13c1115fc58",
 			"albumTitle": "Insomniac",
 			"artist": "Enrique Iglesias",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COUNTING DOWN THE DAYS",
+		"artist": "NATALIE IMBRUGLIA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/counting_down_the_days.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ece26690-acda-3510-80a3-12c6584ec9c3",
+			"albumTitle": "Counting Down the Days",
+			"artist": "Natalie Imbruglia",
 			"type": "Album"
 		}
 	},
