@@ -14202,20 +14202,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHEN THE DEER WORE BLUE",
-		"artist": "FIGURINES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/when_the_deer_wore_blue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3afec626-cf93-34b6-938f-e8ab483b7a9c",
-			"albumTitle": "When the Deer Wore Blue",
-			"artist": "Figurines",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ELECTRIC ARGUMENTS",
 		"artist": "THE FIREMAN (Paul McCartney)",
 		"price": "20,00 kr.",
@@ -16760,20 +16746,6 @@
 		}
 	},
 	{
-		"albumTitle": "SIXTEEN GREATEST",
-		"artist": "HALBEWRG LARSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/sixteen_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fa6aa01-b0ab-3c8a-9faa-b3cdcdf8d888",
-			"albumTitle": "Sixteen Greatest",
-			"artist": "Halberg Larsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A TOUCH OF EXCELLENCE",
 		"artist": "MARTIN HALL",
 		"price": "25,00 kr.",
@@ -17610,20 +17582,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE JIMI HENDRIX EXPERIENCE",
-		"artist": "JIMI HENDRIX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_jimi_hendrix_experience.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "688f78b7-5d3b-361f-b362-89152095c978",
-			"albumTitle": "The Jimi Hendrix Experience",
-			"artist": "The Jimi Hendrix Experience",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "19 GREAT PERFORMANCES (2CD)",
 		"artist": "JIMI HENDRIX",
 		"price": "30,00 kr.",
@@ -18284,20 +18242,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "2de52330-f003-310c-bc99-94438bf5a904",
 			"albumTitle": "The Healer",
-			"artist": "John Lee Hooker",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ENDLESS BOOGIE",
-		"artist": "JOHN LEE HOOKER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/endless_boogie.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "11f1fcc8-2dc1-3a90-a390-ca922935d898",
-			"albumTitle": "Endless Boogie",
 			"artist": "John Lee Hooker",
 			"type": "Album"
 		}
@@ -46283,52 +46227,10 @@
 		}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "PAUL YOUNG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/paul_young_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5ed9c71b-907a-3917-b6f7-d51c3818ec88",
-			"albumTitle": "Greatest Hits",
-			"artist": "Paul Young",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE CROSSING",
-		"artist": "PAUL YOUNG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_crossing.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9c192923-9f31-3ce9-99fc-b5958fd7f553",
-			"albumTitle": "The Crossing",
-			"artist": "Paul Young",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LOVE HURTS",
 		"artist": "PAUL YOUNG & THE Q-TIPS",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/paul_young_love_hurts.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8f2794cc-f6e7-421d-80c5-a77ba435034d",
-			"albumTitle": "Love Hurts",
-			"artist": "Q‐Tips",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LOVE HURTS",
-		"artist": "PAUL YOUNG & THE Q-TIPS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/paul_young_love_hurts_elap.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -49301,20 +49203,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1981-82 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_81-82.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1981-82 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF POP MUSIC 1984-85 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -49352,20 +49240,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE VERY BEST OF POP MUSIC 1986-87 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1987-88 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_87-88.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1987-88 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
