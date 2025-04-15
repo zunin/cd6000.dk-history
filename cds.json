@@ -13109,20 +13109,6 @@
 		}
 	},
 	{
-		"albumTitle": "COWBOY",
-		"artist": "ERASURE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/erasure_cowboy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1caa401c-774c-30ea-9b38-d8212d0c5902",
-			"albumTitle": "Cowboy",
-			"artist": "Erasure",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "I SAY I SAY I SAY",
 		"artist": "ERASURE",
 		"price": "10,00 kr.",
@@ -15001,20 +14987,6 @@
 			"releaseGroupId": "10853c77-3c43-3f67-bd15-08fec53cc594",
 			"albumTitle": "Keep On Moving (It’s Too Funky in Here)",
 			"artist": "Funkstar De Luxe",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FOLKLORE",
-		"artist": "NELLY FURTADO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/folklore.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "39ef3f1e-ed7e-32e4-aa8e-9e6fc028f380",
-			"albumTitle": "Folklore",
-			"artist": "Nelly Furtado",
 			"type": "Album"
 		}
 	},
@@ -49161,20 +49133,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC PRESENTATION SAMPLER (papcover)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_presentation_pap.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC PRESENTATION SAMPLER (papcover)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF POP MUSIC 1979-80 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -49184,20 +49142,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE VERY BEST OF POP MUSIC 1979-80 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1980-81 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_80-81.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1980-81 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -49240,6 +49184,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE VERY BEST OF POP MUSIC 1986-87 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF POP MUSIC 1987-88 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/very_best_87-88.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "THE VERY BEST OF POP MUSIC 1987-88 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
