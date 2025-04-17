@@ -3015,20 +3015,6 @@
 		}
 	},
 	{
-		"albumTitle": "BUNCH OF HITS",
-		"artist": "BANANARAMA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bunch_of_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "29cc813d-af76-3b16-be88-9f2a847006ae",
-			"albumTitle": "Bunch of Hits",
-			"artist": "Bananarama",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PLEASE YOURSELF",
 		"artist": "BANANARAMA",
 		"price": "10,00 kr.",
@@ -3173,20 +3159,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "db48e63a-511b-3f5b-970f-56659bc758a1",
 			"albumTitle": "Open Road",
-			"artist": "Gary Barlow",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TWELVE MONTH, ELEVEN DAYS",
-		"artist": "GARY BARLOW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/twelve_month.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8adbc9c8-e9c0-37f3-8cfa-88d1f58679f1",
-			"albumTitle": "Twelve Months, Eleven Days",
 			"artist": "Gary Barlow",
 			"type": "Album"
 		}
@@ -3540,34 +3512,6 @@
 		}
 	},
 	{
-		"albumTitle": "BLUE IS THE COLOUR",
-		"artist": "THE BEAUTIFUL SOUTH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/blue_is_the_colour.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ee357c53-48e9-32fe-ae7f-96c665e66a48",
-			"albumTitle": "Blue Is the Colour",
-			"artist": "The Beautiful South",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CARRY ON UP THE CHARTS The Best of",
-		"artist": "THE BEAUTIFUL SOUTH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/carry_on_up_the_charts.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dd208898-1fa4-39ae-8dba-30fb1def8e7e",
-			"albumTitle": "Carry On Up the Charts: The Best of the Beautiful South",
-			"artist": "The Beautiful South",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "QUENCH",
 		"artist": "THE BEAUTIFUL SOUTH",
 		"price": "10,00 kr.",
@@ -3577,34 +3521,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "04d1c561-fa0e-380b-b916-c3888ae681f1",
 			"albumTitle": "Quench",
-			"artist": "The Beautiful South",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SOLID BRONZE, GREAT HITS",
-		"artist": "THE BEAUTIFUL SOUTH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/solid_bronze.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WELCOME TO",
-		"artist": "THE BEAUTIFUL SOUTH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/beautiful_south_welcome.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "90eec155-365f-3fa3-9fb0-7a7d347baf07",
-			"albumTitle": "Welcome to 0898",
 			"artist": "The Beautiful South",
 			"type": "Album"
 		}
@@ -3934,20 +3850,6 @@
 		}
 	},
 	{
-		"albumTitle": "READ MY LIPS",
-		"artist": "SOPHIE ELLIS BEXTOR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/read_my_lips.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c8fce3c2-76f4-347b-b9b7-649249bbf99b",
-			"albumTitle": "Read My Lips",
-			"artist": "Sophie Ellis‐Bextor",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "YEAH! YEAH! 16 CLASSIC TRACKS",
 		"artist": "MATT BIANCO",
 		"price": "10,00 kr.",
@@ -4268,20 +4170,6 @@
 		}
 	},
 	{
-		"albumTitle": "ALL IN",
-		"artist": "SYS BJERRE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/all_in.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7a0df869-a6dc-4dc9-b3d8-b6c8c962f16e",
-			"albumTitle": "All In",
-			"artist": "Sys Bjerre",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GØR DET SELV",
 		"artist": "SYS BJERRE",
 		"price": "10,00 kr.",
@@ -4542,20 +4430,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "3b158502-4f45-309f-9624-818d7ff613ce",
 			"albumTitle": "No More Drama",
-			"artist": "Mary J. Blige",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SHARE MY WORLD",
-		"artist": "MARY J. BLIGE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/share_my_world.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b79461e7-9f10-30fb-a095-bb455d196db6",
-			"albumTitle": "Share My World",
 			"artist": "Mary J. Blige",
 			"type": "Album"
 		}
@@ -5328,15 +5202,6 @@
 		"artist": "JON BON JOVI",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/destination_anywhere_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "GREATEST HITS, THE ULTIMATE COLLECTION (2CD)",
-		"artist": "BON JOVI",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/bon_jovi_greatest_ultimate.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -6266,20 +6131,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "968d1089-edb7-387d-aa6a-c66c8e1f3b07",
 			"albumTitle": "Footsteps",
-			"artist": "Chris de Burgh",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MAN ON THE LINE",
-		"artist": "CHRIS de BURGH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/man_on_the_line.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5c093b23-b019-3434-af6e-dc446bb9ce60",
-			"albumTitle": "Man on the Line",
 			"artist": "Chris de Burgh",
 			"type": "Album"
 		}
@@ -10837,20 +10688,6 @@
 		}
 	},
 	{
-		"albumTitle": "SAFE TRIP HOME",
-		"artist": "DIDO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/safe_trip_home.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c653c4b1-68f2-383a-8c39-d27dfaac4ddb",
-			"albumTitle": "Safe Trip Home",
-			"artist": "Dido",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SOLID STATE RHYME",
 		"artist": "DIESEL",
 		"price": "10,00 kr.",
@@ -12006,20 +11843,6 @@
 		}
 	},
 	{
-		"albumTitle": "LÄNGTAN",
-		"artist": "DRÖMHUS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/laengtan.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dea3f250-01d7-3e4e-bc6a-ddbc0d1d896f",
-			"albumTitle": "Längtan",
-			"artist": "Drömhus",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS 2",
 		"artist": "THE DUBLINERS",
 		"price": "10,00 kr.",
@@ -12755,20 +12578,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "38a1cae8-d480-3a44-835a-19b0fe768813",
 			"albumTitle": "Encore",
-			"artist": "Eminem",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RECOVERY",
-		"artist": "EMINEM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/eminem_recovery.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a5056c3b-730f-493b-b10e-52f678d72b85",
-			"albumTitle": "Recovery",
 			"artist": "Eminem",
 			"type": "Album"
 		}
@@ -14908,20 +14717,6 @@
 			"releaseGroupId": "815525ea-f0da-46be-9dd1-bc97552e3559",
 			"albumTitle": "Untitled",
 			"artist": "Freddy Fischer & His Cosmic Rocktime Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FUNKTURISTIC",
-		"artist": "FUNKSTAR de LUXE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/funkturistic.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c31e735a-229e-3429-90ab-8e5ad31a464d",
-			"albumTitle": "Funkturistic",
-			"artist": "Funkstar De Luxe",
 			"type": "Album"
 		}
 	},
@@ -17750,20 +17545,6 @@
 		}
 	},
 	{
-		"albumTitle": "PARIS",
-		"artist": "PARIS HILTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/paris_hilton.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0bec2fbb-505c-3f6f-bd34-ee723986acc3",
-			"albumTitle": "Paris",
-			"artist": "Paris Hilton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ON A RIDE",
 		"artist": "HIT 'N' HIDE",
 		"price": "10,00 kr.",
@@ -17820,20 +17601,6 @@
 			"releaseGroupId": "073edf16-0797-42f6-ba88-0e127bc11d82",
 			"albumTitle": "Vertical",
 			"artist": "Thera Hoeymans",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SUSANNA HOFFS",
-		"artist": "SUSANNA HOFFS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/susanna_hoffs.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f4fab92-337d-3d23-b18c-20831a1efaa7",
-			"albumTitle": "Susanna Hoffs",
-			"artist": "Susanna Hoffs",
 			"type": "Album"
 		}
 	},
@@ -19561,29 +19328,6 @@
 		}
 	},
 	{
-		"albumTitle": "IN CONCERT HOUSTON, LYON WITH ORCHESTRA & CHOIR",
-		"artist": "JEAN MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jarre_in_concert.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "OXYGENE",
-		"artist": "JEAN-MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/oxygene.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1b6f7597-2383-496c-96d8-a1cf13438171",
-			"albumTitle": "Oxygene / Zoolook",
-			"artist": "Jean‐Michel Jarre",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OXYGENE 7-13",
 		"artist": "JEAN MICHEL JARRE",
 		"price": "10,00 kr.",
@@ -19650,20 +19394,6 @@
 			"releaseGroupId": "e13c4993-12fd-4b5f-bce9-2efd59f1e426",
 			"albumTitle": "Oxygène: New Master Recording",
 			"artist": "Jean‐Michel Jarre",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "JEFFERSON AIRPLANE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/jefferson_airplane_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ae837957-9695-3247-894d-46002a57ab17",
-			"albumTitle": "Journey: The Best Of",
-			"artist": "Jefferson Airplane",
 			"type": "Album"
 		}
 	},
@@ -20153,20 +19883,6 @@
 			"releaseGroupId": "528dd7a9-8fa6-4f06-83ec-e9af613d3c94",
 			"albumTitle": "Did I Say I Love You",
 			"artist": "Camille Jones",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INSIDE STORY",
-		"artist": "GRACE JONES",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/inside_story.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a95b8e2f-fbbc-35c1-b7aa-697a7c738b74",
-			"albumTitle": "Inside Story",
-			"artist": "Grace Jones",
 			"type": "Album"
 		}
 	},
@@ -20956,20 +20672,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEHIND CLOSED DOORS",
-		"artist": "KATO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kato_behind_closed_doors.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a4e36bff-1576-4d1f-aff0-f7cac4c77216",
-			"albumTitle": "Behind Closed Doors",
-			"artist": "KATO",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DISCOLIZED (2CD)",
 		"artist": "KATO",
 		"price": "10,00 kr.",
@@ -21045,20 +20747,6 @@
 			"releaseGroupId": "2d6a9dee-7012-3008-89c0-d8c03c6db00e",
 			"albumTitle": "Perfect Symmetry",
 			"artist": "Keane",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BRING YOU HOME",
-		"artist": "RONAN KEATING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bring_you_home.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cd39a014-a36c-3766-82fc-6fa9b0dd475b",
-			"albumTitle": "Bring You Home",
-			"artist": "Ronan Keating",
 			"type": "Album"
 		}
 	},
@@ -21543,6 +21231,20 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST HITS VOLUME 2",
+		"artist": "THE KINKS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kinks_greatest_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a11739f2-7d53-4e6c-9f1e-26b490c76289",
+			"albumTitle": "Untitled",
+			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "YOU REALLY GOT ME",
 		"artist": "THE KINKS",
 		"price": "10,00 kr.",
@@ -21581,20 +21283,6 @@
 			"releaseGroupId": "92daa948-9927-3127-8f16-995c7ed00915",
 			"albumTitle": "The ★ Collection",
 			"artist": "The Kinks",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE ULTIMATE COLLECTION (2CD)",
-		"artist": "THE KINKS",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/kinks_ultimate.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e5e48b10-f0d4-4757-ad4f-be9ab4d177cc",
-			"albumTitle": "Untitled 12",
-			"artist": "[unknown]",
 			"type": "Album"
 		}
 	},
@@ -24846,20 +24534,6 @@
 			"releaseGroupId": "f334ad92-3090-3702-aa87-dd557602ad04",
 			"albumTitle": "Exploding Star",
 			"artist": "Lovebites",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DET VI SKU' MISTE",
-		"artist": "SHAKA LOVELESS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/det_vi_sku_miste.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a54896ca-d964-413d-969b-81b4ba71ae89",
-			"albumTitle": "Det vi sku' miste",
-			"artist": "Shaka Loveless",
 			"type": "Album"
 		}
 	},
@@ -34414,34 +34088,6 @@
 		}
 	},
 	{
-		"albumTitle": "RATED R",
-		"artist": "RIHANNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rated_r.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06fda337-5c4b-42e0-a96c-a349c786965f",
-			"albumTitle": "Rated R",
-			"artist": "Rihanna",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TALK THAT TALK",
-		"artist": "RIHANNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/talk_that_talk.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "15818ec5-bf34-47de-a4e5-260f98828d64",
-			"albumTitle": "Talk That Talk",
-			"artist": "Rihanna",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF LEANN RIMES",
 		"artist": "LEANN RIMES",
 		"price": "10,00 kr.",
@@ -34550,20 +34196,6 @@
 			"releaseGroupId": "4b990e63-5362-3302-97d9-9f61d2182261",
 			"albumTitle": "Vivaldi & ven",
 			"artist": "Roben & Knud",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MY TRUTH",
-		"artist": "ROBYN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/my_truth.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e4aaf992-dd65-3ad7-a256-10149ddce312",
-			"albumTitle": "My Truth",
-			"artist": "Robyn",
 			"type": "Album"
 		}
 	},
@@ -36846,15 +36478,6 @@
 		"artist": "TOMMY SEEBACH",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/hip_hurra.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "KOMPLET & RARITETER (11 CD BOKS)",
-		"artist": "TOMMY SEEBACH",
-		"price": "125,00 kr.",
-		"origin": "https://cd6000.dk/tommy_seebach_boks.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -40878,20 +40501,6 @@
 		}
 	},
 	{
-		"albumTitle": "ONE TOUCH",
-		"artist": "SUGARBABES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/one_touch.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8c28f4f6-a32d-363b-b393-9b7709adb304",
-			"albumTitle": "One Touch",
-			"artist": "Sugababes",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THREE",
 		"artist": "SUGARBABES",
 		"price": "10,00 kr.",
@@ -41497,20 +41106,6 @@
 		}
 	},
 	{
-		"albumTitle": "RAGE",
-		"artist": "T-PAU",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tpau_rage.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ebad7512-c386-3df2-a34c-68a5a607a9a1",
-			"albumTitle": "Rage",
-			"artist": "T’Pau",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "CHILDREN OF THE REVOLUTION AN INTRODUCTION TO MARC BOLAN (2CD)",
 		"artist": "T-REX",
 		"price": "25,00 kr.",
@@ -41978,29 +41573,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "EVERY KINDS OF LONELINESS",
-		"artist": "TANITA TIKARAM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/every_kinds_of_loneliness.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE SWEET KEEPER",
-		"artist": "TINITA TIKARAM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_sweet_keeper.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7db89468-c11f-3eec-b3da-4bdd0fce910f",
-			"albumTitle": "The Sweet Keeper",
-			"artist": "Tanita Tikaram",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "FUTURESEX/ LOVESOUNDS",
@@ -49829,20 +49401,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DANSKE 60'ER HITS",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DANSKTOP GENNEM 40 ÅR (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/dansktop_gennem_40_aar.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DANSKTOP GENNEM 40 ÅR (3CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
