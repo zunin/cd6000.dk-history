@@ -19153,6 +19153,15 @@
 	},
 	{
 		"albumTitle": "THE COLLECTION (5CD) 2009",
+		"artist": "MICHAEL JACKSON EPIC BESTIL NR. 23615",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/michael_jackson_collection_50.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE COLLECTION (5CD) 2009",
 		"artist": "MICHAEL JACKSON EPIC BESTIL NR. 151",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/michael_jackson_collection.htm",
