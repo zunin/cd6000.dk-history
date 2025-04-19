@@ -13490,20 +13490,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "NYE REJSENDE",
-		"artist": "MICHAEL FALCH",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/nye_rejsende.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f8da29d2-5f29-3ea7-a38a-7beba5979b0f",
-			"albumTitle": "Nye rejsende",
-			"artist": "Michael Falch",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TOSSEDE VERDEN",
 		"artist": "MICHAEL FALCH",
 		"price": "20,00 kr.",
@@ -48771,20 +48757,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE PINK ALBUM (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_pink_album.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE PINK ALBUM (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE REAL DANSKTOP 2",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -48878,20 +48850,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d9b66d81-aa31-35bb-bfa5-94b2320ce5df",
 			"albumTitle": "The Ultimate Love Songs - Get Close",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF DRIVING TIME (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_very_best_of_driving_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF DRIVING TIME (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
