@@ -1927,20 +1927,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE SUBURBS",
-		"artist": "ARCADE FIRE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_suburbs.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bf306022-c851-449d-a619-7864caddf5c7",
-			"albumTitle": "The Suburbs",
-			"artist": "Arcade Fire",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DON'T ASK",
 		"artist": "TINA ARENA",
 		"price": "10,00 kr.",
@@ -4760,20 +4746,6 @@
 		}
 	},
 	{
-		"albumTitle": "BODY COUNT",
-		"artist": "BODY COUNT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/body_count.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8c7d82c9-cb5d-371c-8e6b-d2fba0244ca0",
-			"albumTitle": "Body Count",
-			"artist": "Body Count",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A NEW KINDA SOUL",
 		"artist": "HANNE BOEL",
 		"price": "10,00 kr.",
@@ -6481,20 +6453,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "3a468ab1-9584-36d7-afa8-e94a05e4299b",
 			"albumTitle": "Classic JJ Cale",
-			"artist": "J.J. Cale",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NATURALLY",
-		"artist": "J.J. CALE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/naturally.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a5e655a1-acd0-3d4d-982a-4ab5281db04c",
-			"albumTitle": "Naturally",
 			"artist": "J.J. Cale",
 			"type": "Album"
 		}
@@ -9204,20 +9162,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "a91073c7-5e05-331a-8fc3-4107d79de398",
 			"albumTitle": "God Shuffled His Feet",
-			"artist": "Crash Test Dummies",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE GHOSTS THAT HAUNT ME",
-		"artist": "CRASH TEST DUMMIES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_ghosts_that_haunt_me.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7e8878a-aafb-34d8-955d-eee1e0d924db",
-			"albumTitle": "The Ghosts That Haunt Me",
 			"artist": "Crash Test Dummies",
 			"type": "Album"
 		}
@@ -16733,20 +16677,6 @@
 			"releaseGroupId": "044b5dea-107a-33bf-a809-c70dbe9aaed2",
 			"albumTitle": "Screamin’ for My Supper",
 			"artist": "Beth Hart",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LET ENGLAND SHAKE",
-		"artist": "PJ HARVEY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/let_england_shake.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9d504fde-1b02-4c14-b484-bcf94570153a",
-			"albumTitle": "Let England Shake",
-			"artist": "PJ Harvey",
 			"type": "Album"
 		}
 	},
@@ -31635,15 +31565,6 @@
 			"artist": "Pink Floyd",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "PINK FLOYD EMI",
-		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_division_bell.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE WALL (2CD)",
