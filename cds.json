@@ -10845,20 +10845,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "FRITURE",
-		"artist": "DISKOFIL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/friture.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3247f092-ea92-3449-8c78-3de56aa46b93",
-			"albumTitle": "Friture",
-			"artist": "Diskofil",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PLAGIAT",
 		"artist": "DISKOFIL",
 		"price": "10,00 kr.",
@@ -26510,20 +26496,6 @@
 			"releaseGroupId": "9e874890-d5fc-3ba3-95ba-35420c6a1d00",
 			"albumTitle": "Call Off the Search",
 			"artist": "Katie Melua",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CALL OFF THE SEARCH (CD+DVD)",
-		"artist": "KATIE MELUA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/call_off_the_search.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "149a4e43-5cca-4d11-937d-8a8091a14f4d",
-			"albumTitle": "[untitled]",
-			"artist": "Katie Gately",
 			"type": "Album"
 		}
 	},
@@ -46308,20 +46280,6 @@
 			"releaseGroupId": "956eb9ac-78f5-33d6-812d-38efeade401e",
 			"albumTitle": "Alle Børnene",
 			"artist": "2 x Kaj",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "5 X KAJ",
-		"artist": "5 X KAJ",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/5xkaj.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2c85008e-92fa-3739-8efe-39e5ef1b30a3",
-			"albumTitle": "5 x Kaj",
-			"artist": "5 X Kaj",
 			"type": "Album"
 		}
 	},
