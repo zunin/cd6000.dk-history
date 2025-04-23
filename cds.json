@@ -5927,20 +5927,6 @@
 		}
 	},
 	{
-		"albumTitle": "NOT FRAGILE",
-		"artist": "BACHMAN TURNER OVERDRIVE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/not_fragile.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "03e7c359-4762-3738-bfad-2ca43e539938",
-			"albumTitle": "Not Fragile",
-			"artist": "Bachman–Turner Overdrive",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "IT'S TIME",
 		"artist": "MICHAEL BUBLÉ",
 		"price": "10,00 kr.",
@@ -8674,20 +8660,6 @@
 			"releaseGroupId": "26e9dbcc-d124-38cd-a9ae-5db7f8ab2a73",
 			"albumTitle": "Unforgettable: With Love",
 			"artist": "Natalie Cole",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVE '92-'93",
-		"artist": "ALBERT COLLINS & THE ICEBREAKERS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/live_92-93.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fdb70f23-00dc-3803-a4b6-df754e6046b0",
-			"albumTitle": "Live ’92–’93",
-			"artist": "Albert Collins and the Icebreakers",
 			"type": "Album"
 		}
 	},
@@ -15440,15 +15412,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SAFARI (remastered)",
-		"artist": "GNAGS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/safari.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE GOOD, THE BAD & THE QUEEN",
 		"artist": "THE GOOD, THE BAD & THE QUEEN",
 		"price": "10,00 kr.",
@@ -16281,20 +16244,6 @@
 			"releaseGroupId": "fdd5cfad-6660-4bda-a2f3-7ee86a17f840",
 			"albumTitle": "Celtic Crossing",
 			"artist": "Bruce Guthro",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SLIPPIN' IN",
-		"artist": "BUDDY GUY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/slippin_in.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5f47a475-e959-39ff-b894-afffe955c99b",
-			"albumTitle": "Slippin' In",
-			"artist": "Buddy Guy",
 			"type": "Album"
 		}
 	},
