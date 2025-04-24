@@ -5440,20 +5440,6 @@
 		}
 	},
 	{
-		"albumTitle": "EVERYTHING I OWN",
-		"artist": "BOY GEORGE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/boy_george_everything.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9aa3bf66-c2f6-40ad-941d-a68bed062c90",
-			"albumTitle": "Everything I Own",
-			"artist": "Boy George",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "EVERYBODY ELSE",
 		"artist": "AXEL BOYS QUARTET",
 		"price": "10,00 kr.",
@@ -9404,20 +9390,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "SHERYL CROW",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/crow_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "60357090-6968-343d-8e83-953abba5dc78",
-			"albumTitle": "The Very Best of Sheryl Crow",
-			"artist": "Sheryl Crow",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE FROM CENTRAL PARK",
 		"artist": "SHERYL CROW & FRIENDS",
 		"price": "10,00 kr.",
@@ -9549,20 +9521,6 @@
 			"releaseGroupId": "022a265e-a85d-3462-988e-15228a4ca44b",
 			"albumTitle": "Wild Mood Swings",
 			"artist": "The Cure",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "CURIOSITY KILLED THE CAT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/curiosity_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a366eaa1-d7ee-3781-b41e-0599895c63ba",
-			"albumTitle": "The Very Best Of",
-			"artist": "Curiosity Killed the Cat",
 			"type": "Album"
 		}
 	},
@@ -10276,20 +10234,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "I AIN'T MOVIN'",
-		"artist": "DES'REE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_aint_movin.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "81a85b5c-daf1-3ea7-a2a7-c60ed775f002",
-			"albumTitle": "I Ain’t Movin’",
-			"artist": "Des’ree",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "I LOVE YOU",
@@ -15798,20 +15742,6 @@
 		}
 	},
 	{
-		"albumTitle": "INTERNATIONAL SUPERHITS",
-		"artist": "GREEN DAY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/international_superhits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a867a345-f904-3cd1-939d-f7c24b14719f",
-			"albumTitle": "International Superhits!",
-			"artist": "Green Day",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "KÆRLIGHEDSSANGE",
 		"artist": "ERIK GRIP",
 		"price": "10,00 kr.",
@@ -17089,15 +17019,6 @@
 		}
 	},
 	{
-		"albumTitle": "DOLORES J, THE BUTTERFLY",
-		"artist": "CAROLINE HENDERSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dolores_j.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "METAMORPHING",
 		"artist": "CAROLINE HENDERSON",
 		"price": "10,00 kr.",
@@ -17358,20 +17279,6 @@
 		"artist": "FAITH HILL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/faith_hill_faith.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3cbdd567-4bf0-3d82-aa8d-1e4b24d60389",
-			"albumTitle": "Faith",
-			"artist": "Faith Hill",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LOVE WILL ALWAYS WIN",
-		"artist": "FAITH HILL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/love_will_always_win.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -18508,20 +18415,6 @@
 			"releaseGroupId": "74f6e575-52bf-300b-824e-e13c1115fc58",
 			"albumTitle": "Insomniac",
 			"artist": "Enrique Iglesias",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "COUNTING DOWN THE DAYS",
-		"artist": "NATALIE IMBRUGLIA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/counting_down_the_days.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ece26690-acda-3510-80a3-12c6584ec9c3",
-			"albumTitle": "Counting Down the Days",
-			"artist": "Natalie Imbruglia",
 			"type": "Album"
 		}
 	},
@@ -20058,15 +19951,6 @@
 		}
 	},
 	{
-		"albumTitle": "D-D-DON'T STOP THE BEAT",
-		"artist": "JUNIOR SENIOR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dont_stop_the_beat.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HEY HEY MY MY YO YO",
 		"artist": "JUNIOR SENIOR",
 		"price": "10,00 kr.",
@@ -21406,15 +21290,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "DEN KOMPLETTE (2CD)",
-		"artist": "POUL KJØLLER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/den_komplette.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE COLLECTION (NY i folie)",
 		"artist": "POUL KJØLLER",
 		"price": "10,00 kr.",
@@ -21894,6 +21769,15 @@
 		}
 	},
 	{
+		"albumTitle": "HINKERUDER PÅ MOTORVEJEN /TUR-RETUR (2LP på 1CD)",
+		"artist": "SØREN KRAGH-JACOBSEN",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/hinkeruder_tur.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LOVE SCENES",
 		"artist": "DIANA KRALL",
 		"price": "10,00 kr.",
@@ -21932,6 +21816,20 @@
 			"releaseGroupId": "1e482680-d0b1-3ed1-9de7-2e3c7649f956",
 			"albumTitle": "The Look of Love",
 			"artist": "Diana Krall",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "CHRISTMAS SONGS",
+		"artist": "DIANA KRALL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/krall_christmas.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "42e997cd-c1aa-3c78-aa1c-9327091d101f",
+			"albumTitle": "Christmas Songs",
+			"artist": "Diana Krall, The Clayton–Hamilton Jazz Orchestra",
 			"type": "Album"
 		}
 	},
@@ -22159,6 +22057,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MAGNOLIA TALES (signeret på front)",
+		"artist": "POUL KREBS",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/magnolia_tales.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "NAT NU, UNDER STJERNERNE",
 		"artist": "KREBS BAND",
 		"price": "10,00 kr.",
@@ -22344,6 +22251,34 @@
 		}
 	},
 	{
+		"albumTitle": "NEED YOU NOW",
+		"artist": "LADY ANTEBELLUM",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/need_you_now.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "be6f6989-a723-414e-a688-2f3057363959",
+			"albumTitle": "Need You Now",
+			"artist": "Lady A",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BORN THIS WAY",
+		"artist": "LADY GAGA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/born_this_way.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
+			"albumTitle": "Born This Way",
+			"artist": "Lady Gaga",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE FAME",
 		"artist": "LADY GAGA",
 		"price": "10,00 kr.",
@@ -22404,6 +22339,20 @@
 		"artist": "ADAM LAMBERT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/for_your_entertainment_14.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0da55280-3c78-474a-9e81-5e9e348ff227",
+			"albumTitle": "For Your Entertainment",
+			"artist": "Adam Lambert",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FOR YOUR ENTERTAINMENT",
+		"artist": "ADAM LAMBERT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_your_entertainment_18.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -22908,6 +22857,20 @@
 		}
 	},
 	{
+		"albumTitle": "FYN ER FIN",
+		"artist": "LASSE & MATHILDE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/fyn_er_fin.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fe5b42ca-ff98-49ae-bc08-9515cc332f26",
+			"albumTitle": "Fyn Er Fin",
+			"artist": "Lasse & Mathilde",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FYN ER FIN FOREVER (2CD)",
 		"artist": "LASSE & MATHILDE",
 		"price": "50,00 kr.",
@@ -23020,6 +22983,20 @@
 		}
 	},
 	{
+		"albumTitle": "TRUE COLORS",
+		"artist": "CINDY LAUPER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/true_colors.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4bc09fb5-9c33-3c33-916f-07f2a4ae7ea6",
+			"albumTitle": "True Colors",
+			"artist": "Cyndi Lauper",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TWELVE DEADLY CYNS",
 		"artist": "CYNDI LAUPER",
 		"price": "10,00 kr.",
@@ -23032,6 +23009,15 @@
 			"artist": "Cyndi Lauper",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE BEST OF (unofficial)",
+		"artist": "AVRIL LAVIGNE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lavigne_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "LAZYBOY TV (CD+DVD)",
@@ -23064,6 +23050,15 @@
 			"artist": "Lecia & Lucienne",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "II (fold på bagcover)",
+		"artist": "LED ZEPPELIN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/led_zeppelin_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "REMASTERS (2CD)",
@@ -23131,6 +23126,20 @@
 			"releaseGroupId": "9ff7912f-30e9-3604-b60b-790a38ba695b",
 			"albumTitle": "In Concert",
 			"artist": "Tom Lehrer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE LEJRBÅLS",
+		"artist": "THE LEJRBÅLS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_lejrbaals.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cf1aba6f-58a6-47d7-a59f-9173d9348d59",
+			"albumTitle": "The Lejrbåls",
+			"artist": "The Lejrbåls",
 			"type": "Album"
 		}
 	},
@@ -23214,6 +23223,15 @@
 		}
 	},
 	{
+		"albumTitle": "FRIENDLY FIRE (CD+DVD)",
+		"artist": "SEAN LENNON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/friendly_fire.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "MEDUSA",
 		"artist": "ANNIE LENNOX",
 		"price": "10,00 kr.",
@@ -23293,6 +23311,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "6cc302f0-3ff6-455e-a307-cb6afce1451a",
 			"albumTitle": "Running in the Family",
+			"artist": "Level 42",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STARING AT THE SUN",
+		"artist": "LEVEL 42",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/staring_at_the_sun.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9fe84909-a153-3e52-bde5-cbeaa895688e",
+			"albumTitle": "Staring at the Sun",
+			"artist": "Level 42",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE REMIXES",
+		"artist": "LEVEL 42",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/level_42_the_remixes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "180e1c50-7875-3bcc-b52f-b85bec346571",
+			"albumTitle": "The Remixes",
 			"artist": "Level 42",
 			"type": "Album"
 		}
@@ -23558,6 +23604,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE SECOND RETURN",
+		"artist": "KLRISTIAN LILHOLT",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_second_return.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "OUR SONG (2CD)",
 		"artist": "KRISTIAN LILHOLT IDA FRIIS VIRENFELDT",
 		"price": "20,00 kr.",
@@ -23711,6 +23766,20 @@
 		}
 	},
 	{
+		"albumTitle": "STILHEDEN BAG STØJEN",
+		"artist": "LARS LILHOLT BAND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/stilheden_bag_stoejen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4b826272-5dd4-4725-b0f6-97bfbb38aaa9",
+			"albumTitle": "Stilheden Bag Støjen",
+			"artist": "Lars Lilholt Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "16 STØRSTE SUCCESER 1",
 		"artist": "BJARNE LILLER",
 		"price": "10,00 kr.",
@@ -23785,6 +23854,20 @@
 			"releaseGroupId": "3d2cf77e-ea1a-48e0-ae72-5060a02c2a42",
 			"albumTitle": "Messed Up Happy Kid",
 			"artist": "Sebastian Lind",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "INDIAN CHILD",
+		"artist": "LINK WRAY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/indian_child.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4315358c-de9f-4973-b310-9c2a3984bb8b",
+			"albumTitle": "Indian Child",
+			"artist": "Link Wray",
 			"type": "Album"
 		}
 	},
@@ -23970,6 +24053,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "UNIVERS 2",
+		"artist": "ANNE LINNET (Marquis de Sade)",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/univers2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3fd63041-8464-4641-b6d2-ebd6409e0368",
+			"albumTitle": "Univers 2",
+			"artist": "Anne Linnet, Marquis de Sade",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "UNIVERS 3",
 		"artist": "ANNE LINNET",
 		"price": "10,00 kr.",
@@ -23988,6 +24085,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ANNE LINNET BAND",
+		"artist": "ANNE LINNET BAND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/anne_linnet_band.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4785ff32-16fe-39dc-a509-50417a25b1cf",
+			"albumTitle": "Anne Linnet Band",
+			"artist": "Anne Linnet Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HVID MAGI",
 		"artist": "ANNE LINNET MARQUIS de SADE",
 		"price": "10,00 kr.",
@@ -23997,6 +24108,48 @@
 		"musicbrainz": {
 			"releaseGroupId": "25156d06-976a-3f70-933f-97c58d750d5d",
 			"albumTitle": "Hvid magi",
+			"artist": "Anne Linnet, Marquis de Sade",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "EN ELSKER",
+		"artist": "ANNE LINNET MARQUIS de SADE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/en_elsker.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5397975a-49c9-37bd-a179-018896a5d46d",
+			"albumTitle": "En elsker",
+			"artist": "Anne Linnet, Marquis de Sade",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MARQUIS de SADE",
+		"artist": "ANNE LINNET MARQUIS de SADE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/marquis_de_sade.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8f5dd34e-edcc-3520-8060-21032c03b371",
+			"albumTitle": "Marquis de Sade",
+			"artist": "Marquis de Sade",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "OVER MIG UNDER MIG",
+		"artist": "ANNE LINNET & MARQUIS de SADE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/over_mig_under_mig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "482cf6e9-197e-3e62-834a-82c0001b64ea",
+			"albumTitle": "Over mig, under mig",
 			"artist": "Anne Linnet, Marquis de Sade",
 			"type": "Album"
 		}
@@ -24110,20 +24263,6 @@
 			"releaseGroupId": "9f31404b-49d0-365e-935d-cb040b762abf",
 			"albumTitle": "Throwing Copper",
 			"artist": "Live",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "LIVING IN A BOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/living_in_a_box_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "659495e1-2c42-32ce-aeeb-6ba1a37a426a",
-			"albumTitle": "The Best of Living in a Box",
-			"artist": "Living in a Box",
 			"type": "Album"
 		}
 	},
@@ -24370,6 +24509,20 @@
 		}
 	},
 	{
+		"albumTitle": "SHE COMES IN COLORS",
+		"artist": "LOVE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/she_comes_in_colors.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "08e3c9e6-aa67-45c9-addc-03bc93c54c8e",
+			"albumTitle": "She Comes in Colors",
+			"artist": "Love",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LOVE WILL KILL YOU",
 		"artist": "LOVE JULIE",
 		"price": "10,00 kr.",
@@ -24384,6 +24537,48 @@
 		}
 	},
 	{
+		"albumTitle": "SENDT FRA HIMLEN 1990-2004",
+		"artist": "LOVE SHOP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sendt_fra_himlen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "459993d3-d9b7-3b84-8237-fbe3894f7984",
+			"albumTitle": "Sendt Fra Himlen: 1990-2004",
+			"artist": "Love Shop",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET LØSE LIV",
+		"artist": "LOVE SHOP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/det_loese_liv.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9bdbdd0d-7a09-365d-a399-20296c96f85a",
+			"albumTitle": "Det løse liv",
+			"artist": "Love Shop",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SKANDINAVISK LYST",
+		"artist": "LOVE SHOP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/skandinavisk_lyst.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fcc7433f-55b6-4c86-b86d-dbfc95669ea3",
+			"albumTitle": "Skandinavisk Lyst",
+			"artist": "Love Shop",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EXPLODING STAR",
 		"artist": "LOVEBITES",
 		"price": "10,00 kr.",
@@ -24394,6 +24589,20 @@
 			"releaseGroupId": "f334ad92-3090-3702-aa87-dd557602ad04",
 			"albumTitle": "Exploding Star",
 			"artist": "Lovebites",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SHAKA LOVELESS",
+		"artist": "SHAKA LOVELESS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shaka_loveless.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "30ffecf3-a207-462c-afe9-021843c6bbe6",
+			"albumTitle": "Shaka Loveless",
+			"artist": "Shaka Loveless",
 			"type": "Album"
 		}
 	},
@@ -27290,20 +27499,6 @@
 		}
 	},
 	{
-		"albumTitle": "KYLIE",
-		"artist": "KYLIE MINOGUE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kylie.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "665372d2-de13-3ef1-886d-be41fd229ade",
-			"albumTitle": "Kylie Minogue",
-			"artist": "Kylie Minogue",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIGHT YEARS",
 		"artist": "KYLIE MONOGUE",
 		"price": "10,00 kr.",
@@ -30172,20 +30367,6 @@
 		}
 	},
 	{
-		"albumTitle": "OH LAND",
-		"artist": "OH LAND",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/oh_land.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ecb9e29b-1775-4e1d-bd19-d4d7aa92aa24",
-			"albumTitle": "Oh Land",
-			"artist": "Oh Land",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "YES",
 		"artist": "OH NO ONO",
 		"price": "10,00 kr.",
@@ -31352,15 +31533,6 @@
 			"artist": "Tom Petty",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "IN MY MIND",
-		"artist": "PHARRELL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/in_my_mind.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "PHILLIPS 66",
@@ -35021,20 +35193,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "JUNIOR",
-		"artist": "RÖYKSOPP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/junior.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fb1b2c3-e9ed-325f-99f3-a1959334f5e4",
-			"albumTitle": "Junior",
-			"artist": "Röyksopp",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PROMISE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -35407,15 +35565,6 @@
 		"artist": "IVAN SAND",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/du_milde_himmel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "OUR VERSION OF EVENTS (NY i folie)",
-		"artist": "EMELI SANDE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/our_version_of_events.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -37568,20 +37717,6 @@
 			"releaseGroupId": "85647773-e380-474c-89ba-99744089b34b",
 			"albumTitle": "subtitles & paper planes",
 			"artist": "My Sister Grenadine",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SOME GIRLS WANDER BY MISTAKE",
-		"artist": "SISTERS OF MERCY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/some_girls_wander.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "abb1621a-c039-3386-b961-271fbf59e5ce",
-			"albumTitle": "Some Girls Wander by Mistake",
-			"artist": "The Sisters of Mercy",
 			"type": "Album"
 		}
 	},
@@ -42789,48 +42924,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HOLD NU",
-		"artist": "U$O",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hold_nu.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2ce9a73e-16b3-3ec4-9859-980e013e4fb5",
-			"albumTitle": "Hold nu",
-			"artist": "U$O",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "KIG MIG I ØJNENE",
-		"artist": "UFO YEPHA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kig_mig_i_oejnene.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8af54e4f-0ab3-380e-a5be-183215d98b55",
-			"albumTitle": "Kig mig i øjnene",
-			"artist": "UFO Yepha",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INGEN SOM OS",
-		"artist": "UFO YEPA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ingen_som_os.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b987a62b-26d2-3773-94a2-73b839fbb98e",
-			"albumTitle": "Ingen som os",
-			"artist": "UFO Yepha",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MENACE TO SOBRIETY",
 		"artist": "UGLY KID JOE",
 		"price": "10,00 kr.",
@@ -45172,20 +45265,6 @@
 			"releaseGroupId": "bb351e6f-a042-4a57-b399-b14d0e35d233",
 			"albumTitle": "[untitled]",
 			"artist": "Mince Splatters, Lackthrow, Doodshoofd, Amy Weinrausch",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIONESS: HIDDEN TREASURES",
-		"artist": "AMY WINEHOUSE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/lioness_hidden_treasures.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "86da8ce7-05ef-4109-8186-c6fa69c57729",
-			"albumTitle": "Lioness: Hidden Treasures",
-			"artist": "Amy Winehouse",
 			"type": "Album"
 		}
 	},
