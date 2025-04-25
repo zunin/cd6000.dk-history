@@ -24913,20 +24913,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "I'M BREATHLESS",
-		"artist": "MADONNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/im_breathless.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f60b509f-ab71-31ee-8dc1-2f88df9097ab",
-			"albumTitle": "I’m Breathless",
-			"artist": "Madonna",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GHV2 GREATEST HITS VOLUME 2",
 		"artist": "MADONNA",
 		"price": "10,00 kr.",
@@ -35088,20 +35074,6 @@
 		}
 	},
 	{
-		"albumTitle": "RECOVERY",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/recovery.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cf1288e7-5272-3935-8cd6-8e882177cda6",
-			"albumTitle": "Recovery",
-			"artist": "Runrig",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "30 YEAR JOURNEY - THE BEST",
 		"artist": "RUNRIG",
 		"price": "10,00 kr.",
@@ -35118,6 +35090,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "RECOVERY",
+		"artist": "RUNRIG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/recovery.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cf1288e7-5272-3935-8cd6-8e882177cda6",
+			"albumTitle": "Recovery",
+			"artist": "Runrig",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE STORY (digipack med 'bog') (obs : overfladeridser - men spiller uden problemer - derfor pris)",
@@ -46629,6 +46615,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "69e28cfd-6cbf-3157-90c2-65bdfb961ed5",
 			"albumTitle": "Absolute Music 14",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 15",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am15.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "961b820b-38c6-3b7e-a8dc-14de3d2a3e4d",
+			"albumTitle": "Absolute Music 15",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
