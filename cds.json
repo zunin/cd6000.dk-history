@@ -855,15 +855,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "BÄSTA (2CD)",
-		"artist": "BJÖRN AFZELIUS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/afzelius_baesta.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BÄSTA VOL. 1",
 		"artist": "BJÖRN AFZELIUS",
 		"price": "10,00 kr.",
@@ -929,20 +920,6 @@
 			"releaseGroupId": "297a8f87-8271-3534-bb6a-1be72efb73f7",
 			"albumTitle": "Elsinore",
 			"artist": "Björn Afzelius",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GLOBETROTTER",
-		"artist": "BJÖRN AFZELIUS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/globetrotter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f054bf29-1ee9-3378-b2ba-2b65b09eec9f",
-			"albumTitle": "Globetrotter",
-			"artist": "Björn Afzelius & Globetrotters",
 			"type": "Album"
 		}
 	},
@@ -1251,20 +1228,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FROSTMORGEN",
-		"artist": "ALBERTE WINDING & BENJAMIN KOPPEL",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/frostmorgen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
-			"albumTitle": "[untitled]",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HAPPY ACCIDENT",
@@ -10863,20 +10826,6 @@
 		}
 	},
 	{
-		"albumTitle": "OVER ADSKILLIGE GRÆNSER",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/over_adskillige_graenser.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bdef2dd7-cdf0-4b24-a8bc-cbc6210b8452",
-			"albumTitle": "Over adskillige grænser...",
-			"artist": "Povl Dissing, Benny Andersen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SKYND DIG LANGSOMT",
 		"artist": "POUL DISSING, BENNY ANDERSEN & JENS JEFSEN",
 		"price": "10,00 kr.",
@@ -13290,15 +13239,6 @@
 		"artist": "MICHAEL FALCH",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/falder_du_nu.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "HELE VEJEN 1980-2010",
-		"artist": "MICHAEL FALCH",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/hele_vejen.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -34181,20 +34121,6 @@
 		}
 	},
 	{
-		"albumTitle": "VIVALDI & VEN",
-		"artist": "ROBEN & KNUD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/vivaldi_og_ven.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4b990e63-5362-3302-97d9-9f61d2182261",
-			"albumTitle": "Vivaldi & ven",
-			"artist": "Roben & Knud",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ROBYN IS HERE",
 		"artist": "ROBYN",
 		"price": "10,00 kr.",
@@ -43834,29 +43760,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "PICTURE IN A FRAME (CD+DVD)",
-		"artist": "PETER VISKINDE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/picture_in_a_frame.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TURN TO YOU",
-		"artist": "PETER VISKINDE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/turn_to_you.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5f08dbce-22eb-4653-93c1-8344ae5afb37",
-			"albumTitle": "Turn to You",
-			"artist": "Peter Viskinde",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "UNDER THE MOON",
