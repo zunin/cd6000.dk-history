@@ -24594,6 +24594,15 @@
 		}
 	},
 	{
+		"albumTitle": "ENEMIES AGAINST POWER",
+		"artist": "LOS LOBOS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/enemies_against_power.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE COLLECTION",
 		"artist": "PACO de LUCIA",
 		"price": "10,00 kr.",
@@ -24738,6 +24747,20 @@
 		}
 	},
 	{
+		"albumTitle": "CLASSIC",
+		"artist": "LYNYRD SKYNYRD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lynyrd_classic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4fb078f-fb07-420c-90ee-bbc8414b3526",
+			"albumTitle": "Classic Skynyrd",
+			"artist": "Lynyrd Skynyrd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE COLLECTION (obs : 'eftergjort' bagscan !!)",
 		"artist": "LYNYRD SKYNYRD",
 		"price": "20,00 kr.",
@@ -24745,6 +24768,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE LAST REBEL",
+		"artist": "LYNYRD SKYNYRD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_last_rebel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "69d38d03-61b3-34ea-baf1-3b44dfe79c07",
+			"albumTitle": "The Last Rebel",
+			"artist": "Lynyrd Skynyrd",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "BIZARRE FRUIT II (2CD)",
@@ -24817,6 +24854,20 @@
 			"releaseGroupId": "f1e1b952-ec8d-363a-bd63-4c72d248cb51",
 			"albumTitle": "One Step Beyond…",
 			"artist": "Madness",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "AMERICAN LIFE",
+		"artist": "MADONNA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/american_life.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e5e9cecd-bf09-3b13-9edd-4f085a5a27ac",
+			"albumTitle": "American Life",
+			"artist": "Madonna",
 			"type": "Album"
 		}
 	},
@@ -25044,6 +25095,20 @@
 		}
 	},
 	{
+		"albumTitle": "CHINATOWN, YELLOW MOON OG DEN SORTE FUGL",
+		"artist": "JOHNNY MADSEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/chinatown_yellow_moon.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f8d5a33e-d8c5-32df-8f7d-e9aa5966c31d",
+			"albumTitle": "Chinatown, Yellow Moon og den sorte fugl",
+			"artist": "Johnny Madsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HALGAL HALBAL (2CD) 1992",
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
@@ -25211,6 +25276,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SNEGLZILLA",
+		"artist": "MALK de KOIJN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sneglzilla.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "920283ce-a306-33c3-8296-38a0414bd7fe",
+			"albumTitle": "Sneglzilla",
+			"artist": "Malk de Koijn",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GHETTO",
 		"artist": "MALURT",
 		"price": "20,00 kr.",
@@ -25346,6 +25425,34 @@
 		}
 	},
 	{
+		"albumTitle": "SOFT VENGEANCE",
+		"artist": "MANFRED MANN's EARTH BAND",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/soft_vengeance.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "15ec77a1-89aa-30ad-8b45-1774978fcda4",
+			"albumTitle": "Soft Vengeance",
+			"artist": "Manfred Mann’s Earth Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE MANHATTAN TRANSFER",
+		"artist": "THE MANHATTAN TRANSFER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_manhattan_transfer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fde009b4-45bf-3685-9135-5f26c743cf9e",
+			"albumTitle": "The Manhattan Transfer",
+			"artist": "The Manhattan Transfer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "POST MODERN PANIC ATTACK",
 		"artist": "MANI SPINX",
 		"price": "10,00 kr.",
@@ -25383,6 +25490,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "9e9364b5-6b27-385b-a447-acc12fa173f9",
 			"albumTitle": "Know Your Enemy",
+			"artist": "Manic Street Preachers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE HOLY BIBLE",
+		"artist": "MANIC STREET PREACHERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_holy_bible.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7882cea8-bd15-3ff7-a62a-f22f49c6a0c1",
+			"albumTitle": "The Holy Bible",
 			"artist": "Manic Street Preachers",
 			"type": "Album"
 		}
@@ -25491,6 +25612,48 @@
 			"releaseGroupId": "719e5d6c-2b64-3136-8aa0-538dbac94b61",
 			"albumTitle": "Lost in Space",
 			"artist": "Aimee Mann",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE TRIUMPH OF STEEL",
+		"artist": "MANOWAR",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_triumph_of_steel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a5c6c993-0869-3fb6-a365-10cca7b64a21",
+			"albumTitle": "The Triumph of Steel",
+			"artist": "Manowar",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ANTICHRIST SUPERSTAR",
+		"artist": "MARILYN MANSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/antichrist_superstar.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6cb17389-101a-3f0a-8864-bea548465406",
+			"albumTitle": "Antichrist Superstar",
+			"artist": "Marilyn Manson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LEST WE FORGET THE BEST OF",
+		"artist": "MARILYN MANSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/lest_we_forget.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f1dcd631-a0b9-3f56-aabb-3ae8f73cf498",
+			"albumTitle": "Lest We Forget: The Best Of",
+			"artist": "Marilyn Manson",
 			"type": "Album"
 		}
 	},
@@ -25774,6 +25937,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DEN KAN BYTTES",
+		"artist": "HVA' SNAKKER DU OM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/den_kan_byttes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TERKEL I KNIBE (2CD)",
+		"artist": "ANDERS (ANDEN) MATTESEN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/terkel_i_knibe_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ALL FOR FAME (signeret)",
 		"artist": "SIMON MATTHEW",
 		"price": "10,00 kr.",
@@ -25835,6 +26016,20 @@
 			"releaseGroupId": "e6f293f7-1df0-37c9-9260-fe645c35e518",
 			"albumTitle": "Best of Me",
 			"artist": "Maxi Priest",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BACK TO THE LIGHT",
+		"artist": "BRIAN MAY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/back_to_the_light.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bc8ae92c-5e85-3a0d-b0d3-354d1a15c3c5",
+			"albumTitle": "Back to the Light",
+			"artist": "Brian May",
 			"type": "Album"
 		}
 	},
@@ -25993,6 +26188,20 @@
 		}
 	},
 	{
+		"albumTitle": "DRIVING RAIN (unofficial)",
+		"artist": "PAUL McCARTNEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/driving_rain_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
+			"albumTitle": "Title And Descriptive Themes",
+			"artist": "John Du Prez",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FLAMING PIE",
 		"artist": "PAUL McCARTNEY",
 		"price": "15,00 kr.",
@@ -26003,6 +26212,34 @@
 			"releaseGroupId": "b15fc97a-d55b-335c-9871-4ba4733b16d5",
 			"albumTitle": "Flaming Pie",
 			"artist": "Paul McCartney",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FLOWERS IN THE DIRT (The Paul McCartney Collection) (digitally remastered)",
+		"artist": "PAUL McCARTNEY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/flowers_in_the_dirt_remastered.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
+			"albumTitle": "Title And Descriptive Themes",
+			"artist": "John Du Prez",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST (unofficial)",
+		"artist": "PAUL McCARTNEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/mccartney_very_best_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
+			"albumTitle": "Title And Descriptive Themes",
+			"artist": "John Du Prez",
 			"type": "Album"
 		}
 	},
@@ -26151,6 +26388,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "5ef10a82-833e-3926-a857-9560352adb56",
 			"albumTitle": "The Book of Secrets",
+			"artist": "Loreena McKennitt",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE MASK AND MIRROR",
+		"artist": "LOREENA McKENNITT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_mask_and_mirror.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "015a1ecf-c90c-3102-9760-ee1cc1c1a6d6",
+			"albumTitle": "The Mask and Mirror",
 			"artist": "Loreena McKennitt",
 			"type": "Album"
 		}
@@ -26435,6 +26686,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "UNITED ABOMINATIONS",
+		"artist": "MEGADETH",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/united_abominations.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5462e170-d7a8-30d9-97a0-04bdf84e8811",
+			"albumTitle": "United Abominations",
+			"artist": "Megadeth",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "YOUTHANASIA",
 		"artist": "MEGADETH",
 		"price": "20,00 kr.",
@@ -26445,6 +26710,20 @@
 			"releaseGroupId": "cd20894a-10eb-3f69-8550-a9b93446c2a8",
 			"albumTitle": "Youthanasia",
 			"artist": "Megadeth",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PEK'EN PASSER",
+		"artist": "MEK PEK PARTY BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/peken_passer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8f363539-a40c-3fe7-a51c-2f4111283656",
+			"albumTitle": "Pek'en Passer",
+			"artist": "Mek Pek Party Band",
 			"type": "Album"
 		}
 	},
@@ -26979,6 +27258,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "TWENTYFIVE, GREATEST HITS (2CD)",
+		"artist": "GEORGE MICHAEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/twentyfive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "FIVE LIVE",
 		"artist": "GEORGE MICHAEL, QUEEN & LISA STANSFIELD",
 		"price": "10,00 kr.",
@@ -27211,6 +27499,20 @@
 		}
 	},
 	{
+		"albumTitle": "DIESEL AND DUST",
+		"artist": "MIDNIGHT OIL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/diesel_and_dust.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "31627a1a-3bc8-3da1-b106-d264ea4ac339",
+			"albumTitle": "Diesel and Dust",
+			"artist": "Midnight Oil",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIFE IN CARTOON MOTION",
 		"artist": "MIKA",
 		"price": "10,00 kr.",
@@ -27361,6 +27663,20 @@
 			"releaseGroupId": "cb6b6654-0239-40d5-b050-9cd50757f153",
 			"albumTitle": "Live USA",
 			"artist": "Steve Miller Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ALL OR NOTHING",
+		"artist": "MILLI VANILLI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/milli_vanilli_all_or.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d54ff37b-d4c9-33ea-ac3b-522c751ef28f",
+			"albumTitle": "All or Nothing",
+			"artist": "Milli Vanilli",
 			"type": "Album"
 		}
 	},
