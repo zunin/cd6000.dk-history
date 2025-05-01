@@ -41227,6 +41227,20 @@
 		}
 	},
 	{
+		"albumTitle": "ROSE",
+		"artist": "LIS SØRENSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rose.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f80dca70-6dd9-374f-9ff2-8628c0627292",
+			"albumTitle": "Rose",
+			"artist": "Lis Sørensen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SIGØJNERBLOD",
 		"artist": "LIS SØRENSEN",
 		"price": "10,00 kr.",
