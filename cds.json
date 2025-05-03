@@ -22205,20 +22205,6 @@
 		}
 	},
 	{
-		"albumTitle": "BORN THIS WAY",
-		"artist": "LADY GAGA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/born_this_way.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2e3b231b-ab9f-4d85-950a-48708a1cc2fb",
-			"albumTitle": "Born This Way",
-			"artist": "Lady Gaga",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE FAME",
 		"artist": "LADY GAGA",
 		"price": "10,00 kr.",
@@ -25235,20 +25221,6 @@
 			"releaseGroupId": "6c57d5d5-30a7-3258-a971-2342c136e840",
 			"albumTitle": "Magnum II",
 			"artist": "Magnum",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FRIVÆRDI",
-		"artist": "MAGTENS KORRIDORER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/frivaerdi.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "80196e8e-9f05-3737-a358-4ac3cd47bb12",
-			"albumTitle": "Friværdi",
-			"artist": "Magtens Korridorer",
 			"type": "Album"
 		}
 	},
@@ -47413,20 +47385,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DET BEDSTE AF DANSK MUSIK Præsentation (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK Præsentation (2CD) 1963-96",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_pr2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK Præsentation (2CD) 1963-96",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
