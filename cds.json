@@ -674,20 +674,6 @@
 		}
 	},
 	{
-		"albumTitle": "EASY TIGER",
-		"artist": "RYAN ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/easy_tiger.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "386386b9-7819-303b-9090-36ec323f67ca",
-			"albumTitle": "Easy Tiger",
-			"artist": "Ryan Adams",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "RYAN ADAMS",
 		"price": "10,00 kr.",
@@ -698,34 +684,6 @@
 			"releaseGroupId": "4c7d8cfb-0678-38a4-ac3b-8ff98705a6b5",
 			"albumTitle": "Gold",
 			"artist": "Ryan Adams",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LOVE IS HELL",
-		"artist": "RYAN ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/love_is_hell.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6aa30ea1-f494-3492-a416-ebab3255dbc7",
-			"albumTitle": "Love Is Hell",
-			"artist": "Ryan Adams",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LOVE IS HELL pt. 2",
-		"artist": "RYAN ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/love_is_hell_pt2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b2bf1e68-4826-4a25-a75b-7095289dfc6a",
-			"albumTitle": "The Nat King Cole Story",
-			"artist": "Nat King Cole",
 			"type": "Album"
 		}
 	},
@@ -6495,20 +6453,6 @@
 		}
 	},
 	{
-		"albumTitle": "CANDLEBOX",
-		"artist": "CANDLEBOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/candlebox.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7e290019-f816-3f73-b510-01f84735a6eb",
-			"albumTitle": "Candlebox",
-			"artist": "Candlebox",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ON THE ROAD AGAIN",
 		"artist": "CANNED HEAT",
 		"price": "10,00 kr.",
@@ -7156,20 +7100,6 @@
 			"releaseGroupId": "f1af8bd4-cc09-3d5e-bdd1-0ff3a3a3aa87",
 			"albumTitle": "Time After Time",
 			"artist": "Eva Cassidy",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EQUALLY CURSED AND BLESSED",
-		"artist": "CATATONIA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/equally_cursed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c35fc446-65cc-3645-939b-1b3782e60639",
-			"albumTitle": "Equally Cursed and Blessed",
-			"artist": "Catatonia",
 			"type": "Album"
 		}
 	},
@@ -16630,15 +16560,6 @@
 		}
 	},
 	{
-		"albumTitle": "KMAG YOKO (& OTHER AMERICAN STORIES)",
-		"artist": "HAYES CARLL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kmag_yoko.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE TENSION AND THE SPARK",
 		"artist": "DARREN HAYES",
 		"price": "10,00 kr.",
@@ -20026,62 +19947,6 @@
 			"releaseGroupId": "35ac4b90-7caa-3b6e-bcff-004a949ef598",
 			"albumTitle": "Off With Their Heads",
 			"artist": "Kaiser Chiefs",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EVIG PINT",
-		"artist": "KAIZERS ORCHESTRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/evig_pint.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "89a1cea9-5d78-3ef9-b38d-7524e8748af2",
-			"albumTitle": "Evig pint",
-			"artist": "Kaizers Orchestra",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MAESTRO",
-		"artist": "KAIZERS ORCHESTRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/maestro.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e2be03a1-0ef9-3de0-9db8-a451b64f8880",
-			"albumTitle": "Maestro",
-			"artist": "Kaizers Orchestra",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MAESTRO (2CD)",
-		"artist": "KAIZERS ORCHESTRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/maestro_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5b94f643-37aa-3530-bb15-651543874c9e",
-			"albumTitle": "Main Titles, Volume 3",
-			"artist": "Ennio Morricone",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OMPA TIL DU DØR",
-		"artist": "KAIZERS ORCHESTRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ompa_til_du_doer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2ee2c8b9-9d33-362d-bcd2-bfd136192c4e",
-			"albumTitle": "Ompa til du dør",
-			"artist": "Kaizers Orchestra",
 			"type": "Album"
 		}
 	},
@@ -25872,20 +25737,6 @@
 		}
 	},
 	{
-		"albumTitle": "YOURSELF OR SOMEONE LIKE YOU",
-		"artist": "MATCHBOX TWENTY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/yourself_or_someone_like_you.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dbb71f1a-f9cb-3586-ba93-94150398368d",
-			"albumTitle": "Yourself or Someone Like You",
-			"artist": "Matchbox Twenty",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RØDT & HVIDT",
 		"artist": "MATHILDE",
 		"price": "20,00 kr.",
@@ -27896,20 +27747,6 @@
 			"releaseGroupId": "61ad8364-acfc-3933-b0c0-4e4009898fc0",
 			"albumTitle": "Filmworks II: Music for an Untitled Film by Walter Hill",
 			"artist": "John Zorn",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WE HAD FACES THEN",
-		"artist": "MOI CAPRICE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/we_had_faces_then.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7b33c368-53de-313f-971a-2d6c5adcf639",
-			"albumTitle": "We Had Faces Then",
-			"artist": "moi Caprice",
 			"type": "Album"
 		}
 	},
@@ -32473,48 +32310,6 @@
 			"releaseGroupId": "49e0c6e4-c1aa-486b-b81e-1f6752aec05b",
 			"albumTitle": "Untitled (2012)",
 			"artist": "Brent Gutzeit",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BEATS ME",
-		"artist": "PSYCHED UP JANIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/beats_me.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "58dc2fbd-28fa-337f-b888-e25a1a1688ab",
-			"albumTitle": "Beats Me",
-			"artist": "Psyched Up Janis",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ENTER THE SUPER PEPPERMINT LOUNGE",
-		"artist": "PSYCHED UP JANIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/enter_the_super.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e77289d2-49e9-3139-b6ee-b5405981fa53",
-			"albumTitle": "Enter the Super Peppermint Lounge",
-			"artist": "Psyched Up Janis",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE QUIET ALBUM",
-		"artist": "PSYCHED UP JANIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_quiet_album.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4a0f4549-e879-3743-8b2b-ce5fa4d454e9",
-			"albumTitle": "The Quiet Album",
-			"artist": "Psyched Up Janis",
 			"type": "Album"
 		}
 	},
@@ -38758,20 +38553,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SONGS FOR THE DAILY PLANET",
-		"artist": "TODD SCHNEIDER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/songs_for_the_daily_planet.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0e3ac98b-1ef7-372b-a4f7-8cdedd903117",
-			"albumTitle": "Songs for the Daily Planet",
-			"artist": "Todd Snider",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "12 INCHES OF SNOW",
 		"artist": "SNOW",
 		"price": "10,00 kr.",
@@ -43746,20 +43527,6 @@
 		}
 	},
 	{
-		"albumTitle": "NINE OBJECTS OF DESIRE",
-		"artist": "SUZANNE VEGA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/nine_objects_of_desire.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c9eb98ef-de35-3796-9829-ad33aa216226",
-			"albumTitle": "Nine Objects of Desire",
-			"artist": "Suzanne Vega",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SOLITUDE STANDING",
 		"artist": "SUSAN VEGA",
 		"price": "10,00 kr.",
@@ -46339,15 +46106,6 @@
 			"artist": "Die Ärzte",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "IND UNDER HIMLEN",
-		"artist": "ÖRENLYD",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/ind_under_himlen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SÅ HOLD DOG KÆFT!",
