@@ -47528,6 +47528,62 @@
 		}
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1963-67 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_63-67.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1963-67 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1964-68 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_64-68.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1964-68 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1969-71 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_69-71.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1969-71 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1971-73 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_71-73.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1971-73 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1971-76 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -47542,6 +47598,104 @@
 		}
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1972-74 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_72-74.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1972-74 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1974-76 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_74-76.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1974-76 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1975-77 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_75-77.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1975-77 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-79 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_77-79.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-79 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-80 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_77-80.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-80 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1978-80 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_78-80.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1978-80 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1980-82 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_80-82.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1980-82 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1981-83 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -47551,6 +47705,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1981-83 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1983-84 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_83-84.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1983-84 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1983-85 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_83-85.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1983-85 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -47598,6 +47780,20 @@
 		}
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1987-88 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_87-88.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1987-88 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1987-89 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -47640,6 +47836,20 @@
 		}
 	},
 	{
+		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1991-93 (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dbadm_91-93.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1991-93 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1992-94 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -47663,20 +47873,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1993-95 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK Smagsprøver",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_smag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK Smagsprøver",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
