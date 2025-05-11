@@ -10882,20 +10882,6 @@
 		}
 	},
 	{
-		"albumTitle": "3",
-		"artist": "DISSING DISSING LAS & DISSING",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dissing_dissing_las_3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c6f4d972-415f-318f-b668-28f01b717622",
-			"albumTitle": "3",
-			"artist": "Dissing, Dissing, Las & Dissing",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GRÆSSET MÅ BETRÆDES",
 		"artist": "DISSING, DISSING, von DALER, LAS & DISSING",
 		"price": "10,00 kr.",
@@ -15760,20 +15746,6 @@
 		}
 	},
 	{
-		"albumTitle": "DENGANG JEG VAR BETTE",
-		"artist": "IB GRØNBECH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dengang_jeg_var_bette.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2a58be3c-3bad-3f66-91ed-4403d4fb0186",
-			"albumTitle": "Dengang jeg var bette",
-			"artist": "Ib Grønbech",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DER ER INGEN, DER FORSTÅR EN SKID...",
 		"artist": "IB GRØNBECH",
 		"price": "10,00 kr.",
@@ -20393,20 +20365,6 @@
 		}
 	},
 	{
-		"albumTitle": "ISOLA",
-		"artist": "KENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/isola.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d4395283-19dd-332b-ac0d-7bf64aba0b34",
-			"albumTitle": "Isola",
-			"artist": "Kent",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RÖD",
 		"artist": "KENT",
 		"price": "10,00 kr.",
@@ -21160,20 +21118,6 @@
 		}
 	},
 	{
-		"albumTitle": "CUT THE WIRE",
-		"artist": "DAVID KNOPFLER",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/cut_the_wire.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "356b4e64-8066-3837-afd1-97d2faa07d3e",
-			"albumTitle": "Cut the Wire",
-			"artist": "David Knopfler",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "CAL",
 		"artist": "MARK KNOPFLER",
 		"price": "10,00 kr.",
@@ -21513,20 +21457,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "aa08a002-2777-39cf-a554-e0988fc68030",
 			"albumTitle": "Korn",
-			"artist": "Korn",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIFE IS PEACHY",
-		"artist": "KORN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/life_is_peachy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e958aac9-4f24-3077-96de-117ec44d4dbb",
-			"albumTitle": "Life Is Peachy",
 			"artist": "Korn",
 			"type": "Album"
 		}
@@ -22800,15 +22730,6 @@
 			"artist": "Cyndi Lauper",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE BEST OF (unofficial)",
-		"artist": "AVRIL LAVIGNE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/lavigne_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "LAZYBOY TV (CD+DVD)",
@@ -26547,20 +26468,6 @@
 			"releaseGroupId": "cd20894a-10eb-3f69-8550-a9b93446c2a8",
 			"albumTitle": "Youthanasia",
 			"artist": "Megadeth",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PEK'EN PASSER",
-		"artist": "MEK PEK PARTY BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/peken_passer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8f363539-a40c-3fe7-a51c-2f4111283656",
-			"albumTitle": "Pek'en Passer",
-			"artist": "Mek Pek Party Band",
 			"type": "Album"
 		}
 	},
@@ -36414,20 +36321,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIVE AT WOODSTOCK",
-		"artist": "THE SCOOTERS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/scooters_woodstock.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "515fade7-1fd5-43d1-92b7-668cc34f34ea",
-			"albumTitle": "Untitled 06",
-			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "CRAZY WORLD",
 		"artist": "SCORPIONS",
 		"price": "10,00 kr.",
@@ -38998,20 +38891,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "27285df1-2e16-3a05-81d2-8a4baa7ad3b0",
 			"albumTitle": "Snakecharmer",
-			"artist": "Sort Sol",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FLOW MY FIRETEAR",
-		"artist": "SORT SOL",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/flow_my_firetear.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a753fd18-d9d1-3381-9023-fb7ff85fe6b2",
-			"albumTitle": "Flow My Firetear",
 			"artist": "Sort Sol",
 			"type": "Album"
 		}
@@ -44429,20 +44308,6 @@
 		}
 	},
 	{
-		"albumTitle": "WAGNER",
-		"artist": "SUNE ROSE WAGNER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wagner.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cfd2a682-da4a-37fa-b6d4-376b2f98283e",
-			"albumTitle": "Sune Rose Wagner",
-			"artist": "Sune Rose Wagner",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HISTORY",
 		"artist": "LOUDON WAINWRIGHT III",
 		"price": "10,00 kr.",
@@ -44720,20 +44585,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "PINKERTON",
-		"artist": "WEEZER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pinkerton.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "385f30e2-0483-355d-aded-23e66aa20f87",
-			"albumTitle": "Pinkerton",
-			"artist": "Weezer",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "COUNTRY FROM MY HEART",
@@ -45812,20 +45663,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHO SAID ANGELS (EP)",
-		"artist": "WSA WHO SAID ANGELS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wsa_ep.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a230cf22-d0b4-4566-8878-c52e5af01da0",
-			"albumTitle": "Nickel, carbon and cobalt were used in conventional batteries to store charge. But the lower the energy density of these batteries the lower the number of cycles they could survive before the battery failed. These limitations meant that lithium-ion batteries were only good for a few charge cycles",
-			"artist": "Post-artist",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "KNIVES AND DAGGERS",
 		"artist": "KITTY WU",
 		"price": "10,00 kr.",
@@ -46273,20 +46110,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "380907c4-4b06-3d68-a5f3-51e53eb86a8c",
 			"albumTitle": "Happy Fool",
-			"artist": "Zididada",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TAKE IT ALL",
-		"artist": "ZIDIDADA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/take_it_all.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0c19d636-faf5-44b8-bd29-4f61ba0399f9",
-			"albumTitle": "Take It All",
 			"artist": "Zididada",
 			"type": "Album"
 		}
