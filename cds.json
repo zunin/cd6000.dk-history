@@ -19714,20 +19714,6 @@
 		}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "JOURNEY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/journey_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1cdc94f2-7011-37ab-a068-75c41e01c9ed",
-			"albumTitle": "Greatest Hits",
-			"artist": "Journey",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A GARLAND FOR LINDA",
 		"artist": "THE JOYFUL COMPANY OF SINGERS",
 		"price": "10,00 kr.",
@@ -21611,20 +21597,6 @@
 		}
 	},
 	{
-		"albumTitle": "FORBANDEDE VIDUNDERLIGE TØS",
-		"artist": "POUL KREBS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/forbandede_vidunderlige_toes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8c8638bd-eb8c-3c26-b411-2d625ab29f36",
-			"albumTitle": "Forbandede vidunderlige tøs",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FRI SOM ET FORÅR",
 		"artist": "POUL KREBS",
 		"price": "10,00 kr.",
@@ -21676,20 +21648,6 @@
 		}
 	},
 	{
-		"albumTitle": "MORGENDAGENS TÅBER",
-		"artist": "POUL KREBS & THE BOOKHOUSE BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/morgendagens_taaber.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4d161145-26a9-3fc4-b3b6-0a9c1e87d4a8",
-			"albumTitle": "Morgendagens tåber",
-			"artist": "Poul Krebs, The Bookhouse Boys",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SMÅ SENSATIONER",
 		"artist": "POUL KREBS",
 		"price": "10,00 kr.",
@@ -21718,20 +21676,6 @@
 		}
 	},
 	{
-		"albumTitle": "USUND SKEPSIS",
-		"artist": "POUL KREBS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/usund_skepsis.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fb4fecd1-8689-37e1-8b35-01e20244864a",
-			"albumTitle": "Usund skepsis",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ANGELENO ROAD (CD+DVD) (ejersignatur på innersleeve)",
 		"artist": "POUL KREBS",
 		"price": "20,00 kr.",
@@ -21755,20 +21699,6 @@
 		}
 	},
 	{
-		"albumTitle": "DER ER NOGET VED ALTING",
-		"artist": "POUL KREBS",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/der_er_noget_ved_alting.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "66e2c27e-2976-4d9d-bfa0-b6470c536ed3",
-			"albumTitle": "Der er noget ved alting",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HVOR GADEN BLIR' TIL SAND",
 		"artist": "POUL KREBS",
 		"price": "20,00 kr.",
@@ -21781,15 +21711,6 @@
 			"artist": "Poul Krebs",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "JENNIFER",
-		"artist": "POUL KREBS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/jennifer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "MAGNOLIA TALES (signeret på front)",
@@ -27169,15 +27090,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HVIS DE VIDSTE",
-		"artist": "ANNE DORTE MICHELSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/hvis_de_vidste.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BEST OF",
 		"artist": "MIDDLE OF THE ROAD",
 		"price": "10,00 kr.",
@@ -29906,15 +29818,6 @@
 		"artist": "NIKOLAJ",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/piloter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "SELVANTÆNDT",
-		"artist": "NIKOLAJ CHRISTENSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/selvantaendt.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -43303,20 +43206,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "81e085f0-5bc7-434f-8e6f-2835659d75b6",
 			"albumTitle": "Sex & Religion / Alien Love Secrets",
-			"artist": "Steve Vai",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE ULTRA ZONE",
-		"artist": "STEVE VAI",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_ultra_zone.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0930e9f0-de3c-3924-a6f8-a63bb8458eb1",
-			"albumTitle": "The Ultra Zone",
 			"artist": "Steve Vai",
 			"type": "Album"
 		}
