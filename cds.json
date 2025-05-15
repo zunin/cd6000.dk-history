@@ -29260,6 +29260,20 @@
 		}
 	},
 	{
+		"albumTitle": "INTERKOM KOM IND",
+		"artist": "NEPHEW",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/interkom_kom_ind.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9341f77e-a41f-3f06-a8bb-c96f52f2da6c",
+			"albumTitle": "Interkom kom ind",
+			"artist": "Nephew",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DANMARKDENMARK (CD/DVD)",
 		"artist": "NEPHEW",
 		"price": "20,00 kr.",
@@ -29292,6 +29306,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "07.07.07. (CD+2DVD BOKS)",
+		"artist": "NEPHEW",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/070707_boks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ROBBIE NEVILLE",
 		"artist": "ROBBIE NEVILLE",
 		"price": "10,00 kr.",
@@ -29316,6 +29339,34 @@
 			"releaseGroupId": "da582973-4681-377b-8f56-2eeca7aa3292",
 			"albumTitle": "Brother’s Keeper",
 			"artist": "The Neville Brothers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "THE NEW SEEKERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/new_seekers_greatest_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "89ee981f-8eda-3846-b472-22d2ae592b10",
+			"albumTitle": "Greatest Hits",
+			"artist": "The New Seekers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SUPER STARS",
+		"artist": "THE NEW SEEKERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/new_seekers_super_stars.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
+			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
+			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -29562,6 +29613,20 @@
 		}
 	},
 	{
+		"albumTitle": "UNCHARTED LAND",
+		"artist": "NIELS HENNING ØRSTED PEDERSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/uncharted_land.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e57e2f52-93ca-3541-886b-f4e644eb90a4",
+			"albumTitle": "Uncharted Land",
+			"artist": "Niels-Henning Ørsted Pedersen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HOMMAGE ONCE UPON A TIME",
 		"artist": "N.H.Ø.P./MIKKELBORG",
 		"price": "10,00 kr.",
@@ -29712,6 +29777,34 @@
 			"releaseGroupId": "63e45d68-b644-4cee-bef4-cc070eefbb65",
 			"albumTitle": "Nick Name",
 			"artist": "Nickname",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE OTHER SIDE OF THE MIRROR",
+		"artist": "STEVIE NICKS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_other_side_of_the_mirror.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bbbcf716-fdce-3083-b7df-2efc938611d1",
+			"albumTitle": "The Other Side of the Mirror",
+			"artist": "Stevie Nicks",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FATA MORGANA NICO's LAST CONCERT",
+		"artist": "NICO",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/fata_morgana.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d256ed8e-26dd-4104-b955-0f717c4bdd60",
+			"albumTitle": "Untitled",
+			"artist": "Orchestre African Fiesta Sukisa, Dr. Nico",
 			"type": "Album"
 		}
 	},
@@ -30195,6 +30288,20 @@
 		}
 	},
 	{
+		"albumTitle": "FIFTH DIMENSION",
+		"artist": "MIKKEL NORDSØ BAND",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/fifth_dimension.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a12ede1a-3e72-4127-88ee-cc31185e5616",
+			"albumTitle": "Fifth Dimension",
+			"artist": "Mikkel Nordsø Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE 1995",
 		"artist": "MIKKEL NORDSØ BAND",
 		"price": "30,00 kr.",
@@ -30304,6 +30411,15 @@
 			"artist": "Rasmus Nøhr",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SAMLESÆT VOL. 1 Bedste sange 2000-2010",
+		"artist": "RASMUS NØHR",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/samlesaet_vol_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "HVAD ER DET DER SKER?",
@@ -30581,6 +30697,20 @@
 			"releaseGroupId": "a55a5a03-0c0e-311b-85df-ec52f841715c",
 			"albumTitle": "Smash",
 			"artist": "The Offspring",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "OH LAND",
+		"artist": "OH LAND",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/oh_land.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ecb9e29b-1775-4e1d-bd19-d4d7aa92aa24",
+			"albumTitle": "Oh Land",
+			"artist": "Oh Land",
 			"type": "Album"
 		}
 	},
@@ -30938,6 +31068,20 @@
 		}
 	},
 	{
+		"albumTitle": "HVIDE LØGNE",
+		"artist": "ONE TWO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hvide_loegne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2a15c8f-8c8a-3a36-a7cb-b86c03981940",
+			"albumTitle": "Hvide løgne",
+			"artist": "One Two",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE TWO",
 		"artist": "ONE TWO",
 		"price": "10,00 kr.",
@@ -31113,6 +31257,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE OZZMAN COMETH",
+		"artist": "OZZY OSBOURNE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/ozzman_cometh.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "094d7a87-5314-33d1-a16c-52c16a9f7aa9",
+			"albumTitle": "The Ozzman Cometh",
+			"artist": "Ozzy Osbourne",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "SCHYSST & POPULÄR",
@@ -31320,6 +31478,38 @@
 		}
 	},
 	{
+		"albumTitle": "COLLECTION (2CD)",
+		"artist": "PAPA BUE's VIKING JAZZBAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/papa_bue_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "KØB DANSK",
+		"artist": "PAPA BUE'S VIKING JAZZBAND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/koeb_dansk.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7bb4849d-209c-3060-b3b8-e138b6149e4f",
+			"albumTitle": "Køb Dansk",
+			"artist": "Papa Bue’s Viking Jazzband",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "JUBILÆUMS SPECIAL FORELSKET I ET GADEKRYDS MAXI SINGLE",
+		"artist": "PAPKASSESHOW",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/jubilaeums_special.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "FALLING IN LOVE",
 		"artist": "PARADOX",
 		"price": "10,00 kr.",
@@ -31413,6 +31603,20 @@
 		}
 	},
 	{
+		"albumTitle": "TALES OF MYSTERY AND IMAGINATION EDGAR ALLAN POE",
+		"artist": "THE ALAN PARSONS PROJECT",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/tales_of_mystery.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5d8f45de-ec81-36c7-88d1-a232193fbf15",
+			"albumTitle": "Tales of Mystery and Imagination: Edgar Allan Poe",
+			"artist": "The Alan Parsons Project",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BACKWOODS BARBIE",
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
@@ -31467,6 +31671,15 @@
 			"artist": "Dolly Parton",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "QUEEN OF COUNTRY (2CD)",
+		"artist": "DOLLY PARTON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/queen_of_country.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "STØRSTE HITS",
@@ -31604,6 +31817,15 @@
 		}
 	},
 	{
+		"albumTitle": "PEARL JAM (mangler desværre inlay)",
+		"artist": "PEARL JAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pearl_jam.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TEN",
 		"artist": "PEARL JAM",
 		"price": "10,00 kr.",
@@ -31613,6 +31835,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "cea5d18a-1924-3cda-bebc-38933834b25d",
 			"albumTitle": "Ten",
+			"artist": "Pearl Jam",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "VITALOGY",
+		"artist": "PEARL JAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/vitalogy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6e384e83-6cb1-36bd-813c-ca7d4cf4b9ba",
+			"albumTitle": "Vitalogy",
 			"artist": "Pearl Jam",
 			"type": "Album"
 		}
@@ -31683,6 +31919,20 @@
 		}
 	},
 	{
+		"albumTitle": "DISCOGRAPHY",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pet_shop_boys_discography.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c3d2c766-90a7-3504-b1f0-44086d4af162",
+			"albumTitle": "Alternative Discography: The Remixes",
+			"artist": "Pet Shop Boys",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "INTROSPECTIVE",
 		"artist": "PET SHOP BOYS",
 		"price": "10,00 kr.",
@@ -31725,6 +31975,20 @@
 		}
 	},
 	{
+		"albumTitle": "NIGHT TRAIN",
+		"artist": "THE OSCAR PETERSON TRIO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/night_train.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e",
+			"albumTitle": "Night Train",
+			"artist": "The Oscar Peterson Trio",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "TOM PETTY & THE HEARTBREAKERS",
 		"price": "10,00 kr.",
@@ -31748,6 +32012,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "ffbef03e-3651-39db-8a2f-e140dc5aa219",
 			"albumTitle": "Full Moon Fever",
+			"artist": "Tom Petty",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WILDFLOWERS",
+		"artist": "TOM PETTY & THE HEARTBREAKERS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/wildflowers.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "80a0451a-d135-3517-96e4-3629dc4f66b9",
+			"albumTitle": "Wildflowers",
 			"artist": "Tom Petty",
 			"type": "Album"
 		}
@@ -31811,6 +32089,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CAN'T TAKE ME HOME",
+		"artist": "PINK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cant_take_me_home.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ad164022-75cf-3ace-ab7d-3ff9d8becdda",
+			"albumTitle": "Can’t Take Me Home",
+			"artist": "P!nk",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "FUNHOUSE",
@@ -31975,6 +32267,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "659b6294-bfa7-3ebb-990c-273f9ad61af2",
 			"albumTitle": "The Very Best Of…",
+			"artist": "The Pogues",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WAITING FOR HERB",
+		"artist": "THE POGUES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/waiting_for_herb.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6d3e1279-ac20-3e65-be8b-2bde0f4694fb",
+			"albumTitle": "Waiting for Herb",
 			"artist": "The Pogues",
 			"type": "Album"
 		}
@@ -32282,6 +32588,33 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST HITS (2CD)",
+		"artist": "ELVIS PRESLEY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/elvis_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE CAMDEN COLLECTION VOLUME 2 (6CD boks)",
+		"artist": "ELVIS PRESLEY",
+		"price": "75,00 kr.",
+		"origin": "https://cd6000.dk/the_camden_collection_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL (2CD)",
+		"artist": "ELVIS PRESLEY",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/elvis_essential_sony.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE PLATINUM COLLECTION (3CD)",
 		"artist": "ELVIS PRESLEY",
 		"price": "20,00 kr.",
@@ -32467,6 +32800,20 @@
 		}
 	},
 	{
+		"albumTitle": "PARADE",
+		"artist": "PRINCE & THE REVOLUTION",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/parade.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8c20e5ba-1418-393e-a946-b6525fa3a94a",
+			"albumTitle": "Parade",
+			"artist": "Prince, The Revolution",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MY SECRET LOVER (2CD)",
 		"artist": "PRIVATE",
 		"price": "20,00 kr.",
@@ -32486,6 +32833,20 @@
 			"releaseGroupId": "49e0c6e4-c1aa-486b-b81e-1f6752aec05b",
 			"albumTitle": "Untitled (2012)",
 			"artist": "Brent Gutzeit",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MUSIC FOR THE JILTED GENERATION",
+		"artist": "PRODIGY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/music_for_the_jilted_generation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f9fa083f-db00-3048-99e7-5b186672bb09",
+			"albumTitle": "Music for the Jilted Generation",
+			"artist": "The Prodigy",
 			"type": "Album"
 		}
 	},
@@ -32961,6 +33322,20 @@
 		}
 	},
 	{
+		"albumTitle": "NEW ADVENTURES IN HI-FI",
+		"artist": "R.E.M.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/new_adventures_in_hifi.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6d4f73cb-9c02-33c5-ba06-c927a9b963ad",
+			"albumTitle": "New Adventures in Hi‐Fi",
+			"artist": "R.E.M.",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "OUT OF TIME",
 		"artist": "REM",
 		"price": "10,00 kr.",
@@ -32989,6 +33364,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF R.E.M.",
+		"artist": "R.E.M.",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/rem_best_irs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "93649af9-d42d-3b46-85b7-ccfadaca8f7a",
+			"albumTitle": "The Best of R.E.M.",
+			"artist": "R.E.M.",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "UP!",
 		"artist": "R.E.M.",
 		"price": "10,00 kr.",
@@ -33007,6 +33396,15 @@
 		"artist": "R.E.M.",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/rem_live_3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "PART LIES, PART HEART, PART TRUTH, PART GARBAGE 1982-2011 (2CD)",
+		"artist": "R.E.M.",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/part_lies.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
