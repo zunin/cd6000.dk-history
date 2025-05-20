@@ -1918,20 +1918,6 @@
 		}
 	},
 	{
-		"albumTitle": "ZINGALAMADUNI",
-		"artist": "ARRESTED DEVELOPMENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/zingalamaduni.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84a6ad61-8926-3d81-bd4e-c5b7ef42a538",
-			"albumTitle": "Zingalamaduni",
-			"artist": "Arrested Development",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MAKE OUR HEARTS SWAY",
 		"artist": "ARTIFICIAL BROTHERS",
 		"price": "10,00 kr.",
@@ -3095,20 +3081,6 @@
 			"releaseGroupId": "d7d0e5fb-e0cf-380c-b337-a6243c927743",
 			"albumTitle": "Precious Memories",
 			"artist": "Alan Jackson",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BASIC INJECTION",
-		"artist": "BASIC ELEMENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/basic_injection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4645c28a-2731-31eb-b94a-8e0eddb6935f",
-			"albumTitle": "Basic Injection",
-			"artist": "Basic Element",
 			"type": "Album"
 		}
 	},
@@ -16973,20 +16945,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEFINITIVE HITS",
-		"artist": "HERB ALBERT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/herb_albert_definitive.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d71af714-c51c-3137-8398-0b07d2cc74f8",
-			"albumTitle": "Definitive Hits",
-			"artist": "Herb Alpert",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SATISFY (signeret)",
 		"artist": "KRIS HERMAN",
 		"price": "20,00 kr.",
@@ -22949,20 +22907,6 @@
 		}
 	},
 	{
-		"albumTitle": "STARING AT THE SUN",
-		"artist": "LEVEL 42",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/staring_at_the_sun.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9fe84909-a153-3e52-bde5-cbeaa895688e",
-			"albumTitle": "Staring at the Sun",
-			"artist": "Level 42",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE REMIXES",
 		"artist": "LEVEL 42",
 		"price": "10,00 kr.",
@@ -24547,20 +24491,6 @@
 			"releaseGroupId": "f1e1b952-ec8d-363a-bd63-4c72d248cb51",
 			"albumTitle": "One Step Beyond…",
 			"artist": "Madness",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "AMERICAN LIFE",
-		"artist": "MADONNA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/american_life.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e5e9cecd-bf09-3b13-9edd-4f085a5a27ac",
-			"albumTitle": "American Life",
-			"artist": "Madonna",
 			"type": "Album"
 		}
 	},
@@ -28365,20 +28295,6 @@
 		}
 	},
 	{
-		"albumTitle": "HOODOO",
-		"artist": "ALISON MOYET",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hoodoo.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3a2f0338-150a-3300-8e61-ff928061b1c1",
-			"albumTitle": "Hoodoo",
-			"artist": "Alison Moyet",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SINGLES",
 		"artist": "ALISON MOYET",
 		"price": "10,00 kr.",
@@ -29313,20 +29229,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ROBBIE NEVILLE",
-		"artist": "ROBBIE NEVILLE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/robbie_neville.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5ae5bef9-1f2a-3343-b5e4-68ab1ea9600d",
-			"albumTitle": "Robbie Nevil",
-			"artist": "Robbie Nevil",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "BROTHER'S KEEPER",
@@ -31905,34 +31807,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "ACTUALLY",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/actually.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6de9a233-13dd-30b5-ad30-61c5814774c5",
-			"albumTitle": "Actually",
-			"artist": "Pet Shop Boys",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DISCOGRAPHY",
-		"artist": "PET SHOP BOYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pet_shop_boys_discography.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c3d2c766-90a7-3504-b1f0-44086d4af162",
-			"albumTitle": "Alternative Discography: The Remixes",
-			"artist": "Pet Shop Boys",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "INTROSPECTIVE",
 		"artist": "PET SHOP BOYS",
 		"price": "10,00 kr.",
@@ -32796,20 +32670,6 @@
 			"releaseGroupId": "764f7332-b637-3a71-ae3c-934cdfff3b40",
 			"albumTitle": "[Love Symbol]",
 			"artist": "Prince, The New Power Generation",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PARADE",
-		"artist": "PRINCE & THE REVOLUTION",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/parade.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8c20e5ba-1418-393e-a946-b6525fa3a94a",
-			"albumTitle": "Parade",
-			"artist": "Prince, The Revolution",
 			"type": "Album"
 		}
 	},
@@ -42641,20 +42501,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "PRIVATE DANCER",
-		"artist": "TINA TURNER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/private_dancer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cffc5347-3b75-37cc-9120-0ae98b2748dc",
-			"albumTitle": "Private Dancer",
-			"artist": "Tina Turner",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PRIVATE DANCER RECORDED LIVE IN CHICAGO",
 		"artist": "TINA TURNER",
 		"price": "10,00 kr.",
@@ -45630,15 +45476,6 @@
 		"artist": "GUSTAV WINCKLER",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/gustav_winckler_boks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "GUSTAV WINCKLER (5CD BOKS)",
-		"artist": "GUSTAV WINCKLER",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/gustav_winckler_5cd.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
