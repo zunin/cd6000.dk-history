@@ -29697,20 +29697,6 @@
 		}
 	},
 	{
-		"albumTitle": "FATA MORGANA NICO's LAST CONCERT",
-		"artist": "NICO",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/fata_morgana.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d256ed8e-26dd-4104-b955-0f717c4bdd60",
-			"albumTitle": "Untitled",
-			"artist": "Orchestre African Fiesta Sukisa, Dr. Nico",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A.G. SOLO",
 		"artist": "PETER A.G. NIELSEN",
 		"price": "10,00 kr.",
