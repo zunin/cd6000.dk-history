@@ -33247,6 +33247,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LIFES RICH PAGEANT THE I.R.S. YEARS VINTAGE 1986",
+		"artist": "R.E.M.",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lifes_rich_pageant.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "PART LIES, PART HEART, PART TRUTH, PART GARBAGE 1982-2011 (2CD)",
 		"artist": "R.E.M.",
 		"price": "25,00 kr.",
@@ -33749,6 +33758,20 @@
 		}
 	},
 	{
+		"albumTitle": "ON THE BEACH",
+		"artist": "CHRIS REA",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/on_the_beach.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "843b05a6-3e8b-3528-8f2a-294baf314cfe",
+			"albumTitle": "On the Beach",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DREAM NO. 7",
 		"artist": "REAMON",
 		"price": "10,00 kr.",
@@ -33828,10 +33851,47 @@
 		}
 	},
 	{
+		"albumTitle": "WHAT HITS ?",
+		"artist": "RED HOT CHILI PEPPERS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/what_hits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "LIVE + 3",
+		"artist": "RED SQUARES",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/red_squares_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44ac8026-766e-4edc-a746-cf7ef2ecfed2",
+			"albumTitle": "Untitled VI",
+			"artist": "DNOC, Annihilation Squares",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PEOPLE GET READY",
 		"artist": "RED SQUARES",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/people_get_ready.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44ac8026-766e-4edc-a746-cf7ef2ecfed2",
+			"albumTitle": "Untitled VI",
+			"artist": "DNOC, Annihilation Squares",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "RED SQUARES",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/red_squares_collection.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -33866,6 +33926,20 @@
 			"releaseGroupId": "4755338f-280c-37fc-85f8-76c922aef89f",
 			"albumTitle": "The Very Best of Otis Redding",
 			"artist": "Otis Redding",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "...FARM OUT !",
+		"artist": "REDNEX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/farm_out.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b2a795db-6c86-4b0f-bbe6-d9206bb61045",
+			"albumTitle": "Untitled II",
+			"artist": "Scarlet Diva, Crush Fetish",
 			"type": "Album"
 		}
 	},
@@ -33912,6 +33986,20 @@
 		}
 	},
 	{
+		"albumTitle": "SET THE TWILIGHT REELING",
+		"artist": "LOU REED",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/set_the_twilight.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6e8ee4ff-ba4d-346d-b289-5b630c8c9ae4",
+			"albumTitle": "Set the Twilight Reeling",
+			"artist": "Lou Reed",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "LOU REED",
 		"price": "15,00 kr.",
@@ -33950,6 +34038,20 @@
 			"releaseGroupId": "0f281cb6-6abc-4c84-8598-99c681006a46",
 			"albumTitle": "[untitled]",
 			"artist": "Lou Cohen, Matt Samolis, Steve Norton",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SONGS FOR DRELLA",
+		"artist": "LOU REED JOHN CALE",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/songs_for_drella.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
+			"albumTitle": "Songs for Drella",
+			"artist": "Lou Reed, John Cale",
 			"type": "Album"
 		}
 	},
@@ -34303,6 +34405,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE DANISH COLL. (2CD)",
+		"artist": "CLIFF RICHARD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/cliff_danish.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TWO'S A COMPANY THE DUETS",
 		"artist": "CLIFF RICHARD",
 		"price": "10,00 kr.",
@@ -34517,6 +34628,20 @@
 		}
 	},
 	{
+		"albumTitle": "RATED R",
+		"artist": "RIHANNA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/rated_r.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "06fda337-5c4b-42e0-a96c-a349c786965f",
+			"albumTitle": "Rated R",
+			"artist": "Rihanna",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF LEANN RIMES",
 		"artist": "LEANN RIMES",
 		"price": "10,00 kr.",
@@ -34673,6 +34798,43 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SUKKER",
+		"artist": "ROCAZINO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sukker.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a3d0106d-777c-47ce-8715-546d8d5fe507",
+			"albumTitle": "Sukker",
+			"artist": "Rocazino",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DET BEDSTE (2CD)",
+		"artist": "ROCAZINO",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/rocazino_det_bedste.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ROCAZINO",
+		"artist": "ROCAZINO",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/rocazino.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ef07eae4-3bf2-4434-becd-abfff0c1b5f8",
+			"albumTitle": "Rocazino",
+			"artist": "Rocazino",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "ROCKERS RETRO, GREATEST HITS (2CD)",
@@ -35597,6 +35759,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "MELODY A.M.",
+		"artist": "RÖYKSOPP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/melody_am.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "95d72e72-55b2-3408-8d76-cce7abad3836",
+			"albumTitle": "Melody A.M.",
+			"artist": "Röyksopp",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "PROMISE",
