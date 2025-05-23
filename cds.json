@@ -34879,6 +34879,20 @@
 		}
 	},
 	{
+		"albumTitle": "OH, OH DAISY",
+		"artist": "THE ROCKING GHOSTS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/oh_oh_daisy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "OH, OH DAISY",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PÅ HJEMMEBANE",
 		"artist": "THE ROCKING GHOSTS",
 		"price": "20,00 kr.",
@@ -35070,6 +35084,20 @@
 		}
 	},
 	{
+		"albumTitle": "EXILE ON MAIN STREET",
+		"artist": "THE ROLLING STONES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/exile_on_main_street.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2beb05b7-e789-427c-98ce-99b9a62f9499",
+			"albumTitle": "Sticky Fingers / Exile on Main Street",
+			"artist": "The Rolling Stones",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HOT ROCKS 64-71 (2CD)",
 		"artist": "THE ROLLING STONES",
 		"price": "20,00 kr.",
@@ -35093,6 +35121,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "ef78739b-ea31-32e2-a927-58fe228c7354",
 			"albumTitle": "Steel Wheels",
+			"artist": "The Rolling Stones",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STILL LIFE AMERICAN CONCERT 1981",
+		"artist": "THE ROLLING STONES",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/still_life.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6af00e13-eae1-3ad2-a8d1-b66187163914",
+			"albumTitle": "“Still Life” (American Concert 1981)",
 			"artist": "The Rolling Stones",
 			"type": "Album"
 		}
@@ -35558,6 +35600,20 @@
 		}
 	},
 	{
+		"albumTitle": "JORDEN KALDER",
+		"artist": "RUGSTED & KREUTZFELDT",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/jorden_kalder.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "857e19f1-4168-380f-83ca-8a894a999dde",
+			"albumTitle": "Jorden Kalder",
+			"artist": "Rugsted & Kreutzfeldt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BOYS DON'T CRY",
 		"artist": "RUMER",
 		"price": "10,00 kr.",
@@ -35665,6 +35721,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE BIG WHEEL",
+		"artist": "RUNRIG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_big_wheel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a67e41f1-5a5c-328a-a90b-13472031f0e0",
+			"albumTitle": "The Big Wheel",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TRANSMITTING LIVE",
+		"artist": "RUNRIG",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/transmitting_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "62b008a6-087c-3d39-9989-4c5c43b37f43",
+			"albumTitle": "Transmitting Live",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "50 GREAT SONGS (3CD+DVD)",
 		"artist": "RUNRIG",
 		"price": "30,00 kr.",
@@ -35672,6 +35756,34 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "HEARTLAND",
+		"artist": "RUNRIG",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/heartland.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c2b93a59-e46c-314f-b280-c64403fecb85",
+			"albumTitle": "Heartland",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MARA",
+		"artist": "RUNRIG",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/mara.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e62f2b14-d381-37b6-9f84-2682ed1c7c93",
+			"albumTitle": "Mara",
+			"artist": "Runrig",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "RECOVERY",
