@@ -34823,20 +34823,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "ROCAZINO",
-		"artist": "ROCAZINO",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/rocazino.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ef07eae4-3bf2-4434-becd-abfff0c1b5f8",
-			"albumTitle": "Rocazino",
-			"artist": "Rocazino",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ROCKERS RETRO, GREATEST HITS (2CD)",
 		"artist": "ROCKERS BY CHOICE",
 		"price": "10,00 kr.",
@@ -34874,20 +34860,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "BELINDA",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OH, OH DAISY",
-		"artist": "THE ROCKING GHOSTS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/oh_oh_daisy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "OH, OH DAISY",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -35721,34 +35693,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE BIG WHEEL",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_big_wheel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a67e41f1-5a5c-328a-a90b-13472031f0e0",
-			"albumTitle": "The Big Wheel",
-			"artist": "Runrig",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TRANSMITTING LIVE",
-		"artist": "RUNRIG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/transmitting_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "62b008a6-087c-3d39-9989-4c5c43b37f43",
-			"albumTitle": "Transmitting Live",
-			"artist": "Runrig",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "50 GREAT SONGS (3CD+DVD)",
 		"artist": "RUNRIG",
 		"price": "30,00 kr.",
@@ -35756,20 +35700,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "HEARTLAND",
-		"artist": "RUNRIG",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/heartland.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c2b93a59-e46c-314f-b280-c64403fecb85",
-			"albumTitle": "Heartland",
-			"artist": "Runrig",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "MARA",
