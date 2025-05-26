@@ -35803,20 +35803,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "MELODY A.M.",
-		"artist": "RÖYKSOPP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/melody_am.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "95d72e72-55b2-3408-8d76-cce7abad3836",
-			"albumTitle": "Melody A.M.",
-			"artist": "Röyksopp",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PROMISE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
