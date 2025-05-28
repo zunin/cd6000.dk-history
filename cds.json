@@ -34740,6 +34740,20 @@
 		}
 	},
 	{
+		"albumTitle": "MY TRUTH",
+		"artist": "ROBYN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/my_truth.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e4aaf992-dd65-3ad7-a256-10149ddce312",
+			"albumTitle": "My Truth",
+			"artist": "Robyn",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ROBYN IS HERE",
 		"artist": "ROBYN",
 		"price": "10,00 kr.",
@@ -35803,6 +35817,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LOVE DELUXE",
+		"artist": "SADE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/love_deluxe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e4a67add-6aab-390c-bb82-53939fb9cd0a",
+			"albumTitle": "Love Deluxe",
+			"artist": "Sade",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PROMISE",
 		"artist": "SADE",
 		"price": "10,00 kr.",
@@ -36101,6 +36129,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "TIDEN BRÆNDER",
+		"artist": "SANNE SALOMONSEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/tiden_braender.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e369f8dc-8a00-4d70-8b76-739a5840c6e8",
+			"albumTitle": "Tiden brænder",
+			"artist": "Sanne Salomonsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DON'T GIVE UP",
 		"artist": "JAMES SAMPSON",
 		"price": "10,00 kr.",
@@ -36287,6 +36329,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "59dc477e-49ed-3669-bc3c-42d1c7f60922",
 			"albumTitle": "Into a Secret Land",
+			"artist": "Sandra",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PAINTINGS IN YELLOW",
+		"artist": "SANDRA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/paintings_in_yellow.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "17de83be-ec30-3de5-bab1-c34c103d5e11",
+			"albumTitle": "Paintings in Yellow",
 			"artist": "Sandra",
 			"type": "Album"
 		}
@@ -36509,6 +36565,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "7fe8071d-7c50-3165-aa13-c3f3ac441a10",
 			"albumTitle": "Refugee",
+			"artist": "The Savage Rose",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE BEST OF",
+		"artist": "THE SAVAGE ROSE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/savage_rose_best_of.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8c8cbc4b-f6f1-33bc-bea7-0b673726c48e",
+			"albumTitle": "The Best Of The Savage Rose",
 			"artist": "The Savage Rose",
 			"type": "Album"
 		}
@@ -36862,15 +36932,6 @@
 		}
 	},
 	{
-		"albumTitle": "DE BEDSTE SANGE (2CD)",
-		"artist": "SEBASTIAN",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/de_bedste_sange_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "DE STØRSTE HITS",
 		"artist": "SEBASTIAN",
 		"price": "25,00 kr.",
@@ -37209,6 +37270,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE SUN COMES OUT",
+		"artist": "SHAKIRA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_sun_comes_out.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "03e3bce3-72fb-401b-a807-39a8286bf9a3",
+			"albumTitle": "Sale el sol",
+			"artist": "Shakira",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE ESSENTIAL (2CD)",
 		"artist": "RHAVI SHANKAR",
 		"price": "20,00 kr.",
@@ -37349,6 +37424,20 @@
 			"releaseGroupId": "344b6cdf-e218-40e7-923a-ffc21cc39995",
 			"albumTitle": "Shoes For Julia",
 			"artist": "Shoes for Julia",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "VIOLENT NEW BREED",
+		"artist": "SHOTGUN MESSIAH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/violent_new_breed.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f33c45ef-0a93-3657-9f01-b5d43048c7f0",
+			"albumTitle": "Violent New Breed",
+			"artist": "Shotgun Messiah",
 			"type": "Album"
 		}
 	},
@@ -37627,6 +37716,20 @@
 		}
 	},
 	{
+		"albumTitle": "DA MOR VAR DRENG",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/da_mor_var_dreng.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "74b4170b-9730-3604-8040-bdc0527419f0",
+			"albumTitle": "Da mor var dreng",
+			"artist": "Shu•bi•dua",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FEMTEN SKARPE SKUD",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
@@ -37659,6 +37762,15 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/live_og_glade_dage.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "STÆRK TOBAK (2CD+bonus CD)",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/staerk_tobak.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -37807,6 +37919,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "COMING AROUND AGAIN",
+		"artist": "CARLY SIMON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/coming_around_again.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4d4b2b97-36f8-330d-a75a-fbf80c81b2c4",
+			"albumTitle": "Coming Around Again",
+			"artist": "Carly Simon",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "CARLY SIMON",
 		"price": "10,00 kr.",
@@ -37816,6 +37942,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "41e709d1-e63f-3848-9234-990b1eb8e409",
 			"albumTitle": "The Best of Carly Simon",
+			"artist": "Carly Simon",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SPOILED GIRL",
+		"artist": "CARLY SIMON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/spoiled_girl.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "74717ee7-06bf-3d32-8cf3-cbad5b23ac13",
+			"albumTitle": "Spoiled Girl",
+			"artist": "Carly Simon",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TORCH",
+		"artist": "CARLY SIMON",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/torch.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc",
+			"albumTitle": "Torch",
 			"artist": "Carly Simon",
 			"type": "Album"
 		}
@@ -37886,6 +38040,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE ESSENTIAL (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COLLECTION (unofficial)",
+		"artist": "SIMON & GARFUNKEL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/simon_garfunkel_collection_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "COLLECTION (unofficial)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -38241,6 +38409,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE CROSSOVER",
+		"artist": "SING SING SING",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/the_crossover.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6442a536-764f-4e3f-8c5a-f5707e169ef4",
+			"albumTitle": "The Crossover",
+			"artist": "Sing Sing Sing",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "CHRISTMAS",
@@ -38755,6 +38937,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DIABOLUS IN MUSICA",
+		"artist": "SLAYER",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/diabolus_in_musica.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "415f4fdc-8b9c-3a83-98bc-b69cd154663b",
+			"albumTitle": "Diabolus in Musica",
+			"artist": "Slayer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE UNDEAD includes EP : HAUNTING THE CHAPEL",
 		"artist": "SLAYER",
 		"price": "20,00 kr.",
@@ -39177,6 +39373,34 @@
 		}
 	},
 	{
+		"albumTitle": "EYES OPEN",
+		"artist": "SNOW PATROL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/eyes_open.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d53108e-17c3-37cd-864a-319440ce6a21",
+			"albumTitle": "Eyes Open",
+			"artist": "Snow Patrol",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FINAL STRAW",
+		"artist": "SNOW PATROL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/final_straw.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "eefd9e7b-d805-3e47-935f-9157dc72ae2a",
+			"albumTitle": "Final Straw",
+			"artist": "Snow Patrol",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MIRACLE",
 		"artist": "S.O.A.P.",
 		"price": "15,00 kr.",
@@ -39203,6 +39427,15 @@
 			"artist": "Peter Sommer",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "FRA TONNY TIL SONNY",
+		"artist": "SONNY SOUFFLÉ",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/fra_tonny_til_sonny.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "CIRCLE HITS THE FLAME BEST OF",
@@ -39242,6 +39475,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "27285df1-2e16-3a05-81d2-8a4baa7ad3b0",
 			"albumTitle": "Snakecharmer",
+			"artist": "Sort Sol",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNSPOILED MONSTERS",
+		"artist": "SORT SOL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/unspoiled_monsters.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "20448ed1-5712-3a78-854e-abd6d6017683",
+			"albumTitle": "Unspoiled Monsters",
 			"artist": "Sort Sol",
 			"type": "Album"
 		}
@@ -39485,6 +39732,20 @@
 		}
 	},
 	{
+		"albumTitle": "THROUGH THE BARRICADES",
+		"artist": "SPANDAU BALLET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/through_the_barricades.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "895404a3-c9da-3b42-8dd1-54e1b869932b",
+			"albumTitle": "Through the Barricades",
+			"artist": "Spandau Ballet",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HOME (gl. prisskilt på innercover)",
 		"artist": "SPEARHEAD",
 		"price": "10,00 kr.",
@@ -39685,6 +39946,20 @@
 		}
 	},
 	{
+		"albumTitle": "YOU'VE GOT TO BELIEVE IN SOMETHING",
+		"artist": "SPIN DOCTORS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/youve_got_to_believe_in_something.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "38ead7b3-5c36-351a-b6ae-14895a6b6710",
+			"albumTitle": "You’ve Got to Believe in Something",
+			"artist": "Spin Doctors",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TYND IS (EP)",
 		"artist": "SPION",
 		"price": "10,00 kr.",
@@ -39782,6 +40057,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "d19453c0-cd72-3468-b110-0f898c111e5e",
 			"albumTitle": "The Rising",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TUNNEL OF LOVE",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/tunnel_of_love.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b3559cb2-d7ad-32eb-a17e-54a873ce4122",
+			"albumTitle": "Tunnel of Love",
 			"artist": "Bruce Springsteen",
 			"type": "Album"
 		}
@@ -40052,6 +40341,20 @@
 		}
 	},
 	{
+		"albumTitle": "UNDER THE INFLUENCE",
+		"artist": "STATUS QUO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/under_the_influence.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e3b0b03b-c921-3d26-a0bb-75cc5db51f48",
+			"albumTitle": "Under the Influence",
+			"artist": "Status Quo",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WHATEVER YOU WANT",
 		"artist": "STATUS QUO",
 		"price": "10,00 kr.",
@@ -40061,6 +40364,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "bfb55d47-3105-3615-8679-895f980bbe09",
 			"albumTitle": "Whatever You Want",
+			"artist": "Status Quo",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "IN THE ARMY NOW",
+		"artist": "STATUS QUO",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/in_the_army_now.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fd20c23c-0cc9-3f85-b0ea-fb71a7e2f5ca",
+			"albumTitle": "In the Army Now",
 			"artist": "Status Quo",
 			"type": "Album"
 		}
@@ -40099,6 +40416,20 @@
 			"releaseGroupId": "13fd1350-6b23-3b63-a88b-0a41602c342b",
 			"albumTitle": "The Best of Steeleye Span",
 			"artist": "Steeleye Span",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "YOU GO WHERE I GO",
+		"artist": "STEELY DAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/you_go_where_i_go.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dbfba749-3dbd-3046-9814-8d70f95a681c",
+			"albumTitle": "You Go Where I Go",
+			"artist": "Steely Dan, Walter Becker, Donald Fagen",
 			"type": "Album"
 		}
 	},
@@ -40171,6 +40502,15 @@
 			"artist": "Bruce Springsteen",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "KISS THE DIRT",
+		"artist": "STELLA BLACKROSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/kiss_the_dirt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "HIP",
@@ -40400,6 +40740,15 @@
 		}
 	},
 	{
+		"albumTitle": "SOME GUYS HAVE ALL THE LUCK, THE VERY BEST (2CD)",
+		"artist": "ROD STEWART",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/some_guys_have_all_the_luck.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "IT HAD TO BE YOU The Great American Songbook",
 		"artist": "ROD STEWART",
 		"price": "10,00 kr.",
@@ -40582,6 +40931,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF (unofficial)",
+		"artist": "STING",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sting_best_of_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "INTRODUCING JOSS STONE",
 		"artist": "JOSS STONE",
 		"price": "10,00 kr.",
@@ -40685,6 +41043,20 @@
 			"releaseGroupId": "86d13dbc-e992-3829-840c-dcb85df20817",
 			"albumTitle": "The BBC Sessions, Volume 2: 1971-1972",
 			"artist": "Stone the Crows",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TEENAGE TORTURECHAMBER",
+		"artist": "STRAWBERRY SLAUGHTERHOUSE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/teenage_torturechamber.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "84f3108e-a262-3ad2-9644-9bcaaaa64b80",
+			"albumTitle": "Teenage Torturechamber",
+			"artist": "Strawberry Slaughterhouse",
 			"type": "Album"
 		}
 	},
@@ -40860,6 +41232,15 @@
 		"artist": "HENRIK STRUBE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/bellevue.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "BLÅ HIMMEL OVER BYEN",
+		"artist": "HENRIK STRUBE",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/blaa_himmel_over_byen.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -41115,6 +41496,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "62c969cc-eb39-39f8-a844-713f6334d634",
 			"albumTitle": "The Very Best of Supertramp",
+			"artist": "Supertramp",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE AUTOBIOGRAPHY OF SUPERTRAMP",
+		"artist": "SUPERTRAMP",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/supertramp_autobiography.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "246d269d-2e84-3754-9db2-6375e7a26b27",
+			"albumTitle": "The Autobiography of Supertramp",
 			"artist": "Supertramp",
 			"type": "Album"
 		}
