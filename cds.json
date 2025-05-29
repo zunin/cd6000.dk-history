@@ -35112,20 +35112,6 @@
 		}
 	},
 	{
-		"albumTitle": "STILL LIFE AMERICAN CONCERT 1981",
-		"artist": "THE ROLLING STONES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/still_life.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6af00e13-eae1-3ad2-a8d1-b66187163914",
-			"albumTitle": "“Still Life” (American Concert 1981)",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS VOLUME TWO (lille klistermærkat på frontcover)",
 		"artist": "LINDA RONSTADT",
 		"price": "15,00 kr.",
@@ -37270,20 +37256,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE SUN COMES OUT",
-		"artist": "SHAKIRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_sun_comes_out.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "03e3bce3-72fb-401b-a807-39a8286bf9a3",
-			"albumTitle": "Sale el sol",
-			"artist": "Shakira",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE ESSENTIAL (2CD)",
 		"artist": "RHAVI SHANKAR",
 		"price": "20,00 kr.",
@@ -39373,20 +39345,6 @@
 		}
 	},
 	{
-		"albumTitle": "EYES OPEN",
-		"artist": "SNOW PATROL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/eyes_open.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2d53108e-17c3-37cd-864a-319440ce6a21",
-			"albumTitle": "Eyes Open",
-			"artist": "Snow Patrol",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FINAL STRAW",
 		"artist": "SNOW PATROL",
 		"price": "10,00 kr.",
@@ -39941,20 +39899,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "e4a84de6-b7b8-3c7c-a971-2f72d6c7a350",
 			"albumTitle": "Turn It Upside Down",
-			"artist": "Spin Doctors",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "YOU'VE GOT TO BELIEVE IN SOMETHING",
-		"artist": "SPIN DOCTORS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/youve_got_to_believe_in_something.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "38ead7b3-5c36-351a-b6ae-14895a6b6710",
-			"albumTitle": "You’ve Got to Believe in Something",
 			"artist": "Spin Doctors",
 			"type": "Album"
 		}
