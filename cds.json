@@ -39345,20 +39345,6 @@
 		}
 	},
 	{
-		"albumTitle": "FINAL STRAW",
-		"artist": "SNOW PATROL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/final_straw.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "eefd9e7b-d805-3e47-935f-9157dc72ae2a",
-			"albumTitle": "Final Straw",
-			"artist": "Snow Patrol",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MIRACLE",
 		"artist": "S.O.A.P.",
 		"price": "15,00 kr.",
@@ -40987,20 +40973,6 @@
 			"releaseGroupId": "86d13dbc-e992-3829-840c-dcb85df20817",
 			"albumTitle": "The BBC Sessions, Volume 2: 1971-1972",
 			"artist": "Stone the Crows",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TEENAGE TORTURECHAMBER",
-		"artist": "STRAWBERRY SLAUGHTERHOUSE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/teenage_torturechamber.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84f3108e-a262-3ad2-9644-9bcaaaa64b80",
-			"albumTitle": "Teenage Torturechamber",
-			"artist": "Strawberry Slaughterhouse",
 			"type": "Album"
 		}
 	},
