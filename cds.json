@@ -49489,6 +49489,20 @@
 		}
 	},
 	{
+		"albumTitle": "WOMAN V (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/woman5.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "WOMAN V (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WOMEN IN COUNTRY",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
