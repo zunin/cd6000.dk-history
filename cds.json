@@ -6890,20 +6890,6 @@
 		}
 	},
 	{
-		"albumTitle": "ONE CLEAR VOICE",
-		"artist": "PETER CETERA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/one_clear_voice.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "be60c91a-c281-3c4b-930b-fd240d715d31",
-			"albumTitle": "One Clear Voice",
-			"artist": "Peter Cetera",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SOLITUDE/SOLITAIRE",
 		"artist": "PETER CETERA",
 		"price": "10,00 kr.",
@@ -6913,20 +6899,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "c997762b-9719-3db3-8681-4e8731324cdf",
 			"albumTitle": "Solitude/Solitaire",
-			"artist": "Peter Cetera",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WORLD FALLING DOWN",
-		"artist": "PETER CETERA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/world_falling_down.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "eb74a4c0-e67f-38a9-b82a-09a5cca89584",
-			"albumTitle": "World Falling Down",
 			"artist": "Peter Cetera",
 			"type": "Album"
 		}
@@ -36379,6 +36351,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLACKOUT",
+		"artist": "SCORPIONS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/blackout.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b00fbf7c-ebaf-3ec0-91d6-5eaad124d58f",
+			"albumTitle": "Blackout",
+			"artist": "Scorpions",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GOLD BALLADS",
 		"artist": "SCORPIONS",
 		"price": "15,00 kr.",
@@ -36449,6 +36435,20 @@
 			"releaseGroupId": "56342857-e54a-385f-839a-86aedcb8af4b",
 			"albumTitle": "World Wide Live",
 			"artist": "Scorpions",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MOMENT OF GLORY",
+		"artist": "SCORPIONS (med Berliner Philharmoniker)",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/moment_of_glory.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "10a1108e-a8ec-41e4-b0fc-eb0dc65872db",
+			"albumTitle": "Moment of Glory",
+			"artist": "Scorpions, Berliner Philharmoniker",
 			"type": "Album"
 		}
 	},
@@ -36749,6 +36749,15 @@
 		}
 	},
 	{
+		"albumTitle": "WHEN FIRST WE MET",
+		"artist": "LONE SELMER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/when_first_we_met.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "WHERE ARE MY SHOES",
 		"artist": "SIDSEL BEN SEMMANE",
 		"price": "10,00 kr.",
@@ -36781,6 +36790,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "65b78f31-3e2d-341e-ba62-c36bea8b19a0",
 			"albumTitle": "Kiss This",
+			"artist": "Sex Pistols",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "NEVER MIND THE BOLLOCKS",
+		"artist": "SEX PISTOLS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/never_mind_the_bollocks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e959a4b3-6306-3c45-9df6-e7241dae9ea3",
+			"albumTitle": "Never Mind the Bollocks Here’s The Sex Pistols",
 			"artist": "Sex Pistols",
 			"type": "Album"
 		}
@@ -36963,6 +36986,20 @@
 			"releaseGroupId": "cdae07b8-1c0c-3826-a012-a5519637c992",
 			"albumTitle": "The Great Indoors",
 			"artist": "Shirtsville",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "3 DAGEN HAR SÅ MANGE FARVER",
+		"artist": "SHIT & CHALOU",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/dagen_har_saa_mange_farver.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6ff27c2f-6807-4c90-b215-9b7613b37589",
+			"albumTitle": "[untitled] (aka Live in Graz)",
+			"artist": "Shit and Shine",
 			"type": "Album"
 		}
 	},
@@ -37918,6 +37955,20 @@
 		}
 	},
 	{
+		"albumTitle": "DUETS",
+		"artist": "FRANK SINATRA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sinatra_duets_capitol.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "151ab72e-dafb-4aa2-ade7-e0482c398e1a",
+			"albumTitle": "Duets",
+			"artist": "Frank Sinatra",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "IN CELEBRATION",
 		"artist": "FRANK SINATRA",
 		"price": "10,00 kr.",
@@ -38210,6 +38261,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "fec6026d-18c8-3e80-a303-7375b5d2ad21",
 			"albumTitle": "Faith Hope Love",
+			"artist": "Søren Sko",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ONE FOR MY BABY",
+		"artist": "SØREN SKO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/one_for_my_baby.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4c38d7d8-827d-34da-b692-3dfb49423e80",
+			"albumTitle": "One for My Baby",
 			"artist": "Søren Sko",
 			"type": "Album"
 		}
@@ -38952,15 +39017,6 @@
 			"artist": "Peter Sommer",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "FRA TONNY TIL SONNY",
-		"artist": "SONNY SOUFFLÉ",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/fra_tonny_til_sonny.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "CIRCLE HITS THE FLAME BEST OF",
@@ -41119,20 +41175,6 @@
 		}
 	},
 	{
-		"albumTitle": "ENTER",
-		"artist": "SWAN LEE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/swan_lee_enter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06cc96f9-41c9-3117-9359-e21b8ce30833",
-			"albumTitle": "Enter",
-			"artist": "Swan Lee",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BALLROOM HITZ (2CD)",
 		"artist": "SWEET",
 		"price": "10,00 kr.",
@@ -41668,6 +41710,34 @@
 		}
 	},
 	{
+		"albumTitle": "TEMPLE OF THE DOG",
+		"artist": "TEMPLE OF THE DOG",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/temple_of_the_dog.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9369fce-01fc-36b2-9d67-3a7fb14a8f44",
+			"albumTitle": "Temple of the Dog",
+			"artist": "Temple of the Dog",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ROOTS LIVE",
+		"artist": "TEN SHARP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/roots_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "28c24992-29a0-3ac8-933d-abbabab62aed",
+			"albumTitle": "\"Roots\" Live",
+			"artist": "Ten Sharp",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE FIRE INSIDE",
 		"artist": "TEN SHARP",
 		"price": "10,00 kr.",
@@ -41826,6 +41896,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THELI",
+		"artist": "THERION",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/theli.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0bab1be3-6676-3262-b4e9-d8e53fefc501",
+			"albumTitle": "Theli",
+			"artist": "Therion",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MONKEY ON RICO",
 		"artist": "THERMADORE",
 		"price": "10,00 kr.",
@@ -41840,16 +41924,34 @@
 		}
 	},
 	{
-		"albumTitle": "SHUFFLIN'",
+		"albumTitle": "SHUFFLIN' (signeret på front)",
 		"artist": "JESPER THILO",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/shufflin.htm",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/shufflin_signeret.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THANK YOU MR. HAT",
+		"artist": "JESPER THILO QUINTET/QUARTET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/thank_you_mr_hat.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TOGETHER",
+		"artist": "JESPER THILO QUARTET",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/jesper_thilo_together.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
-			"releaseGroupId": "16303409-2686-4ef4-964e-79b281b2d748",
-			"albumTitle": "Shufflin'",
-			"artist": "Jesper Thilo",
+			"releaseGroupId": "414a8e05-7a4d-4398-815b-b83d2964250d",
+			"albumTitle": "Happy Together: Live At Birdland Volume One",
+			"artist": "Ken Peplowski, Jesper Thilo",
 			"type": "Album"
 		}
 	},
@@ -42002,6 +42104,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "NOVEMBER LIGHT (NY i folie)",
+		"artist": "THE TIME",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/november_light_ny.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TIN MACHINE",
 		"artist": "TIN MACHIN",
 		"price": "20,00 kr.",
@@ -42040,6 +42151,20 @@
 			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
 			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
 			"artist": "Bruce Springsteen, The E Street Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "VI HAR EN BEOSTÆR, DER SIGER NOGET ANDET",
+		"artist": "TJENESTEN PÅ P3",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/vi_har_en_beostaer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e363f07c-297f-3f6e-82c3-25a18a54da92",
+			"albumTitle": "Vi har en beostær, der siger noget andet",
+			"artist": "Tjenesten på P3",
 			"type": "Album"
 		}
 	},
@@ -42100,6 +42225,20 @@
 		}
 	},
 	{
+		"albumTitle": "IV",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/toto_4.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0d70d25f-a64a-3eed-8b26-13fe068a4519",
+			"albumTitle": "Toto IV",
+			"artist": "Toto",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GREATEST HITS (2CD)",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -42132,6 +42271,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "9ac42af4-654b-3cf5-b03e-009aec27638d",
 			"albumTitle": "Tambu",
+			"artist": "Toto",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE BEST OF",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/toto_best_of.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "52e085bb-55a7-3db3-9c0c-bcffc424772c",
+			"albumTitle": "The Best Of",
 			"artist": "Toto",
 			"type": "Album"
 		}
@@ -42258,6 +42411,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BOY WITH NO NAME",
+		"artist": "TRAVIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_boy_with_no_name.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "72415430-f41f-397f-9c96-09fce693bb05",
+			"albumTitle": "The Boy With No Name",
+			"artist": "Travis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE MAN WHO",
 		"artist": "MIKA",
 		"price": "10,00 kr.",
@@ -42327,6 +42494,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "467419a4-147f-3f52-a817-fcdea53dd699",
 			"albumTitle": "To tykke med brød",
+			"artist": "Troels Trier & Rebecca Brüel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "JEG ER PÅ REKREATION GREATEST HITS",
+		"artist": "TROELS TRIER & REBECCA BRÚEL",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/jeg_er_paa_rekreation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2b0437ef-4a68-33a2-be45-46f030a97b45",
+			"albumTitle": "Jeg er på rekreation: greatest hits",
 			"artist": "Troels Trier & Rebecca Brüel",
 			"type": "Album"
 		}
@@ -42601,6 +42782,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "RIVER DEEP, MOUNTAIN HIGH",
+		"artist": "IKE & TINA TURNER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/river_deep_mountain_high.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7b59bd90-ece9-4339-9679-27cd79eaad54",
+			"albumTitle": "River Deep, Mountain High / My Babe / Come Together / It's Gonna Work Out Fine",
+			"artist": "Ike & Tina Turner",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DRASTIC FANTASTIC",
 		"artist": "KT TURNSTALL",
 		"price": "10,00 kr.",
@@ -42625,6 +42820,20 @@
 			"releaseGroupId": "1eb120cf-a4b5-3580-8f02-70f30b557f8d",
 			"albumTitle": "Eye to the Telescope",
 			"artist": "KT Tunstall",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "NIGHT SHIFT",
+		"artist": "TURBOWEEKEND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/night_shift.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "911a237b-e233-3f16-ac68-b60481e83581",
+			"albumTitle": "Night Shift",
+			"artist": "Turboweekend",
 			"type": "Album"
 		}
 	},
@@ -42817,6 +43026,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DET GODE LIV",
+		"artist": "TV-2",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/det_gode_liv.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7fc582b1-8058-4b1d-aef0-6b323366e366",
+			"albumTitle": "Det gode liv",
+			"artist": "TV-2",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "FANTASTISKE TOYOTA",
@@ -43051,6 +43274,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "BONNIE TYLER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bonnie_tyler_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d090a5d4-2c51-3e09-addc-599f72c74a6e",
+			"albumTitle": "The Collection",
+			"artist": "Bonnie Tyler",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE ULTIMATE COLLECTION (2CD)",
 		"artist": "BONNIE TYLER",
 		"price": "10,00 kr.",
@@ -43111,6 +43348,20 @@
 		}
 	},
 	{
+		"albumTitle": "SIG DU KA' LI' MIG",
+		"artist": "TØSEDRENGENE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sig_du_ka_li_mig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9317ab9d-bb17-4b81-a2c5-770830446245",
+			"albumTitle": "Sig du ka' li' mig",
+			"artist": "Tøsedrengene",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALLE VORE HÅB",
 		"artist": "TØSEDRENGENE",
 		"price": "20,00 kr.",
@@ -43146,6 +43397,15 @@
 			"artist": "Tøsedrengene",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "DEJLIGE DANSKE (2CD)",
+		"artist": "TØSEDRENGENE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/toesedrengene_dejlige_danske.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "18 SINGLES",
@@ -43430,6 +43690,20 @@
 		}
 	},
 	{
+		"albumTitle": "SAMME STOF SOM STOF",
+		"artist": "UNDER BYEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/samme_stof_som_stof.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6c3c3d9c-9a7c-3fbb-8e9a-b463d0d3e10a",
+			"albumTitle": "Samme stof som stof",
+			"artist": "Under Byen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SOME HEARTS",
 		"artist": "CARRIE UNDERWOOD",
 		"price": "10,00 kr.",
@@ -43541,6 +43815,15 @@
 		"artist": "VAN HALEN",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/right_here_right_now.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "BEST OF VOL. 1",
+		"artist": "VAN HALEN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/van_halen_best_1.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -44098,6 +44381,20 @@
 			"releaseGroupId": "06b6a15d-ea39-3db3-9602-4d852f45fe54",
 			"albumTitle": "Over The Rainbow",
 			"artist": "Mads Vinding, Jacob Fischer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SIX HANDS THREE MINDS ONE HEART",
+		"artist": "MADS VINDING TRIO CARSTEN DALL / ALEX RIEL",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/six_hands_three_minds.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "SIX HANDS THREE MINDS ONE HEART",
+			"artist": "Various Artists",
 			"type": "Album"
 		}
 	},
@@ -49260,20 +49557,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE VERY BEST OF POP MUSIC 1991-92 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF ROCK ROCK'N'ROLL 1957-58 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/very_best_rnr_57-58.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF ROCK ROCK'N'ROLL 1957-58 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
