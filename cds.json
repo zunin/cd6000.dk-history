@@ -43797,20 +43797,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEST OF VOLUME 1",
-		"artist": "VAN HALEN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/van_halen_best1_bag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3551fd70-dc1d-3b3b-beeb-0f4a5c16d3de",
-			"albumTitle": "Best Of, Volume I",
-			"artist": "Van Halen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RIGHT HERE, RIGHT NOW 24 HITS LIVE (2CD)",
 		"artist": "VAN HALEN",
 		"price": "20,00 kr.",
