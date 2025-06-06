@@ -4393,20 +4393,6 @@
 		}
 	},
 	{
-		"albumTitle": "DON'T FEAR THE REAPER THE BEST OF",
-		"artist": "BLUE ÖYSTER CULT",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dont_fear_the_reaper.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3f774551-0de2-3f86-84db-ddcd3181c27e",
-			"albumTitle": "Don’t Fear the Reaper: The Best of Blue Öyster Cult",
-			"artist": "Blue Öyster Cult",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ALL THE LOST SOULS",
 		"artist": "JAMES BLUNT",
 		"price": "10,00 kr.",
@@ -10203,20 +10189,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "YO FRANKIE",
-		"artist": "DION DIMUCCI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/yo_frankie.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0084af29-4a7d-3a72-9a0c-f1589e8a5bd9",
-			"albumTitle": "Yo Frankie",
-			"artist": "Dion",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ALL THE WAY, A DECADE OF SONG",
 		"artist": "CELINE DION",
 		"price": "10,00 kr.",
@@ -15830,20 +15802,6 @@
 			"releaseGroupId": "f3db97cf-814d-3b35-b7be-e92a81c2ddce",
 			"albumTitle": "Scream If You Wanna Go Faster",
 			"artist": "Geri Halliwell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "ALBERT HAMMOND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hammond_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1783ff24-fb2c-3a47-b405-609767976167",
-			"albumTitle": "The Very Best of Albert Hammond",
-			"artist": "Albert Hammond",
 			"type": "Album"
 		}
 	},
@@ -22474,20 +22432,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE ANNIE LENNOX COLLECTION",
-		"artist": "ANNIE LENNOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/annie_lennox_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fc369882-965e-3248-a142-7c9a3c1c8c31",
-			"albumTitle": "The Annie Lennox Collection",
-			"artist": "Annie Lennox",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF (new recordings)",
 		"artist": "LES HUMPHRIES SINGERS",
 		"price": "10,00 kr.",
@@ -28155,20 +28099,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "ABSOLUTION",
-		"artist": "MUSE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/absolution.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6f151223-f3a3-3e57-810f-598f7897006c",
-			"albumTitle": "Absolution",
-			"artist": "Muse",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BLACK HOLES AND REVELATIONS",
 		"artist": "MUSE",
 		"price": "10,00 kr.",
@@ -28181,15 +28111,6 @@
 			"artist": "Muse",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "HULLABALOO SOUNDTRACK (2CD)",
-		"artist": "MUSE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hullabaloo.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ORIGIN OF SYMMETRY",
@@ -29316,20 +29237,6 @@
 			"releaseGroupId": "a9624927-5703-4bf9-bc4b-cfa26050accb",
 			"albumTitle": "A.G. Solo",
 			"artist": "Peter A.G.",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HIGHEST HOPES THE BEST OF",
-		"artist": "NIGHTWISH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/highest_hopes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c32219a9-4a65-36b0-a423-17ff7cde7ea2",
-			"albumTitle": "Highest Hopes: The Best of Nightwish",
-			"artist": "Nightwish",
 			"type": "Album"
 		}
 	},
@@ -36675,15 +36582,6 @@
 		}
 	},
 	{
-		"albumTitle": "MER' END KÆRLIGHED (CD+DVD)",
-		"artist": "RASMUS SEEBACH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mer_end_kaerlighed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "RASMUS SEEBACH",
 		"artist": "RASMUS SEEBACH",
 		"price": "10,00 kr.",
@@ -41668,6 +41566,20 @@
 		}
 	},
 	{
+		"albumTitle": "SONGS FROM THE BIG CHAIR",
+		"artist": "TEARS FOR FEARS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/songs_from_the_big_chair.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "475946e9-4b00-3f7c-9bd7-c11f55740262",
+			"albumTitle": "Songs From the Big Chair",
+			"artist": "Tears for Fears",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "REALITY CHECK",
 		"artist": "THE TEENAGERS",
 		"price": "10,00 kr.",
@@ -44551,6 +44463,20 @@
 			"releaseGroupId": "a9698bbf-e5df-3da3-a21c-812190902b68",
 			"albumTitle": "Go!",
 			"artist": "Vivid",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BEYOND HELL ABOVE HEAVEN",
+		"artist": "VOLBEAT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/beyond_hell_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2b55f3b1-d1e6-4e55-8bcb-d0903afe2cf7",
+			"albumTitle": "Live From Beyond Hell/Above Heaven",
+			"artist": "Volbeat",
 			"type": "Album"
 		}
 	},
