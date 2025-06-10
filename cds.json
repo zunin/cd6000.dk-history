@@ -24243,34 +24243,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE GREATEST COLLECTION (4CD) 2001",
-		"artist": "EVA MADSEN SCANBOX BESTIL NR. 23190",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/eva_madsen_4.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5aec666a-bd31-41b7-8d2c-298748de36d7",
-			"albumTitle": "Rear View",
-			"artist": "EVA",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HVAD MON DET NÆSTE BLI'R - TI NUMRE TIL JER OG JERES UNGER",
-		"artist": "EVA MADSEN",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/hvad_mon_det.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5aec666a-bd31-41b7-8d2c-298748de36d7",
-			"albumTitle": "Rear View",
-			"artist": "EVA",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "UDENFOR SÆSONEN",
 		"artist": "JOHNNY MADSEN",
 		"price": "10,00 kr.",
@@ -36677,20 +36649,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "KISS THIS",
-		"artist": "SEX PISTOLS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/kiss_this.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "65b78f31-3e2d-341e-ba62-c36bea8b19a0",
-			"albumTitle": "Kiss This",
-			"artist": "Sex Pistols",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "NEVER MIND THE BOLLOCKS",
