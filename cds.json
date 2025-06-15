@@ -2128,20 +2128,6 @@
 		}
 	},
 	{
-		"albumTitle": "BAMSES VENNER",
-		"artist": "BAMSES VENNER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bamses_venner_pool.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "08c6c5b6-bdd2-355c-a828-bc3047b70824",
-			"albumTitle": "Bamses Venner",
-			"artist": "Bamses Venner",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BE MY GUEST",
 		"artist": "FL. BAMSE JØRGENSEN",
 		"price": "10,00 kr.",
@@ -5961,15 +5947,6 @@
 		}
 	},
 	{
-		"albumTitle": "MTV UNPLUGGED (EP)",
-		"artist": "MARIAH CAREY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/unplugged_ep.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HEAVEN ON EARTH",
 		"artist": "BELINDA CARLISLE",
 		"price": "10,00 kr.",
@@ -8402,6 +8379,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE COMPLETE HIT-ALBUM VOLUME 2",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/ccr_complete_hit_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e5e71925-2d3c-320a-a68b-6e611f1e729c",
+			"albumTitle": "The Complete Hit Album, Volume 2",
+			"artist": "Creedence Clearwater Revival",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "ANOTHER PAGE",
@@ -26016,20 +26007,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEN STORE JULEBASAR",
-		"artist": "MONRAD & RISLUND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/den_store_julebasar.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dee76528-9e48-339b-b7e4-98809219730b",
-			"albumTitle": "Den Store Julebasar",
-			"artist": "Monrad & Rislund",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FARVEL ÅGE",
 		"artist": "MONRAD & RISLUND",
 		"price": "10,00 kr.",
@@ -26096,20 +26073,6 @@
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "KNEPPER DE? (2CD)",
 			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MENS VI VENTER PÅ PRINSEN",
-		"artist": "MONRAD & RISLUND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mens_vi_venter_paa_prinsen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6649dfc2-0d99-37bd-8f5e-ece1aa11f0f8",
-			"albumTitle": "Mens vi venter på Prinsen",
-			"artist": "Monrad & Rislund",
 			"type": "Album"
 		}
 	},
@@ -32409,20 +32372,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "STRONGER",
-		"artist": "CLIFF RICHARD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/stronger.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4e66c029-e230-3a2d-aead-b5dbd52625a9",
-			"albumTitle": "Stronger",
-			"artist": "Cliff Richard",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE ALBUM",
 		"artist": "CLIFF RICHARD",
 		"price": "10,00 kr.",
@@ -32435,15 +32384,6 @@
 			"artist": "Cliff Richard",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "TWO'S A COMPANY THE DUETS",
-		"artist": "CLIFF RICHARD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/twos_a_company.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "20 ORIGINAL GREATS",
@@ -35970,20 +35910,6 @@
 		}
 	},
 	{
-		"albumTitle": "BLUE",
-		"artist": "SIMPLY RED",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/simply_red_blue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "445314f1-4d7b-31eb-a216-77f3f9d22561",
-			"albumTitle": "Blue",
-			"artist": "Simply Red",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "IT'S ONLY LOVE",
 		"artist": "SIMPLY RED",
 		"price": "10,00 kr.",
@@ -39206,15 +39132,6 @@
 			"artist": "Sussi & Leo",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "CHRIS & CHOKOLADEFABRIKKEN",
-		"artist": "SVEDBANKEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/svedbanken.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "FRAGMENTS",
@@ -43916,24 +43833,6 @@
 		}
 	},
 	{
-		"albumTitle": "KASPER NO. 5",
-		"artist": "KASPER WINDING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kasper_no_5.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "KASPER NO. 6",
-		"artist": "KASPER WINDING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kasper_no_6.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE COLLECTION",
 		"artist": "KASPER WINDING",
 		"price": "10,00 kr.",
@@ -45149,20 +45048,6 @@
 		}
 	},
 	{
-		"albumTitle": "ABSOLUTE CHRISTMAS 1999 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/absolute_christmas_1999.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "ABSOLUTE CHRISTMAS 1999 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ABSOLUTE MUSIC 1",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -45606,20 +45491,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "ALL WOMAN 4 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ALLE TIDERS DANSKE HITS 1 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alle_tiders_danske_hits_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "ALLE TIDERS DANSKE HITS 1 (3CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
