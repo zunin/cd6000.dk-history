@@ -26788,20 +26788,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "IN THE SUMMERTIME THE BEST OF",
-		"artist": "MUNGO JERRY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/mungo_jerry_in_the_summertime.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "108104d4-10bb-4737-a9d3-33b5d5ac441b",
-			"albumTitle": "In the Summertime: The Best of Mungo Jerry",
-			"artist": "Mungo Jerry",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "MUNGO JERRY",
 		"price": "10,00 kr.",
@@ -26991,20 +26977,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "688374de-0720-3df2-a538-dbdc382642d3",
 			"albumTitle": "Alannah Myles",
-			"artist": "Alannah Myles",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ROCKINGHORSE",
-		"artist": "ALANNAH MYLES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rockinghorse.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d9cf954b-0ea5-3ed8-98ed-0e99d4da7ff1",
-			"albumTitle": "Rockinghorse",
 			"artist": "Alannah Myles",
 			"type": "Album"
 		}
@@ -29261,20 +29233,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE OZZMAN COMETH",
-		"artist": "OZZY OSBOURNE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/ozzman_cometh.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "094d7a87-5314-33d1-a16c-52c16a9f7aa9",
-			"albumTitle": "The Ozzman Cometh",
-			"artist": "Ozzy Osbourne",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SCHYSST & POPULÄR",
@@ -34561,20 +34519,6 @@
 		}
 	},
 	{
-		"albumTitle": "BLACKOUT",
-		"artist": "SCORPIONS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/blackout.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b00fbf7c-ebaf-3ec0-91d6-5eaad124d58f",
-			"albumTitle": "Blackout",
-			"artist": "Scorpions",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD BALLADS",
 		"artist": "SCORPIONS",
 		"price": "15,00 kr.",
@@ -34980,20 +34924,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "NEVER MIND THE BOLLOCKS",
-		"artist": "SEX PISTOLS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/never_mind_the_bollocks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e959a4b3-6306-3c45-9df6-e7241dae9ea3",
-			"albumTitle": "Never Mind the Bollocks Here’s The Sex Pistols",
-			"artist": "Sex Pistols",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "BEST OF",
@@ -36661,20 +36591,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DIABOLUS IN MUSICA",
-		"artist": "SLAYER",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/diabolus_in_musica.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "415f4fdc-8b9c-3a83-98bc-b69cd154663b",
-			"albumTitle": "Diabolus in Musica",
-			"artist": "Slayer",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LIVE UNDEAD includes EP : HAUNTING THE CHAPEL",
@@ -39897,20 +39813,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THELI",
-		"artist": "THERION",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/theli.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0bab1be3-6676-3262-b4e9-d8e53fefc501",
-			"albumTitle": "Theli",
-			"artist": "Therion",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MONKEY ON RICO",
 		"artist": "THERMADORE",
 		"price": "10,00 kr.",
@@ -40272,20 +40174,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "9ac42af4-654b-3cf5-b03e-009aec27638d",
 			"albumTitle": "Tambu",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/toto_best_of.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "52e085bb-55a7-3db3-9c0c-bcffc424772c",
-			"albumTitle": "The Best Of",
 			"artist": "Toto",
 			"type": "Album"
 		}
@@ -41649,20 +41537,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0a4b1de4-af17-3f2b-947d-098f26bff2ad",
 			"albumTitle": "Det er mig der holder træerne sammen",
-			"artist": "Under Byen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SAMME STOF SOM STOF",
-		"artist": "UNDER BYEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/samme_stof_som_stof.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6c3c3d9c-9a7c-3fbb-8e9a-b463d0d3e10a",
-			"albumTitle": "Samme stof som stof",
 			"artist": "Under Byen",
 			"type": "Album"
 		}
@@ -45043,62 +44917,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "ABSOLUTE CHRISTMAS 2 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ABSOLUTE MUSIC 1",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/am01.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8ec454a2-7eb0-3e63-b109-12d8c07b9137",
-			"albumTitle": "Absolute Music 1",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ABSOLUTE MUSIC 2",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/am02.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e469739b-2598-3a3f-99c7-b601f8ba499a",
-			"albumTitle": "Absolute Music 2",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ABSOLUTE MUSIC 3",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/am03.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "79a87a0d-2508-389b-9eed-c7c2e46ca31a",
-			"albumTitle": "Absolute Music 3",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ABSOLUTE MUSIC 4",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/am04.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c68af8a5-9a67-344d-b048-fa6175eff410",
-			"albumTitle": "Absolute Music 4",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
