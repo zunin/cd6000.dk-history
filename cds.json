@@ -232,20 +232,6 @@
 		}
 	},
 	{
-		"albumTitle": "FLY ON THE WALL",
-		"artist": "AC/DC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/fly_on_the_wall.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "af8a0f91-5326-3acb-b6e1-03a9b22d30e6",
-			"albumTitle": "Fly on the Wall",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FOR THOSE ABOUT TO ROCK (WE SALUTE YOU)",
 		"artist": "AC/DC",
 		"price": "20,00 kr.",
@@ -44852,18 +44838,13 @@
 		}
 	},
 	{
-		"albumTitle": "PARADOXX",
+		"albumTitle": "PARADOXX (CD+video CD)",
 		"artist": "666",
 		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/paradoxx.htm",
+		"origin": "https://cd6000.dk/paradoxx2.htm",
 		"quality": "unknown",
 		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "13cac490-539e-363f-88cd-c2196b56290e",
-			"albumTitle": "Paradoxx",
-			"artist": "666",
-			"type": "Album"
-		}
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "18 MOVIE HITS",
