@@ -9301,20 +9301,6 @@
 		}
 	},
 	{
-		"albumTitle": "MIXED UP",
-		"artist": "THE CURE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/cure_mixed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f9f0d9e9-0e23-3634-bf9b-6faf3526f641",
-			"albumTitle": "Mixed Up",
-			"artist": "The Cure",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MOOD SWINGS",
 		"artist": "THE CURE",
 		"price": "15,00 kr.",
