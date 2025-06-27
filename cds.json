@@ -8636,20 +8636,6 @@
 		}
 	},
 	{
-		"albumTitle": "HUMAN STAIN",
-		"artist": "CORNERSTONE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/human_stain.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3f126488-3040-3a0e-898e-200677b67dfc",
-			"albumTitle": "Human Stain",
-			"artist": "Cornerstone",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ONE (2CD)",
 		"artist": "IDA CORR",
 		"price": "10,00 kr.",
@@ -8748,20 +8734,6 @@
 			"releaseGroupId": "61bbd4a1-9275-3a0e-9435-f315ee9e3076",
 			"albumTitle": "Mighty Like a Rose",
 			"artist": "Elvis Costello",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PAINTED FROM MEMORY",
-		"artist": "ELVIS COSTELLO BURT BACHARACH",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/painted_from_memory.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "52bfe14f-48a5-331c-9a9b-b5cd81feee43",
-			"albumTitle": "Painted From Memory",
-			"artist": "Elvis Costello, Burt Bacharach",
 			"type": "Album"
 		}
 	},
@@ -23351,20 +23323,6 @@
 			"releaseGroupId": "47f3cacb-52ce-4024-8f67-d291e4cdbb69",
 			"albumTitle": "After the Sun",
 			"artist": "Julie Title",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SENDT FRA HIMLEN 1990-2004",
-		"artist": "LOVE SHOP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sendt_fra_himlen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "459993d3-d9b7-3b84-8237-fbe3894f7984",
-			"albumTitle": "Sendt Fra Himlen: 1990-2004",
-			"artist": "Love Shop",
 			"type": "Album"
 		}
 	},
