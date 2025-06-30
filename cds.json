@@ -1751,20 +1751,6 @@
 		}
 	},
 	{
-		"albumTitle": "LADIES NIGHT",
-		"artist": "ATOMIC KITTEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/atomic_kitten_ladies_night.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1509c723-4b60-37bc-80a6-89d1df5ef71a",
-			"albumTitle": "Ladies Night",
-			"artist": "Atomic Kitten",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RIGHT NOW",
 		"artist": "ATOMIC KITTEN",
 		"price": "10,00 kr.",
@@ -12070,15 +12056,6 @@
 		}
 	},
 	{
-		"albumTitle": "40 VISER OG SANGE (2CD)",
-		"artist": "HELGE ENGELBRECHT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/40_viser_og_sange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LIV OG GLADE DAGE (en smule 'bulet' bagcover)",
 		"artist": "HELGE ENGELBRECHT BAND",
 		"price": "10,00 kr.",
@@ -13447,20 +13424,6 @@
 			"releaseGroupId": "6fb12193-d19f-3552-8d8f-1c3ee49d9ef9",
 			"albumTitle": "The Hits of Fleetwood Mac",
 			"artist": "Fleetwood Mac",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INAMORATA",
-		"artist": "GUY FLETCHER",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/inamorata.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e79c6ee1-97e4-42da-b05c-4e09f4632d71",
-			"albumTitle": "Inamorata",
-			"artist": "Guy Fletcher",
 			"type": "Album"
 		}
 	},
@@ -25112,20 +25075,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "5ef10a82-833e-3926-a857-9560352adb56",
 			"albumTitle": "The Book of Secrets",
-			"artist": "Loreena McKennitt",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE MASK AND MIRROR",
-		"artist": "LOREENA McKENNITT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_mask_and_mirror.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "015a1ecf-c90c-3102-9760-ee1cc1c1a6d6",
-			"albumTitle": "The Mask and Mirror",
 			"artist": "Loreena McKennitt",
 			"type": "Album"
 		}
@@ -46295,20 +46244,6 @@
 		}
 	},
 	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1963-67 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_63-67.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1963-67 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1969-71 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -46365,20 +46300,6 @@
 		}
 	},
 	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1975-77 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_75-77.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1975-77 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-79 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -46388,20 +46309,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-79 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-80 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_77-80.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1977-80 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -46542,20 +46449,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1990-92 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1992-94 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dbadm_92-94.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "DET BEDSTE AF DANSK MUSIK 1992-94 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
