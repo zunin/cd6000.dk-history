@@ -798,6 +798,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE VOICE OF ABBA",
+		"artist": "AGNETA & FRIDA (Fältskog & Lyngstad)",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_voice_of_abba.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4260af3a-9768-4e18-b9a3-ee6caf2cf6e5",
+			"albumTitle": "Untitled 2",
+			"artist": "Astral & Shit",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE GREAT I AM",
 		"artist": "AGRACEFUL",
 		"price": "10,00 kr.",
@@ -9422,6 +9436,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SENTIMENTAL JOURNEY",
+		"artist": "DAIMI",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/sentimental_journey.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "609929aa-715b-45d6-9060-27aec59b4805",
+			"albumTitle": "Sentimental Journey",
+			"artist": "Daimi",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DALTON",
 		"artist": "DALTON",
 		"price": "10,00 kr.",
@@ -9445,6 +9473,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "18f51ee9-5aaf-35b7-b1ac-899e67aae080",
 			"albumTitle": "Spred Vingerne Ud!",
+			"artist": "Danseorkestret",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEN STORE KÆRLIGHED",
+		"artist": "DANSEORKESTRET",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/den_store_kaerlighed.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "55aa1800-2b20-30da-91da-33f4c8dde74a",
+			"albumTitle": "Den Store Kærlighed",
 			"artist": "Danseorkestret",
 			"type": "Album"
 		}
@@ -9487,6 +9529,20 @@
 		}
 	},
 	{
+		"albumTitle": "POPSAMLING",
+		"artist": "DANSER MED DRENGE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/popsamling.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1aa82220-2e5a-3810-a833-b089bba0d95f",
+			"albumTitle": "Popsamling",
+			"artist": "Danser med Drenge",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SÅ LÆNGE VI ER HER",
 		"artist": "DANSER MED DRENGE",
 		"price": "10,00 kr.",
@@ -9499,6 +9555,29 @@
 			"artist": "Danser med drenge",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SIG MIG, ER DE KLAR OVER HVEM VI VAR?",
+		"artist": "DANSER MED DRENGE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sig_mig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1c6861c9-7a24-3f8a-ab87-acc0a5673130",
+			"albumTitle": "Sig mig... er De klar over, hvem vi var?",
+			"artist": "Danser med Drenge",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SÅDAN ER DET BARE (CD + DVD )",
+		"artist": "DANSER MED DRENGE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/saadan_er_det_bare.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "VORES BEDSTE (2CD+DVD)",
@@ -9524,6 +9603,20 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST HITS (lille fold på bagcover)",
+		"artist": "DAVE DEE, DOZY, BEAKY, MICK & TICH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dave_dee_dozy_greatest_music.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "GREATEST HITS (lille fold på bagcover)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "DAVE DEE, DOZY, BEAKY, MICK & TICH",
 		"price": "10,00 kr.",
@@ -9534,6 +9627,20 @@
 			"releaseGroupId": "3621e29c-47a3-38f4-9b15-1a06c24d1ef1",
 			"albumTitle": "The Best of Yesteryear",
 			"artist": "Dave Dee, Dozy, Beaky, Mick & Tich",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ANNA DAVID",
+		"artist": "ANNA DAVID",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/anna_david.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9f02dc1-1861-336a-8f41-45c02816a834",
+			"albumTitle": "Anna David",
+			"artist": "Anna David",
 			"type": "Album"
 		}
 	},
@@ -9731,6 +9838,29 @@
 			"artist": "Deep Blue Something",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "DEEP PURPLE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/deep_purple_the_collection_discy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "77da9cba-d5e5-375f-8492-c70c39f7d253",
+			"albumTitle": "The Collection",
+			"artist": "Deep Purple",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MADE IN JAPAN (2CD)",
+		"artist": "DEEP PURPLE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/made_in_japan.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ADRENALIZE",
@@ -9961,6 +10091,34 @@
 		}
 	},
 	{
+		"albumTitle": "EXCITER",
+		"artist": "DEPECHE MODE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/exciter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "97822855-3e00-30a9-8d7a-bd0802c961e7",
+			"albumTitle": "Exciter",
+			"artist": "Depeche Mode",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PLAYING THE ANGEL",
+		"artist": "DEPECHE MODE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/playing_the_angel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "27727210-39da-369c-b717-53dac0597946",
+			"albumTitle": "Playing the Angel",
+			"artist": "Depeche Mode",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE SINGLES 86>98 (2CD) (unofficial)",
 		"artist": "DEPECHE MODE",
 		"price": "25,00 kr.",
@@ -9984,6 +10142,20 @@
 		}
 	},
 	{
+		"albumTitle": "MIND ADVENTURES",
+		"artist": "DES'REE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/mind_adventures.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dd8a9e97-1a5c-32d0-8336-77c5b664336a",
+			"albumTitle": "Mind Adventures",
+			"artist": "Des’ree",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "8 DAYS OF CHRISTMAS",
 		"artist": "DESTINY'S CHILD",
 		"price": "10,00 kr.",
@@ -9994,6 +10166,20 @@
 			"releaseGroupId": "bbb5e304-c03f-3d07-afb2-d41c54594343",
 			"albumTitle": "8 Days of Christmas",
 			"artist": "Destiny’s Child",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FRIDAY NIGHT IN SAN FRANCISCO",
+		"artist": "AL di MEOLA, JOHN McLAUGLIN, PACO de LUCIA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/friday_night_in_san_francisco.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1b4b78a5-7466-3179-b2f2-fd24a34604f7",
+			"albumTitle": "Friday Night in San Francisco",
+			"artist": "Al Di Meola, John McLaughlin, Paco de Lucía",
 			"type": "Album"
 		}
 	},
@@ -10182,6 +10368,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "WHISPERS",
+		"artist": "TINA DICKOW",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/whispers.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2ab0378-af3b-444e-8932-7faaad168418",
+			"albumTitle": "Whispers",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "FUEL",
@@ -10430,6 +10630,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LOVE OVER GOLD",
+		"artist": "DIRE STRAITS",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/love_over_gold.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "935dde7e-8390-39fa-8e0d-1350db96bc3f",
+			"albumTitle": "Love Over Gold",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SULTANS OF SWING THE VERY BEST OF (2CD+DVD boks)",
+		"artist": "DIRE STRAITS",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/sultans_of_swing.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "VRONG SIDE OF VEGAS (EP) (NY i folie)",
 		"artist": "DIRTY JOBS",
 		"price": "10,00 kr.",
@@ -10465,6 +10688,15 @@
 			"artist": "Diskofil",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "DEJLIGE DANSKE (2CD)",
+		"artist": "POUL DISSING",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/dissing_dejlige_danske.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DEN SORTE SEJLER & ANDRE SØMANDSSANGE",
@@ -10523,6 +10755,20 @@
 			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
 			"albumTitle": "[untitled]",
 			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HILSEN TIL FORÅRSSOLEN",
+		"artist": "DISSING, ANDERSEN & Radiounderholdningsorkestret",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hilsen_til_foraarssolen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c8e533b5-a46d-41d4-b321-34800b9d4a33",
+			"albumTitle": "Hilsen til forårssolen",
+			"artist": "Dissing/Andersen",
 			"type": "Album"
 		}
 	},
@@ -10653,6 +10899,34 @@
 		}
 	},
 	{
+		"albumTitle": "DISSING VON DALER & SØGÅRD",
+		"artist": "DISSING VON DALER & SØGÅRD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/dissing_von_daler_og_soegaard.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3f541664-2446-3e29-8865-0a2f2d172a1b",
+			"albumTitle": "Carmen",
+			"artist": "Georges Bizet, Leontyne Price, Franco Corelli, Robert Merrill, Mirella Freni, Wiener Philharmoniker, Herbert von Karajan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HJEMLØS",
+		"artist": "DISSING DISSING LAS & DISSING",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/hjemloes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a5d0e4aa-5a46-4120-bc0c-8fe40a7b4acd",
+			"albumTitle": "Hjemløs",
+			"artist": "Dissing, Dissing, Las & Dissing",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GRÆSSET MÅ BETRÆDES",
 		"artist": "DISSING, DISSING, von DALER, LAS & DISSING",
 		"price": "10,00 kr.",
@@ -10753,29 +11027,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "CLOSE ENCOUNTER VOL. 2",
-		"artist": "NIELS LAN DOKY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/close_encounters_vol_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "MISTY DAWN",
-		"artist": "DOKY NHØP RIEL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/misty_dawn.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e6bfee51-8995-37d0-a562-535a1fdc6918",
-			"albumTitle": "Misty Dawn",
-			"artist": "Niels Lan Doky",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "1",
@@ -10880,6 +11131,38 @@
 		}
 	},
 	{
+		"albumTitle": "AN EVENING OF STANDARDS",
+		"artist": "NIELS LAN DOKY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/an_evening_of_standards.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CLOSE ENCOUNTER VOL. 2",
+		"artist": "NIELS LAN DOKY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/close_encounters_vol_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "NIELS LAN DOKY",
+		"artist": "NIELS LAN DOKY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/niels_lan_doky.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "026cf37c-8671-3634-8970-0b91c4dbed9f",
+			"albumTitle": "Niels Lan Doky",
+			"artist": "Niels Lan Doky",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "1",
 		"artist": "DOKY BROTHERS",
 		"price": "10,00 kr.",
@@ -10904,6 +11187,20 @@
 			"releaseGroupId": "ff76709e-feb2-45e2-aefc-a16483258dcd",
 			"albumTitle": "2",
 			"artist": "Doky Brothers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MISTY DAWN",
+		"artist": "DOKY NHØP RIEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/misty_dawn.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e6bfee51-8995-37d0-a562-535a1fdc6918",
+			"albumTitle": "Misty Dawn",
+			"artist": "Niels Lan Doky",
 			"type": "Album"
 		}
 	},
@@ -11094,6 +11391,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF (unofficial)",
+		"artist": "THE DOORS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/doors_best_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF (2CD)",
 		"artist": "THE DOORS",
 		"price": "15,00 kr.",
@@ -11182,6 +11493,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "be53141c-f792-46bd-bcea-cff9814909bc",
 			"albumTitle": "The Collection",
+			"artist": "Dr. Hook",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TAKE THE BAIT",
+		"artist": "DR. HOOK",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/take_the_bait.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cc064ee3-8e20-3328-8cd6-a08123764d59",
+			"albumTitle": "Take the Bait",
 			"artist": "Dr. Hook",
 			"type": "Album"
 		}
@@ -11339,6 +11664,20 @@
 		}
 	},
 	{
+		"albumTitle": "SAX-A-GO-GO",
+		"artist": "CANDY DULFER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sax_a_go_go.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4b83e48c-ad05-37c5-a788-6f1e43a09efe",
+			"albumTitle": "Sax-A-Go-Go",
+			"artist": "Candy Dulfer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SPÆND HJELMEN",
 		"artist": "DIE DUMME DÁNEN",
 		"price": "10,00 kr.",
@@ -11377,6 +11716,20 @@
 			"releaseGroupId": "885c6b12-19b3-42c2-8f97-55a0070b3601",
 			"albumTitle": "Sascha Dupont",
 			"artist": "Sascha Dupont",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE WEDDING ALBUM",
+		"artist": "DURAN DURAN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_wedding_album.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "faedc66c-59ae-36ee-a89d-9dda4a9ea393",
+			"albumTitle": "Duran Duran",
+			"artist": "Duran Duran",
 			"type": "Album"
 		}
 	},
@@ -11455,6 +11808,48 @@
 		"musicbrainz": {
 			"releaseGroupId": "39d8b6a8-7a20-40c2-a3cd-d22d5781d806",
 			"albumTitle": "The Best of Bob Dylan",
+			"artist": "Bob Dylan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DYLAN (3CD) (remastered)",
+		"artist": "BOB DYLAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/dylan_3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fa3a49ec-ce66-3894-b0db-4b5f36275e3a",
+			"albumTitle": "The Jackson Five",
+			"artist": "The Jacksons",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "NASHVILLE SKYLINE",
+		"artist": "BOB DYLAN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/nashville_skyline.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2ca28746-8987-3015-b54c-75b3aa8ca1a1",
+			"albumTitle": "Nashville Skyline",
+			"artist": "Bob Dylan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TEMPEST",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/tempest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "42555dd2-d671-4c96-85c3-3939232ffc4b",
+			"albumTitle": "Tempest",
 			"artist": "Bob Dylan",
 			"type": "Album"
 		}
@@ -45525,6 +45920,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "ABSOLUTE CHRISTMAS 2 (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 1",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am01.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "02b878e2-9176-353e-ab76-5cd3f46ddf07",
+			"albumTitle": "Absolute Music 1",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE MUSIC 3",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/am03.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "79a87a0d-2508-389b-9eed-c7c2e46ca31a",
+			"albumTitle": "Absolute Music 3",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
