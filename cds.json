@@ -891,20 +891,6 @@
 		}
 	},
 	{
-		"albumTitle": "JAN AKKERMAN",
-		"artist": "JAN AKKERMAN",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/jan_akkerman.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "87aab699-f41a-3dc9-b10f-8743a88e047b",
-			"albumTitle": "Jan Akkerman",
-			"artist": "Jan Akkerman",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "CHRISTMAS",
 		"artist": "ALABAMA",
 		"price": "10,00 kr.",
@@ -7606,20 +7592,6 @@
 		}
 	},
 	{
-		"albumTitle": "MONEY AND CIGARETTES",
-		"artist": "ERIC CLAPTON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/money_and_cigarettes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3ed4f4b7-e45c-3ef3-a8f0-2e4ae8c51c4f",
-			"albumTitle": "Money and Cigarettes",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OLD SOCK",
 		"artist": "ERIC CLAPTON",
 		"price": "20,00 kr.",
@@ -11809,20 +11781,6 @@
 			"releaseGroupId": "39d8b6a8-7a20-40c2-a3cd-d22d5781d806",
 			"albumTitle": "The Best of Bob Dylan",
 			"artist": "Bob Dylan",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DYLAN (3CD) (remastered)",
-		"artist": "BOB DYLAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dylan_3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fa3a49ec-ce66-3894-b0db-4b5f36275e3a",
-			"albumTitle": "The Jackson Five",
-			"artist": "The Jacksons",
 			"type": "Album"
 		}
 	},
@@ -26122,20 +26080,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE $5.98 E.P. GARAGE DAYS RE-REVISITED.. AND MORE (unofficial)",
-		"artist": "METALLICA",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/garage_days_and_more.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f6a7fde-dae1-499f-ad76-6229e7af55bf",
-			"albumTitle": "Self-Titled",
-			"artist": "botanichesky sad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GARAGE INC (2CD) (remastered)",
 		"artist": "METALLICA",
 		"price": "25,00 kr.",
@@ -27178,20 +27122,6 @@
 			"releaseGroupId": "8cfcaa11-6e5e-39a6-b34b-b99dc1c8235b",
 			"albumTitle": "Think Positive",
 			"artist": "Maria Montell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DAYS OF FUTURE PASSED (digitally remastered)",
-		"artist": "THE MOODY BLUES",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/days_of_future_passed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6dc7f33f-160e-4bf0-a5f2-2084af4b970b",
-			"albumTitle": "Untitled",
-			"artist": "Moodymann",
 			"type": "Album"
 		}
 	},
@@ -31719,20 +31649,6 @@
 			"releaseGroupId": "f9fa083f-db00-3048-99e7-5b186672bb09",
 			"albumTitle": "Music for the Jilted Generation",
 			"artist": "The Prodigy",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DIFFERENT CLASS",
-		"artist": "PULP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/different_class.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "88f69eab-8f07-343b-847c-b944ad33dfcf",
-			"albumTitle": "Different Class",
-			"artist": "Pulp",
 			"type": "Album"
 		}
 	},
@@ -38958,20 +38874,6 @@
 		}
 	},
 	{
-		"albumTitle": "YOU GO WHERE I GO",
-		"artist": "STEELY DAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/you_go_where_i_go.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dbfba749-3dbd-3046-9814-8d70f95a681c",
-			"albumTitle": "You Go Where I Go",
-			"artist": "Steely Dan, Walter Becker, Donald Fagen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BLINDFOLDED",
 		"artist": "NIKOLAJ STEED",
 		"price": "10,00 kr.",
@@ -40794,20 +40696,6 @@
 			"releaseGroupId": "eba88e43-50aa-3457-a2e9-b5960f06aa3a",
 			"albumTitle": "White on Blonde",
 			"artist": "Texas",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DUSK (lille fold på bagcover)",
-		"artist": "THE THE",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/dusk.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -42828,20 +42716,6 @@
 		}
 	},
 	{
-		"albumTitle": "MAGIC TIME",
-		"artist": "VAN MORRISON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/magic_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2cf47339-02b7-30ea-bf51-8dbafdbe506e",
-			"albumTitle": "Magic Time",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TOO LONG IN EXILE",
 		"artist": "VAN MORRISON",
 		"price": "20,00 kr.",
@@ -44201,20 +44075,6 @@
 			"releaseGroupId": "94af71d9-4706-462c-a973-74717e305ddc",
 			"albumTitle": "The Ultimate Collection",
 			"artist": "Barry White",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WHITE LIES",
-		"artist": "WHITE LIES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/white_lies.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "23435bf8-69d2-4e38-9099-56a151ac70c8",
-			"albumTitle": "White Lies",
-			"artist": "White Lies",
 			"type": "Album"
 		}
 	},
@@ -49107,20 +48967,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "POSTKORT FRA LIVET (2CD) DR 2006 (deluxe 'bog')",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE LAST TEMPTATION OF ELVIS (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_last_temptation_of_elvis.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE LAST TEMPTATION OF ELVIS (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
