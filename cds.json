@@ -7904,20 +7904,6 @@
 		}
 	},
 	{
-		"albumTitle": "ACROSS FROM MIDNIGHT",
-		"artist": "JOE COCKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/across_from_midnight.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c7731acf-f943-3a78-84b7-9bbf255e25e5",
-			"albumTitle": "Across From Midnight",
-			"artist": "Joe Cocker",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "JOE COCKER",
 		"price": "10,00 kr.",
@@ -7942,20 +7928,6 @@
 			"releaseGroupId": "e704bc49-825c-31ba-83f0-fcc70f3ca515",
 			"albumTitle": "Have a Little Faith",
 			"artist": "Joe Cocker",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "JOE COCKER (digitally remastered)",
-		"artist": "JOE COCKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/joe_cocker_bell_records.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "037f7615-6b81-473f-9283-51932b3efb42",
-			"albumTitle": "Concerto Retitled",
-			"artist": "Joe Zawinul",
 			"type": "Album"
 		}
 	},
