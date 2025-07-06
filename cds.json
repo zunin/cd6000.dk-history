@@ -26080,20 +26080,6 @@
 		}
 	},
 	{
-		"albumTitle": "HARDWIRED.. TO SELF- DESTRUCT (2CD)",
-		"artist": "METALLICA",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/hardwired_to_self-destruct.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f6a7fde-dae1-499f-ad76-6229e7af55bf",
-			"albumTitle": "Self-Titled",
-			"artist": "botanichesky sad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ST. ANGER",
 		"artist": "METALLICA",
 		"price": "10,00 kr.",
