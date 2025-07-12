@@ -38883,20 +38883,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIVE 1975-85 disc 3",
-		"artist": "BRUCE SPRINGSTEEN & E-STREET BAND",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/springsteen_live_1975_3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
-			"albumTitle": "[untitled]",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE 1975-1985 (3CD) 1986",
 		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND COLUMBIA BESTIL NR. 24462",
 		"price": "10,00 kr.",
