@@ -16166,15 +16166,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE STRANGE CASE OF.. (deluxe - signed)",
-		"artist": "HALESTORM",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_strange_case_of.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "A TOUCH OF EXCELLENCE",
 		"artist": "MARTIN HALL",
 		"price": "25,00 kr.",
@@ -17170,15 +17161,6 @@
 		}
 	},
 	{
-		"albumTitle": "HIGHWAYMAN 2",
-		"artist": "HIGWAYMAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/highwayman_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BREATHE",
 		"artist": "FAITH HILL",
 		"price": "10,00 kr.",
@@ -17592,20 +17574,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "9a63b45f-773c-3f96-9f9a-c0c388130381",
 			"albumTitle": "Mr. Lucky",
-			"artist": "John Lee Hooker",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NEVER GET OUT OF THESE BLUES ALIVE",
-		"artist": "JOHN LEE HOOKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/never_get_out.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a8f9706c-b56c-44e9-8f88-e376605577c9",
-			"albumTitle": "Never Get Out of These Blues Alive",
 			"artist": "John Lee Hooker",
 			"type": "Album"
 		}
@@ -18042,20 +18010,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "THE HUMAN LEAGUE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/human_league_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dd6db9d0-338e-3029-a3a8-4629b36b7a6e",
-			"albumTitle": "Greatest Hits",
-			"artist": "The Human League",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ASHLEY HUTCHINS",
@@ -19258,20 +19212,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "74846355-b8a3-35ed-a5ff-eff836b1a7a4",
 			"albumTitle": "M.U. – The Best of Jethro Tull",
-			"artist": "Jethro Tull",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "JETHRO TULL",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/jethro_tull_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0c4dd0f8-1159-4d8b-a7a4-7abb6ebcdae8",
-			"albumTitle": "The Very Best Of",
 			"artist": "Jethro Tull",
 			"type": "Album"
 		}
