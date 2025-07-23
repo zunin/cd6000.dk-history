@@ -10058,20 +10058,6 @@
 		}
 	},
 	{
-		"albumTitle": "FRIDAY NIGHT IN SAN FRANCISCO",
-		"artist": "AL di MEOLA, JOHN McLAUGLIN, PACO de LUCIA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/friday_night_in_san_francisco.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1b4b78a5-7466-3179-b2f2-fd24a34604f7",
-			"albumTitle": "Friday Night in San Francisco",
-			"artist": "Al Di Meola, John McLaughlin, Paco de Lucía",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "12 SONGS",
 		"artist": "NEIL DIAMOND",
 		"price": "10,00 kr.",
@@ -12055,20 +12041,6 @@
 		}
 	},
 	{
-		"albumTitle": "TIME (remastered)",
-		"artist": "ELECTRIC LIGHT ORCHESTRA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/elo_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
-			"albumTitle": "Unknown Title",
-			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ELISABEDST",
 		"artist": "ELISABETH",
 		"price": "20,00 kr.",
@@ -12986,20 +12958,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE NIGHTFLY",
-		"artist": "DONALD FAGEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_nightfly.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a0f2615e-aebd-3300-99e3-626c4ea7bcae",
-			"albumTitle": "The Nightfly",
-			"artist": "Donald Fagen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE MASTERS",
 		"artist": "FAIRGROUND ATTRACTION",
 		"price": "10,00 kr.",
@@ -13788,15 +13746,6 @@
 			"artist": "Fleetwood Mac",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "RUMOURS (med hairliners)",
-		"artist": "FLEETWOOD MAC",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/rumours.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "BEST OF FLIPPERS",
@@ -16152,20 +16101,6 @@
 		}
 	},
 	{
-		"albumTitle": "SIXTEEN GREATEST",
-		"artist": "HALBEWRG LARSEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/sixteen_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fa6aa01-b0ab-3c8a-9faa-b3cdcdf8d888",
-			"albumTitle": "Sixteen Greatest",
-			"artist": "Halberg Larsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A TOUCH OF EXCELLENCE",
 		"artist": "MARTIN HALL",
 		"price": "25,00 kr.",
@@ -18281,15 +18216,6 @@
 		}
 	},
 	{
-		"albumTitle": "17 HITS",
-		"artist": "IBENS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/ibens_17_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "AD.4",
 		"artist": "ICH TROJE",
 		"price": "10,00 kr.",
@@ -19711,20 +19637,6 @@
 			"releaseGroupId": "1155e2ce-f1b2-394a-b23a-22406c8782a3",
 			"albumTitle": "Not Too Late",
 			"artist": "Norah Jones",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BACK ON THE BLOCK",
-		"artist": "QUINCY JONES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/back_on_the_block.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1ad5316f-a6b7-31d0-ba33-a5bc767ae3dd",
-			"albumTitle": "Back on the Block",
-			"artist": "Quincy Jones",
 			"type": "Album"
 		}
 	},
