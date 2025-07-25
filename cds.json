@@ -4567,20 +4567,6 @@
 	{
 		"albumTitle": "STRANGELY DISTURBED",
 		"artist": "HANNE BOEL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/strangely_disturbed_fejl.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0a67fd73-81fa-3b47-9f4a-bead4f019181",
-			"albumTitle": "Strangely Disturbed",
-			"artist": "Hanne Boel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STRANGELY DISTURBED",
-		"artist": "HANNE BOEL",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/stangely_disturbed.htm",
 		"quality": "unknown",
@@ -6731,34 +6717,6 @@
 		}
 	},
 	{
-		"albumTitle": "EVA BY HEART",
-		"artist": "EVA CASSIDY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/eva_by_heart.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f7798e7-9193-3166-9f17-e33925ed3265",
-			"albumTitle": "Eva by Heart",
-			"artist": "Eva Cassidy",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TIME AFTER TIME",
-		"artist": "EVA CASSIDY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/cassidy_time_after_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f1af8bd4-cc09-3d5e-bdd1-0ff3a3a3aa87",
-			"albumTitle": "Time After Time",
-			"artist": "Eva Cassidy",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "INTERNATIONAL VELVET",
 		"artist": "CATATONIA",
 		"price": "10,00 kr.",
@@ -7927,20 +7885,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "74e8381b-2608-38d2-98c0-e6ee47ff77ed",
 			"albumTitle": "Live",
-			"artist": "Joe Cocker",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF JOE COCKER",
-		"artist": "JOE COCKER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/cocker_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f30007c6-d0d6-3d6e-b36c-7b3c4c4fe69c",
-			"albumTitle": "The Best of Joe Cocker",
 			"artist": "Joe Cocker",
 			"type": "Album"
 		}
