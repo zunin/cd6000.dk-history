@@ -37612,34 +37612,6 @@
 		}
 	},
 	{
-		"albumTitle": "BIG TIME",
-		"artist": "SKAGARACK",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/big_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2edd71d9-ee33-4493-a248-766d84aca5ae",
-			"albumTitle": "Big Time",
-			"artist": "Skagarack",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HUNGRY FOR A GAME",
-		"artist": "SKAGARACK",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/hungry_for_a_game.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5739b1f1-9de4-305c-a8d0-834bac3d0753",
-			"albumTitle": "Hungry for a Game",
-			"artist": "Skagarack",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SKAGARACK",
 		"artist": "SKAGARACK",
 		"price": "30,00 kr.",
