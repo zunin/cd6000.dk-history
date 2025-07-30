@@ -12488,20 +12488,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE INNOCENTS",
-		"artist": "ERASURE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_innocents.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7739a5e3-4616-3e08-a8d5-d1da69e86da5",
-			"albumTitle": "The Innocents",
-			"artist": "Erasure",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WILD!",
 		"artist": "ERASURE",
 		"price": "10,00 kr.",
@@ -17715,20 +17701,6 @@
 		}
 	},
 	{
-		"albumTitle": "I LOOK TO YOU",
-		"artist": "WHITNEY HOUSTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/i_look_to_you.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1bfa1b3f-28a8-488a-ae8f-321c69fa63b7",
-			"albumTitle": "I Look to You",
-			"artist": "Whitney Houston",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "I'M YOUR BABY TONIGHT",
 		"artist": "WHITNEY HOUSTON",
 		"price": "10,00 kr.",
@@ -20027,20 +19999,6 @@
 			"releaseGroupId": "fda364a9-6f0e-326d-bbd9-3436f87c0f7e",
 			"albumTitle": "The Best of Kajagoogoo & Limahl",
 			"artist": "Kajagoogoo, Limahl",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "US",
-		"artist": "NICK KAMEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/nick_kamen_us.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cbf33ed9-7994-44fe-8f98-1572bcde838f",
-			"albumTitle": "Us",
-			"artist": "Nick Kamen",
 			"type": "Album"
 		}
 	},
