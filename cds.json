@@ -24886,6 +24886,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "NATTEGN",
+		"artist": "JOHNNY MADSEN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/nattegn.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2845e6fd-1991-3ee3-9371-e0070c2efbc0",
+			"albumTitle": "Nattegn",
+			"artist": "Johnny Madsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BLUES",
 		"artist": "JOHNNY MADSEN",
 		"price": "25,00 kr.",
@@ -24984,6 +24998,48 @@
 		}
 	},
 	{
+		"albumTitle": "DET KRØLLEDE HÅB",
+		"artist": "MAGTENS KORRIDORER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/det_kroellede_haab.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3cffc8d8-b79c-3dfe-9aee-3abb5885eba4",
+			"albumTitle": "Det krøllede håb",
+			"artist": "Magtens Korridorer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "VISIONS OF EMERALD BEYOND",
+		"artist": "MAHAVISHNU ORCHESTRA",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/visions_of_emerald.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b75d2632-5d8f-3c04-a95f-16d7faf76da0",
+			"albumTitle": "Main Titles, Volume 1",
+			"artist": "Ennio Morricone",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "INNER WORLDS",
+		"artist": "MAHAVISHNU ORCHESTRA feat. JOHN McLAUGHLIN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/inner_worlds.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c5c75520-778e-3889-944d-192da8ef9eac",
+			"albumTitle": "Inner Worlds",
+			"artist": "Mahavishnu Orchestra, John McLaughlin",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "VIGILANTE",
 		"artist": "MAGNUM",
 		"price": "10,00 kr.",
@@ -25033,6 +25089,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SMASH HIT IN ABERDEEN",
+		"artist": "MALK DE KOIJN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/smash_hit_in_aberdeen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "76cad383-6bd8-3a66-b93f-85c4b61af1f9",
+			"albumTitle": "Smash Hit in Aberdeen",
+			"artist": "Malk de Koijn",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "SNEGLZILLA",
@@ -25098,6 +25168,15 @@
 			"artist": "Malurt",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SUPERLOVE (CD+DVD)",
+		"artist": "MALURT",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/superlove.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "UDEN FILTER",
@@ -25166,34 +25245,6 @@
 			"releaseGroupId": "ce9ba648-0f01-361f-ab08-cd1f6ffdb004",
 			"albumTitle": "The Very Best of Manfred Mann",
 			"artist": "Manfred Mann",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MANFRED MANN'S EARTH BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/manfred_mann_earth_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d0c41b6-f754-30ac-b6bd-65c4981e7e2f",
-			"albumTitle": "The Very Best Of, Volume 2",
-			"artist": "Manfred Mann’s Earth Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SOFT VENGEANCE",
-		"artist": "MANFRED MANN's EARTH BAND",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/soft_vengeance.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "15ec77a1-89aa-30ad-8b45-1774978fcda4",
-			"albumTitle": "Soft Vengeance",
-			"artist": "Manfred Mann’s Earth Band",
 			"type": "Album"
 		}
 	},
@@ -25361,6 +25412,48 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF 1964-1966",
+		"artist": "MANFRED MANN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/manfred_mann_1964-1966.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "01c63c8f-5aae-380f-9881-1890da70bae2",
+			"albumTitle": "[untitled]",
+			"artist": "Terra Nova Church",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "MANFRED MANN'S EARTH BAND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/manfred_mann_earth_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0d0c41b6-f754-30ac-b6bd-65c4981e7e2f",
+			"albumTitle": "The Very Best Of, Volume 2",
+			"artist": "Manfred Mann’s Earth Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SOFT VENGEANCE",
+		"artist": "MANFRED MANN's EARTH BAND",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/soft_vengeance.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "15ec77a1-89aa-30ad-8b45-1774978fcda4",
+			"albumTitle": "Soft Vengeance",
+			"artist": "Manfred Mann’s Earth Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE TRIUMPH OF STEEL",
 		"artist": "MANOWAR",
 		"price": "20,00 kr.",
@@ -25399,6 +25492,34 @@
 			"releaseGroupId": "f1dcd631-a0b9-3f56-aabb-3ae8f73cf498",
 			"albumTitle": "Lest We Forget: The Best Of",
 			"artist": "Marilyn Manson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ANTICHRIST SUPERSTAR",
+		"artist": "MARILYN MANSON",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/antichrist_superstar.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6cb17389-101a-3f0a-8864-bea548465406",
+			"albumTitle": "Antichrist Superstar",
+			"artist": "Marilyn Manson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HOLLYWOOD",
+		"artist": "MARILYN MANSON",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/hollywood.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "87cab6d6-d2d7-47ef-873a-2f6d8464741b",
+			"albumTitle": "Marilyn Monroe And The Hollywood Stars",
+			"artist": "Marilyn Monroe",
 			"type": "Album"
 		}
 	},
@@ -25538,6 +25659,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE FIRST 40 YEARS (2CD)",
+		"artist": "HANK MARVIN & THE SHADOWS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/hank_marvin_first_40.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "THE FIRST 40 YEARS (2CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "RICHARD MARX",
 		"price": "10,00 kr.",
@@ -25575,6 +25710,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "c3c5c662-c84e-3644-a57f-5661d93b9949",
 			"albumTitle": "Repeat Offender",
+			"artist": "Richard Marx",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RICHARD MARX",
+		"artist": "RICHARD MARX",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/richard_marx.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "afb160e2-86ec-31e9-be46-cb4b5bd501ee",
+			"albumTitle": "Richard Marx",
 			"artist": "Richard Marx",
 			"type": "Album"
 		}
@@ -25719,6 +25868,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE MAVERICKS",
+		"artist": "THE MAVERICKS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/the_mavericks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35b557a8-c927-39fb-8286-3ab8dc014a75",
+			"albumTitle": "The Mavericks",
+			"artist": "The Mavericks",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF ME",
 		"artist": "MAXI PRIEST",
 		"price": "10,00 kr.",
@@ -25729,6 +25892,20 @@
 			"releaseGroupId": "e6f293f7-1df0-37c9-9260-fe645c35e518",
 			"albumTitle": "Best of Me",
 			"artist": "Maxi Priest",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BACK TO THE LIGHT",
+		"artist": "BRIAN MAY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/back_to_the_light.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bc8ae92c-5e85-3a0d-b0d3-354d1a15c3c5",
+			"albumTitle": "Back to the Light",
+			"artist": "Brian May",
 			"type": "Album"
 		}
 	},
@@ -25773,6 +25950,15 @@
 			"artist": "John Mayer",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "WHERE THE LIGHT IS LIVE IN LOS ANGELES (2CD)",
+		"artist": "JOHN MAYER",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/where_the_light_is.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DEN NYE STIL",
@@ -26092,6 +26278,20 @@
 		}
 	},
 	{
+		"albumTitle": "PARALLEL DREAMS",
+		"artist": "LOREENA McKENNITT",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/parallel_dreams.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c8165ed6-ddff-3ec8-96c3-51ddb5b394d1",
+			"albumTitle": "Parallel Dreams",
+			"artist": "Loreena McKennitt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE VISIT",
 		"artist": "LOREENA McKENNITT",
 		"price": "15,00 kr.",
@@ -26153,6 +26353,20 @@
 			"releaseGroupId": "3d453820-9c19-3f21-a310-26657ac55e73",
 			"albumTitle": "Surfacing",
 			"artist": "Sarah McLachlan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PORTRAIT",
+		"artist": "JOHN McLAUGHLIN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/mclaughlin_portrait.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1699ac3a-18a0-482b-b2e5-a8334a4c3fbc",
+			"albumTitle": "Portrait",
+			"artist": "John Williams",
 			"type": "Album"
 		}
 	},
@@ -26251,6 +26465,20 @@
 			"releaseGroupId": "1f1ba204-093c-3859-bf44-b50a0cfd19ca",
 			"albumTitle": "Me & My",
 			"artist": "Me & My",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BAT OUT OF HELL",
+		"artist": "MEAT LOAF",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bat_out_of_hell.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "47616c4c-5d4b-30f6-83bc-60e1c696b099",
+			"albumTitle": "Bat Out of Hell",
+			"artist": "Meat Loaf",
 			"type": "Album"
 		}
 	},
@@ -26525,6 +26753,20 @@
 		}
 	},
 	{
+		"albumTitle": "CALL OFF THE SEARCH (CD+DVD)",
+		"artist": "KATIE MELUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/call_off_the_search.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "149a4e43-5cca-4d11-937d-8a8091a14f4d",
+			"albumTitle": "[untitled]",
+			"artist": "Katie Gately",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "COLLECTION (CD+DVD)",
 		"artist": "KATIE MELUA",
 		"price": "10,00 kr.",
@@ -26548,6 +26790,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "f29358f6-3fd6-3cc2-8471-4f581b584285",
 			"albumTitle": "Pictures",
+			"artist": "Katie Melua",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE HOUSE",
+		"artist": "KATIE MELUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/melua_the_house.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cdfcbaee-df34-4569-8438-5930ed7eb56b",
+			"albumTitle": "The House",
 			"artist": "Katie Melua",
 			"type": "Album"
 		}
@@ -26763,6 +27019,20 @@
 			"releaseGroupId": "0f6a7fde-dae1-499f-ad76-6229e7af55bf",
 			"albumTitle": "Self-Titled",
 			"artist": "botanichesky sad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "METALLICA",
+		"artist": "METALLICA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/metallica.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "997ffa2b-9f07-4995-8095-928ff669eab7",
+			"albumTitle": "Metallica",
+			"artist": "Metallica",
 			"type": "Album"
 		}
 	},
@@ -26989,6 +27259,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "3d26ea9a-c25e-344a-9773-e9e4f59fdfef",
 			"albumTitle": "Den ordløse time",
+			"artist": "Anne Dorte Michelsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FRED HVILER OVER LAND OG BY",
+		"artist": "ANNE DORTE MICHELSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/fred_hviler_over_land_og_by.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4cfa4046-b841-33c1-8b76-d941016e549e",
+			"albumTitle": "Fred hviler over land og by",
 			"artist": "Anne Dorte Michelsen",
 			"type": "Album"
 		}
@@ -27352,6 +27636,20 @@
 		}
 	},
 	{
+		"albumTitle": "ULTIMATE KYLIE (2CD)",
+		"artist": "KYLIE MONOGUE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/ultimate_kylie.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9c8987f2-4574-4d2b-898c-829d84e32fe8",
+			"albumTitle": "Untitled",
+			"artist": "Thurston Moore, Kylie Minoise, Tusco Terror, Wether",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MELLEM HJERTER OG SPAR",
 		"artist": "MISS B. HEAVEN",
 		"price": "10,00 kr.",
@@ -27361,6 +27659,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1c8efd93-3916-3494-896e-65e5a57de250",
 			"albumTitle": "Mellem hjerter og spar",
+			"artist": "Miss B. Haven",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "NOBODY'S ANGEL",
+		"artist": "MISS B. HAVEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/nobodys_angel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8ae59d5a-799a-3a6b-89fb-f82c5d736c96",
+			"albumTitle": "Nobody's Angel",
 			"artist": "Miss B. Haven",
 			"type": "Album"
 		}
@@ -27404,6 +27716,20 @@
 			"releaseGroupId": "e942fe2f-2397-41fc-8b57-7ca268d6c9c6",
 			"albumTitle": "Last Night",
 			"artist": "Moby",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF (2CD)",
+		"artist": "MODERN TALKING",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/modern_talking_very_best_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dfdb3255-0876-3fa4-8b04-c7c72dee7cd8",
+			"albumTitle": "No Titles Please",
+			"artist": "David Byrne",
 			"type": "Album"
 		}
 	},
@@ -27585,6 +27911,20 @@
 		}
 	},
 	{
+		"albumTitle": "GRATEFUL",
+		"artist": "MONIQUE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/monique_grateful.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d554d4f4-ea12-49db-829e-e31ef21c8e3e",
+			"albumTitle": "Virš vandens",
+			"artist": "Monika Pundziūtė",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE * COLLECTION 25th ANNIVERSARY EDITION",
 		"artist": "THE MONKEES",
 		"price": "20,00 kr.",
@@ -27609,6 +27949,20 @@
 			"releaseGroupId": "e09a02c8-41fe-37ac-8371-84ead71d878d",
 			"albumTitle": "Akasut Mundvand II",
 			"artist": "Monrad & Rislund",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DE TYKKE SYNGER (CD+DVD)",
+		"artist": "MONRAD & RISLUND",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/de_tykke_synger.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "DE TYKKE SYNGER (CD+DVD)",
+			"artist": "Various Artists",
 			"type": "Album"
 		}
 	},
@@ -28806,6 +29160,20 @@
 		}
 	},
 	{
+		"albumTitle": "RELEASE",
+		"artist": "NATASJA",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/natasja_release.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f1f2de07-88e4-3be6-ae9c-1deabb7eb5ee",
+			"albumTitle": "Release",
+			"artist": "Natasja",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET KA' JU ALDRIG GÅ VÆRRE END HIEL' GAL'",
 		"artist": "DE NATTERGALE",
 		"price": "10,00 kr.",
@@ -29028,6 +29396,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SWIMMING TIME",
+		"artist": "NEPHEW",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/swimming_time.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4b05618b-3d7f-3132-9af9-96f1caa48bbd",
+			"albumTitle": "Swimming Time",
+			"artist": "Nephew",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BROTHER'S KEEPER",
 		"artist": "NEVILLE BROTHERS",
 		"price": "10,00 kr.",
@@ -29122,6 +29504,20 @@
 			"releaseGroupId": "908fde14-b978-3f93-927a-960444312b40",
 			"albumTitle": "Sort på hvidt",
 			"artist": "News",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "KUN OM NATTEN",
+		"artist": "NEWS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/kun_om_natten.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
 			"type": "Album"
 		}
 	},
