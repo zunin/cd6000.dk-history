@@ -11878,20 +11878,6 @@
 		}
 	},
 	{
-		"albumTitle": "ELO's GREATEST HITS",
-		"artist": "ELO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elos_greatest_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3707903e-f693-3979-a46d-a08933099ecf",
-			"albumTitle": "ELO’s Greatest Hits",
-			"artist": "Electric Light Orchestra",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "ELECTRIC LIGHT ORCHESTRA",
 		"price": "10,00 kr.",
@@ -11901,20 +11887,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "e451d56d-90a2-3bf0-8292-8444bd412a2e",
 			"albumTitle": "The Very Best Of",
-			"artist": "Electric Light Orchestra",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ALL OVER THE WORLD THE VERY BEST OF",
-		"artist": "ELO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elo_very_best_of.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2111308e-0b6a-38d2-9fcb-e7c91c0c065d",
-			"albumTitle": "All Over the World: The Very Best of Electric Light Orchestra",
 			"artist": "Electric Light Orchestra",
 			"type": "Album"
 		}
@@ -26063,20 +26035,6 @@
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/back_in_the_world.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
-			"albumTitle": "Title And Descriptive Themes",
-			"artist": "John Du Prez",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DRIVING RAIN (unofficial)",
-		"artist": "PAUL McCARTNEY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/driving_rain_u.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
