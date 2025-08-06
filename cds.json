@@ -13446,20 +13446,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEST OF",
-		"artist": "HELENE FISHER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/helene_fisher_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0c023f24-eae3-485d-bae5-4f49ef6c82bd",
-			"albumTitle": "100% Best Of",
-			"artist": "Helene Fischer",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SO WIE ICH BIN",
 		"artist": "HELENE FISCHER",
 		"price": "10,00 kr.",
@@ -13472,6 +13458,15 @@
 			"artist": "Helene Fischer",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "BEST OF (2CD)",
+		"artist": "HELENE FISCHER",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/helene_fischer_best_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "COMPACT JAZZ",
@@ -29368,6 +29363,20 @@
 		}
 	},
 	{
+		"albumTitle": "A PLACE LIKE THIS",
+		"artist": "ROBBIE NEVIL",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/a_place_like_this.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1bd9d1f0-7acf-3bc2-bbe2-081eb86e591d",
+			"albumTitle": "A Place Like This",
+			"artist": "Robbie Nevil",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BROTHER'S KEEPER",
 		"artist": "NEVILLE BROTHERS",
 		"price": "10,00 kr.",
@@ -29662,6 +29671,20 @@
 			"releaseGroupId": "15862299-6630-393e-a794-7fd9af3f0328",
 			"albumTitle": "Warm and Tender",
 			"artist": "Olivia Newton‐John",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THOSE WHO WERE",
+		"artist": "NHØP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/those_who_were.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "14edb8c4-6bb8-3f80-b2dd-a1eeccca6424",
+			"albumTitle": "Those Who Were",
+			"artist": "Niels-Henning Ørsted Pedersen",
 			"type": "Album"
 		}
 	},
@@ -30178,6 +30201,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LIVE",
+		"artist": "YANNICK NOAH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/yannick_noah_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "50671886-d29d-371a-833d-cff2644c3eb5",
+			"albumTitle": "Live",
+			"artist": "Yannick Noah",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ROCK STEADY",
 		"artist": "NO DOUBT",
 		"price": "10,00 kr.",
@@ -30241,6 +30278,48 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "FIRST CONVERSATION",
+		"artist": "CÆCILIE NORBY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/first_conversation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6edf5025-e5b0-3395-a0f8-95ac16ab9568",
+			"albumTitle": "First Conversation",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "I HAD A BALL",
+		"artist": "CÆCILIE NORBY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/i_had_a_ball.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c36934d6-b6d5-3079-9eae-24b0fb76553a",
+			"albumTitle": "I Had a Ball",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "QUEEN OF BAD EXCUSES",
+		"artist": "CÆCILIE NORDBY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/queen_of_bad_excuses.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cea6cf89-cf0f-3107-b7d2-8fc754010b88",
+			"albumTitle": "Queen of Bad Excuses",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "FIFTH DIMENSION",
@@ -30317,6 +30396,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "BREAK THE ICE",
+		"artist": "CHRIS NORMAN",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/break_the_ice.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d9425832-db17-4fff-9c2e-962338c2208d",
+			"albumTitle": "Break the Ice",
+			"artist": "Chris Norman",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "OYSTER",
 		"artist": "HEATHER NOVA",
 		"price": "10,00 kr.",
@@ -30341,6 +30434,20 @@
 			"releaseGroupId": "360962c2-ecd5-3baa-ae63-4680f6dc7d13",
 			"albumTitle": "Storm",
 			"artist": "Heather Nova",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BLAME IT ON MY YOUTH",
+		"artist": "NULLE & VERDENSORKESTRET",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/blame_it_on_my_youth.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "27707e5e-26a2-4350-b3c9-7a0ce6e3e615",
+			"albumTitle": "Blame It On My Youth",
+			"artist": "Nulle & Verdensorkestret",
 			"type": "Album"
 		}
 	},
@@ -30489,6 +30596,20 @@
 		}
 	},
 	{
+		"albumTitle": "UNIVERSAL MOTHER",
+		"artist": "SINEAD O'CONNOR",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/universal_mother.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "80ffc97e-ab47-34fb-a1cf-d219162dae66",
+			"albumTitle": "Universal Mother",
+			"artist": "Sinéad O’Connor",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BEST OF - NATURALLY",
 		"artist": "GILBERT O'SULLIVAN",
 		"price": "10,00 kr.",
@@ -30526,6 +30647,20 @@
 		}
 	},
 	{
+		"albumTitle": "DIG OUT YOUR SOUL",
+		"artist": "OASIS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/dig_out_your_soul.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "994a1cf8-663c-3102-8d6b-b202b8f46e98",
+			"albumTitle": "Dig Out Your Soul",
+			"artist": "Oasis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "STANDING ON THE SHOULDER OF GIANTS",
 		"artist": "OASIS",
 		"price": "10,00 kr.",
@@ -30536,6 +30671,20 @@
 			"releaseGroupId": "4ad23d4c-520e-39a3-8d7e-e4d396d24bfe",
 			"albumTitle": "Standing on the Shoulder of Giants",
 			"artist": "Oasis",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PHILHARMONICS",
+		"artist": "AGNES OBEL",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/philharmonics.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6eadffe6-a7d5-4a6f-bbd0-4f06469fbcda",
+			"albumTitle": "Philharmonics",
+			"artist": "Agnes Obel",
 			"type": "Album"
 		}
 	},
@@ -30693,6 +30842,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "EARTH MOVING",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/earth_moving.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "053535d3-eaea-3f38-8a56-fd7a6a343b68",
+			"albumTitle": "Earth Moving",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ELEMENTS, THE BEST OF",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
@@ -30700,6 +30863,48 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "FIVE MILES OUT",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/five_miles_out.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ab036070-70c8-302e-91a6-ad585c3f6062",
+			"albumTitle": "Five Miles Out",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ISLANDS",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/islands.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d5c179d-1fa7-347e-9d62-c577d5e47638",
+			"albumTitle": "Islands",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PLATINUM",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/platinum.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "227db238-4f27-373e-807c-b024a20cc9d8",
+			"albumTitle": "Platinum",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE ORCHESTRAL TUBULAR BELLS",
@@ -30711,6 +30916,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "dd251688-bb41-3ba8-9a37-a7fe252ada3c",
 			"albumTitle": "The Orchestral Tubular Bells",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TUBULAR BELLS II",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/tubular_bells_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fce99ef4-91c9-3cda-9d10-54874489212f",
+			"albumTitle": "Tubular Bells II",
 			"artist": "Mike Oldfield",
 			"type": "Album"
 		}
@@ -30728,6 +30947,29 @@
 			"artist": "Mike Oldfield",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "QE2",
+		"artist": "MIKE OLDFIELD",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/qe2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "93f7d8d7-5be7-3466-bcc4-3346b8390b5f",
+			"albumTitle": "QE2",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE DANISH COLLECTION (2CD)",
+		"artist": "MIKE OLDFIELD",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/oldfield_the_danish_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "EN GROS (2CD)",
@@ -30781,6 +31023,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "8f4719d7-2d2c-3362-8cad-557fde1cca7c",
 			"albumTitle": "Sange for rygere",
+			"artist": "Allan Olsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "JØWT",
+		"artist": "ALLAN OLSEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/joewt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "46db149f-b45e-42fe-bef8-6bf3e2c4ec6e",
+			"albumTitle": "Jøwt",
 			"artist": "Allan Olsen",
 			"type": "Album"
 		}
@@ -31186,6 +31442,34 @@
 		}
 	},
 	{
+		"albumTitle": "THE OSMONDS (Reunion Concert)",
+		"artist": "THE OSMONDS",
+		"price": "30,00 kr.",
+		"origin": "https://cd6000.dk/the_osmonds.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STANKONIA",
+		"artist": "OUTKAST",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/stankonia.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "00d2cd53-21c9-3738-b683-56847b7b0040",
+			"albumTitle": "Stankonia",
+			"artist": "OutKast",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CLOSER THAN VEINS",
 		"artist": "OUTLANDISH",
 		"price": "10,00 kr.",
@@ -31195,6 +31479,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "6c3358bb-26a1-3c44-9f6f-82d8cdc9c729",
 			"albumTitle": "Closer Than Veins",
+			"artist": "Outlandish",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SOUND OF A REBEL",
+		"artist": "OUTLANDISH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sound_of_a_rebel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e10883ac-3ec6-43e7-b6b9-583a2317baba",
+			"albumTitle": "Sound of a Rebel",
 			"artist": "Outlandish",
 			"type": "Album"
 		}
@@ -31331,6 +31629,20 @@
 			"releaseGroupId": "4c2e4e78-6b0f-3ca1-8131-06906e5b56e9",
 			"albumTitle": "A Fever You Can’t Sweat Out",
 			"artist": "Panic! at the Disco",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FAR BEYOND DRIVEN",
+		"artist": "PANTERA",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/far_beyond_driven.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "60b55a8c-fe68-3397-91a3-7444cab57d7b",
+			"albumTitle": "Far Beyond Driven",
+			"artist": "Pantera",
 			"type": "Album"
 		}
 	},
@@ -31595,6 +31907,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE ORIGINAL SOUNDTRACKS 1",
+		"artist": "PASSENGERS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/passengers_original_soundtracks_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "PASSION ORANGE",
 		"artist": "PASSION ORANGE",
 		"price": "10,00 kr.",
@@ -31656,6 +31977,20 @@
 			"releaseGroupId": "585e94c7-ec05-421b-aec4-862711f7a2ac",
 			"albumTitle": "Simple Emotions",
 			"artist": "Peaches & Bobo",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BINAURAL",
+		"artist": "PEARL JAM",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/binaural.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5e53fed6-a262-42f5-ae26-58a7b6cae852",
+			"albumTitle": "Binaural",
+			"artist": "Pearl Jam",
 			"type": "Album"
 		}
 	},
@@ -31760,6 +32095,34 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ACTUALLY",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/actually.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6de9a233-13dd-30b5-ad30-61c5814774c5",
+			"albumTitle": "Actually",
+			"artist": "Pet Shop Boys",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BILINGUAL",
+		"artist": "PET SHOP BOYS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/bilingual.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "42a051a0-a43e-39b0-9a4b-6277738bca7c",
+			"albumTitle": "Bilingual",
+			"artist": "Pet Shop Boys",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "INTROSPECTIVE",
@@ -31985,6 +32348,20 @@
 		}
 	},
 	{
+		"albumTitle": "A MOMENTARY LAPSE OF REASON",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/a_momentary_lapse_of_reason.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+			"albumTitle": "A Momentary Lapse of Reason",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DARK SIDE OF THE MOON",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -31997,6 +32374,15 @@
 			"artist": "Pink Floyd",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "ECHOES, THE BEST OF (2CD)",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/echoes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE WALL (2CD)",
@@ -32032,6 +32418,20 @@
 			"releaseGroupId": "23ba7d49-2821-4bea-9c7c-78d180a27a79",
 			"albumTitle": "The Defamation of Strickland Banks",
 			"artist": "Plan B",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "POCKETS",
+		"artist": "POCKETS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/pockets.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ec802856-6424-3103-8508-f89dcc2400f9",
+			"albumTitle": "Pockets",
+			"artist": "Pockets",
 			"type": "Album"
 		}
 	},
@@ -32389,6 +32789,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ICONS (2CD)",
+		"artist": "ELVIS PRESLEY",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/elvis_presley_icons.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE CAMDEN COLLECTION VOLUME 2 (6CD boks)",
 		"artist": "ELVIS PRESLEY",
 		"price": "75,00 kr.",
@@ -32504,6 +32913,20 @@
 		}
 	},
 	{
+		"albumTitle": "STRIPPED",
+		"artist": "PRETTY MAIDS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/pretty_maids_stripped.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d37f4897-d4e8-327e-8424-6c866540c46e",
+			"albumTitle": "Stripped",
+			"artist": "Pretty Maids",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HEAVEN KNOWS",
 		"artist": "RICK PRICE",
 		"price": "10,00 kr.",
@@ -32514,6 +32937,20 @@
 			"releaseGroupId": "12d31144-690d-335f-95c0-5a593b35a8b8",
 			"albumTitle": "Heaven Knows",
 			"artist": "Rick Price",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SAILING THE SEAS OF CHEESE",
+		"artist": "PRIMUS",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sailing_the_sea_of_cheese.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a7c4f177-8de8-366f-87f4-aa851ae32012",
+			"albumTitle": "Sailing the Seas of Cheese",
+			"artist": "Primus",
 			"type": "Album"
 		}
 	},
@@ -32559,6 +32996,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "11deb7b3-c4d5-3e46-809f-f23123602dca",
 			"albumTitle": "The Gold Experience",
+			"artist": "Prince",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE HITS 2",
+		"artist": "PRINCE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/prince_the_hits_vol_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6bce5d0d-cd2c-3dc9-b7f8-b969028d7145",
+			"albumTitle": "The Hits 2",
 			"artist": "Prince",
 			"type": "Album"
 		}
@@ -32610,6 +33061,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "f9fa083f-db00-3048-99e7-5b186672bb09",
 			"albumTitle": "Music for the Jilted Generation",
+			"artist": "The Prodigy",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE FAT OF THE LAND",
+		"artist": "PRODIGY",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_fat_of_the_land.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ac9138ce-6331-3f8d-86d7-69f13e4ab4f4",
+			"albumTitle": "The Fat of the Land",
 			"artist": "The Prodigy",
 			"type": "Album"
 		}
@@ -32703,6 +33168,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "a568fa63-859a-3f29-aa9e-9bfd233a1b5a",
 			"albumTitle": "Let's Dance 2",
+			"artist": "På Slaget 12",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SIDST I SEPTEMBER",
+		"artist": "PÅ SLAGET 12 (PS12)",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sidst_i_september.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ef03c63f-2e90-422d-803d-4d7a94282d58",
+			"albumTitle": "Sidst I September",
 			"artist": "På Slaget 12",
 			"type": "Album"
 		}
@@ -32815,6 +33294,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "780e6a16-9384-307d-ae65-02e1d6313753",
 			"albumTitle": "Made in Heaven",
+			"artist": "Queen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "A KIND OF MAGIC",
+		"artist": "QUEEN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/a_kind_of_magic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "84f508a9-beae-3e97-b59e-3a8886c6e901",
+			"albumTitle": "A Kind of Magic",
 			"artist": "Queen",
 			"type": "Album"
 		}
@@ -32984,6 +33477,20 @@
 			"releaseGroupId": "44c90c72-76b5-3c13-890e-3d37f21c10c9",
 			"albumTitle": "The Works",
 			"artist": "Queen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SONGS FOR THE DEAF",
+		"artist": "QUEENS OF THE STONE AGE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/songs_for_the_deaf.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cbffb669-c390-3a4d-b46f-1be8ea934b03",
+			"albumTitle": "Songs for the Deaf",
+			"artist": "Queens of the Stone Age",
 			"type": "Album"
 		}
 	},
@@ -33192,6 +33699,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "553d06fa-045a-330b-a676-a568f566ad55",
 			"albumTitle": "North and South",
+			"artist": "Gerry Rafferty",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ON A WING & A PRAYER",
+		"artist": "GARY RAFFERTY",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/on_a_wing_and.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4b03aab-ec6f-370b-8144-e6afbc1d9f90",
+			"albumTitle": "On a Wing & A Prayer",
 			"artist": "Gerry Rafferty",
 			"type": "Album"
 		}
@@ -39534,20 +40055,6 @@
 			"releaseGroupId": "679cb698-2476-34cf-90f1-4a02ffe920d4",
 			"albumTitle": "On the Outside",
 			"artist": "Starsailor",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LOVE AMONG THE CANNIBALS",
-		"artist": "STARSHIP",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/love_among_the_cannibals.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "035847d3-c238-33d9-89f4-8b5950dfb59e",
-			"albumTitle": "Love Among the Cannibals",
-			"artist": "Starship",
 			"type": "Album"
 		}
 	},
