@@ -31624,20 +31624,6 @@
 		}
 	},
 	{
-		"albumTitle": "FAR BEYOND DRIVEN",
-		"artist": "PANTERA",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/far_beyond_driven.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "60b55a8c-fe68-3397-91a3-7444cab57d7b",
-			"albumTitle": "Far Beyond Driven",
-			"artist": "Pantera",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "COLLECTION (2CD)",
 		"artist": "PAPA BUE's VIKING JAZZBAND",
 		"price": "10,00 kr.",
@@ -32904,20 +32890,6 @@
 		}
 	},
 	{
-		"albumTitle": "STRIPPED",
-		"artist": "PRETTY MAIDS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/pretty_maids_stripped.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d37f4897-d4e8-327e-8424-6c866540c46e",
-			"albumTitle": "Stripped",
-			"artist": "Pretty Maids",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HEAVEN KNOWS",
 		"artist": "RICK PRICE",
 		"price": "10,00 kr.",
@@ -33690,20 +33662,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "553d06fa-045a-330b-a676-a568f566ad55",
 			"albumTitle": "North and South",
-			"artist": "Gerry Rafferty",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ON A WING & A PRAYER",
-		"artist": "GARY RAFFERTY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/on_a_wing_and.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b4b03aab-ec6f-370b-8144-e6afbc1d9f90",
-			"albumTitle": "On a Wing & A Prayer",
 			"artist": "Gerry Rafferty",
 			"type": "Album"
 		}
