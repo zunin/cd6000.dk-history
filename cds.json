@@ -7127,20 +7127,6 @@
 		}
 	},
 	{
-		"albumTitle": "TIM CHRISTENSEN & THE DAMN CRYSTALS (signeret af alle..)",
-		"artist": "TIM CHRISTENSEN & THE DAMN CRYSTALS",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/the_damn_crystals.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "TONY CHRISTIE",
 		"price": "10,00 kr.",
@@ -39836,20 +39822,6 @@
 		}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/springsteen_e_street_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a38a6c45-0d24-41fa-8986-eb6a94e8e482",
-			"albumTitle": "Greatest Hits",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE 1975-85 disc 1",
 		"artist": "BRUCE SPRINGSTEEN & E-STREET BAND",
 		"price": "15,00 kr.",
@@ -39868,20 +39840,6 @@
 		"artist": "BRUCE SPRINGSTEEN & E-STREET BAND",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/springsteen_live_1975_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
-			"albumTitle": "[untitled]",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVE 1975-1985 (3CD) 1986",
-		"artist": "BRUCE SPRINGSTEEN & THE E STREET BAND COLUMBIA BESTIL NR. 24462",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/springsteen_live_3.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -41065,20 +41023,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "62c969cc-eb39-39f8-a844-713f6334d634",
 			"albumTitle": "The Very Best of Supertramp",
-			"artist": "Supertramp",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE AUTOBIOGRAPHY OF SUPERTRAMP",
-		"artist": "SUPERTRAMP",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/supertramp_autobiography.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "246d269d-2e84-3754-9db2-6375e7a26b27",
-			"albumTitle": "The Autobiography of Supertramp",
 			"artist": "Supertramp",
 			"type": "Album"
 		}
