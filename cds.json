@@ -19891,20 +19891,6 @@
 		}
 	},
 	{
-		"albumTitle": "EMPLOYMENT",
-		"artist": "KAISER CHIEFS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/employment.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "74c91805-fa46-3cea-bfe3-66ea4292b759",
-			"albumTitle": "Employment",
-			"artist": "Kaiser Chiefs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OFF WITH THEIR HEADS",
 		"artist": "KAISER CHIEFS",
 		"price": "10,00 kr.",
@@ -19914,20 +19900,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "35ac4b90-7caa-3b6e-bcff-004a949ef598",
 			"albumTitle": "Off With Their Heads",
-			"artist": "Kaiser Chiefs",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "YOURS TRULY, ANGRY MOB",
-		"artist": "KAISER CHIEFS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/yours_truly.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ecf45e1e-59a2-3c80-9267-9ed617133608",
-			"albumTitle": "Yours Truly, Angry Mob",
 			"artist": "Kaiser Chiefs",
 			"type": "Album"
 		}
@@ -30498,20 +30470,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d81ad1f4-2dbf-3e35-ba94-2297ede148c4",
 			"albumTitle": "Nye optagelser",
-			"artist": "Nikolaj Nørlund",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TÆNDSTIK",
-		"artist": "NIKOLAJ NØRLUND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/taendstik.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "53105e2f-d082-3063-a669-0c6c0c3da190",
-			"albumTitle": "Tændstik",
 			"artist": "Nikolaj Nørlund",
 			"type": "Album"
 		}
