@@ -37536,6 +37536,20 @@
 		}
 	},
 	{
+		"albumTitle": "15",
+		"artist": "SHU-BI-DUA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/shubidua_15.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ed7782c0-ed31-31f9-87a0-d29162816bc3",
+			"albumTitle": "Shu•bi•dua 15",
+			"artist": "Shu•bi•dua",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "16",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
