@@ -469,34 +469,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "CIRCLE OF ONE",
-		"artist": "OLETTA ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/circle_of_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d79ff214-165d-3c36-a887-52e70425cbf2",
-			"albumTitle": "Circle of One",
-			"artist": "Oleta Adams",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MOVING ON",
-		"artist": "OLETTA ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/oletta_moving_on.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ac9cc782-6189-376a-857b-46b168cd0895",
-			"albumTitle": "Moving On",
-			"artist": "Oleta Adams",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "RYAN ADAMS",
 		"price": "10,00 kr.",
@@ -4077,15 +4049,6 @@
 		}
 	},
 	{
-		"albumTitle": "FAN",
-		"artist": "BLAST",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/blast_fan.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "PSYCHO POWER",
 		"artist": "BLEEDER",
 		"price": "20,00 kr.",
@@ -6876,15 +6839,6 @@
 		}
 	},
 	{
-		"albumTitle": "GENIOUS LOVES COMPANY",
-		"artist": "RAY CHARLES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/genious_loves_company.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "ORIGINALS",
 		"artist": "TINA CHARLES",
 		"price": "10,00 kr.",
@@ -7480,20 +7434,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "ced848a4-b94b-3f34-b08b-6dc8bf8aed8f",
 			"albumTitle": "461 Ocean Boulevard",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CLAPTON",
-		"artist": "ERIC CLAPTON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/clapton.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f61c4a8f-0a80-4e2a-9863-c59b9c4cdf82",
-			"albumTitle": "Clapton",
 			"artist": "Eric Clapton",
 			"type": "Album"
 		}
@@ -10295,20 +10235,6 @@
 		}
 	},
 	{
-		"albumTitle": "ON EVERY STREET",
-		"artist": "DIRE STRAITS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/on_every_street.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b286b831-931e-3680-97f1-aa18541f5cc2",
-			"albumTitle": "On Every Street",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SULTANS OF SWING THE VERY BEST OF",
 		"artist": "DIRE STRAITS",
 		"price": "10,00 kr.",
@@ -10321,24 +10247,6 @@
 			"artist": "Dire Straits",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "ALCHEMY PART ONE DIRE STRAITS LIVE",
-		"artist": "DIRE STRAITS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/alchemy_part_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ALCHEMY PART TWO DIRE STRAITS LIVE",
-		"artist": "DIRE STRAITS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/alchemy_part_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "LOVE OVER GOLD",
@@ -10972,34 +10880,6 @@
 		}
 	},
 	{
-		"albumTitle": "LET IT BE ME",
-		"artist": "JASON DONOVAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/let_it_be_me.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3f1d2f52-9676-4bb0-8960-7a551897a002",
-			"albumTitle": "Let It Be Me",
-			"artist": "Jason Donovan",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "JASON DONOVAN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jason_donovan_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "88202b0b-359f-497b-9437-0a767ef4a45f",
-			"albumTitle": "The Best of Jason Donovan",
-			"artist": "Jason Donovan",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ALIVE O (lille inskription fra tidl. ejer på innersleve)",
 		"artist": "TOM DONOVAN",
 		"price": "10,00 kr.",
@@ -11468,20 +11348,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "LIVE !",
-		"artist": "DÚNČ",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/dune_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6463116f-367a-4d8c-8692-7bf72591686a",
-			"albumTitle": "[untitled]",
-			"artist": "Z’EV, John Duncan, Aidan Baker, Fear Falls Burning",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MODERN TIMES",
 		"artist": "BOB DYLAN",
 		"price": "10,00 kr.",
@@ -11646,20 +11512,6 @@
 			"releaseGroupId": "36a5e7b0-2726-3566-b44f-aab9fd900343",
 			"albumTitle": "The Very Best of the Eagles",
 			"artist": "Eagles",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NO STRINGS",
-		"artist": "SHEENA EASTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/no_strings.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "624e5d8b-9bcf-3c63-b59c-d2ec724fa1e6",
-			"albumTitle": "No Strings",
-			"artist": "Sheena Easton",
 			"type": "Album"
 		}
 	},
@@ -11962,20 +11814,6 @@
 		}
 	},
 	{
-		"albumTitle": "LYSTENS Ø",
-		"artist": "ELISABETH",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/lystens_oe.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "34ab12ef-8626-3c02-bb66-7dfb1eedaf2e",
-			"albumTitle": "Lystens ø",
-			"artist": "Elisabeth",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LÆR MIG NATTENS STJERNE",
 		"artist": "ELISABETH",
 		"price": "30,00 kr.",
@@ -12166,20 +12004,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b0fa91c8-0996-38f1-ab84-797f58d7c4eb",
 			"albumTitle": "The Marshall Mathers LP",
-			"artist": "Eminem",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE SLIM SHADY LP",
-		"artist": "EMINEM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_slim_shady_lp.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "be725de4-4633-3c8a-9a03-f2c4392b6e0d",
-			"albumTitle": "The Slim Shady LP",
 			"artist": "Eminem",
 			"type": "Album"
 		}
@@ -14255,15 +14079,6 @@
 			"artist": "Eric Gadd",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "RISE UP",
-		"artist": "ERIC GADD",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/rise_up.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE RIGHT WAY",
@@ -16677,29 +16492,6 @@
 		}
 	},
 	{
-		"albumTitle": "NO. 8",
-		"artist": "CAROLINE HENDERSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/caroline_henderson_no8.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5ec8be0c-408b-4223-babc-21fe7d7467fb",
-			"albumTitle": "No. 8",
-			"artist": "Caroline Henderson",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DON'T EXPLAIN (SACD)",
-		"artist": "CAROLINE HENDERSON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/dont_explain.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "JIMI HENDRIX (2CD)",
 		"artist": "JIMI HENDRIX",
 		"price": "15,00 kr.",
@@ -18368,20 +18160,6 @@
 		}
 	},
 	{
-		"albumTitle": "X",
-		"artist": "INXS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/inxs_x.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8fd854fa-604f-3106-a9c9-90288687f61e",
-			"albumTitle": "X",
-			"artist": "INXS",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SAN FRANCISCO DAYS",
 		"artist": "CHRIS ISAK",
 		"price": "10,00 kr.",
@@ -19008,20 +18786,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE ALBUM/ SWING THE MOOD",
-		"artist": "JIVE BUNNY & THE MASTERMIXERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/jive_bunny_swing.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "62cdb7a8-9541-3264-8f86-d175fd3d540e",
-			"albumTitle": "The Album: Swing the Mood",
-			"artist": "Jive Bunny & the Mastermixers",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS VOL. 3",
 		"artist": "BILLY JOEL",
 		"price": "10,00 kr.",
@@ -19094,20 +18858,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ICE ON FIRE",
-		"artist": "ELTON JOHN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ice_on_fire.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c3faec37-3bc7-3bba-9e1f-143728881d3d",
-			"albumTitle": "Ice on Fire",
-			"artist": "Elton John",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LIVE IN AUSTRALIA",
@@ -21871,15 +21621,6 @@
 		}
 	},
 	{
-		"albumTitle": "DE BEDSTE 1986-2006 (2CD)",
-		"artist": "SISSEL KYRKJEBØ",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sissel_bedste.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "INNERST I SJELEN",
 		"artist": "SISSEL KYRKJEBÖ",
 		"price": "10,00 kr.",
@@ -23052,20 +22793,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "f4cc8575-12bd-3617-85ad-5a81fb117abe",
 			"albumTitle": "Fore!",
-			"artist": "Huey Lewis and the News",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FOUR CHORDS & SEVERAL YEARS AGO",
-		"artist": "HUEY LEWIS & THE NEWS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/four_chords.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e14d1b63-6dd7-3417-8653-f40ff35c5eea",
-			"albumTitle": "Four Chords & Several Years Ago",
 			"artist": "Huey Lewis and the News",
 			"type": "Album"
 		}
@@ -25165,20 +24892,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE MANHATTAN TRANSFER",
-		"artist": "THE MANHATTAN TRANSFER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_manhattan_transfer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fde009b4-45bf-3685-9135-5f26c743cf9e",
-			"albumTitle": "The Manhattan Transfer",
-			"artist": "The Manhattan Transfer",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "POST MODERN PANIC ATTACK",
 		"artist": "MANI SPINX",
 		"price": "10,00 kr.",
@@ -25231,34 +24944,6 @@
 			"releaseGroupId": "4269e820-9c3c-345f-823b-f62bcd272569",
 			"albumTitle": "This Is My Truth Tell Me Yours",
 			"artist": "Manic Street Preachers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BODIES AND SOULS",
-		"artist": "THE MANHATTAN TRANSFER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bodies_and_souls.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a9c6afe9-3624-3a51-bfd6-032a667853b7",
-			"albumTitle": "Bodies and Souls",
-			"artist": "The Manhattan Transfer",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE OFFBEAT OF AVENUES",
-		"artist": "THE MANHATTAN TRANSFER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_offbeat_of_avenues.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ba614945-4006-36cb-b276-5aefc6f3e871",
-			"albumTitle": "The Offbeat of Avenues",
-			"artist": "The Manhattan Transfer",
 			"type": "Album"
 		}
 	},
@@ -40486,20 +40171,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE DREAM OF THE BLUE TURTLES",
-		"artist": "STING",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_dream_of_the_blue_turtles.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "93ef0ae1-0735-3699-b450-d79bdcb3d0b8",
-			"albumTitle": "The Dream of the Blue Turtles",
-			"artist": "Sting",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF (unofficial)",
 		"artist": "STING",
 		"price": "20,00 kr.",
@@ -41872,20 +41543,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "WILD ONE THE VERY BEST OF",
-		"artist": "THIN LIZZY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wild_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "de6bf249-392a-3fca-bdc6-fcbcde3591ca",
-			"albumTitle": "Wild One: The Very Best of Thin Lizzy",
-			"artist": "Thin Lizzy",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LIVE AND DANGEROUS",
@@ -46416,20 +46073,6 @@
 		}
 	},
 	{
-		"albumTitle": "HAPPY FOOL",
-		"artist": "ZIDIDADA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/happy_fool.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "380907c4-4b06-3d68-a5f3-51e53eb86a8c",
-			"albumTitle": "Happy Fool",
-			"artist": "Zididada",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WELCOME TO ZIDIDADA",
 		"artist": "ZIDIDADA",
 		"price": "10,00 kr.",
@@ -48286,20 +47929,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "KOM TILBAGE NU 3 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "KOM TILBAGE NU 4 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kom_tilbage_nu_4.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "KOM TILBAGE NU 4 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
