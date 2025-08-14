@@ -24441,6 +24441,20 @@
 		}
 	},
 	{
+		"albumTitle": "MORMORS KOLONIHAVEHUS",
+		"artist": "EVA MADSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/mormors_kolonihavehus.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "aa3017fc-58de-3784-91e9-107c259a8fe7",
+			"albumTitle": "Mormors Kolonihavehus",
+			"artist": "Eva Madsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SYNGER SANGE AF CLAUSEN & PETERSEN",
 		"artist": "EVA MADSEN",
 		"price": "10,00 kr.",
@@ -26154,6 +26168,20 @@
 		}
 	},
 	{
+		"albumTitle": "FOR ALTID",
+		"artist": "MEDINA",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/for_altid.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0e78e7aa-79c9-4a3e-a5b5-19cf2e9e70ce",
+			"albumTitle": "For Altid",
+			"artist": "Medina",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "VELKOMMEN TIL MEDINA",
 		"artist": "MEDINA",
 		"price": "10,00 kr.",
@@ -26442,6 +26470,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "f3a4a5c3-b5f0-3adf-9ed4-c601edf501b6",
 			"albumTitle": "Contraband: The Best of Men at Work",
+			"artist": "Men at Work",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SIMPLY THE BEST",
+		"artist": "MEN AT WORK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/men_at_work_simply.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7641892e-1d75-37cc-a8b8-1fb61515b062",
+			"albumTitle": "Simply the Best",
 			"artist": "Men at Work",
 			"type": "Album"
 		}
@@ -27652,6 +27694,20 @@
 		}
 	},
 	{
+		"albumTitle": "LORTEØEN SPECIAL",
+		"artist": "MONRAD & RISLUND",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/lorteoeen_special.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b7faa2c2-b305-3aea-97fb-689a2f93e2c4",
+			"albumTitle": "Lorteøen Special",
+			"artist": "Monrad & Rislund",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PLATHEDER PÅ ET FUNDAMENT AF SJOFELHED",
 		"artist": "MONRAD & RISLUND",
 		"price": "20,00 kr.",
@@ -28687,6 +28743,20 @@
 		}
 	},
 	{
+		"albumTitle": "SCANDALO",
+		"artist": "GIANNA NANNINI",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/scandalo.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "622e2a68-fcd1-3a0f-ac1b-6af6198b918c",
+			"albumTitle": "Scandalo",
+			"artist": "Gianna Nannini",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BAMBOLONI GREATEST HITS COLLECTION",
 		"artist": "GIANNA NANNINI",
 		"price": "15,00 kr.",
@@ -29636,6 +29706,20 @@
 			"releaseGroupId": "f234462c-bad3-3afa-abf9-122e341c4464",
 			"albumTitle": "Solar Plexus",
 			"artist": "Nikolaj & Piloterne",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PLACES I HAVE NEVER BEEN",
+		"artist": "WILLIE NILE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/places_i_have_never_been.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "75c22f6b-8d67-4ca6-9e73-79d0542d4fd8",
+			"albumTitle": "Places I Have Never Been",
+			"artist": "Willie Nile",
 			"type": "Album"
 		}
 	},
@@ -31364,6 +31448,29 @@
 		}
 	},
 	{
+		"albumTitle": "THE MONA LISA's SISTER",
+		"artist": "GRAHAM PARKER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_mona_lisas_sister.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dad2223c-23fb-3193-ac02-6ef229a542a0",
+			"albumTitle": "The Mona Lisa’s Sister",
+			"artist": "Graham Parker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL COLLECTION (tidl. ejersignatur på innercover)",
+		"artist": "ROBERT PALMER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/robert_palmer_essential.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LIVE",
 		"artist": "ALAN PARSONS",
 		"price": "10,00 kr.",
@@ -31680,6 +31787,20 @@
 		}
 	},
 	{
+		"albumTitle": "MIN VERDEN ER VENLIG (OBS : 'noget nusset' pap-case)",
+		"artist": "IVAN PEDERSEN",
+		"price": "40,00 kr.",
+		"origin": "https://cd6000.dk/min_verden_er_venlig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "efd0c712-b63f-4a75-a315-147c478d7fba",
+			"albumTitle": "Untitled",
+			"artist": "Ivan Palacký, dieb13, Klaus Filip, Tim Blechmann",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE OF THE BOYS",
 		"artist": "KATY PERRY",
 		"price": "10,00 kr.",
@@ -31940,6 +32061,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE TRUTH ABOUT LOVE",
+		"artist": "PINK",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_truth_about_love.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "74a65aea-6e59-477a-b48c-5e4d9c53dfb2",
+			"albumTitle": "The Truth About Love",
+			"artist": "P!nk",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TRY THIS",
 		"artist": "PINK",
 		"price": "10,00 kr.",
@@ -32024,6 +32159,20 @@
 			"releaseGroupId": "23ba7d49-2821-4bea-9c7c-78d180a27a79",
 			"albumTitle": "The Defamation of Strickland Banks",
 			"artist": "Plan B",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FATE OF NATIONS",
+		"artist": "ROBERT PLANT",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/fate_of_nations.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a7637407-3e12-3027-bb0b-2184191c1839",
+			"albumTitle": "Fate of Nations",
+			"artist": "Robert Plant",
 			"type": "Album"
 		}
 	},
@@ -32219,6 +32368,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "7672bd54-417c-3dda-b16c-0f49265216bb",
 			"albumTitle": "Daniel Powter",
+			"artist": "Daniel Powter",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNDER THE RADAR",
+		"artist": "DANIEL POWTER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/under_the_radar.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "902c5297-a96a-3e2e-83d8-dd2cfdc0f2e5",
+			"albumTitle": "Under the Radar",
 			"artist": "Daniel Powter",
 			"type": "Album"
 		}
@@ -32605,6 +32768,15 @@
 			"artist": "Prince",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "EMANCIPATION (3CD)",
+		"artist": "PRINCE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/emancipation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DIAMONDS AND PEARLS",
@@ -33324,6 +33496,34 @@
 		}
 	},
 	{
+		"albumTitle": "LONGING IN THEIR HEARTS",
+		"artist": "BONNIE RAITT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/longing_in_their_hearts.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0ffba310-95c8-352a-9c0d-b93660a15e07",
+			"albumTitle": "Longing in Their Hearts",
+			"artist": "Bonnie Raitt",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LUCK OF THE DRAW",
+		"artist": "BONNIE RAITT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/luck_of_the_draw.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8527de80-7059-38fb-874d-dc8af4d6ac81",
+			"albumTitle": "Luck of the Draw",
+			"artist": "Bonnie Raitt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NICK OF TIME",
 		"artist": "BONNIE RAITT",
 		"price": "10,00 kr.",
@@ -33373,6 +33573,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SEHNSUCHT",
+		"artist": "RAMMSTEIN",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/sehnsucht.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2a323740-b615-35bc-9f58-1d2e6a5d9289",
+			"albumTitle": "Sehnsucht",
+			"artist": "Rammstein",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "HIDE FROM THE SUN",
@@ -33561,6 +33775,20 @@
 			"releaseGroupId": "0c6571a1-1376-3a70-9533-a9fe531b2ee1",
 			"albumTitle": "Pretty in Black",
 			"artist": "The Raveonettes",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ALL THE HITS",
+		"artist": "RAY DEE OHH",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/raydeeohh_hits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a7b148a4-9f23-3877-8e6a-400f68cd6300",
+			"albumTitle": "All the Hits",
+			"artist": "Ray Dee Ohh",
 			"type": "Album"
 		}
 	},
@@ -34068,6 +34296,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE GYPSY GENIUS",
+		"artist": "DJANGO REINHARDT",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/the_gipsy_genius.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "89860db3-268c-37ba-887b-7061082a98de",
+			"albumTitle": "Djangology: The Gypsy Genius",
+			"artist": "Django Reinhardt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TWICE AS MUCH WOMAN",
 		"artist": "JOANNE REINHOLDT",
 		"price": "10,00 kr.",
@@ -34310,6 +34552,20 @@
 		}
 	},
 	{
+		"albumTitle": "REUNITED",
+		"artist": "CLIFF RICHARD & THE SHADOWS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/reunited.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4b21c18-c25a-4c6d-b811-f7cc00c1b121",
+			"albumTitle": "Reunited: 50th Anniversary",
+			"artist": "Cliff Richard, The Shadows",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SUMMER HOLIDAY",
 		"artist": "CLIFF RICHARD & THE SHADOWS",
 		"price": "10,00 kr.",
@@ -34376,6 +34632,20 @@
 			"releaseGroupId": "0d1b4bc7-bd98-4df2-816c-756710a6dc7b",
 			"albumTitle": "Where I Belong",
 			"artist": "Jascha Richter",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNRIEL",
+		"artist": "ALEX RIEL",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/unriel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0584971a-65b0-4d88-a577-110e538eb8af",
+			"albumTitle": "UnRiel",
+			"artist": "Alex Riel",
 			"type": "Album"
 		}
 	},
@@ -34543,6 +34813,20 @@
 		}
 	},
 	{
+		"albumTitle": "MUSIC FOR THE NATIVE AMERICANS",
+		"artist": "ROBERT ROBERTSON & THE RED ROAD ENSEMBLE",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/music_for_the_native.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a95864a1-9f7a-3cfe-8727-ca276cfbb38e",
+			"albumTitle": "Music for the Native Americans",
+			"artist": "Robbie Robertson, The Red Road Ensemble",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MY TRUTH",
 		"artist": "ROBYN",
 		"price": "10,00 kr.",
@@ -34585,6 +34869,20 @@
 		}
 	},
 	{
+		"albumTitle": "BODY TALK PT. 1",
+		"artist": "ROBYN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/body_talk_pt1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "443c50a6-fe3e-46b3-8fc8-010e9575f7af",
+			"albumTitle": "Body Talk, Pt 1",
+			"artist": "Robyn",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ROCAZINO's BEDSTE",
 		"artist": "ROCAZINO",
 		"price": "10,00 kr.",
@@ -34608,6 +34906,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SEJLE MED DIG",
+		"artist": "ROCAZINO",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/sejle_med_dig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cc04a47c-8565-4c82-9b3f-92d3a4fb57b1",
+			"albumTitle": "Det hele",
+			"artist": "Rocazino",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE (2CD)",
 		"artist": "ROCAZINO",
 		"price": "30,00 kr.",
@@ -34615,6 +34927,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "OPRÅB! TIL DET DANSKE FOLK",
+		"artist": "ROCKERS BY CHOICE",
+		"price": "20,00 kr.",
+		"origin": "https://cd6000.dk/opraab.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7acdb3e0-9138-3245-89d4-0ea387f83691",
+			"albumTitle": "Opråb! Til det danske folk",
+			"artist": "Rockers by Choice",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "ROCKERS RETRO, GREATEST HITS (2CD)",
@@ -34896,6 +35222,15 @@
 		"artist": "LINDA RONSTADT",
 		"price": "15,00 kr.",
 		"origin": "https://cd6000.dk/ronstadt_greatest_two.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SIGUR RÓS",
+		"artist": "ÁGÆTIS BYRJUN",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/agaetis.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -35544,6 +35879,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "PASSION",
+		"artist": "JENNIFER RUSH",
+		"price": "15,00 kr.",
+		"origin": "https://cd6000.dk/passion.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6979c8de-8c14-329c-ad98-ed1dee76f06b",
+			"albumTitle": "Passion",
+			"artist": "Jennifer Rush",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "FAIRYTALES",
