@@ -821,20 +821,6 @@
 		}
 	},
 	{
-		"albumTitle": "10.000 HZ LEGEND",
-		"artist": "AIR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/10000_hz_legend.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "86f0fa20-4997-450b-963a-92775dc11f60",
-			"albumTitle": "One Hundred Titles",
-			"artist": "Dead Voices on Air",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GO AHEAD AND DO IT",
 		"artist": "AIRHEADS",
 		"price": "10,00 kr.",
@@ -989,20 +975,6 @@
 			"releaseGroupId": "d3a86fb2-1b79-3bf0-951f-e3aa8f9959e9",
 			"albumTitle": "The BBC Sessions",
 			"artist": "The Albion Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ALICE IN CHAINS",
-		"artist": "ALICE IN CHAINS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/alice_in_chains.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d2f5bcb9-a6e7-3d24-b2d6-95890b188c94",
-			"albumTitle": "Alice in Chains",
-			"artist": "Alice in Chains",
 			"type": "Album"
 		}
 	},
@@ -3393,20 +3365,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TALISMAN",
-		"artist": "PETER BELLI",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/talisman.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "54039d3e-8bad-3322-96c1-1e05541951e1",
-			"albumTitle": "Talisman",
-			"artist": "Peter Belli",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "THE COLLECTION",
@@ -12526,20 +12484,6 @@
 		}
 	},
 	{
-		"albumTitle": "III SIDES TO EVERY STORY",
-		"artist": "EXTREME",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/three_sides_to_every_story.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2f7495c0-db22-38bd-be93-d7e3d9a00194",
-			"albumTitle": "III Sides to Every Story",
-			"artist": "Extreme",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PORNOGRAFITTI",
 		"artist": "EXTREME II",
 		"price": "10,00 kr.",
@@ -14581,15 +14525,6 @@
 			"artist": "Vince Gill",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "ON AN ISLAND (DIGIBOOK) 2006",
-		"artist": "DAVID GILMOUR EMI BESTIL NR. 26227",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/on_an_island.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "WICKED MAP",
@@ -17405,20 +17340,6 @@
 			"releaseGroupId": "2ff3977e-c980-3038-a768-5f63753eea2a",
 			"albumTitle": "The Best of Hothouse Flowers",
 			"artist": "Hothouse Flowers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HOUSE OF PAIN",
-		"artist": "HOUSE OF PAIN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/house_of_pain.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "22821d1b-28b3-31f7-84ca-25436862dd27",
-			"albumTitle": "House of Pain",
-			"artist": "House of Pain",
 			"type": "Album"
 		}
 	},
@@ -22565,20 +22486,6 @@
 		}
 	},
 	{
-		"albumTitle": "DARKNESS AND LIGHT",
-		"artist": "JOHN LEGEND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/darkness_and_light.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "62bde254-fac5-4399-a73f-180163d17476",
-			"albumTitle": "Darkness and Light",
-			"artist": "John Legend",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "IN CONCERT",
 		"artist": "TOM LEHRER",
 		"price": "10,00 kr.",
@@ -24746,20 +24653,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "SMASH HIT IN ABERDEEN",
-		"artist": "MALK DE KOIJN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/smash_hit_in_aberdeen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "76cad383-6bd8-3a66-b93f-85c4b61af1f9",
-			"albumTitle": "Smash Hit in Aberdeen",
-			"artist": "Malk de Koijn",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SNEGLZILLA",
@@ -29379,48 +29272,6 @@
 		}
 	},
 	{
-		"albumTitle": "THOSE WHO WERE",
-		"artist": "NHØP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/those_who_were.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "14edb8c4-6bb8-3f80-b2dd-a1eeccca6424",
-			"albumTitle": "Those Who Were",
-			"artist": "Niels-Henning Ørsted Pedersen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "UNCHARTED LAND",
-		"artist": "NIELS HENNING ØRSTED PEDERSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/uncharted_land.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e57e2f52-93ca-3541-886b-f4e644eb90a4",
-			"albumTitle": "Uncharted Land",
-			"artist": "Niels-Henning Ørsted Pedersen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HOMMAGE ONCE UPON A TIME",
-		"artist": "N.H.Ø.P./MIKKELBORG",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hommage.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "79debf54-cdbd-4ad8-afe6-62ea467691a5",
-			"albumTitle": "HOMMAGE ONCE UPON A TIME",
-			"artist": "Jeff O. Jr.",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HANG ON TO A DREAM",
 		"artist": "THE NICE",
 		"price": "15,00 kr.",
@@ -32932,20 +32783,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "a568fa63-859a-3f29-aa9e-9bfd233a1b5a",
 			"albumTitle": "Let's Dance 2",
-			"artist": "På Slaget 12",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SIDST I SEPTEMBER",
-		"artist": "PÅ SLAGET 12 (PS12)",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sidst_i_september.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ef03c63f-2e90-422d-803d-4d7a94282d58",
-			"albumTitle": "Sidst I September",
 			"artist": "På Slaget 12",
 			"type": "Album"
 		}
@@ -36629,20 +36466,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "LEO SAYER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/leo_sayer_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d94fbde2-df88-4811-af7b-92a63ee43686",
-			"albumTitle": "The Very Best Of",
-			"artist": "Leo Sayer",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SONGS FOR THE DAILY PLANET",
 		"artist": "TODD SCHNEIDER",
 		"price": "10,00 kr.",
@@ -38321,15 +38144,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "H2O",
-		"artist": "SIR HENRY AND HIS BUTLERS",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/sir_henry_h2o.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LET'S GO",
 		"artist": "SIR HENRY",
 		"price": "20,00 kr.",
@@ -38777,15 +38591,6 @@
 		"artist": "SLAYER",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/devine_intervention.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LIVE UNDEAD includes EP : HAUNTING THE CHAPEL",
-		"artist": "SLAYER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/live_undead_haunting.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -41495,20 +41300,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEJLIGE DANSKE (2CD)",
-		"artist": "LIS SØRENSEN",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/lis_soerensen_dejlige_danske.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5aec666a-bd31-41b7-8d2c-298748de36d7",
-			"albumTitle": "Rear View",
-			"artist": "EVA",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BRIDGE OF SPIES",
 		"artist": "T'PAU",
 		"price": "10,00 kr.",
@@ -42228,20 +42019,6 @@
 		}
 	},
 	{
-		"albumTitle": "TOYRIDE",
-		"artist": "TOY-BOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/toyride.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2dd2aad9-314d-37d9-9e48-4b93f48c08c4",
-			"albumTitle": "Toy Ride",
-			"artist": "Toy‐Box",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ONE OF THESE DAYS",
 		"artist": "TOYS OF JOY",
 		"price": "15,00 kr.",
@@ -42604,15 +42381,6 @@
 		"artist": "TINE TURNER",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/tina_turner_live_in_europe.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "PRIVATE DANCER RECORDED LIVE IN CHICAGO",
-		"artist": "TINA TURNER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/private_dancer_live.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -43073,15 +42841,6 @@
 		}
 	},
 	{
-		"albumTitle": "FASTER THAN THE SPEED OF LIGHT",
-		"artist": "BONNIE TYLER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/faster_than_the_speed_of_light.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BONNIE TYLER",
 		"price": "10,00 kr.",
@@ -43520,20 +43279,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DET ER MIG DER HOLDER TRÆERNE SAMMEN",
-		"artist": "UNDER BYEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/under_byen_det_er_mig.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0a4b1de4-af17-3f2b-947d-098f26bff2ad",
-			"albumTitle": "Det er mig der holder træerne sammen",
-			"artist": "Under Byen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SOME HEARTS",
@@ -45585,20 +45330,6 @@
 		}
 	},
 	{
-		"albumTitle": "IMAGINATION",
-		"artist": "BRIAN WILSON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/wilson_imagination.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f6a8bd94-fc32-382e-bf7e-b736614ed814",
-			"albumTitle": "Imagination",
-			"artist": "Brian Wilson",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PRESENTS SMILE (lille 'boks' med 'bog')",
 		"artist": "BRIAN WILSON",
 		"price": "15,00 kr.",
@@ -46035,20 +45766,6 @@
 		}
 	},
 	{
-		"albumTitle": "A SCENT OF FLOWERS",
-		"artist": "YASMIN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_scent_of_flowers.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "76109e3a-0c9c-4336-9d8b-96083847a59a",
-			"albumTitle": "A Scent of Flowers",
-			"artist": "Yasmin",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "UPSTAIRS AT ERIC'S",
 		"artist": "YAZOO",
 		"price": "30,00 kr.",
@@ -46059,20 +45776,6 @@
 			"releaseGroupId": "ca189e76-5704-3097-8dad-b6e1923bc917",
 			"albumTitle": "Upstairs at Eric’s",
 			"artist": "Yazoo",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "IT'S BLITZ!",
-		"artist": "YEAH YEAH YEAHS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/its_blitz.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "08e1a593-cbce-3943-8a90-79c4d8c2b693",
-			"albumTitle": "It’s Blitz!",
-			"artist": "Yeah Yeah Yeahs",
 			"type": "Album"
 		}
 	},
