@@ -1,30 +1,37 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"type": "deno",
-			"command": "run",
-			"args": [
-				"--allow-net",
-				"--unsafely-ignore-certificate-errors=cd6000.dk",
-				"--allow-write",
-				"--allow-read",
-          		"--allow-env",
-				"index.ts"
-			],
-			"problemMatcher": [
-				"$deno"
-			],
-			"label": "deno: run"
-		},
-		{
-			"type": "deno",
-			"command": "test",
-			"problemMatcher": [
-				"$deno-test"
-			],
-			"group": "test",
-			"label": "deno: test"
-		}
-	]
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "deno",
+      "args": [
+        "run",
+        "--allow-net",
+        "--unsafely-ignore-certificate-errors=cd6000.dk",
+        "--allow-write",
+        "--allow-read",
+        "--allow-env",
+        "index.ts"
+      ],
+      "label": "deno: run"
+    },
+    {
+      "type": "shell",
+      "command": "deno",
+      "args": [
+        "test"
+      ],
+      "group": "test",
+      "label": "deno: test"
+    },
+    {
+      "type": "shell",
+      "command": "deno",
+      "args": [
+        "install",
+        "--allow-scripts"
+      ],
+      "label": "deno: install"
+    }
+  ]
 }
