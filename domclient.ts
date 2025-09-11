@@ -7,7 +7,7 @@ export class DomClient {
     }
     async fetchDOM(): Promise<HTMLDocument> {
         const response = await fetch(this.url);
-        await delay(1000);
+        await delay(500);
         console.log(this.url)
         const arrayBuffer = await response.arrayBuffer();
         const html = new TextDecoder("iso-8859-10").decode(new Uint8Array(arrayBuffer))
