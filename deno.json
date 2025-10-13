@@ -2,7 +2,7 @@
   "nodeModulesDir": "auto",
   "imports": {
     "@std/async": "jsr:@std/async@^1.0.6",
-    "musicbrainz-api": "npm:musicbrainz-api@0.21.0"
+    "musicbrainz-api": "npm:musicbrainz-api@0.21.0",
+    "opentelemetry": "npm:@opentelemetry/api@1.9.0"
   }
 }
-

@@ -1,0 +1,8 @@
+imports: # import signals from the dependency registry, i.e. OTel semantic conventions
+  metrics:
+    - db.client.* # import all metrics with names starting with `db.client.`
+  events:
+    - app.*
+    - exception # import the event named `exception`
+  entities:
+    - host.*

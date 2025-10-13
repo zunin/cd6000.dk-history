@@ -1,0 +1,25 @@
+[tasks.install]
+run = "deno install --allow-scripts"
+
+[tasks.otel]
+run = "if [[ -z '{{ exec(command='docker ps --filter name=otel --filter status=running --quiet') }}' ]]; then docker run --name otel -d --rm -ti -p 3000:3000 -p 4317:4317 -p 4318:4318 docker.io/grafana/otel-lgtm:latest; fi"
+description = "Ensure otel container"
+
+[tasks.scrape]
+run = """
+  deno run \
+  --allow-net \ 
+  --unsafely-ignore-certificate-errors=cd6000.dk \
+  --allow-write \
+  --allow-read \
+  --allow-env \
+  index.ts
+"""
+depends = ['install', 'otel']
+
+[env]
+OTEL_DENO = true
+
+[tools]
+deno = "latest"
+"github:open-telemetry/weaver" = "latest"
