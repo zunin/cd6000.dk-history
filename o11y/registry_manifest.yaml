@@ -1,8 +1,7 @@
-name: cd6000.dk-history 
+name: cd6000.dk-history
 description: cd6000.dk history Semantic Conventions
 semconv_version: 0.1.0
 schema_base_url: https://github.com/zunin/cd6000.dk-history
 dependencies:
   - name: otel
-    registry_path: https://github.com/open-telemetry/semantic-conventions/archive/refs/tags/v1.37.0.zip[model]
-
+    registry_path: https://github.com/open-telemetry/semantic-conventions/archive/refs/tags/v1.34.0.zip[model]

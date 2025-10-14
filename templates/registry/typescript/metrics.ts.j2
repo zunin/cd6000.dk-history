@@ -19,7 +19,7 @@
 // DO NOT EDIT, this is an Auto-generated file from scripts/semconv/templates/register/stable/metrics.ts.j2
 //----------------------------------------------------------------------------------------------------------
 
-{% for metric in ctx.metrics | sort(attribute="metric_name") %}
+{% for metric in ctx.metrics | attribute_sort %}
 {{d.docstring(metric, "metric")}}
 export const METRIC_{{ metric.metric_name | screaming_snake_case }} = '{{metric.metric_name}}' as const;
 

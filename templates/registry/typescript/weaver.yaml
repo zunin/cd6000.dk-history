@@ -2,35 +2,17 @@
 
 templates:
   - pattern: attributes.ts.j2
-    file_name: "stable_attributes.ts"
-    filter: >
-      semconv_attributes({
-        "stable_only": true
-      }) | {
-        attributes: .
-      }
-    application_mode: single
+    file_name: "attributes.ts"
+    filter: semconv_grouped_attributes
+    application_mode: each
   - pattern: metrics.ts.j2
-    file_name: "stable_metrics.ts"
-    filter: >
-      semconv_metrics({
-        "stable_only": true
-      }) | {
-        metrics: .
-      }
-    application_mode: single
-  - pattern: events.ts.j2
-    file_name: "stable_events.ts"
-    filter: >
-      semconv_signal("event"; {
-        "stable_only": true
-      })
-      | sort_by(.name)
-      | { events: .  }
-    application_mode: single
+    file_name: "metrics.ts"
+    filter: semconv_grouped_metrics
+    application_mode: each
 
 params:
-  excluded_attributes: ["messaging.client_id"]
+  #excluded_attributes: ["messaging.client_id"]
+  excluded_attributes: []
 
 ##
 # Everything below here is expected to be the same as in "../ts-*/weaver.yaml".
@@ -62,4 +44,3 @@ text_maps:
     boolean: boolean
     string: string
     string[]: string[]
-
