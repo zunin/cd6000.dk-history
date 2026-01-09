@@ -2917,20 +2917,6 @@
 		}
 	},
 	{
-		"albumTitle": "WOW",
-		"artist": "BANANARAMA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/wow.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c178230e-5e40-3ee7-978b-ae8e9c937810",
-			"albumTitle": "Wow!",
-			"artist": "Bananarama",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE WEIGHT",
 		"artist": "THE BAND",
 		"price": "10,00 kr.",
@@ -8568,6 +8554,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "91c9b6e6-caed-3732-ada6-e5267641fae1",
 			"albumTitle": "Live Songs",
+			"artist": "Leonard Cohen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "OLD IDEAS",
+		"artist": "LEONARD COHEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/old_ideas.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0c52f3aa-0ddc-47fe-8427-9b3d07b655f6",
+			"albumTitle": "Old Ideas",
 			"artist": "Leonard Cohen",
 			"type": "Album"
 		}
@@ -38242,20 +38242,6 @@
 		}
 	},
 	{
-		"albumTitle": "18 GREATEST HITS",
-		"artist": "SANDRA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/sandra_18_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5f33a1d5-884e-3f82-b1c2-94906dd0811d",
-			"albumTitle": "18 Greatest Hits",
-			"artist": "Sandra",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "INTO A SECRET LAND",
 		"artist": "SANDRA",
 		"price": "20,00 kr.",
@@ -38279,20 +38265,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "17de83be-ec30-3de5-bab1-c34c103d5e11",
 			"albumTitle": "Paintings in Yellow",
-			"artist": "Sandra",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TEN ON ONE THE SINGLES",
-		"artist": "SANDRA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/ten_on_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a2d202d6-90a6-3b2f-a179-e95719b1dc6c",
-			"albumTitle": "Ten on One (The Singles)",
 			"artist": "Sandra",
 			"type": "Album"
 		}
@@ -44023,20 +43995,6 @@
 		}
 	},
 	{
-		"albumTitle": "NATURAL HISTORY, THE VERY BEST OF",
-		"artist": "TALK TALK",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/natural_history.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "41e694dc-8bba-393b-9275-186224d87fce",
-			"albumTitle": "Natural History: The Very Best of Talk Talk",
-			"artist": "Talk Talk",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TRUE STORIES",
 		"artist": "TALKING HEADS",
 		"price": "20,00 kr.",
@@ -47961,20 +47919,6 @@
 			"releaseGroupId": "9ada1d99-4820-37fe-8008-3475608aa1c5",
 			"albumTitle": "The Memphis Sessions",
 			"artist": "Wet Wet Wet",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MAKE IT BIG",
-		"artist": "WHAM!",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/make_it_big.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0e319e00-ac06-34ed-b4fa-f6d206d4a4e6",
-			"albumTitle": "Make It Big",
-			"artist": "Wham!",
 			"type": "Album"
 		}
 	},
