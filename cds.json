@@ -7363,20 +7363,6 @@
 		}
 	},
 	{
-		"albumTitle": "WONDERFUL WORLD ANTHOLOGY",
-		"artist": "EVA CASSIDY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/cassidy_wonderful_world.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5aec666a-bd31-41b7-8d2c-298748de36d7",
-			"albumTitle": "Rear View",
-			"artist": "EVA",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SOMEWHERE",
 		"artist": "EVA CASSIDY",
 		"price": "15,00 kr.",
