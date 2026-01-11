@@ -8475,20 +8475,6 @@
 		}
 	},
 	{
-		"albumTitle": "HARD KNOCKS",
-		"artist": "JOE COCKER",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/hard_knocks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f886ff25-2238-42ec-b337-7e04658dbf82",
-			"albumTitle": "Hard Knocks",
-			"artist": "Joe Cocker",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DEAR HEATHER",
 		"artist": "LEONARD COHEN",
 		"price": "10,00 kr.",
@@ -26132,15 +26118,6 @@
 		}
 	},
 	{
-		"albumTitle": "DE TØRRE & DE BEDSTE (3CD+DVD)",
-		"artist": "JOHNNY MADSEN",
-		"price": "75,00 kr.",
-		"origin": "http://cd6000.dk/de_toerre_og_de_bedste_4.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HALGAL HALBAL (2CD) 1992",
 		"artist": "JOHNNY MADSEN PLADECO. BESTIL NR. 23646",
 		"price": "10,00 kr.",
@@ -26171,15 +26148,6 @@
 			"artist": "Johnny Madsen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "REGNMANDEN (CD+DVD)",
-		"artist": "JOHNNY MADSEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/regnmanden.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE BLUES",
@@ -31683,20 +31651,6 @@
 			"releaseGroupId": "d3fc4196-144d-4892-a1de-1978df10b3d2",
 			"albumTitle": "Just a Man",
 			"artist": "Chris Norman",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MISSING.. PRESUMED HAVING A GOOD TIME",
-		"artist": "NOTTING HILLBILLIES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/missing_presumed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b6670350-118a-3420-8a8e-b47b52ce77b2",
-			"albumTitle": "Missing... Presumed Having a Good Time",
-			"artist": "The Notting Hillbillies",
 			"type": "Album"
 		}
 	},
@@ -42148,15 +42102,6 @@
 		}
 	},
 	{
-		"albumTitle": "RINGO RAMA (CD+DVD)",
-		"artist": "RINGO STARR",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/ringo_rama.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "VERTICAL MAN (unofficial)",
 		"artist": "RINGO STARR",
 		"price": "15,00 kr.",
@@ -46413,6 +46358,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "3f345b1a-a7ec-3812-a7f8-92540bcc1e2f",
 			"albumTitle": "Brown Eyed Girl",
+			"artist": "Van Morrison",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DAYS LIKE THIS",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/days_like_this.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "defa7bc5-d4ee-36b8-a190-22b49067034c",
+			"albumTitle": "Days Like This",
 			"artist": "Van Morrison",
 			"type": "Album"
 		}
