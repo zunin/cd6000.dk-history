@@ -1151,20 +1151,6 @@
 		}
 	},
 	{
-		"albumTitle": "FOREVER YOUNG",
-		"artist": "ALPHAVILLE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/alphaville_forever_young.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bd021fbe-fbe9-3564-96c7-14de208de37f",
-			"albumTitle": "Forever Young",
-			"artist": "Alphaville",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HEARTWARE",
 		"artist": "CHRISTIAN ALVAD",
 		"price": "15,00 kr.",
@@ -4295,20 +4281,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIONS",
-		"artist": "THE BLACK CROWES",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/lions.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dffd04c1-7ba4-3904-ac3a-e33de148a25e",
-			"albumTitle": "Lions",
-			"artist": "The Black Crowes",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE END",
 		"artist": "THE BLACK EYED PEAS",
 		"price": "10,00 kr.",
@@ -4613,20 +4585,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DEAD PEOPLE'S CHOICE",
-		"artist": "BLUE FOUNDATION",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dead_peoples_choice.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4d727ad0-d076-3715-a1b9-81c5214385be",
-			"albumTitle": "Dead People's Choice",
-			"artist": "Blue Foundation",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LIFE OF A GHOST",
@@ -14591,20 +14549,6 @@
 			"releaseGroupId": "d095c9e4-00b8-3c1a-90ec-3e8ac0bd74e3",
 			"albumTitle": "Vermilion",
 			"artist": "Marie Frank",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVERPOOL",
-		"artist": "FRANKIE GOES TO HOLLYWOOD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/liverpool.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a322cecc-e150-4c71-b73f-591f1ebf8784",
-			"albumTitle": "Liverpool",
-			"artist": "Frankie Goes to Hollywood",
 			"type": "Album"
 		}
 	},
@@ -32701,20 +32645,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIVE",
-		"artist": "ALAN PARSONS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/alan_parsons_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "df899215-7537-3592-8abb-fb78666b0a57",
-			"albumTitle": "The Very Best Live",
-			"artist": "Alan Parsons",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BACKWOODS BARBIE",
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
@@ -44237,20 +44167,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "PAST TO PRESENT 1977-1990",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/past_to_present.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "af99e565-8399-3c45-acea-7ab891f85633",
-			"albumTitle": "Past to Present 1977–1990",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TAMBU",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -44689,20 +44605,6 @@
 			"releaseGroupId": "a13165b0-00c3-4e06-b76b-b1648174b2f7",
 			"albumTitle": "Live (No More Fish Jokes)",
 			"artist": "Walter Trout Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "KUN TIL SILD",
-		"artist": "TRUSSETYVEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/kun_til_sild.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d0d8d7c4-e905-3a19-b328-bac9a1728b9d",
-			"albumTitle": "Kun til sild",
-			"artist": "Trussetyven",
 			"type": "Album"
 		}
 	},
