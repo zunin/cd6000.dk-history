@@ -9819,6 +9819,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "FRIA VÄRLDEN 1.989",
+		"artist": "EVA DAHLGREN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/fria_vaerlden_1989.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c6207d72-cdf8-357e-b8fa-199944f5d73b",
+			"albumTitle": "Fria världen 1.989",
+			"artist": "Eva Dahlgren",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SENTIMENTAL JOURNEY",
 		"artist": "DAIMI",
 		"price": "15,00 kr.",
@@ -9845,6 +9859,24 @@
 			"artist": "Dalton",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "DALTON VAR HER (2CD+DVD)",
+		"artist": "DALTON",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/dalton_var_her.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TYVE-TI (CD+DVD) (15x14 cm 'papcover')",
+		"artist": "DALTON",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/tyve-ti.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SPRED VINGERNE UD!",
@@ -10200,6 +10232,20 @@
 		}
 	},
 	{
+		"albumTitle": "DANCE ALL NIGHT",
+		"artist": "DE BARGE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dance_all_night.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TV ON THE RADIO",
 		"artist": "DEAR SCIENCE",
 		"price": "10,00 kr.",
@@ -10207,6 +10253,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "LIVE IN STUDIO HARD ROCK & COUNTRY",
+		"artist": "DECCO BAND",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/decco_band_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
+			"albumTitle": "Self Titled",
+			"artist": "The Band Who Knew Too Much",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "HOME",
@@ -10943,6 +11003,29 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE OVER GOLD (remastered)",
+		"artist": "DIRE STRAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/love_over_gold_remastered.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ON THE NIGHT",
+		"artist": "DIRE STRAITS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/on_the_night.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2f8a4b5a-f4f4-364b-b4ac-74fbc9c14b8c",
+			"albumTitle": "On the Night",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SULTANS OF SWING THE VERY BEST OF (2CD+DVD boks)",
 		"artist": "DIRE STRAITS",
 		"price": "40,00 kr.",
@@ -10987,6 +11070,15 @@
 			"artist": "Diskofil",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "25 MINUTTER ENDNU",
+		"artist": "POUL DISSING",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/25_minutter_endnu.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DEJLIGE DANSKE (2CD)",
@@ -11091,6 +11183,20 @@
 			"releaseGroupId": "c8e533b5-a46d-41d4-b321-34800b9d4a33",
 			"albumTitle": "Hilsen til forårssolen",
 			"artist": "Dissing/Andersen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HYMNER & UKRUDT",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hymner_og_ukrudt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "HYMNER & UKRUDT",
+			"artist": "Various Artists",
 			"type": "Album"
 		}
 	},
@@ -11259,6 +11365,34 @@
 			"releaseGroupId": "978eecab-c380-3bce-8ee0-93014801e589",
 			"albumTitle": "Græsset må betrædes",
 			"artist": "Dissing, Dissing, Von Daler, Las & Dissing",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DISSING DISSING VON DALER & DISSING",
+		"artist": "DISSING DISSING VON DALER & DISSING",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dissing_dissing_von_daler.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "954c0d8a-3ef9-4891-b3ed-611b1b34ea99",
+			"albumTitle": "Dissing, Dissing, Von Daler & Dissing",
+			"artist": "Dissing, Dissing, Von Daler & Dissing",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEN SIGNEDE DAG",
+		"artist": "POUL DISSING, KNUT REIERSRUD, IVER KLIEIVE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/den_signede_dag.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "580debf1-99eb-303c-96ca-635df646a5e7",
+			"albumTitle": "Den signede dag",
+			"artist": "Iver Kleive, Povl Dissing, Knut Reiersrud",
 			"type": "Album"
 		}
 	},
@@ -12042,6 +12176,20 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST",
+		"artist": "DURAN DURAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/duran_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8fb553b2-54c7-375e-94f4-6cf8c70bbab4",
+			"albumTitle": "Greatest",
+			"artist": "Duran Duran",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE WEDDING ALBUM",
 		"artist": "DURAN DURAN",
 		"price": "10,00 kr.",
@@ -12158,6 +12306,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "39d8b6a8-7a20-40c2-a3cd-d22d5781d806",
 			"albumTitle": "The Best of Bob Dylan",
+			"artist": "Bob Dylan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "NASHVILLE SKYLINE",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/nashville_skyline.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2ca28746-8987-3015-b54c-75b3aa8ca1a1",
+			"albumTitle": "Nashville Skyline",
 			"artist": "Bob Dylan",
 			"type": "Album"
 		}
@@ -12471,9 +12633,23 @@
 	},
 	{
 		"albumTitle": "WHEN DID YOU LEAVE HEAVEN",
-		"artist": "LISA EKDAHL PETER NORDAHL TRIO",
+		"artist": "LISA EKDAHL & PETER NORDAHL TRIO",
 		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/when_did_you_leave_heaven_arietta.htm",
+		"origin": "http://cd6000.dk/when_did_you_leave_heaven_11_tracks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ed73148d-966f-3c66-baf4-378ed0bf0c91",
+			"albumTitle": "When Did You Leave Heaven",
+			"artist": "Lisa Ekdahl",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WHEN DID YOU LEAVE HEAVEN",
+		"artist": "LISA EKDAHL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/when_did_you_leave_heaven_13_tracks.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -12522,20 +12698,6 @@
 			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
 			"albumTitle": "Unknown Title",
 			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PART TWO",
-		"artist": "ELECTRIC LIGHT ORCHESTRA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/elo_part_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "27ea5f79-4697-340d-8ef1-7ecb0b2f8e36",
-			"albumTitle": "Electric Light Orchestra Part Two",
-			"artist": "Electric Light Orchestra Part II",
 			"type": "Album"
 		}
 	},
@@ -12596,6 +12758,20 @@
 		}
 	},
 	{
+		"albumTitle": "LYSTENS Ø",
+		"artist": "ELISABETH",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/lystens_oe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "34ab12ef-8626-3c02-bb66-7dfb1eedaf2e",
+			"albumTitle": "Lystens ø",
+			"artist": "Elisabeth",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LÆR MIG NATTENS STJERNE",
 		"artist": "ELISABETH",
 		"price": "30,00 kr.",
@@ -12605,6 +12781,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "6d0870b7-946c-3563-bfe8-57c4d5c8e81e",
 			"albumTitle": "Lær mig nattens stjerne",
+			"artist": "Elisabeth",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SALTO MORTALE",
+		"artist": "ELISABETH",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/salto_mortale.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6b3b4f4e-39fe-40fc-803a-43f1c8679922",
+			"albumTitle": "Salto Mortale",
 			"artist": "Elisabeth",
 			"type": "Album"
 		}
@@ -12736,6 +12926,20 @@
 			"releaseGroupId": "99af0acb-cc3f-43db-83eb-7db2669be8fa",
 			"albumTitle": "Solo",
 			"artist": "Ann-Mette Elten",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE EMINEM SHOW",
+		"artist": "EMINEM",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_eminem_show.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e9585ed4-d148-3711-bbee-55a97b58325a",
+			"albumTitle": "The Eminem Show",
+			"artist": "Eminem",
 			"type": "Album"
 		}
 	},
@@ -13066,6 +13270,20 @@
 		}
 	},
 	{
+		"albumTitle": "CARIBBEAN SOUL",
+		"artist": "GLORIA ESTEFAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/caribbean_soul.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "92caa73f-056d-3ed7-bdf1-984479a9d251",
+			"albumTitle": "Alma caribeña",
+			"artist": "Gloria Estefan",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CUTS BOTH WAYS",
 		"artist": "GLORIA ESTEFAN",
 		"price": "10,00 kr.",
@@ -13080,6 +13298,34 @@
 		}
 	},
 	{
+		"albumTitle": "DESTINY",
+		"artist": "GLORIA ESTEFAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/estefan_destiny.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bbc78363-eb49-34be-b97a-022a2294d6dc",
+			"albumTitle": "Destiny",
+			"artist": "Gloria Estefan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GLORIA!",
+		"artist": "GLORIA ESTEFAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/gloria!.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8cb1cf58-20da-35f3-9920-4405556659dc",
+			"albumTitle": "Gloria!",
+			"artist": "Gloria Estefan",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "GLORIA ESTEFAN",
 		"price": "10,00 kr.",
@@ -13089,6 +13335,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b4965eca-7779-3a9e-a4f4-32dce4804c8b",
 			"albumTitle": "Greatest Hits",
+			"artist": "Gloria Estefan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HOLD ME THRILL ME KISS ME",
+		"artist": "GLORIA ESTEFAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hold_me_thrill_me.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2089de1a-98e2-3cda-a8d3-c097c02abd72",
+			"albumTitle": "Hold Me, Thrill Me, Kiss Me",
 			"artist": "Gloria Estefan",
 			"type": "Album"
 		}
@@ -13159,6 +13419,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE FINAL COUNTDOWN",
+		"artist": "EUROPE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_final_countdown.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8e0f0c00-7d5c-42e0-8a83-d8623729c52d",
+			"albumTitle": "The Final Countdown",
+			"artist": "Europe",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PEACE",
 		"artist": "EURYTHMICS",
 		"price": "10,00 kr.",
@@ -13187,6 +13461,20 @@
 		}
 	},
 	{
+		"albumTitle": "WE TOO ARE ONE",
+		"artist": "EURYTHMICS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/we_too_are_one.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "953aa7d8-fe77-3ed0-9f96-24ac60bac8fc",
+			"albumTitle": "We Too Are One",
+			"artist": "Eurythmics",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EVE 6",
 		"artist": "EVE 6",
 		"price": "10,00 kr.",
@@ -13197,6 +13485,20 @@
 			"releaseGroupId": "4bf88f7e-bac3-34ab-9cd6-bb630d5d2ea2",
 			"albumTitle": "Eve 6",
 			"artist": "Eve 6",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SONGS FROM AN AMERICAN MOVIE VOL. ONE: LEARNING HOW TO SMILE",
+		"artist": "EVERCLEAR",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/songs_from_an_american_movie.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f1af8fce-9662-3c63-bb17-8acf4edda4e6",
+			"albumTitle": "Songs From an American Movie, Vol. One: Learning How to Smile",
+			"artist": "Everclear",
 			"type": "Album"
 		}
 	},
@@ -13271,29 +13573,6 @@
 		}
 	},
 	{
-		"albumTitle": "PORNOGRAFITTI",
-		"artist": "EXTREME II",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/pornografitti.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "SONGS FROM AN AMERICAN MOVIE VOL. ONE: LEARNING HOW TO SMILE",
-		"artist": "EVERCLEAR",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/songs_from_an_american_movie.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f1af8fce-9662-3c63-bb17-8acf4edda4e6",
-			"albumTitle": "Songs From an American Movie, Vol. One: Learning How to Smile",
-			"artist": "Everclear",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "AMPLIFIED HEART",
 		"artist": "EVERYTHING BUT THE GIRL",
 		"price": "10,00 kr.",
@@ -13304,6 +13583,29 @@
 			"releaseGroupId": "6a463239-2a01-34d1-abc3-82b09ee8be4e",
 			"albumTitle": "Amplified Heart",
 			"artist": "Everything but the Girl",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PORNOGRAFITTI",
+		"artist": "EXTREME II",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/pornografitti.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "WANTED ON VOYAGE",
+		"artist": "GEORGE EZRA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/wanted_on_voyage.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9b2a689e-7935-4afc-84c9-1ef54a8c873d",
+			"albumTitle": "Wanted on Voyage",
+			"artist": "George Ezra",
 			"type": "Album"
 		}
 	},
