@@ -1648,20 +1648,6 @@
 		}
 	},
 	{
-		"albumTitle": "HUMBUG",
-		"artist": "ARCTIC MONKEYS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/humbug.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "23b7e9e9-8820-4a49-b44f-a7a60e0a7e81",
-			"albumTitle": "Humbug",
-			"artist": "Arctic Monkeys",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DON'T ASK",
 		"artist": "TINA ARENA",
 		"price": "10,00 kr.",
@@ -4211,34 +4197,6 @@
 		}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "BJÖRK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bjoerk_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "07d2f772-531d-3d19-920a-72337891800d",
-			"albumTitle": "Greatest Hits",
-			"artist": "Björk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HOMOGENIC",
-		"artist": "BJÖRK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/homogenic.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "810272e0-aef1-3d85-b2d3-e512e87fc38c",
-			"albumTitle": "Homogenic",
-			"artist": "Björk",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "POST",
 		"artist": "BJÖRK",
 		"price": "10,00 kr.",
@@ -5286,20 +5244,6 @@
 			"releaseGroupId": "800660cf-4ffc-3a41-80d0-bb4d53d42c7a",
 			"albumTitle": "[untitled]",
 			"artist": "Sachiko M, Sean Meehan",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EVERYTHING'S ALRIGHT FOREVER",
-		"artist": "THE BOO RADLEYS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/everythings_alright_forever.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0e774ea9-8b7d-3ea2-93f1-27ae28e0d7ad",
-			"albumTitle": "Everything’s Alright Forever",
-			"artist": "The Boo Radleys",
 			"type": "Album"
 		}
 	},
@@ -7214,15 +7158,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE ESSENTIAL JOHNNY CASH (2CD)",
-		"artist": "JOHNNY CASH",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/cash_essential.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SONGBIRD",
 		"artist": "EVA CASSIDY",
 		"price": "10,00 kr.",
@@ -8461,20 +8396,6 @@
 		}
 	},
 	{
-		"albumTitle": "PARACHUTES",
-		"artist": "COLDPLAY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/parachutes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1dc4c347-a1db-32aa-b14f-bc9cc507b843",
-			"albumTitle": "Parachutes",
-			"artist": "Coldplay",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "VIVA LA VIDA",
 		"artist": "COLDPLAY",
 		"price": "10,00 kr.",
@@ -8862,20 +8783,6 @@
 			"releaseGroupId": "455e308f-0af4-4962-bb26-e19a27ee7899",
 			"albumTitle": "Hits of the 50’s",
 			"artist": "Sam Cooke",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "ALICE COOPER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/alice_cooper_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b8e4fe4c-a181-4e3c-bfb4-81ca4e8c7f66",
-			"albumTitle": "Greatest Hits",
-			"artist": "Alice Cooper",
 			"type": "Album"
 		}
 	},
@@ -10255,20 +10162,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "LIVE IN STUDIO HARD ROCK & COUNTRY",
-		"artist": "DECCO BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/decco_band_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
-			"albumTitle": "Self Titled",
-			"artist": "The Band Who Knew Too Much",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HOME",
 		"artist": "DEEP BLUE SOMETHING",
 		"price": "10,00 kr.",
@@ -10363,34 +10256,6 @@
 			"releaseGroupId": "ef2bc345-1bb9-3b01-8af9-ad172df4a6da",
 			"albumTitle": "Best Of",
 			"artist": "Def Leppard",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PYROMANIA",
-		"artist": "DEF LEPPARD",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/pyromania.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d77df681-b779-3d6d-b66a-3bfd15985e3e",
-			"albumTitle": "Pyromania",
-			"artist": "Def Leppard",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RETROACTIVE",
-		"artist": "DEF LEPPARD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/retroactive.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3de46694-967e-44cb-ab6a-70c2b9b2a580",
-			"albumTitle": "Self Titled Album",
-			"artist": "Deftones for Cutie",
 			"type": "Album"
 		}
 	},
@@ -10532,15 +10397,6 @@
 			"artist": "John Denver",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE BEST OF VOLUME 1",
-		"artist": "DEPECHE MODE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/depeche_mode_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE SINGLES 81-85",
@@ -11875,20 +11731,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE BEST OF (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF (2CD)",
-		"artist": "THE DOORS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/doors_very_best_2cd.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -13573,20 +13415,6 @@
 		}
 	},
 	{
-		"albumTitle": "AMPLIFIED HEART",
-		"artist": "EVERYTHING BUT THE GIRL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/amplified_heart.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6a463239-2a01-34d1-abc3-82b09ee8be4e",
-			"albumTitle": "Amplified Heart",
-			"artist": "Everything but the Girl",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PORNOGRAFITTI",
 		"artist": "EXTREME II",
 		"price": "10,00 kr.",
@@ -14503,20 +14331,6 @@
 			"releaseGroupId": "35c9950c-24bb-34e6-bbde-954b0b1e7f48",
 			"albumTitle": "I’m the One",
 			"artist": "Roberta Flack",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "FLEETWOOD MAC",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/fleetwood_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d84bfe53-d7e6-326b-b639-e5c3951caa06",
-			"albumTitle": "Greatest Hits",
-			"artist": "Fleetwood Mac",
 			"type": "Album"
 		}
 	},
@@ -17815,20 +17629,6 @@
 			"releaseGroupId": "5ec8be0c-408b-4223-babc-21fe7d7467fb",
 			"albumTitle": "No. 8",
 			"artist": "Caroline Henderson",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EXPERIENCE HENDRIX THE BEST OF",
-		"artist": "JIMI HENDRIX",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/experience_hendrix.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c398cd29-bd3a-3dca-bea2-e5d93d6e2778",
-			"albumTitle": "Experience Hendrix: The Best of Jimi Hendrix",
-			"artist": "Jimi Hendrix",
 			"type": "Album"
 		}
 	},
@@ -29392,20 +29192,6 @@
 		}
 	},
 	{
-		"albumTitle": "BONA DRAG",
-		"artist": "MORISSEY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bona_drag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "89e0c763-1b48-35c7-a7a6-1f4c1b7fbf37",
-			"albumTitle": "Bona Drag",
-			"artist": "Morrissey",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MALADJUSTED",
 		"artist": "MORRISSEY",
 		"price": "10,00 kr.",
@@ -29424,15 +29210,6 @@
 		"artist": "MORRISSEY",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/ringleader_of.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "GREATEST HITS (2CD)",
-		"artist": "MORRISSEY",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/morrissey_greatest_2.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -29899,20 +29676,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ISN'T ANYTHING",
-		"artist": "MY BLOODY VALENTINE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/isnt_anything.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "55a73423-bf7d-3969-b1b2-c34c43140e1a",
-			"albumTitle": "Isn’t Anything",
-			"artist": "My Bloody Valentine",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LOW VELOCITY BULLETS",
@@ -32581,20 +32344,6 @@
 			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
 			"albumTitle": "Unknown Title",
 			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STANKONIA",
-		"artist": "OUTKAST",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/stankonia.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "00d2cd53-21c9-3738-b683-56847b7b0040",
-			"albumTitle": "Stankonia",
-			"artist": "OutKast",
 			"type": "Album"
 		}
 	},
@@ -35619,20 +35368,6 @@
 		}
 	},
 	{
-		"albumTitle": "TRANSFORMER (remastered)",
-		"artist": "LOU REED",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/transformer_rem.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f281cb6-6abc-4c84-8598-99c681006a46",
-			"albumTitle": "[untitled]",
-			"artist": "Lou Cohen, Matt Samolis, Steve Norton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "20 GOLDEN HITS",
 		"artist": "JIM REEVES",
 		"price": "10,00 kr.",
@@ -36722,20 +36457,6 @@
 		}
 	},
 	{
-		"albumTitle": "GRRR!",
-		"artist": "THE ROLLING STONES",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/grrr.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1e51a297-657c-4c0d-81ae-f0ca90c68aab",
-			"albumTitle": "GRRR!",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HOT ROCKS 64-71 (2CD)",
 		"artist": "THE ROLLING STONES",
 		"price": "20,00 kr.",
@@ -37556,20 +37277,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LOVE DELUXE",
-		"artist": "SADE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/love_deluxe.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e4a67add-6aab-390c-bb82-53939fb9cd0a",
-			"albumTitle": "Love Deluxe",
-			"artist": "Sade",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "PROMISE",
@@ -39813,15 +39520,6 @@
 		"artist": "PAUL SIMON",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/paul_simon_essential.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TRILOGY (3CD)",
-		"artist": "NINA SIMONE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/nina_simone_trilogy.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -48242,15 +47940,6 @@
 			"artist": "Robbie Williams",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "PRESENTS SMILE (lille 'boks' med 'bog')",
-		"artist": "BRIAN WILSON",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/presents_smile.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SHADOWS AND LIGHT",
