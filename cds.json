@@ -9768,24 +9768,6 @@
 		}
 	},
 	{
-		"albumTitle": "DALTON VAR HER (2CD+DVD)",
-		"artist": "DALTON",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/dalton_var_her.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TYVE-TI (CD+DVD) (15x14 cm 'papcover')",
-		"artist": "DALTON",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/tyve-ti.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SPRED VINGERNE UD!",
 		"artist": "DANSEORKESTRET",
 		"price": "10,00 kr.",
@@ -31808,20 +31790,6 @@
 		}
 	},
 	{
-		"albumTitle": "GAJO",
-		"artist": "ALLAN OLSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/gajo.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5a96d779-297c-397b-8a4e-9986aadb9407",
-			"albumTitle": "Gajo",
-			"artist": "Allan Olsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "JERN",
 		"artist": "ALLAN OLSEN",
 		"price": "10,00 kr.",
@@ -38023,20 +37991,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "STEMMEN FRA 80'ERNE VOL. 1 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STEMMEN FRA 80'ERNE VOL. 2 (2CD)",
-		"artist": "KIM SCHUMACHER (DIVERSE KUNSTNERE)",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/kim_schumacher_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "STEMMEN FRA 80'ERNE VOL. 2 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
