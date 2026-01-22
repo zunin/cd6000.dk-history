@@ -14354,20 +14354,6 @@
 		}
 	},
 	{
-		"albumTitle": "TRANSMISSIONS FROM THE SATELLITE HEART",
-		"artist": "THE FLAMING LIPS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/transmissions_from.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9110fa7a-360b-3a7e-a693-50526d05a2d3",
-			"albumTitle": "Transmissions From the Satellite Heart",
-			"artist": "The Flaming Lips",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TANGO IN THE NIGHT",
 		"artist": "FLEETWOOD MAC",
 		"price": "10,00 kr.",
@@ -15239,15 +15225,6 @@
 			"artist": "Serge Gainsbourg",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "DE GAINSBOURG Á GAINSBARRE (2CD)",
-		"artist": "GAINSBOURG",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/de_gainsbourg.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "COMPENDIUM GREATEST HITS",
@@ -17010,20 +16987,6 @@
 		}
 	},
 	{
-		"albumTitle": "SIXTEEN GREATEST",
-		"artist": "HALBEWRG LARSEN",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/sixteen_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fa6aa01-b0ab-3c8a-9faa-b3cdcdf8d888",
-			"albumTitle": "Sixteen Greatest",
-			"artist": "Halberg Larsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A TOUCH OF EXCELLENCE",
 		"artist": "MARTIN HALL",
 		"price": "25,00 kr.",
@@ -17392,20 +17355,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "c0a04d42-9fe5-4e7a-9a4e-0aa2915dfcba",
 			"albumTitle": "I fornuftens land",
-			"artist": "Niels Hausgaard",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NÅR ALT KOMMER TIL ALT",
-		"artist": "NIELS HAUSGAARD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/naar_alt_kommer_til_alt.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bd7d369d-4695-3a11-8569-e5f46d71bac2",
-			"albumTitle": "Når alt kommer til alt",
 			"artist": "Niels Hausgaard",
 			"type": "Album"
 		}
@@ -22224,15 +22173,6 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "MP3 (30 !! albums på mp3 2CD) (russian bootleg)",
-		"artist": "KISS",
-		"price": "50,00 kr.",
-		"origin": "http://cd6000.dk/kiss_mp3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "RELEASE THE BIRDS",
