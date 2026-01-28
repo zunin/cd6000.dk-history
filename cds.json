@@ -371,34 +371,6 @@
 		}
 	},
 	{
-		"albumTitle": "DA CAPO",
-		"artist": "ACE OF BASE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/da_capo.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "be62a5b3-2236-38e7-bcb0-c87f75be2259",
-			"albumTitle": "Da Capo",
-			"artist": "Ace of Base",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FLOWERS",
-		"artist": "ACE OF BASE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/flowers.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cae8429a-2db5-3189-af89-45d10f6fa4ae",
-			"albumTitle": "Flowers",
-			"artist": "Ace of Base",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BRIDGE",
 		"artist": "ACE OF BASE",
 		"price": "10,00 kr.",
@@ -14410,20 +14382,6 @@
 		}
 	},
 	{
-		"albumTitle": "RUMOURS",
-		"artist": "FLEETWOOD MAC",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/rumours.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
-			"albumTitle": "Rumours",
-			"artist": "Fleetwood Mac",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TUSK",
 		"artist": "FLEETWOOD MAC",
 		"price": "30,00 kr.",
@@ -26523,20 +26481,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MANFRED MANN'S EARTH BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/manfred_mann_earth_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d0c41b6-f754-30ac-b6bd-65c4981e7e2f",
-			"albumTitle": "The Very Best Of, Volume 2",
-			"artist": "Manfred Mann’s Earth Band",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "POST MODERN PANIC ATTACK",
 		"artist": "MANI SPINX",
 		"price": "10,00 kr.",
@@ -27291,20 +27235,6 @@
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/wingspan.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
-			"albumTitle": "Title And Descriptive Themes",
-			"artist": "John Du Prez",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RED ROSE SPEEDWAY (unofficial)",
-		"artist": "PAUL McCARTNEY",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/red_rose_speedway_u.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -28579,20 +28509,6 @@
 			"releaseGroupId": "f603f65a-b18d-3bec-9c3e-c6839623ac04",
 			"albumTitle": "Word of Mouth",
 			"artist": "Mike + the Mechanics",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GREATEST HITS (remastered)",
-		"artist": "STEVE MILLER BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/steve_miller_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -34685,20 +34601,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "e7ad7dc7-2605-4e4d-9ce1-84a6392b33ca",
 			"albumTitle": "Queen",
-			"artist": "Queen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "QUEEN II (remastered)",
-		"artist": "QUEEN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/queen_ii.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "015fa681-78e3-37b2-bff2-fa19f8d5a8d4",
-			"albumTitle": "Greatest Hits: We Will Rock You",
 			"artist": "Queen",
 			"type": "Album"
 		}
