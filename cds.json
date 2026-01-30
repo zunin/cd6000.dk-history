@@ -176,15 +176,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE COMPLETE STUDIO RECORDINGS (9CD boks)",
-		"artist": "ABBA",
-		"price": "125,00 kr.",
-		"origin": "http://cd6000.dk/abba_complete_box.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "VOYAGE",
 		"artist": "ABBA",
 		"price": "25,00 kr.",
@@ -7144,20 +7135,6 @@
 		}
 	},
 	{
-		"albumTitle": "SOMEWHERE",
-		"artist": "EVA CASSIDY",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/somewhere.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fdfad72-97f5-33f5-9a5e-1c997d296ed1",
-			"albumTitle": "Somewhere",
-			"artist": "Eva Cassidy",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "INTERNATIONAL VELVET",
 		"artist": "CATATONIA",
 		"price": "10,00 kr.",
@@ -8787,20 +8764,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHEN I WAS BORN FOR THE 7th TIME",
-		"artist": "CORNERSHOP",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/when_i_was_born.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "070fb0a3-76ff-34fb-a892-19f6c7d303f6",
-			"albumTitle": "When I Was Born for the 7th Time",
-			"artist": "Cornershop",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ONE (2CD)",
 		"artist": "IDA CORR",
 		"price": "10,00 kr.",
@@ -9011,20 +8974,6 @@
 			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
 			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
 			"artist": "Bruce Springsteen, The E Street Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TO THE FAITHFUL DEPARTED",
-		"artist": "CRANBERRIES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/to_the_faithful_departed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e667e66b-f93d-327e-acb8-ae7aaf6a6ee5",
-			"albumTitle": "To the Faithful Departed",
-			"artist": "The Cranberries",
 			"type": "Album"
 		}
 	},
@@ -12335,20 +12284,6 @@
 		}
 	},
 	{
-		"albumTitle": "FACE THE MUSIC",
-		"artist": "SINNE EGG",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/sinne_egg_face_the_music.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b0cf3055-4189-44d9-8f74-8b9d79352fda",
-			"albumTitle": "Face the Music",
-			"artist": "Sinne Eeg",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ALT DU VIL HA",
 		"artist": "BJØRN EIDSVÅG",
 		"price": "10,00 kr.",
@@ -12432,20 +12367,6 @@
 		"artist": "LISA EKDAHL & PETER NORDAHL TRIO",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/when_did_you_leave_heaven_11_tracks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ed73148d-966f-3c66-baf4-378ed0bf0c91",
-			"albumTitle": "When Did You Leave Heaven",
-			"artist": "Lisa Ekdahl",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WHEN DID YOU LEAVE HEAVEN",
-		"artist": "LISA EKDAHL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/when_did_you_leave_heaven_13_tracks.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -15129,20 +15050,6 @@
 		}
 	},
 	{
-		"albumTitle": "GABRIELLE",
-		"artist": "GABRIELLE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/gabrielle.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e4e94cab-a980-3571-b61c-53b6dfd6a399",
-			"albumTitle": "Gabrielle",
-			"artist": "Gabrielle",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "ERIC GADD",
 		"price": "10,00 kr.",
@@ -15283,20 +15190,6 @@
 		}
 	},
 	{
-		"albumTitle": "CURRENCY OF MAN",
-		"artist": "MELODY GARDOT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/currency_of_man.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "13a05189-029c-4300-bab3-7ff48253f72a",
-			"albumTitle": "Currency of Man",
-			"artist": "Melody Gardot",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MY ONE AND ONLY THRILL",
 		"artist": "MELODY GARDOT",
 		"price": "10,00 kr.",
@@ -15309,15 +15202,6 @@
 			"artist": "Melody Gardot",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE ABSCENCE",
-		"artist": "MELODY GARDOT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_absence.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "WORRISOME HEART",
@@ -16358,15 +16242,6 @@
 			"artist": "Macy Gray",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "I TRY, THE MACY GRAY COLLECTION",
-		"artist": "MACY GRAY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/i_try.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "PLAY",
@@ -22861,34 +22736,6 @@
 		}
 	},
 	{
-		"albumTitle": "LOVE SCENES",
-		"artist": "DIANA KRALL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/love_scenes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ac3891fb-0bc2-388b-950a-55dc93296d3e",
-			"albumTitle": "Love Scenes",
-			"artist": "Diana Krall",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "QUIET NIGHTS",
-		"artist": "DIANA KRALL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/quiet_nights.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "343f1fa3-bd8e-372f-a195-f4a8af0b1216",
-			"albumTitle": "Quiet Nights",
-			"artist": "Diana Krall",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE GIRL IN THE OTHER ROOM",
 		"artist": "DIANA KRALL",
 		"price": "10,00 kr.",
@@ -23428,20 +23275,6 @@
 			"releaseGroupId": "e5495719-b3ad-3eea-a533-fb70af43c23d",
 			"albumTitle": "The Fame",
 			"artist": "Lady Gaga",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LADY ANTEBELLUM",
-		"artist": "LADY ANTEBELLUM",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/lady_antebellum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b11978d4-9615-32d5-a23a-57faab722236",
-			"albumTitle": "Lady Antebellum",
-			"artist": "Lady A",
 			"type": "Album"
 		}
 	},
@@ -33413,20 +33246,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "STØRSTE HITS",
-		"artist": "DOLLY PARTON",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/parton_stoerste_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "08db66a4-cf4b-305c-a85a-20e8e0650a5d",
-			"albumTitle": "Største Hits",
-			"artist": "Dolly Parton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
@@ -34063,20 +33882,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "659b6294-bfa7-3ebb-990c-273f9ad61af2",
 			"albumTitle": "The Very Best Of…",
-			"artist": "The Pogues",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WAITING FOR HERB",
-		"artist": "THE POGUES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/waiting_for_herb.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6d3e1279-ac20-3e65-be8b-2bde0f4694fb",
-			"albumTitle": "Waiting for Herb",
 			"artist": "The Pogues",
 			"type": "Album"
 		}
@@ -40195,20 +40000,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "25, THE GREATEST HITS (2CD)",
-		"artist": "SIMPLY RED",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/simply_red_25.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "45350e05-c1a7-4af8-88cb-a74d43d814e8",
-			"albumTitle": "[Title Not Identified]",
-			"artist": "Red Rot",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BLUE",
 		"artist": "SIMPLY RED",
 		"price": "10,00 kr.",
@@ -41552,20 +41343,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "ea3b093d-4fc5-4ab8-83eb-a3a6b4d0154e",
 			"albumTitle": "Time Is Running Out",
-			"artist": "Sound of Seduction",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WELCOME",
-		"artist": "SOUND OF SEDUCTION",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/sos_welcome.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "edc4b1ef-251d-4f1c-8488-cb35cde87313",
-			"albumTitle": "Welcome",
 			"artist": "Sound of Seduction",
 			"type": "Album"
 		}
@@ -43871,20 +43648,6 @@
 		}
 	},
 	{
-		"albumTitle": "CON AMOR",
-		"artist": "LIS SØRENSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/con_amor.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b34b0939-2e0a-3465-97d7-9020cda00b5c",
-			"albumTitle": "Con Amor",
-			"artist": "Lis Sørensen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DU KA' FÅ MIG TIL ALT",
 		"artist": "LIS SØRENSEN",
 		"price": "10,00 kr.",
@@ -43937,20 +43700,6 @@
 			"releaseGroupId": "57df91e7-a6d1-3fa3-86f0-2574ddc89c31",
 			"albumTitle": "Kærtegn",
 			"artist": "Lis Sørensen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NÆRVED OG NÆSTEN LIVE & ACOUSTIC",
-		"artist": "LIS SØRENSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/naerved_og_naesten.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5aec666a-bd31-41b7-8d2c-298748de36d7",
-			"albumTitle": "Rear View",
-			"artist": "EVA",
 			"type": "Album"
 		}
 	},
@@ -45145,20 +44894,6 @@
 			"releaseGroupId": "0b301c20-e922-3555-8362-53eb8c6f9d27",
 			"albumTitle": "[untitled]",
 			"artist": "Hauntings, Robedoor",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TRIO II",
-		"artist": "TRIO EMMYLOU HARRIS, LINDA RONSTADT, DOLLY PARTON",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/trio_ii.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5e187555-0c0e-3232-b521-93ab733d7c30",
-			"albumTitle": "Trio II",
-			"artist": "Emmylou Harris, Linda Ronstadt, Dolly Parton",
 			"type": "Album"
 		}
 	},
@@ -47762,20 +47497,6 @@
 		}
 	},
 	{
-		"albumTitle": "WENDY and LISA",
-		"artist": "WENDY and LISA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/wendy_and_lisa.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "78a24f55-467c-3645-b94e-88add94e16a3",
-			"albumTitle": "Wendy and Lisa",
-			"artist": "Wendy & Lisa",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TAROT",
 		"artist": "JULIANE WERDING",
 		"price": "10,00 kr.",
@@ -48550,20 +48271,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TAKE THE CROWN",
-		"artist": "ROBBIE WILLIAMS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/take_the_crown.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "53ea6f5a-8f2b-4ea8-9244-b2ca2172a3e9",
-			"albumTitle": "Take the Crown",
-			"artist": "Robbie Williams",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SHADOWS AND LIGHT",
