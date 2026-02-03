@@ -830,20 +830,6 @@
 		}
 	},
 	{
-		"albumTitle": "TALKIE WALKIE",
-		"artist": "AIR",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/talkie_walkie.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c636f6e8-0fe6-3470-b5af-b31a0ebed0bb",
-			"albumTitle": "Talkie Walkie",
-			"artist": "Air",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GO AHEAD AND DO IT",
 		"artist": "AIRHEADS",
 		"price": "10,00 kr.",
@@ -4174,34 +4160,6 @@
 		}
 	},
 	{
-		"albumTitle": "VESPERTINE",
-		"artist": "BJÖRK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/vespertine.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "271faeb3-fdd1-3ebb-80aa-97b3116e9341",
-			"albumTitle": "Vespertine",
-			"artist": "Björk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "VOLTA",
-		"artist": "BJÖRK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/volta.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dd749dc7-dd75-35e7-86fe-3c1db24483c0",
-			"albumTitle": "Volta",
-			"artist": "Björk",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE END",
 		"artist": "THE BLACK EYED PEAS",
 		"price": "10,00 kr.",
@@ -4462,20 +4420,6 @@
 		}
 	},
 	{
-		"albumTitle": "PARALLEL LINES",
-		"artist": "BLONDIE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/parallel_lines.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0c1a4d70-5926-3ae8-aa25-466fe65639fe",
-			"albumTitle": "Parallel Lines",
-			"artist": "Blondie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF",
 		"artist": "BLONDIE",
 		"price": "10,00 kr.",
@@ -4506,20 +4450,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LIFE OF A GHOST",
-		"artist": "BLUE FOUNDATION",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/life_of_a_ghost.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a4cf23f3-5101-3d7d-aeed-db4c5b094143",
-			"albumTitle": "Life of a Ghost",
-			"artist": "Blue Foundation",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "DIAMOND ON A DUMP",
@@ -5743,15 +5673,6 @@
 			"artist": "James Brown",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "RUNNING ON EMPTY (digitally remastered)",
-		"artist": "JACKSON BROWNE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/running_on_empty.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "COLLECTIONS",
@@ -10669,20 +10590,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "7e1ada24-6fb0-3b23-a671-9cdaf865c515",
 			"albumTitle": "Communiqué",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DIRE STRAITS",
-		"artist": "DIRE STRAITS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/dire_straits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4914e4cf-4ad4-466d-a016-3d57bcb682ed",
-			"albumTitle": "Dire Straits",
 			"artist": "Dire Straits",
 			"type": "Album"
 		}
@@ -16615,20 +16522,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
 			"albumTitle": "Use Your Illusion I",
-			"artist": "Guns N’ Roses",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "USE YOUR ILLUSION II",
-		"artist": "GUNS & ROSES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/use_your_illusion_ii.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "617c9f00-9488-3a70-a994-9de312541617",
-			"albumTitle": "Use Your Illusion II",
 			"artist": "Guns N’ Roses",
 			"type": "Album"
 		}
@@ -25421,34 +25314,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "f6afdc8e-90e5-3b94-8bf0-c0fe58056c64",
 			"albumTitle": "Secret Samadhi",
-			"artist": "Live",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE DISTANCE TO HERE",
-		"artist": "LIVE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_distance_to_here.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0007a8c6-1c8d-356e-bb80-adad2b150894",
-			"albumTitle": "The Distance to Here",
-			"artist": "Live",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THROWING COPPER",
-		"artist": "LIVE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/live_v.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9f31404b-49d0-365e-935d-cb040b762abf",
-			"albumTitle": "Throwing Copper",
 			"artist": "Live",
 			"type": "Album"
 		}
@@ -43244,20 +43109,6 @@
 		}
 	},
 	{
-		"albumTitle": "I SHOULD COCO",
-		"artist": "SUPERGRASS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/i_should_coco_bag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6e796029-272d-3fe2-8ad0-d8a10ef80a66",
-			"albumTitle": "I Should Coco",
-			"artist": "Supergrass",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIFE ON OTHER PLANETS (unofficial)",
 		"artist": "SUPERGRASS",
 		"price": "10,00 kr.",
@@ -43816,20 +43667,6 @@
 			"releaseGroupId": "39d2f154-d773-3c51-9954-8ef86657766a",
 			"albumTitle": "Beautiful World",
 			"artist": "Take That",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TRUE STORIES",
-		"artist": "TALKING HEADS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/true_stories.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "57e52e6a-548c-4255-89a1-806c49e14432",
-			"albumTitle": "True Stories",
-			"artist": "Talking Heads",
 			"type": "Album"
 		}
 	},
