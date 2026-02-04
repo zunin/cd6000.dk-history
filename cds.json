@@ -5192,43 +5192,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEST OF (2CD) (remastered)",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bowie_best_of_2cd.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "EARTHLING",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/earthling.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9a723e6e-2ede-371b-88bf-396cc362d77b",
-			"albumTitle": "Earthling",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "1. OUTSIDE (THE NATHAN ADLER DIARIES: A HYPER CYCLE)",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bowie_1_outside.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f05647bf-86a7-3e6e-872a-20eb465be0a5",
-			"albumTitle": "1.Outside: The Nathan Adler Diaries: A Hyper Cycle",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HEATHEN",
 		"artist": "DAVID BOWIE",
 		"price": "15,00 kr.",
@@ -10783,20 +10746,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "15e42d22-6451-3b2e-b067-d03b9495ceef",
 			"albumTitle": "Jeg er en tosset spillemand",
-			"artist": "Povl Dissing",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LYKKELAND",
-		"artist": "POUL DISSING",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/lykkeland.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "db485b4d-c589-4fdd-bfbc-f1be2ad35b39",
-			"albumTitle": "Lykkeland",
 			"artist": "Povl Dissing",
 			"type": "Album"
 		}
@@ -26365,20 +26314,6 @@
 		}
 	},
 	{
-		"albumTitle": "MAGNUM",
-		"artist": "MAGNUM",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/magnum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6c57d5d5-30a7-3258-a971-2342c136e840",
-			"albumTitle": "Magnum II",
-			"artist": "Magnum",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GLITER IN THE GUTTER",
 		"artist": "JESSE MALIN",
 		"price": "10,00 kr.",
@@ -28845,20 +28780,6 @@
 			"releaseGroupId": "e942fe2f-2397-41fc-8b57-7ca268d6c9c6",
 			"albumTitle": "Last Night",
 			"artist": "Moby",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF (2CD)",
-		"artist": "MODERN TALKING",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/modern_talking_very_best_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dfdb3255-0876-3fa4-8b04-c7c72dee7cd8",
-			"albumTitle": "No Titles Please",
-			"artist": "David Byrne",
 			"type": "Album"
 		}
 	},
@@ -38348,15 +38269,6 @@
 			"artist": "Shakespears Sister",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "SCISSOR SISTERS (lille tidl. ejersignatur på innersleeve)",
-		"artist": "SCISSOR SISTERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/scissor_sisters.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "TA-DAH",
