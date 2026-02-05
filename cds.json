@@ -1100,34 +1100,6 @@
 		}
 	},
 	{
-		"albumTitle": "HEARTWARE",
-		"artist": "CHRISTIAN ALVAD",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/heartware.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "HEARTWARE",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HILLSIDE TUNINGS",
-		"artist": "CHRISTIAN ALVAD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/hillside_tunings.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1a21dd0b-8577-4121-a675-3bad043494a9",
-			"albumTitle": "Hillside Tunings",
-			"artist": "Christian Alvad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BEYOND DARKNESS",
 		"artist": "CHRISTIAN ALVAD RASMUS LYBERTH",
 		"price": "20,00 kr.",
@@ -1228,20 +1200,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "MIKE ANDERSEN",
-		"artist": "MIKE ANDERSEN",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/mike_andersen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2ac1696d-bdea-41d7-8b68-b3438c944da6",
-			"albumTitle": "Mike Andersen",
-			"artist": "Mike Andersen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ECHOES",
@@ -2875,20 +2833,6 @@
 			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
 			"albumTitle": "[untitled]",
 			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WELCOME TO THE SHOW",
-		"artist": "BJH BARCLAY JAMES HARVEST",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/welcome_to_the_show.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8756592d-51be-3152-8dc9-7671bb8ff75d",
-			"albumTitle": "Welcome to the Show",
-			"artist": "Barclay James Harvest",
 			"type": "Album"
 		}
 	},
@@ -7033,20 +6977,6 @@
 		}
 	},
 	{
-		"albumTitle": "FLYIN' HIGH",
-		"artist": "THE CATS",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/cats_flyin_high.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ac177aff-aa44-4698-b6ce-9864d1524eb0",
-			"albumTitle": "Flyin' High",
-			"artist": "The Cats",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ONE WAY WIND",
 		"artist": "THE CATS",
 		"price": "20,00 kr.",
@@ -8280,20 +8210,6 @@
 		}
 	},
 	{
-		"albumTitle": "CHRISTMAS ALBUM",
-		"artist": "NAT KING COLE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/nat_king_cole_christmas.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "09b6bca6-6140-3f45-8e3a-71adf0e4a702",
-			"albumTitle": "The Nat King Cole Christmas Album",
-			"artist": "Nat King Cole",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VELVET VOICE",
 		"artist": "NAT KING COLE",
 		"price": "10,00 kr.",
@@ -8606,20 +8522,6 @@
 		}
 	},
 	{
-		"albumTitle": "HITS OF THE 50'S",
-		"artist": "SAM COOKE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/sam_cooke_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "455e308f-0af4-4962-bb26-e19a27ee7899",
-			"albumTitle": "Hits of the 50’s",
-			"artist": "Sam Cooke",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "EUPHORIA MORNING",
 		"artist": "CHRIS CORNELL",
 		"price": "10,00 kr.",
@@ -8630,20 +8532,6 @@
 			"releaseGroupId": "36566ed8-0792-4af2-8a34-18f5326d5b8d",
 			"albumTitle": "Euphoria Mourning",
 			"artist": "Chris Cornell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HANDCREAM FOR A GENERATION",
-		"artist": "CORNERSHOP",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/handcream_for_a_generation.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7e356ff6-e823-3306-9112-e6deecb231ee",
-			"albumTitle": "Handcream for a Generation",
-			"artist": "Cornershop",
 			"type": "Album"
 		}
 	},
@@ -9529,20 +9417,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FRIA VÄRLDEN 1.989",
-		"artist": "EVA DAHLGREN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/fria_vaerlden_1989.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c6207d72-cdf8-357e-b8fa-199944f5d73b",
-			"albumTitle": "Fria världen 1.989",
-			"artist": "Eva Dahlgren",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SENTIMENTAL JOURNEY",
@@ -10701,42 +10575,6 @@
 		}
 	},
 	{
-		"albumTitle": "25 MINUTTER ENDNU",
-		"artist": "POUL DISSING",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/25_minutter_endnu.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DEJLIGE DANSKE (2CD)",
-		"artist": "POUL DISSING",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/dissing_dejlige_danske.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DEN SORTE SEJLER & ANDRE SØMANDSSANGE",
-		"artist": "POUL DISSING",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/den_sorte_sejler.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DISSING SYNGER BELLMAN",
-		"artist": "POUL DISSING",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dissing_synger_bellman.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "JEG ER EN TOSSET SPILLEMAND",
 		"artist": "POUL DISSING",
 		"price": "30,00 kr.",
@@ -10751,15 +10589,6 @@
 		}
 	},
 	{
-		"albumTitle": "SMERTEFULDE SANGE",
-		"artist": "POUL DISSING",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/smetefulde_sange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "TROUBADOURENS BEDSTE (2CD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "20,00 kr.",
@@ -10770,20 +10599,6 @@
 			"releaseGroupId": "4f1f38c3-1cce-40ef-9010-c44b87016d7f",
 			"albumTitle": "NON TITLE",
 			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "16 SANGE",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/16_sange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2c1491d2-911f-3736-adf2-b66fe98f2ab4",
-			"albumTitle": "16 Sange",
-			"artist": "Povl Dissing, Benny Andersen",
 			"type": "Album"
 		}
 	},
@@ -10802,20 +10617,6 @@
 		}
 	},
 	{
-		"albumTitle": "HYMNER & UKRUDT",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/hymner_og_ukrudt.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "HYMNER & UKRUDT",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "I AL SLAGS VEJR",
 		"artist": "POUL DISSING BENNY ANDERSEN",
 		"price": "10,00 kr.",
@@ -10825,20 +10626,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "06a0994c-e132-45a5-8c4e-8087b7223e28",
 			"albumTitle": "I Al Slags Vejr",
-			"artist": "Povl Dissing, Benny Andersen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OVER ADSKILLIGE GRÆNSER",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/over_adskillige_graenser.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bdef2dd7-cdf0-4b24-a8bc-cbc6210b8452",
-			"albumTitle": "Over adskillige grænser...",
 			"artist": "Povl Dissing, Benny Andersen",
 			"type": "Album"
 		}
@@ -10868,20 +10655,6 @@
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "LIVE - FOR FULD UDBLÆSNING (CD+DVD)",
 			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SVANTES VISER",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/svantes_viser_recart.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "40e4fb9b-ce58-401a-b6a5-b14e90bb0e8a",
-			"albumTitle": "Svantes viser",
-			"artist": "Benny Andersen, Povl Dissing",
 			"type": "Album"
 		}
 	},
@@ -10966,20 +10739,6 @@
 			"releaseGroupId": "a5d0e4aa-5a46-4120-bc0c-8fe40a7b4acd",
 			"albumTitle": "Hjemløs",
 			"artist": "Dissing, Dissing, Las & Dissing",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GRÆSSET MÅ BETRÆDES",
-		"artist": "DISSING, DISSING, von DALER, LAS & DISSING",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/graesset_maa_betraedes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "978eecab-c380-3bce-8ee0-93014801e589",
-			"albumTitle": "Græsset må betrædes",
-			"artist": "Dissing, Dissing, Von Daler, Las & Dissing",
 			"type": "Album"
 		}
 	},
@@ -13927,20 +13686,6 @@
 		}
 	},
 	{
-		"albumTitle": "ELECTRIC ARGUMENTS",
-		"artist": "THE FIREMAN (Paul McCartney)",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/electric_arguments.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1e116d60-b12d-3776-abc5-b822bf82917f",
-			"albumTitle": "Electric Arguments",
-			"artist": "The Fireman",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "COMING IN FOR THE KILL",
 		"artist": "CLIMIE FISHER",
 		"price": "10,00 kr.",
@@ -14087,20 +13832,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "I'M THE ONE",
-		"artist": "ROBERTA FLACK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/im_the_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35c9950c-24bb-34e6-bbde-954b0b1e7f48",
-			"albumTitle": "I’m the One",
-			"artist": "Roberta Flack",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "TANGO IN THE NIGHT",
@@ -14278,29 +14009,6 @@
 			"artist": "John Fogerty",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "ONE BY ONE",
-		"artist": "FOO FIGHTERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/one_by_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a9f6787f-0c0b-39e2-aaf7-befba34727b4",
-			"albumTitle": "One by One",
-			"artist": "Foo Fighters",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THERE IS NOTHING LEFT TO LOOSE",
-		"artist": "FOO FIGHTERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/there_is_nothing_left_to_loose.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "TALK TO YOUR DAUGHTER",
@@ -15317,15 +15025,6 @@
 			"artist": "Gloria Gaynor",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "īTHE HAPPY CLUB",
-		"artist": "BOB GELDORF",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/the_happy_club.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "REVELATIONS",
@@ -17862,20 +17561,6 @@
 			"releaseGroupId": "5f6f82ab-a95f-3e50-b9e1-60f14a838724",
 			"albumTitle": "When You’re a Boy",
 			"artist": "Susanna Hoffs",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVE THROUGH THIS",
-		"artist": "HOLE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/live_through_this.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fe676d05-f97c-303a-890b-da53c69e5d42",
-			"albumTitle": "Live Through This",
-			"artist": "Hole",
 			"type": "Album"
 		}
 	},
@@ -21663,20 +21348,6 @@
 		}
 	},
 	{
-		"albumTitle": "FANTASY",
-		"artist": "CAROLE KING",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/carole_king_fantasy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e8f82a18-9bb8-3eef-89d4-8de8bbda6738",
-			"albumTitle": "Fantasy",
-			"artist": "Carole King",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ONE MAN",
 		"artist": "LEVEL 42's MARK KING",
 		"price": "20,00 kr.",
@@ -22437,43 +22108,6 @@
 			"artist": "Benjamin Koppel",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "STAY FOR A WHILE",
-		"artist": "MARIE CARMEN KOPPEL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/stay_for_a_while.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dc9e98c9-767a-4bd9-82ab-10dd2016be2c",
-			"albumTitle": "Stay for a While",
-			"artist": "Marie Carmen Koppel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "YEARNING",
-		"artist": "MARIE CARMEN KOPPEL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/yearning.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d9051c21-95a1-4176-a315-a4d5e92ffa19",
-			"albumTitle": "Yearning",
-			"artist": "Marie Carmen Koppel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SHORT STORIES",
-		"artist": "NIKOLAJ KOPPEL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/koppel_short_stories.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "MASS FOR A CASE MESSE FOR ET TILFÆLDE",
@@ -23750,20 +23384,6 @@
 		}
 	},
 	{
-		"albumTitle": "ALLE DE BEDSTE (2CD)",
-		"artist": "LASSE & MATHILDE",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/lasse_mathilde_alle_de_bedste.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "ALLE DE BEDSTE (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DET LYSNER",
 		"artist": "LASSE & MATHILDE",
 		"price": "40,00 kr.",
@@ -23941,6 +23561,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "61456a94-ba4c-3377-b2b9-0d2513e2ba37",
 			"albumTitle": "The Best Damn Thing",
+			"artist": "Avril Lavigne",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNDER MY SKIN",
+		"artist": "AVRIL LAVIGNE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/under_my_skin.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b0b44108-b4d7-363a-9417-bfaaf0ce9f3f",
+			"albumTitle": "Under My Skin",
 			"artist": "Avril Lavigne",
 			"type": "Album"
 		}
@@ -25636,57 +25270,6 @@
 		}
 	},
 	{
-		"albumTitle": "MÅNE ÖVER HAVÄNG",
-		"artist": "ULF LUNDELL",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/maane_oever_havaeng.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f25e0608-85d0-3e4e-a759-fb42a1fc7042",
-			"albumTitle": "Måne över Haväng",
-			"artist": "Ulf Lundell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RIPP RAPP",
-		"artist": "ULF LUNDELL",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/ripp_rapp.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35c037ad-7b76-3d4a-9088-3b733c6a2669",
-			"albumTitle": "Ripp Rapp",
-			"artist": "Ulf Lundell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SLUGGER",
-		"artist": "ULF LUNDELL",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/slugger.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2ecb54ae-04de-3579-8e91-0d38ba812126",
-			"albumTitle": "Slugger",
-			"artist": "Ulf Lundell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SLUTNA RUM 7595 (2CD)",
-		"artist": "ULF LUNDELL",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/slutna_rum_7595.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "GLADE JUL",
 		"artist": "JESPER LUNDGAARD",
 		"price": "10,00 kr.",
@@ -25759,20 +25342,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE LAST REBEL",
-		"artist": "LYNYRD SKYNYRD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/the_last_rebel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "69d38d03-61b3-34ea-baf1-3b44dfe79c07",
-			"albumTitle": "The Last Rebel",
-			"artist": "Lynyrd Skynyrd",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "BIZARRE FRUIT II (2CD)",
@@ -27227,6 +26796,20 @@
 		}
 	},
 	{
+		"albumTitle": "UNPLUGGED",
+		"artist": "PAUL McCARTNEY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/mccartney_unplugged.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2c9c09ae-e046-42c4-a2b0-2eb4231332eb",
+			"albumTitle": "Plugged And Unplugged",
+			"artist": "Paul McCartney",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WINGSPAN, HITS & HISTORY (2CD) (remastered)",
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
@@ -27720,20 +27303,6 @@
 		}
 	},
 	{
-		"albumTitle": "RISK",
-		"artist": "MEGADETH",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/risk.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "49e5d092-0e76-3d60-a994-160a50bd2b7e",
-			"albumTitle": "Risk",
-			"artist": "Megadeth",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "UNITED ABOMINATIONS",
 		"artist": "MEGADETH",
 		"price": "20,00 kr.",
@@ -27757,20 +27326,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "10cb86f3-8821-38a2-9f7a-da6d076da0c3",
 			"albumTitle": "Gather Me",
-			"artist": "Melanie",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MELANIE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/melanie_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "955fcfb7-3c04-3e6a-a421-4ccebbddbb11",
-			"albumTitle": "The Very Best Of",
 			"artist": "Melanie",
 			"type": "Album"
 		}
@@ -28495,6 +28050,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLUE SKY MINING",
+		"artist": "MIDNIGHT OIL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/blue_sky_mining.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8f76245e-6d7f-3f86-a9ce-ca6b1d724d2c",
+			"albumTitle": "Blue Sky Mining",
+			"artist": "Midnight Oil",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIFE IN CARTOON MOTION",
 		"artist": "MIKA",
 		"price": "10,00 kr.",
@@ -28756,6 +28325,48 @@
 		}
 	},
 	{
+		"albumTitle": "NOBODY'S ANGEL",
+		"artist": "MISS B. HAVEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/nobodys_angel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8ae59d5a-799a-3a6b-89fb-f82c5d736c96",
+			"albumTitle": "Nobody's Angel",
+			"artist": "Miss B. Haven",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FAIRYTALES OF SLAVERY",
+		"artist": "MIRANDA SEX GARDEN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/fairytales_of_slavery.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "66f5d355-d80b-332f-a4e5-7a8e8ac75a95",
+			"albumTitle": "Fairytales of Slavery",
+			"artist": "Miranda Sex Garden",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TURBULENT INDIGO",
+		"artist": "JONI MITCHELL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/turbulent_indigo.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44c2e136-1f25-3497-bf10-cce444ed8003",
+			"albumTitle": "Turbulent Indigo",
+			"artist": "Joni Mitchell",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NO ONE WILL FORCE YOU",
 		"artist": "LIZ MITCHELL",
 		"price": "25,00 kr.",
@@ -28956,6 +28567,20 @@
 			"releaseGroupId": "d554d4f4-ea12-49db-829e-e31ef21c8e3e",
 			"albumTitle": "Virš vandens",
 			"artist": "Monika Pundziūtė",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MORE OF THE MONKEES",
+		"artist": "THE MONKEES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/more_of_the_monkees.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "60d3909e-2ef6-36fa-bf36-269c5ff82566",
+			"albumTitle": "More of the Monkees",
+			"artist": "The Monkees",
 			"type": "Album"
 		}
 	},
@@ -29337,6 +28962,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLUES ALIVE",
+		"artist": "GARY MOORE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/blues_alive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9ae8fc0e-a909-3243-93df-23c6c8e489ab",
+			"albumTitle": "Blues Alive",
+			"artist": "Gary Moore",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BLUES FOR GREENY",
 		"artist": "GARY MOORE",
 		"price": "10,00 kr.",
@@ -29639,6 +29278,20 @@
 		}
 	},
 	{
+		"albumTitle": "HOW DO YOU DO",
+		"artist": "MOUTH & MACNEAL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/how_do_you_do.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cd247299-9bf9-46e2-98e7-ead5ce7a33b4",
+			"albumTitle": "How Do You Do",
+			"artist": "Mouth & MacNeal",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FLOWERS IN THE RAIN",
 		"artist": "THE MOVE",
 		"price": "20,00 kr.",
@@ -29839,6 +29492,20 @@
 		}
 	},
 	{
+		"albumTitle": "BABY JUMP",
+		"artist": "MUNGO JERRY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/baby_jump.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1f7245e2-7888-36a2-b6b9-bd9206e76884",
+			"albumTitle": "Baby Jump: The Dawn Anthology",
+			"artist": "Mungo Jerry",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "IN THE SUMMERTIME",
 		"artist": "MUNGO JERRY",
 		"price": "10,00 kr.",
@@ -29860,6 +29527,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE MAGIC COLLECTION",
+		"artist": "MUNGO JERRY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/mungo_jerry_magic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9e62f149-1d6b-356b-a19c-58e34a480406",
+			"albumTitle": "The Magic Collection",
+			"artist": "Mungo Jerry",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE VERY BEST OF",
@@ -30042,18 +29723,13 @@
 		}
 	},
 	{
-		"albumTitle": "DEFINITIVE COLLECTION",
-		"artist": "MÜNCHENER FREIHEIT",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/muenchener_definitive.htm",
+		"albumTitle": "I VENNERNES TEGN (2CD)",
+		"artist": "STIG MØLLER",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/i_vennernes_tegn.htm",
 		"quality": "unknown",
 		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "64d2a591-5825-3b4c-a031-988b662564b6",
-			"albumTitle": "Definitive Collection",
-			"artist": "Münchener Freiheit",
-			"type": "Album"
-		}
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SIKKE'N DEJLIG DAG",
@@ -30117,6 +29793,20 @@
 			"releaseGroupId": "160bfe69-4b26-4149-ad84-1e081fe0fa9e",
 			"albumTitle": "The Place I Call Home",
 			"artist": "Naja Rosa",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GO'E GAMLE FRU OLSEN",
+		"artist": "ROCK NALLE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/goe_gamle_fru_olsen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0105c70c-8a54-3ff5-bbee-500dc134d2f1",
+			"albumTitle": "Go'e gamle Fru Olsen",
+			"artist": "Rock Nalle",
 			"type": "Album"
 		}
 	},
@@ -30419,6 +30109,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DEN GYLDNE NØGLE (CD+DVD)",
+		"artist": "NEIGHBOURS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/den_gyldne_noegle.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "DET GÅDEFULDE FOLK (signeret)",
 		"artist": "NEIGHBOURS",
 		"price": "10,00 kr.",
@@ -30491,6 +30190,15 @@
 			"artist": "Willie Nelson, Curtis Potter",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "NENA FEAT. NENA (limited 2CD edition)",
+		"artist": "NENA",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/nena_feat_nena_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DANMARKDENMARK (CD/DVD)",
@@ -30851,6 +30559,15 @@
 		}
 	},
 	{
+		"albumTitle": "FRIENDS FOREVER (2CD)",
+		"artist": "NHØP",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/friends_forever.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THIS IS ALL I ASK",
 		"artist": "NHØP",
 		"price": "10,00 kr.",
@@ -30860,6 +30577,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "051037a9-8831-3759-832e-9e6a618cd9e9",
 			"albumTitle": "This Is All I Ask",
+			"artist": "Niels‐Henning Ørsted Pedersen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNCHARTED LAND",
+		"artist": "NIELS HENNING ØRSTED PEDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/uncharted_land.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e57e2f52-93ca-3541-886b-f4e644eb90a4",
+			"albumTitle": "Uncharted Land",
 			"artist": "Niels‐Henning Ørsted Pedersen",
 			"type": "Album"
 		}
@@ -30987,6 +30718,20 @@
 			"releaseGroupId": "ba053794-a331-31da-a3e6-69a6c3e6cd45",
 			"albumTitle": "The Long Road",
 			"artist": "Nickelback",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DIE GROSSEN ERFOLGE",
+		"artist": "NICOLE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/nicole_grosen_erfolge.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "145f0c79-de8b-483c-a5a9-08cd5a45e979",
+			"albumTitle": "Hit Collection - Die grossen Erfolge",
+			"artist": "Nicole",
 			"type": "Album"
 		}
 	},
@@ -31461,6 +31206,20 @@
 		}
 	},
 	{
+		"albumTitle": "LONDON/PARIS",
+		"artist": "CÆCILIE NORBY",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/london-paris.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4a31f977-32b0-3055-84e0-e343adb445c4",
+			"albumTitle": "London/Paris",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SLOW FRUIT",
 		"artist": "CÆCILIE NORBY",
 		"price": "20,00 kr.",
@@ -31549,20 +31308,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "BREAK THE ICE",
-		"artist": "CHRIS NORMAN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/break_the_ice.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d9425832-db17-4fff-9c2e-962338c2208d",
-			"albumTitle": "Break the Ice",
-			"artist": "Chris Norman",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "JUST A MAN",
 		"artist": "CHRIS NORMAN",
 		"price": "25,00 kr.",
@@ -31605,6 +31350,20 @@
 		}
 	},
 	{
+		"albumTitle": "PLAY WITH ME",
+		"artist": "LENE NYSTRØM",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/play_with_me.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1f79f7ce-8061-382b-b8b8-81513e1f6b1f",
+			"albumTitle": "Play With Me",
+			"artist": "Lene",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FRA KÆRESTE TIL GRIN",
 		"artist": "RASMUS NØHR",
 		"price": "10,00 kr.",
@@ -31619,6 +31378,15 @@
 		}
 	},
 	{
+		"albumTitle": "I STEDET FOR EN TATOVERING",
+		"artist": "RASMUS NØHR",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/i_stedet_for_en_tatovering.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LYKKELIG SMUTNING",
 		"artist": "RASMUS NØHR",
 		"price": "10,00 kr.",
@@ -31628,6 +31396,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "0901cdf7-7cf7-3e50-8849-08e18a8f76a0",
 			"albumTitle": "Lykkelig smutning",
+			"artist": "Rasmus Nøhr",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RASMUS NØHR",
+		"artist": "RASMUS NØHR",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/rasmus_noehr.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1cfb7e50-fd65-36c4-8e22-182f32376b29",
+			"albumTitle": "Rasmus Nøhr",
 			"artist": "Rasmus Nøhr",
 			"type": "Album"
 		}
@@ -32409,6 +32191,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ONE TWO",
+		"artist": "ONE TWO",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/one_two.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "42108beb-d689-393b-8f1c-4b84a619c827",
+			"albumTitle": "One Two",
+			"artist": "One Two",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WAKING UP",
 		"artist": "ONEREPUBLIC",
 		"price": "10,00 kr.",
@@ -32563,20 +32359,6 @@
 		}
 	},
 	{
-		"albumTitle": "NO MORE TEARS",
-		"artist": "OZZY OSBOURNE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/no_more_tears.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1df6ebdf-8d54-31a6-9bf8-13737493f386",
-			"albumTitle": "No More Tears",
-			"artist": "Ozzy Osbourne",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SCHYSST & POPULÄR",
 		"artist": "OSCAR",
 		"price": "10,00 kr.",
@@ -32645,6 +32427,15 @@
 			"artist": "Outlandish",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "WARRIOR / WORRIER",
+		"artist": "OUTLANDISH",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/warrior_worrior.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE VERY BEST OF VOL. 1",
@@ -32782,13 +32573,18 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "EN VARM NAT'S KØLIGE LUFT",
-		"artist": "PANAMAH",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/en_varm_nats.htm",
+		"albumTitle": "RHYTHM & BLUES",
+		"artist": "ROBERT PALMER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/palmer_rhythm.htm",
 		"quality": "unknown",
 		"type": "Album",
-		"musicbrainz": {}
+		"musicbrainz": {
+			"releaseGroupId": "41edbc4c-6657-4cfd-bebe-aeacb3f2591a",
+			"albumTitle": "Rhythm & Blues",
+			"artist": "Robert Palmer",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "A FEVER YOU CAN'T SWEAT OUT",
@@ -33376,6 +33172,20 @@
 		}
 	},
 	{
+		"albumTitle": "FULL MOON FEVER",
+		"artist": "TOM PETTY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/full_moon_fever.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ffbef03e-3651-39db-8a2f-e140dc5aa219",
+			"albumTitle": "Full Moon Fever",
+			"artist": "Tom Petty",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "INTO THE GREAT WIDE OPEN",
 		"artist": "TOM PETTY & THE HEARTBREAKERS",
 		"price": "20,00 kr.",
@@ -33655,20 +33465,6 @@
 			"releaseGroupId": "931a8229-9e8d-475d-939a-f2bbfcc240a7",
 			"albumTitle": "The Poets",
 			"artist": "The Poets",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF..",
-		"artist": "THE POGUES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/pogues_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "659b6294-bfa7-3ebb-990c-273f9ad61af2",
-			"albumTitle": "The Very Best Of…",
-			"artist": "The Pogues",
 			"type": "Album"
 		}
 	},
@@ -35434,15 +35230,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "LIVE IN HYDE PARK (2CD)",
-		"artist": "RED HOT CHILI PEPPERS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/live_in_hyde_park.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LIVE + 3",
 		"artist": "RED SQUARES",
 		"price": "40,00 kr.",
@@ -36662,20 +36449,6 @@
 		"artist": "THE ROLLING STONES",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/forty_licks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a4cfbe46-ae2a-4edb-b885-619aa57fa877",
-			"albumTitle": "Self-titled",
-			"artist": "Did Jesus Get Stoned?",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GER YER YA-YA-S OUT THE ROLLING STONES IN CONCERT (DSD REMASTERED)",
-		"artist": "THE ROLLING STONES",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/get_yer_ya-yas.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -39509,20 +39282,6 @@
 			"releaseGroupId": "f2117198-9fb1-307d-9ea7-fd39b8e53abe",
 			"albumTitle": "Mine favoritter",
 			"artist": "Lene Siel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STILL FRIENDS",
-		"artist": "CHRISTIAN SIEVERT JUKKA TOLONEN",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/still_friends.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0989d3a6-d0e2-4dde-86be-f3753292336d",
-			"albumTitle": "Still Friends",
-			"artist": "Christian Sievert, Jukka Tolonen",
 			"type": "Album"
 		}
 	},
@@ -43179,20 +42938,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE BEST OF",
-		"artist": "BILLY SWAN",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/billy_swan_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "eb9b58dd-9795-3f68-9cad-f2139725e48d",
-			"albumTitle": "The Best of Billy Swan",
-			"artist": "Billy Swan",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BALLROOM HITZ (2CD)",
 		"artist": "SWEET",
 		"price": "10,00 kr.",
@@ -43397,20 +43142,6 @@
 		}
 	},
 	{
-		"albumTitle": "SMÅ SYNDER",
-		"artist": "SYLVESTER",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/smaa_synder.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "060767dd-b294-40d0-a6e3-5b7b45557293",
-			"albumTitle": "Små Synder",
-			"artist": "Sylvester Larsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DU KA' FÅ MIG TIL ALT",
 		"artist": "LIS SØRENSEN",
 		"price": "10,00 kr.",
@@ -43535,15 +43266,6 @@
 			"artist": "T’Pau",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "CHILDREN OF THE REVOLUTION AN INTRODUCTION TO MARC BOLAN (2CD)",
-		"artist": "T-REX",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/children_of_the_revolution.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE BEST OF VOLUME 1",
@@ -44535,20 +44257,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "BAR RØV OG GUMMISKO",
-		"artist": "TROELS TRIER & REBEKKA BRÜHL",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bar_roev.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84af40ff-1d66-3787-8e8c-e6118232d44b",
-			"albumTitle": "Bar Røv og Gummisko",
-			"artist": "Troels Trier & Rebecca Brüel",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HOSTER DU I NAT",
 		"artist": "TROELS TRIER & REBEKKA BRÜEL",
 		"price": "10,00 kr.",
@@ -44572,20 +44280,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0bc38805-4f7d-353d-a7b8-74a661537268",
 			"albumTitle": "Stardust Bodega",
-			"artist": "Troels Trier & Rebecca Brüel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HANSEN & JENSEN",
-		"artist": "TROELS TRIER & REBECCA BRÜEL",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/hansen_og_jensen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bdc62652-c37d-4abb-8cce-dbc9a82a48cf",
-			"albumTitle": "Hansen & Jensen",
 			"artist": "Troels Trier & Rebecca Brüel",
 			"type": "Album"
 		}
@@ -45885,20 +45579,6 @@
 		}
 	},
 	{
-		"albumTitle": "AT THE MOVIES",
-		"artist": "VAN MORRISON",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/van_morrison_at_the_movies.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "012a603e-c29c-3de2-a8b3-48409e623ae9",
-			"albumTitle": "At the Movies: Soundtrack Hits",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "AVALON SUNSET",
 		"artist": "VAN MORRISON",
 		"price": "15,00 kr.",
@@ -47191,20 +46871,6 @@
 			"releaseGroupId": "62a8ed9d-b2de-4a83-af61-0633f2d3bca5",
 			"albumTitle": "[untitled]",
 			"artist": "When Woods Make Graves",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SPORTIN' LIFE",
-		"artist": "WEATHER REPORT",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/sportin_life.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3178160a-6b28-35bf-8503-1a1987dcdc30",
-			"albumTitle": "Sportin’ Life",
-			"artist": "Weather Report",
 			"type": "Album"
 		}
 	},
