@@ -7391,20 +7391,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "TIM CHRISTENSEN & THE DAMN CRYSTALS",
-		"artist": "TIM CHRISTENSEN & THE DAMN CRYSTALS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/tim_christensen_and.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6c3168ad-1c32-4c96-a949-df54040f5ec7",
-			"albumTitle": "Tim Christensen and The Damn Crystals",
-			"artist": "Tim Christensen, The Damn Crystals",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "TONY CHRISTIE",
 		"price": "10,00 kr.",
@@ -7642,20 +7628,6 @@
 		}
 	},
 	{
-		"albumTitle": "JOURNEYMAN",
-		"artist": "ERIC CLAPTON",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/journeyman.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "700072d4-ea59-36fc-bc62-e90b7282aa0c",
-			"albumTitle": "Journeyman",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REPTILE",
 		"artist": "ERIC CLAPTON",
 		"price": "10,00 kr.",
@@ -7838,20 +7810,6 @@
 			"releaseGroupId": "2778cc20-1e50-41d5-b598-7af4c17812fb",
 			"albumTitle": "Untitled",
 			"artist": "R. Kelly",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DEAF DUMB BLIND",
-		"artist": "CLAWFINGER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/deaf_dumb_blind.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e1d15295-8531-3a0b-a447-e18017b43797",
-			"albumTitle": "Deaf Dumb Blind",
-			"artist": "Clawfinger",
 			"type": "Album"
 		}
 	},
@@ -14726,20 +14684,6 @@
 		}
 	},
 	{
-		"albumTitle": "VERSION 2.0",
-		"artist": "GARBAGE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/garbage_20.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e8786e7c-1737-331f-8973-3593f3bde895",
-			"albumTitle": "Version 2.0",
-			"artist": "Garbage",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REVOLUCINATION",
 		"artist": "THE GARBO",
 		"price": "10,00 kr.",
@@ -15547,20 +15491,6 @@
 		}
 	},
 	{
-		"albumTitle": "GORKY PARK",
-		"artist": "GORKY PARK",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/gorky_park.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84ddc986-2ab5-3703-974a-7380ba6754bd",
-			"albumTitle": "Gorky Park",
-			"artist": "Gorky Park",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MAKING MIRRORS",
 		"artist": "GOTYE",
 		"price": "10,00 kr.",
@@ -15809,20 +15739,6 @@
 			"releaseGroupId": "86c65038-e5f7-316b-8fe9-c1fbf6c48060",
 			"albumTitle": "Play",
 			"artist": "Great Big Sea",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "21st CENTURY BREAKDOWN",
-		"artist": "GREEN DAY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/21st_century_breakdown.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
-			"albumTitle": "21st Century Breakdown",
-			"artist": "Green Day",
 			"type": "Album"
 		}
 	},
@@ -22595,20 +22511,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "KULA SHAKER",
-		"artist": "KULA SHAKER",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/kula_shaker.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e7c596c9-fe6b-3976-b4ee-160c3a6fb100",
-			"albumTitle": "Kollected: The Best of Kula Shaker",
-			"artist": "Kula Shaker",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ALL GOOD THINGS",
@@ -33297,20 +33199,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "ad164022-75cf-3ace-ab7d-3ff9d8becdda",
 			"albumTitle": "Can’t Take Me Home",
-			"artist": "P!nk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FUNHOUSE",
-		"artist": "PINK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/funhouse.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d8e89f6d-0c5b-3a05-a660-8c7367274d85",
-			"albumTitle": "Funhouse",
 			"artist": "P!nk",
 			"type": "Album"
 		}
@@ -44393,20 +44281,6 @@
 			"releaseGroupId": "d51bbb9b-7cc2-393e-95c1-8d9d095eaa53",
 			"albumTitle": "Unplugged",
 			"artist": "The Beatles",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NO MORE FISH JOKES",
-		"artist": "WALTER TROUT BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/no_more_fish_jokes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a13165b0-00c3-4e06-b76b-b1648174b2f7",
-			"albumTitle": "Live (No More Fish Jokes)",
-			"artist": "Walter Trout Band",
 			"type": "Album"
 		}
 	},
