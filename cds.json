@@ -7656,20 +7656,6 @@
 		}
 	},
 	{
-		"albumTitle": "461 OCEAN BOULEVARD",
-		"artist": "ERIC CLAPTON",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/461_ocean_boulevard.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ced848a4-b94b-3f34-b08b-6dc8bf8aed8f",
-			"albumTitle": "461 Ocean Boulevard",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "AUGUST (remastered)",
 		"artist": "ERIC CLAPTON",
 		"price": "15,00 kr.",
@@ -33908,6 +33894,15 @@
 		"artist": "PRINCE",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/emancipation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ULTIMATE PRINCE (2CD)",
+		"artist": "PRINCE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/prince_ultimate.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
