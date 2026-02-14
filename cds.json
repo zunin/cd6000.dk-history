@@ -17272,20 +17272,6 @@
 		}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "JOHN HIATT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/john_hiatt_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b3f3deec-f424-3021-ad08-c24f65e59a56",
-			"albumTitle": "Greatest Hits and More",
-			"artist": "John Hiatt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WALK ON",
 		"artist": "JOHN HIATT",
 		"price": "10,00 kr.",
@@ -21236,20 +21222,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "20de4fa6-4cf7-31c1-b8f2-d5c46b754d07",
 			"albumTitle": "Because of the Times",
-			"artist": "Kings of Leon",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "COME AROUND SUNDOWN",
-		"artist": "KINGS OF LEON",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/come_around_sundown1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b44f35b2-0ae7-461c-a526-df86123edb91",
-			"albumTitle": "Come Around Sundown",
 			"artist": "Kings of Leon",
 			"type": "Album"
 		}
@@ -26950,20 +26922,6 @@
 			"releaseGroupId": "45c3e033-db09-35e9-b6dc-6a723ccaa794",
 			"albumTitle": "The Best Of",
 			"artist": "Ralph McTell",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BEST TIMES",
-		"artist": "ME SHE & HER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/best_times.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "be2d0cac-5529-4430-83f5-a28930d90793",
-			"albumTitle": "Best Times",
-			"artist": "Me, She & Her",
 			"type": "Album"
 		}
 	},
@@ -41089,20 +41047,6 @@
 		}
 	},
 	{
-		"albumTitle": "PEACE IN THE VALLEY",
-		"artist": "SP JUST FROST",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/peace_in_the_valley.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "79cdd08f-36df-3f17-96f8-7e61ae2839b5",
-			"albumTitle": "Peace In The Valley",
-			"artist": "SP Just Frost",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HEART LIKE A SKY",
 		"artist": "SPANDAU BALLET",
 		"price": "10,00 kr.",
@@ -41693,15 +41637,6 @@
 			"artist": "Starfuckers",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "VERTICAL MAN (unofficial)",
-		"artist": "RINGO STARR",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/vertical_man_u.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE VERY BEST OF",
