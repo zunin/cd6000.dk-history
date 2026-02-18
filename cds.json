@@ -1030,6 +1030,34 @@
 		}
 	},
 	{
+		"albumTitle": "DIRT",
+		"artist": "ALICE IN CHAINS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/dirt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "92d8f0c4-8c64-3bee-bee1-812a70e77efa",
+			"albumTitle": "Dirt",
+			"artist": "Alice in Chains",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MTV UNPLUGGED",
+		"artist": "ALICE IN CHAINS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/alice_in_chains_mtv_unplugged.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fd9e039a-0a75-3b48-b7b5-66e66bd355fe",
+			"albumTitle": "MTV Unplugged",
+			"artist": "Alice in Chains",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALL SAINTS",
 		"artist": "ALL SAINTS",
 		"price": "10,00 kr.",
@@ -1096,6 +1124,20 @@
 			"releaseGroupId": "99dc5046-c003-43f3-bac9-23250f660783",
 			"albumTitle": "The Spell",
 			"artist": "Alphabeat",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FOREVER YOUNG",
+		"artist": "ALPHAVILLE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/alphaville_forever_young.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bd021fbe-fbe9-3564-96c7-14de208de37f",
+			"albumTitle": "Forever Young",
+			"artist": "Alphaville",
 			"type": "Album"
 		}
 	},
@@ -2726,6 +2768,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "THE BAND",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_band_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f0ba913f-8c01-3623-9d27-3aae143a89ef",
+			"albumTitle": "The Collection",
+			"artist": "The Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE WEIGHT",
 		"artist": "THE BAND",
 		"price": "10,00 kr.",
@@ -3089,20 +3145,6 @@
 		}
 	},
 	{
-		"albumTitle": "HELP!",
-		"artist": "THE BEATLES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/help_eac.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d44e1cb-c6e0-3453-8b68-4d2082f05421",
-			"albumTitle": "Help!",
-			"artist": "The Beatles",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "1962-1966 (unofficial ?)",
 		"artist": "THE BEATLES",
 		"price": "20,00 kr.",
@@ -3133,20 +3175,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ABBEY ROAD",
-		"artist": "THE BEATLES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/abbey_road.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9162580e-5df4-32de-80cc-f45a8d8a9b1d",
-			"albumTitle": "Abbey Road",
-			"artist": "The Beatles",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ANTHOLOGY I (2CD)",
@@ -3211,15 +3239,6 @@
 			"artist": "The Beatles",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "PLEASE PLEASE ME (m./lette overfladeridser)",
-		"artist": "THE BEATLES",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/please_please_me.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SGT. PEPPER'S LONELY HEARTS CLUB BAND",
@@ -4100,6 +4119,34 @@
 			"releaseGroupId": "b2a6e057-087d-3ae5-a6e5-7f5fa39808ff",
 			"albumTitle": "Post",
 			"artist": "Björk",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "AMORICA",
+		"artist": "THE BLACK CROWES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/amorica.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a4f0d657-19cc-3730-a672-096fb5e83dcb",
+			"albumTitle": "Amorica",
+			"artist": "The Black Crowes",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THREE SNAKES AND ONE CHARM",
+		"artist": "THE BLACK CROWES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/three_snakes_and.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "560d6ff4-7c03-489f-956f-6c359d32d838",
+			"albumTitle": "Three Snakes and One Charm",
+			"artist": "The Black Crowes",
 			"type": "Album"
 		}
 	},
@@ -10441,47 +10488,6 @@
 		}
 	},
 	{
-		"albumTitle": "LOVE OVER GOLD (remastered)",
-		"artist": "DIRE STRAITS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/love_over_gold_remastered.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ON THE NIGHT",
-		"artist": "DIRE STRAITS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/on_the_night.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2f8a4b5a-f4f4-364b-b4ac-74fbc9c14b8c",
-			"albumTitle": "On the Night",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SULTANS OF SWING THE VERY BEST OF (2CD+DVD boks)",
-		"artist": "DIRE STRAITS",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/sultans_of_swing.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "VRONG SIDE OF VEGAS (EP) (NY i folie)",
-		"artist": "DIRTY JOBS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/wrong_side_of_vegas.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "PLAGIAT",
 		"artist": "DISKOFIL",
 		"price": "10,00 kr.",
@@ -12439,20 +12445,6 @@
 		}
 	},
 	{
-		"albumTitle": "COWBOY",
-		"artist": "ERASURE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/erasure_cowboy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1caa401c-774c-30ea-9b38-d8212d0c5902",
-			"albumTitle": "Cowboy",
-			"artist": "Erasure",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "I SAY I SAY I SAY",
 		"artist": "ERASURE",
 		"price": "10,00 kr.",
@@ -12462,20 +12454,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d26f34e9-7402-3afe-9681-e3eae467cbb2",
 			"albumTitle": "I Say I Say I Say",
-			"artist": "Erasure",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WILD!",
-		"artist": "ERASURE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/erasure_wild.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "298b8d42-d636-3343-b673-406ce1b2386d",
-			"albumTitle": "Wild!",
 			"artist": "Erasure",
 			"type": "Album"
 		}
@@ -26577,20 +26555,6 @@
 		}
 	},
 	{
-		"albumTitle": "FLOWERS IN THE DIRT (The Paul McCartney Collection) (digitally remastered)",
-		"artist": "PAUL McCARTNEY",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/flowers_in_the_dirt_remastered.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
-			"albumTitle": "Title And Descriptive Themes",
-			"artist": "John Du Prez",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PIPES OF PEACE (lettere 'fugt-bulet ' cover)",
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
@@ -28518,20 +28482,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LORTEØEN SPECIAL",
-		"artist": "MONRAD & RISLUND",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/lorteoeen_special.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7faa2c2-b305-3aea-97fb-689a2f93e2c4",
-			"albumTitle": "Lorteøen Special",
-			"artist": "Monrad & Rislund",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "PLATHEDER PÅ ET FUNDAMENT AF SJOFELHED",
@@ -31824,15 +31774,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE STORY OF DE STØRSTE HITS 1972-2000",
-		"artist": "BRØDRENE OLSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/olsen_the_story.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "WINGS OF LOVE",
 		"artist": "BRDR. OLSEN",
 		"price": "10,00 kr.",
@@ -31845,15 +31786,6 @@
 			"artist": "Brødrene Olsen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "BROTHERS TO BROTHERS (CD+DVD digipack)",
-		"artist": "BRØDRENE OLSEN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/brothers_to_brothers.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ROCKSTALGI",
@@ -34955,6 +34887,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "25d350fd-404f-3bb9-a73d-6f1a3d289daf",
 			"albumTitle": "The Best of Chris Rea",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE PLATINUM COLLECTION",
+		"artist": "CHRIS REA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/chris_rea_platinum.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "755861f4-2d69-3290-bb67-51c72d07ed7a",
+			"albumTitle": "The Platinum Collection",
 			"artist": "Chris Rea",
 			"type": "Album"
 		}
@@ -41429,6 +41375,20 @@
 		}
 	},
 	{
+		"albumTitle": "HIGH HOPES",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/high_hopes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e9afb320-60f4-42b1-bc4d-49d7d2e49010",
+			"albumTitle": "High Hopes",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HUMAN TOUCH",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
@@ -42813,6 +42773,20 @@
 		}
 	},
 	{
+		"albumTitle": "IT'S-IT",
+		"artist": "SUGARCUBES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/its_it.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "631d6f3a-46d9-3621-93ef-bc01eb4779ac",
+			"albumTitle": "It’s‐It",
+			"artist": "The Sugarcubes",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HVOR SOM HELST NÅR SOM HELST",
 		"artist": "SUKKERCHOK",
 		"price": "10,00 kr.",
@@ -43729,6 +43703,34 @@
 		}
 	},
 	{
+		"albumTitle": "VISIONS",
+		"artist": "HANS THESSINK & TERRY EVANS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/visions.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f363498e-717d-321c-9781-4af55069755e",
+			"albumTitle": "Visions",
+			"artist": "Hans Theessink, Terry Evans",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GOIN' DOWN SLOW (signeret)",
+		"artist": "THEESSINK, NALLE & MØLLER",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/goin_down_slow.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
+			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
+			"artist": "Bruce Springsteen, The E Street Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SHUFFLIN' (signeret på front)",
 		"artist": "JESPER THILO",
 		"price": "15,00 kr.",
@@ -44353,6 +44355,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GRØNNE HJERTER",
+		"artist": "TOBIAS TRIER",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/groenne_hjerter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1a1e3a3a-9125-4e39-b837-0ff798d5af6b",
+			"albumTitle": "Grønne Hjerter",
+			"artist": "Tobias Trier",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "HOSTER DU I NAT",
@@ -45394,6 +45410,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "PROMISES AND LIES",
+		"artist": "UB 40",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/promises_and_lies.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b250f5c8-33f8-381c-ac5d-a278b5f3abbf",
+			"albumTitle": "Promises and Lies",
+			"artist": "UB40",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "UB40",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ub40_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7558ab87-60d5-3105-8f75-f9697c09acd5",
+			"albumTitle": "The Very Best of 1980–2002",
+			"artist": "UB40",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "UB40",
 		"artist": "UB40",
 		"price": "10,00 kr.",
@@ -45482,6 +45526,20 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "KEITH URBAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/urban_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2ec419dd-7c6b-3c44-8aad-bc137f8fffdc",
+			"albumTitle": "Greatest Hits",
+			"artist": "Keith Urban",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DAYS GO BY",
 		"artist": "KEITH URBAN",
 		"price": "10,00 kr.",
@@ -45492,6 +45550,20 @@
 			"releaseGroupId": "55e5c181-7156-3090-bfa4-c3d5b178384d",
 			"albumTitle": "Days Go By",
 			"artist": "Keith Urban",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SEX & RELIGION",
+		"artist": "STEVE VAI",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/sex_and_religion.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "81e085f0-5bc7-434f-8e6f-2835659d75b6",
+			"albumTitle": "Sex & Religion / Alien Love Secrets",
+			"artist": "Steve Vai",
 			"type": "Album"
 		}
 	},
@@ -45635,20 +45707,6 @@
 		}
 	},
 	{
-		"albumTitle": "AVALON SUNSET",
-		"artist": "VAN MORRISON",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/avalon_sunset.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "73550711-af87-3816-871c-7211b87bb68e",
-			"albumTitle": "Avalon Sunset",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BROWN EYED GIRL",
 		"artist": "VAN MORRISON",
 		"price": "15,00 kr.",
@@ -45732,6 +45790,15 @@
 		"artist": "VAN MORRISON",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/tb_sheets.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE BEST OF VOLUME 3 (2CD)",
+		"artist": "VAN MORRISON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/van_morrison_best_of_vol3.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -47089,20 +47156,6 @@
 		}
 	},
 	{
-		"albumTitle": "PICTURE THIS",
-		"artist": "WET WET WET",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/picture_this.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "107c9a46-2103-3e62-966a-7ca35ce86c09",
-			"albumTitle": "Picture This",
-			"artist": "Wet Wet Wet",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE MEMPHIS SESSIONS",
 		"artist": "WET WET WET",
 		"price": "10,00 kr.",
@@ -47684,6 +47737,20 @@
 		}
 	},
 	{
+		"albumTitle": "DET LIGGER DÖDA KAMELER I MIN SWIMMINGPOOL",
+		"artist": "MICHAEL WIEHE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/det_ligger_doeda.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9b568188-b77e-36b8-b1c4-2da92bc34f05",
+			"albumTitle": "Det ligger döda kameler i min swimmingpool",
+			"artist": "Mikael Wiehe",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DIAMOND IN THE ROUGH",
 		"artist": "AUD WILKEN",
 		"price": "15,00 kr.",
@@ -47716,6 +47783,15 @@
 		"artist": "ROBBIE WILLIAMS",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/robbie_in_and_out.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THAT LUCKY OLD SUN (CD+DVD)",
+		"artist": "BRIAN WILSON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/that_lucky_old_sun.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -47826,6 +47902,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b273e061-bc67-4a9f-9d1a-38cf107bdd8a",
 			"albumTitle": "Johnny Winter",
+			"artist": "Johnny Winter",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "I'M A BLUESMAN",
+		"artist": "JOHNNY WINTER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/im_a_bluesman.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "15204a37-3ec9-3e65-8c94-1d8fed714dff",
+			"albumTitle": "I'm a Bluesman",
 			"artist": "Johnny Winter",
 			"type": "Album"
 		}
@@ -48926,6 +49016,20 @@
 		}
 	},
 	{
+		"albumTitle": "HITS UNLIMITED",
+		"artist": "2 UNLIMITED",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hits_unlimited.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f37ae38f-435f-48d9-809e-a79677b1202a",
+			"albumTitle": "Hits Unlimited",
+			"artist": "2 Unlimited",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALLE BØRNENE",
 		"artist": "2 x KAJ",
 		"price": "25,00 kr.",
@@ -49070,6 +49174,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "ABSOLUTE DISCO (3CD)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ABSOLUTE HITS OF THE 60's (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/absolute_hits_of_the_60s.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "ABSOLUTE HITS OF THE 60's (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -50475,6 +50593,20 @@
 		}
 	},
 	{
+		"albumTitle": "LET IT BE REVISITED",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/let_it_be_revisited.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a925f3a0-f4a6-4a8e-8aaf-74b3785c791f",
+			"albumTitle": "Let It Be Revisited",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE 'N' KICKIN'",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -50498,6 +50630,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "MAGI I LUFTEN 1",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MAGI I LUFTEN 2",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/magi_i_luften_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "08a32c33-15f9-37a8-9553-8fdc4c35dddf",
+			"albumTitle": "Magi i luften 2",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
