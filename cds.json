@@ -34864,20 +34864,6 @@
 		}
 	},
 	{
-		"albumTitle": "DANCING WITH STRANGERS",
-		"artist": "CHRIS REA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/dancing_with_strangers.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f65d5695-a859-3da2-bd29-2e7234ae71a9",
-			"albumTitle": "Dancing With Strangers",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF CHRIS REA",
 		"artist": "CHRIS REA",
 		"price": "10,00 kr.",
@@ -34906,20 +34892,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE ROAD TO HELL",
-		"artist": "CHRIS REA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_road_to_hell.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a0c737b5-b41c-36c2-bacb-4538c68e1748",
-			"albumTitle": "The Road to Hell",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "CHRIS REA",
 		"price": "10,00 kr.",
@@ -34929,20 +34901,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "dcb3575b-2b3e-3ab4-93c3-64a261bb8832",
 			"albumTitle": "The Very Best of Chris Rea",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SHAMROCK DIARIES",
-		"artist": "CHRIS REA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/shamrock_diaries.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4f72328b-239e-300b-b409-530405de3485",
-			"albumTitle": "Shamrock Diaries",
 			"artist": "Chris Rea",
 			"type": "Album"
 		}
@@ -43661,20 +43619,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "eb15aa23-9f7e-37f2-ab30-49fabdbbfc73",
 			"albumTitle": "Dusk",
-			"artist": "The The",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "INFECTED",
-		"artist": "THE THE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/infected.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1eb45345-2fee-3be5-8b0a-5b91238de4f4",
-			"albumTitle": "Infected",
 			"artist": "The The",
 			"type": "Album"
 		}
