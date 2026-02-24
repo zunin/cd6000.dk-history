@@ -1030,20 +1030,6 @@
 		}
 	},
 	{
-		"albumTitle": "DIRT",
-		"artist": "ALICE IN CHAINS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/dirt.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "92d8f0c4-8c64-3bee-bee1-812a70e77efa",
-			"albumTitle": "Dirt",
-			"artist": "Alice in Chains",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MTV UNPLUGGED",
 		"artist": "ALICE IN CHAINS",
 		"price": "20,00 kr.",
@@ -6676,20 +6662,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEST DAYS",
-		"artist": "CARPARK NORTH",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/best_days.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc34a8c7-c4cd-47cf-a105-46c2474eed46",
-			"albumTitle": "Best Days",
-			"artist": "Carpark North",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "CARPARK NORTH",
 		"artist": "CARPARK NORTH",
 		"price": "10,00 kr.",
@@ -8908,20 +8880,6 @@
 		}
 	},
 	{
-		"albumTitle": "MY OWN PRISON",
-		"artist": "CREED",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/my_own_prison.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "844cbf7b-50ec-3489-9a21-3e3c557a8ac6",
-			"albumTitle": "My Own Prison",
-			"artist": "Creed",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WEATHERED",
 		"artist": "CREED",
 		"price": "10,00 kr.",
@@ -10302,20 +10260,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "78cdb638-a942-3dac-9118-163f3a9099ad",
 			"albumTitle": "This Is Cool",
-			"artist": "Dicte",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "VOODOO VIBE",
-		"artist": "DICTE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/voodoo_vibe.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ed2f76db-8091-3f54-9468-ce7363f4c32f",
-			"albumTitle": "Voodoo Vibe",
 			"artist": "Dicte",
 			"type": "Album"
 		}
@@ -13529,20 +13473,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SLICK",
-		"artist": "FIELFRAZ",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/fielfraz_slick.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35e5d9af-731f-3d6c-b4c0-6cde619c2b6e",
-			"albumTitle": "Slick",
-			"artist": "Fielfraz",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SKELETON",
 		"artist": "FIGURINES",
 		"price": "10,00 kr.",
@@ -13756,20 +13686,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "6fb12193-d19f-3552-8d8f-1c3ee49d9ef9",
 			"albumTitle": "The Hits of Fleetwood Mac",
-			"artist": "Fleetwood Mac",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "FLEETWOOD MAC",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/fleetwood_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7a815e9e-7fa4-3d9e-a9ea-3d15a3ff677d",
-			"albumTitle": "The Very Best of Fleetwood Mac",
 			"artist": "Fleetwood Mac",
 			"type": "Album"
 		}
@@ -15949,20 +15865,6 @@
 			"releaseGroupId": "3f541664-2446-3e29-8865-0a2f2d172a1b",
 			"albumTitle": "Carmen",
 			"artist": "Georges Bizet, Leontyne Price, Franco Corelli, Robert Merrill, Mirella Freni, Wiener Philharmoniker, Herbert von Karajan",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PROUD LIKE A GOD",
-		"artist": "GUANO APES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/proud_like_a_god.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8883ab44-931f-3d27-acfd-06df1dda4a49",
-			"albumTitle": "Proud Like a God",
-			"artist": "Guano Apes",
 			"type": "Album"
 		}
 	},
@@ -20181,15 +20083,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SKYGGER & MAGI Disc 2 SYREGRØNNE EVERGREENS 74-94 1996",
-		"artist": "C.V. JØRGENSEN PLADECO. BESTIL NR. 20612",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/skygger_og_magi2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "STORBYENS SMÅ OASER",
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
@@ -21327,20 +21220,6 @@
 			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
 			"albumTitle": "Unknown Title",
 			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MEMORIES OF DAYS GONE BY",
-		"artist": "KIRA (SKOV)",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/memories_of_days_gone_by.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c1e030e3-da25-4146-acc0-bc979a2880ae",
-			"albumTitle": "Memories of Days Gone By",
-			"artist": "Kira Skov",
 			"type": "Album"
 		}
 	},
@@ -27476,20 +27355,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MEZZOFORTE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/mezzoforte_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "95cc76fe-2715-3447-afde-562cd94fc761",
-			"albumTitle": "The Very Best Of",
-			"artist": "Mezzoforte",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FAITH",
 		"artist": "GEORGE MICHAEL",
 		"price": "10,00 kr.",
@@ -32439,20 +32304,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "STEREOTOMY",
-		"artist": "THE ALAN PARSONS PROJECT",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/stereotomy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d55c0d5-3877-3dc3-80a3-1ca054636727",
-			"albumTitle": "Stereotomy",
-			"artist": "The Alan Parsons Project",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BACKWOODS BARBIE",
 		"artist": "DOLLY PARTON",
 		"price": "10,00 kr.",
@@ -33794,20 +33645,6 @@
 			"releaseGroupId": "c29ef593-2385-4357-ab12-3f3674681ab1",
 			"albumTitle": "Hit the Highway",
 			"artist": "The Proclaimers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE PRODIGAL STRANGER 1991",
-		"artist": "PROCOL HARUM BMG BESTIL NR. 25106",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_prodigal_stranger.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "49e0c6e4-c1aa-486b-b81e-1f6752aec05b",
-			"albumTitle": "Untitled (2012)",
-			"artist": "Brent Gutzeit",
 			"type": "Album"
 		}
 	},
@@ -37403,20 +37240,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "05edd445-b157-3c36-9c20-947cac4e78e6",
 			"albumTitle": "David Sanborn",
-			"artist": "David Sanborn",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "DAVID SANBORN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/sanborn_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c32eb5bf-d5cf-393f-b05d-0abdcda0e157",
-			"albumTitle": "The Best of David Sanborn",
 			"artist": "David Sanborn",
 			"type": "Album"
 		}
@@ -42805,20 +42628,6 @@
 		}
 	},
 	{
-		"albumTitle": "FREE AS A BIRD",
-		"artist": "SUPERTRAMP",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/free_as_a_bird.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "50fa1bf7-cee9-3bc9-951b-19121c789744",
-			"albumTitle": "Free as a Bird",
-			"artist": "Supertramp",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BABY LOVE",
 		"artist": "THE SUPREMES",
 		"price": "10,00 kr.",
@@ -44299,20 +44108,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "GRØNNE HJERTER",
-		"artist": "TOBIAS TRIER",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/groenne_hjerter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1a1e3a3a-9125-4e39-b837-0ff798d5af6b",
-			"albumTitle": "Grønne Hjerter",
-			"artist": "Tobias Trier",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HOSTER DU I NAT",
@@ -48121,20 +47916,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHO SAID ANGELS",
-		"artist": "WSA WHO SAID ANGELS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/wsa.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a230cf22-d0b4-4566-8878-c52e5af01da0",
-			"albumTitle": "Nickel, carbon and cobalt were used in conventional batteries to store charge. But the lower the energy density of these batteries the lower the number of cycles they could survive before the battery failed. These limitations meant that lithium-ion batteries were only good for a few charge cycles",
-			"artist": "Post-artist",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "KNIVES AND DAGGERS",
 		"artist": "KITTY WU",
 		"price": "10,00 kr.",
@@ -50546,20 +50327,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "a925f3a0-f4a6-4a8e-8aaf-74b3785c791f",
 			"albumTitle": "Let It Be Revisited",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVE 'N' KICKIN'",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/live_n_kickin.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "34148e6d-a1d2-3756-a034-004107b7c9f2",
-			"albumTitle": "Live ’n’ Kickin’",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
