@@ -176,6 +176,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE VISITORS (remastered)",
+		"artist": "ABBA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_visitors_rem.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "VOYAGE",
 		"artist": "ABBA",
 		"price": "25,00 kr.",
@@ -534,6 +543,20 @@
 		}
 	},
 	{
+		"albumTitle": "21",
+		"artist": "ADELE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/adele_21.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+			"albumTitle": "21",
+			"artist": "Adele",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "25",
 		"artist": "ADELE",
 		"price": "20,00 kr.",
@@ -752,6 +775,20 @@
 			"releaseGroupId": "e377f086-0cf8-3421-9caf-fa50c262681d",
 			"albumTitle": "Nio liv",
 			"artist": "Björn Afzelius & Globetrotters",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "1993 MALMÖINSPELNINGARNA",
+		"artist": "BJÖRN AFZELIUS & MIKAEL WIEHE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/malmoeinspelningarna.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1f63d3e6-9e52-3a99-9195-3f6b14a3ae7e",
+			"albumTitle": "Björn Afzelius & Mikael Wiehe 1993: Malmöinspelningarna",
+			"artist": "Björn Afzelius, Mikael Wiehe",
 			"type": "Album"
 		}
 	},
@@ -1112,6 +1149,15 @@
 			"artist": "Alphabeat",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THIS IS ALPHABEAT (2CD) (lettere beskadiget inlay)",
+		"artist": "ALPHABEAT",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/this_is_alphabeat.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "FOREVER YOUNG",
@@ -1770,6 +1816,20 @@
 			"releaseGroupId": "0fb24705-ff64-3c81-8ba6-227c13a04d69",
 			"albumTitle": "A Car Crash in the Blue",
 			"artist": "Atomic Swing",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BEFORE THE DINOSAURS",
+		"artist": "AURA DIONE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/before_the_dinosaurs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1bfc87a6-8cc9-4cff-a955-ce886ee314dc",
+			"albumTitle": "Before the Dinosaurs",
+			"artist": "Aura Dione",
 			"type": "Album"
 		}
 	},
@@ -4109,20 +4169,6 @@
 		}
 	},
 	{
-		"albumTitle": "AMORICA",
-		"artist": "THE BLACK CROWES",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/amorica.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a4f0d657-19cc-3730-a672-096fb5e83dcb",
-			"albumTitle": "Amorica",
-			"artist": "The Black Crowes",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THREE SNAKES AND ONE CHARM",
 		"artist": "THE BLACK CROWES",
 		"price": "15,00 kr.",
@@ -4573,6 +4619,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "15198663-e606-3c48-a296-17d3da309947",
 			"albumTitle": "The Great Escape",
+			"artist": "Blur",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PARKLIFE",
+		"artist": "BLUR",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/parklife.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "67461c8e-d864-3910-9bf4-39e44357aac9",
+			"albumTitle": "Parklife",
 			"artist": "Blur",
 			"type": "Album"
 		}
@@ -6881,6 +6941,20 @@
 		}
 	},
 	{
+		"albumTitle": "WINTER WONDERLAND",
+		"artist": "PAUL CARRACK & THE SWR BIG BAND",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/carrack_winter_wonderland.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bc9f50e1-bd9f-3850-beed-6e9a157dc976",
+			"albumTitle": "Winter Wonderland",
+			"artist": "Paul Carrack, SWR Big Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TOONAGE",
 		"artist": "CARTOONS",
 		"price": "10,00 kr.",
@@ -6968,6 +7042,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE LEGEND (3CD)",
+		"artist": "JOHNNY CASH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/cash_the_legend_3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SONGBIRD",
 		"artist": "EVA CASSIDY",
 		"price": "10,00 kr.",
@@ -6977,6 +7060,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "9443c843-0df5-37d5-9ef0-f38d13565df0",
 			"albumTitle": "Songbird",
+			"artist": "Eva Cassidy",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "IMAGINE",
+		"artist": "EVA CASSIDY",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/eva_cassidy_imagine.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a80a5f75-159b-3cc6-a337-82f7d6c6e9c5",
+			"albumTitle": "Imagine",
 			"artist": "Eva Cassidy",
 			"type": "Album"
 		}
@@ -7673,6 +7770,15 @@
 			"artist": "Eric Clapton",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "461 OCEAN BOULEVARD (remastered) (NY i folie)",
+		"artist": "ERIC CLAPTON",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/461_ocean_boulevard.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "AUGUST (remastered)",
@@ -8485,6 +8591,20 @@
 		}
 	},
 	{
+		"albumTitle": "HEY STOOPID",
+		"artist": "ALICE COOPER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/hey_stoopid.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9543c2d-2482-3f09-b552-18728b124eb3",
+			"albumTitle": "Hey Stoopid",
+			"artist": "Alice Cooper",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EUPHORIA MORNING",
 		"artist": "CHRIS CORNELL",
 		"price": "10,00 kr.",
@@ -8695,6 +8815,20 @@
 			"releaseGroupId": "af809cdb-a188-31fd-b8f4-55bbfb36e923",
 			"albumTitle": "Girls Night Out",
 			"artist": "Cowgirls",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "EVERYBODY ELSE IS DOING IT, SOM WHY CAN'T WE",
+		"artist": "THE CRANBERRIES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/everybody_else_is_doing_it.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
+			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
+			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -8963,6 +9097,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "PENDULUM",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/pendulum.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "da556835-e464-3389-881f-362ef8f984b3",
+			"albumTitle": "Pendulum",
+			"artist": "Creedence Clearwater Revival",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DÉJÁ VÜ (remastered)",
 		"artist": "CROSBY STILLS NASH & YOUNG",
 		"price": "20,00 kr.",
@@ -8973,6 +9121,20 @@
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "DÉJÁ VÜ (remastered)",
 			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LIFE IS GOOD",
+		"artist": "BILLY CROSS",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/life_is_good.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1e3e4283-ff9e-31b4-9cb5-a9350b77ca1c",
+			"albumTitle": "Life Is Good",
+			"artist": "Billy Cross",
 			"type": "Album"
 		}
 	},
@@ -9308,6 +9470,20 @@
 		}
 	},
 	{
+		"albumTitle": "DRAWS A CIRCLE/ CALL OF THE WILD",
+		"artist": "D.A.D.",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/dad_draws_call.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NO FUEL LEFT FOR THE PILGRIMS",
 		"artist": "DISNEYLAND AFTER DARK",
 		"price": "20,00 kr.",
@@ -9340,6 +9516,20 @@
 		"artist": "D.A.D.",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/dad_early_years.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE OVERMUCH BOX (12 CD BOX)",
+		"artist": "D.A.D.",
+		"price": "250,00 kr.",
+		"origin": "http://cd6000.dk/the_overmuch_box.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -9385,6 +9575,15 @@
 			"artist": "Dalton",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "TYVE-TI (CD+DVD) (15x14 cm 'papcover')",
+		"artist": "DALTON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/tyve-ti.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SPRED VINGERNE UD!",
@@ -9791,6 +9990,20 @@
 		}
 	},
 	{
+		"albumTitle": "SMOKE ON THE WATER GREATEST HITS",
+		"artist": "DEEP PURPLE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/smoke_on_the_water_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "58d64b3d-7baf-3f76-9c83-b7354b3097cd",
+			"albumTitle": "Smoke on the Water: Greatest Hits",
+			"artist": "Deep Purple",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ADRENALIZE",
 		"artist": "DEF LEPPARD",
 		"price": "10,00 kr.",
@@ -9940,6 +10153,20 @@
 			"releaseGroupId": "fdc4bc65-aaa5-3368-94c8-65b7e874420a",
 			"albumTitle": "Scizoeffective",
 			"artist": "The Delta",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DE KNUSTE HJERTERS KLUB",
+		"artist": "JOHNNY DeLUXE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/de_knuste_hjerters_klub.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "be07d96d-43bf-3840-a1ac-67d4371c6149",
+			"albumTitle": "De knuste hjerters klub",
+			"artist": "Johnny Deluxe",
 			"type": "Album"
 		}
 	},
@@ -10418,6 +10645,15 @@
 		}
 	},
 	{
+		"albumTitle": "BROTHERS IN ARMS (remastered)",
+		"artist": "DIRE STRAITS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/brothers_in_arms.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LOVE OVER GOLD",
 		"artist": "DIRE STRAITS",
 		"price": "15,00 kr.",
@@ -10430,6 +10666,29 @@
 			"artist": "Dire Straits",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "ON THE NIGHT",
+		"artist": "DIRE STRAITS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/on_the_night.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2f8a4b5a-f4f4-364b-b4ac-74fbc9c14b8c",
+			"albumTitle": "On the Night",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PRIVATE INVESTIGATIONS THE BEST OF",
+		"artist": "DIRE STRAITS & MARK KNOPFLER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/private_investigations_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "PLAGIAT",
@@ -10865,6 +11124,20 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST DANCE MIXES",
+		"artist": "DODO & THE DODO's",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/dodo_greatest_dance.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a9e3c02d-c053-379d-8175-aa8b86fdbe18",
+			"albumTitle": "Greatest Dance Mixes",
+			"artist": "Dodo and the Dodo’s",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALL BORO KINGS",
 		"artist": "DOG EAT DOG",
 		"price": "10,00 kr.",
@@ -11121,6 +11394,20 @@
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE BEST OF (2CD)",
 			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ONE LOVE, THE ALBUM",
+		"artist": "DR. ALBAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/one_love_the_album.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "09ed3a5e-5575-3627-9a51-5d9bbb42c6fa",
+			"albumTitle": "One Love: The Album",
+			"artist": "Dr. Alban",
 			"type": "Album"
 		}
 	},
@@ -32894,20 +33181,6 @@
 		}
 	},
 	{
-		"albumTitle": "DARK SIDE OF THE MOON",
-		"artist": "PINK FLOYD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dark_side_of_the_moon.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
-			"albumTitle": "The Dark Side of the Moon",
-			"artist": "Pink Floyd",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ECHOES, THE BEST OF (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -34134,20 +34407,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "2a71baeb-0c95-3d3a-aef9-8d5fe17a8038",
 			"albumTitle": "Monster",
-			"artist": "R.E.M.",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NEW ADVENTURES IN HI-FI",
-		"artist": "R.E.M.",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/new_adventures_in_hifi.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6d4f73cb-9c02-33c5-ba06-c927a9b963ad",
-			"albumTitle": "New Adventures in Hi‐Fi",
 			"artist": "R.E.M.",
 			"type": "Album"
 		}
@@ -47646,20 +47905,6 @@
 		}
 	},
 	{
-		"albumTitle": "I'M A BLUESMAN",
-		"artist": "JOHNNY WINTER",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/im_a_bluesman.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "15204a37-3ec9-3e65-8c94-1d8fed714dff",
-			"albumTitle": "I'm a Bluesman",
-			"artist": "Johnny Winter",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BACK TO BLACK",
 		"artist": "AMY WINEHOUSE",
 		"price": "10,00 kr.",
@@ -51671,6 +51916,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "200 SOLSTIK (9CD boks)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ALLETIDERS FOR JULD JUL (3CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/alletiders_for_fuld_jul.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "ALLETIDERS FOR JULD JUL (3CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
