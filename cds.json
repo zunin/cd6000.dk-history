@@ -18035,6 +18035,20 @@
 		}
 	},
 	{
+		"albumTitle": "WHITNEY",
+		"artist": "WHITNEY HOUSTON",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/whitney.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4f5bfc50-7a41-385e-9961-3db0feaec430",
+			"albumTitle": "Whitney",
+			"artist": "Whitney Houston",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WHITNEY HOUSTON",
 		"artist": "WHITNEY HOUSTON",
 		"price": "10,00 kr.",
@@ -36375,6 +36389,29 @@
 			"releaseGroupId": "6a4cc060-ae8d-3cb6-8ac0-575c4b6cc4dc",
 			"albumTitle": "Simply Deep",
 			"artist": "Kelly Rowland",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DON'T BORE US, GET TO THE CHORUS, GREATEST HITS",
+		"artist": "ROXETTE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dont_bore_us.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "HAVE A NICE DAY",
+		"artist": "ROXETTE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/roxette_have_a_nice_day.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ea848b25-946f-3f90-9e61-302be00904fb",
+			"albumTitle": "Have a Nice Day",
+			"artist": "Roxette",
 			"type": "Album"
 		}
 	},
