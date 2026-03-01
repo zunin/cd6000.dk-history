@@ -48717,20 +48717,6 @@
 		}
 	},
 	{
-		"albumTitle": "AWAY FROM THE SUN",
-		"artist": "3 DOORS DOWN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/away_from_the_sun.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8f4d4f05-36ed-3c81-86a7-aae2a03b1520",
-			"albumTitle": "Away From the Sun",
-			"artist": "3 Doors Down",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DE BEDSTE SANGE",
 		"artist": "40 I FEBER",
 		"price": "50,00 kr.",
