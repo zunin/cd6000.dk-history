@@ -9419,20 +9419,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE OVERMUCH BOX (12 CD BOX)",
-		"artist": "D.A.D.",
-		"price": "250,00 kr.",
-		"origin": "http://cd6000.dk/the_overmuch_box.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SYMPHONY OF DAWN",
 		"artist": "TERENCE TRENT 'DARBY",
 		"price": "10,00 kr.",
@@ -15143,20 +15129,6 @@
 		}
 	},
 	{
-		"albumTitle": "HAVNENS FRISTELSER (CD+DVD)",
-		"artist": "DE GLADE SØMÆND",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/havnens_fristelser.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
-			"albumTitle": "Unknown Title",
-			"artist": "[unknown]",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MED STIV KULING OG HÅRET TILBAGE",
 		"artist": "DE GLADE SØMÆND",
 		"price": "20,00 kr.",
@@ -15375,15 +15347,6 @@
 		"artist": "GNAGS",
 		"price": "40,00 kr.",
 		"origin": "http://cd6000.dk/intercity_burhoens.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LEGEPLADSEN (signeret af 'alle?')",
-		"artist": "GNAGS",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/legepladsen.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -23989,15 +23952,6 @@
 		}
 	},
 	{
-		"albumTitle": "COINCIDANCE (signeret)",
-		"artist": "KRISTIAN LILHOLT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/coincidance.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "NEXT SUMMER",
 		"artist": "KRISTIAN LILHOLT",
 		"price": "10,00 kr.",
@@ -24562,20 +24516,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "5397975a-49c9-37bd-a179-018896a5d46d",
 			"albumTitle": "En elsker",
-			"artist": "Anne Linnet, Marquis de Sade",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OVER MIG UNDER MIG",
-		"artist": "ANNE LINNET & MARQUIS de SADE",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/over_mig_under_mig.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "482cf6e9-197e-3e62-834a-82c0001b64ea",
-			"albumTitle": "Over mig, under mig",
 			"artist": "Anne Linnet, Marquis de Sade",
 			"type": "Album"
 		}
@@ -29876,15 +29816,6 @@
 		}
 	},
 	{
-		"albumTitle": "NENA FEAT. NENA (limited 2CD edition)",
-		"artist": "NENA",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/nena_feat_nena_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "DANMARKDENMARK (CD/DVD)",
 		"artist": "NEPHEW",
 		"price": "20,00 kr.",
@@ -30509,20 +30440,6 @@
 			"releaseGroupId": "b9900d0c-5ccf-4989-8ce8-a6e8603a92a8",
 			"albumTitle": "Hen Over Jorden",
 			"artist": "Nikolaj Christensen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "VI ER PÅ VEJ TIL ET STED HVOR BLOMSTERNE FÅR LOV TIL AT BLIVE NED I JORDEN OG DRØMME",
-		"artist": "NIKOLAJ & PILOTERNE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/vi_er_paa_vej_til.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "VI ER PÅ VEJ TIL ET STED HVOR BLOMSTERNE FÅR LOV TIL AT BLIVE NED I JORDEN OG DRØMME",
-			"artist": "Various Artists",
 			"type": "Album"
 		}
 	},
@@ -37398,20 +37315,6 @@
 		}
 	},
 	{
-		"albumTitle": "TEN ON ONE THE SINGLES",
-		"artist": "SANDRA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/ten_on_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a2d202d6-90a6-3b2f-a179-e95719b1dc6c",
-			"albumTitle": "Ten on One (The Singles)",
-			"artist": "Sandra",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SUPERNATURAL",
 		"artist": "CARLOS SANTANA",
 		"price": "10,00 kr.",
@@ -37546,15 +37449,6 @@
 		"artist": "SAVAZGE GARDEN",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/savage_garden_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE SAVAGE ROSE UNIVERSAL",
-		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/savage_rose_anthology.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
