@@ -8907,34 +8907,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HUMAN CLAY",
-		"artist": "CREED",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/human_clay.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1e3d8943-22c1-39b1-9b7c-32f594e30db8",
-			"albumTitle": "Human Clay",
-			"artist": "Creed",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WEATHERED",
-		"artist": "CREED",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/weathered.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c25a923a-04a9-3ca2-a551-ed0578907999",
-			"albumTitle": "Weathered",
-			"artist": "Creed",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS (CD/DVD)",
 		"artist": "CREED",
 		"price": "20,00 kr.",
@@ -45089,20 +45061,6 @@
 			"releaseGroupId": "bc656bb9-ef02-3d6a-b3ae-c02ee6a040d3",
 			"albumTitle": "Aftenland express",
 			"artist": "Jens Unmack",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "KEITH URBAN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/urban_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2ec419dd-7c6b-3c44-8aad-bc137f8fffdc",
-			"albumTitle": "Greatest Hits",
-			"artist": "Keith Urban",
 			"type": "Album"
 		}
 	},
