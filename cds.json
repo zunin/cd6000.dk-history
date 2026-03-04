@@ -6885,20 +6885,6 @@
 		}
 	},
 	{
-		"albumTitle": "WINTER WONDERLAND",
-		"artist": "PAUL CARRACK & THE SWR BIG BAND",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/carrack_winter_wonderland.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc9f50e1-bd9f-3850-beed-6e9a157dc976",
-			"albumTitle": "Winter Wonderland",
-			"artist": "Paul Carrack, SWR Big Band",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TOONAGE",
 		"artist": "CARTOONS",
 		"price": "10,00 kr.",
@@ -10561,6 +10547,15 @@
 		}
 	},
 	{
+		"albumTitle": "SMERTEFULDE SANGE",
+		"artist": "POUL DISSING",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/smetefulde_sange.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TROUBADOURENS BEDSTE (2CD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "20,00 kr.",
@@ -10613,6 +10608,34 @@
 			"releaseGroupId": "f41013c2-eaa0-4e58-bb5e-48c4a9ba81e4",
 			"albumTitle": "Skynd dig langsomt",
 			"artist": "Povl Dissing, Benny Andersen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SVANTES VISER",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/svantes_viser_elap.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "40e4fb9b-ce58-401a-b6a5-b14e90bb0e8a",
+			"albumTitle": "Svantes viser",
+			"artist": "Benny Andersen, Povl Dissing",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SVANTES VISER",
+		"artist": "POUL DISSING & BENNY ANDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/svantes_viser_recart.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "40e4fb9b-ce58-401a-b6a5-b14e90bb0e8a",
+			"albumTitle": "Svantes viser",
+			"artist": "Benny Andersen, Povl Dissing",
 			"type": "Album"
 		}
 	},
@@ -10766,6 +10789,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "93cf80e6-65c8-397a-8fad-ebbc66317150",
 			"albumTitle": "Believe",
+			"artist": "Disturbed",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "INDESTRUCTIBLE",
+		"artist": "LISA NILSSON",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/indestructible.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6e5a85c3-7baf-4359-acc7-d6973eb14bbb",
+			"albumTitle": "Indestructible",
+			"artist": "Lisa Nilsson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE LOST CHILDREN",
+		"artist": "DISTURBED",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_lost_children.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5783e1eb-6938-41e7-8295-6618ed4141c5",
+			"albumTitle": "The Lost Children",
 			"artist": "Disturbed",
 			"type": "Album"
 		}
@@ -11184,6 +11235,20 @@
 		}
 	},
 	{
+		"albumTitle": "STRANGE DAYS",
+		"artist": "THE DOORS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/strange_days.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9b1acd78-3d19-37bb-8ca0-5816d44da439",
+			"albumTitle": "Strange Days",
+			"artist": "The Doors",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF - DISC ONE (unofficial chinese release)",
 		"artist": "THE DOORS",
 		"price": "15,00 kr.",
@@ -11224,6 +11289,15 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "LOOK WHOS TALKING!",
+		"artist": "DR. ALBAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/look_whos_talking.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ONE LOVE, THE ALBUM",
@@ -11315,6 +11389,29 @@
 			"releaseGroupId": "cc064ee3-8e20-3328-8cd6-a08123764d59",
 			"albumTitle": "Take the Bait",
 			"artist": "Dr. Hook",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNITED (NY i folie)",
+		"artist": "DREAM EVIL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dream_evil_united.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DRENGENE FRA ANGORA",
+		"artist": "DRENGENE FRA ANGORA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/angora.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "893021ba-40f4-30d8-81b2-195da402340f",
+			"albumTitle": "Drengene fra Angora",
+			"artist": "Drengene fra Angora",
 			"type": "Album"
 		}
 	},
@@ -12518,6 +12615,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE INNOCENTS",
+		"artist": "ERASURE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_innocents.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7739a5e3-4616-3e08-a8d5-d1da69e86da5",
+			"albumTitle": "The Innocents",
+			"artist": "Erasure",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WILD WILD WEST",
 		"artist": "THE ESCAPE CLUB",
 		"price": "10,00 kr.",
@@ -12998,6 +13109,29 @@
 		}
 	},
 	{
+		"albumTitle": "A COLLECTION OF HER BEST RECORDINGS",
+		"artist": "MARIANNE FAITHFULL",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/a_collection_of_her_best_recordings.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e84fc514-6f79-351c-a5fd-0bb7cc54f592",
+			"albumTitle": "Faithfull",
+			"artist": "Marianne Faithfull",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "A PERFECT STRANGER (2CD)",
+		"artist": "MARIANNE FAITHFULL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/a_perfect_stranger.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "KOM MED MIG 4-TRACK EP (NY i folie) (papcover)",
 		"artist": "MATHILDE FALCH",
 		"price": "20,00 kr.",
@@ -13070,6 +13204,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "HÅBETS HOTEL",
+		"artist": "MICHAEL FALCH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/haabets_hotel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5431489b-6422-3fa2-9c3e-8fc150d0f7c6",
+			"albumTitle": "Håbets hotel",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "MICHAEL FALCH",
@@ -14149,6 +14297,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "c734406b-3c8a-3214-98cc-dd553f82f813",
 			"albumTitle": "Welcome to the Pleasuredome",
+			"artist": "Frankie Goes to Hollywood",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BANG!.. THE GREATEST HITS",
+		"artist": "FRANKIE GOES TO HOLLYWOOD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/bang.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "03141825-f8e3-438b-8518-5f417e569c98",
+			"albumTitle": "Bang!… The Greatest Hits of Frankie Goes to Hollywood",
 			"artist": "Frankie Goes to Hollywood",
 			"type": "Album"
 		}
@@ -15859,6 +16021,20 @@
 		}
 	},
 	{
+		"albumTitle": "DENGANG JEG VAR BETTE",
+		"artist": "IB GRØNBECH",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dengang_jeg_var_bette.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2a58be3c-3bad-3f66-91ed-4403d4fb0186",
+			"albumTitle": "Dengang jeg var bette",
+			"artist": "Ib Grønbech",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DER ER INGEN, DER FORSTÅR EN SKID...",
 		"artist": "IB GRØNBECH",
 		"price": "10,00 kr.",
@@ -16445,6 +16621,15 @@
 		}
 	},
 	{
+		"albumTitle": "BRANIWASHED",
+		"artist": "GEORGE HARRISON",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/brainwashed.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "37 DAYS",
 		"artist": "BETH HART",
 		"price": "10,00 kr.",
@@ -16743,6 +16928,15 @@
 		}
 	},
 	{
+		"albumTitle": "TIME MACHINE",
+		"artist": "KELD HEICK",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/time_machine.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "AUDITION BALLERINA",
 		"artist": "HEIDI (HERLØW)",
 		"price": "10,00 kr.",
@@ -17030,6 +17224,20 @@
 		}
 	},
 	{
+		"albumTitle": "MADE IN EUROPE",
+		"artist": "CAROLINE HENDERSSON",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/made_in_europe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fbb96ee2-63df-4414-a3db-3a8b3d41a061",
+			"albumTitle": "Made In Europe",
+			"artist": "Caroline Henderson",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE GUITAR LEGEND",
 		"artist": "JIMI HENDRIX",
 		"price": "10,00 kr.",
@@ -17133,6 +17341,20 @@
 			"releaseGroupId": "2409ce74-298f-3175-a01d-973251665c91",
 			"albumTitle": "Songs from Cinema Café",
 			"artist": "Her Personal Pain",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEFINITIVE HITS",
+		"artist": "HERB ALBERT",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/herb_albert_definitive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d71af714-c51c-3137-8398-0b07d2cc74f8",
+			"albumTitle": "Definitive Hits",
+			"artist": "Herb Alpert",
 			"type": "Album"
 		}
 	},
@@ -17590,6 +17812,15 @@
 			"artist": "Benny Holst",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SEPIADAGE",
+		"artist": "BENNY HOLST",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/sepiadage.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "JES HOLTSØ & MORTEN WITTROCK BAND",
@@ -18434,6 +18665,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "BLAH BLAH BLAH",
+		"artist": "IGGY POP",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/blah_blah_blah.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ce94516f-2766-3ab3-9c40-094c3cb5eadb",
+			"albumTitle": "Blah‐Blah‐Blah",
+			"artist": "Iggy Pop",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BRICK BY BRICK",
 		"artist": "IGGY POP",
 		"price": "15,00 kr.",
@@ -18540,6 +18785,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "A CROW LEFT OF THE MURDER (CD+DVD)",
+		"artist": "INCIBUS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/a_crow_left.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ALIVE AT RED ROCKS (2CD)",
+		"artist": "INCIBUS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/alive_at_red_rocks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE RACE",
 		"artist": "INDIGO SUN",
 		"price": "30,00 kr.",
@@ -18563,6 +18826,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "14a3b4da-d6b3-38ac-97bb-06b9f8d3d82e",
 			"albumTitle": "Electric Cabaret",
+			"artist": "Infernal",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "FROM PARIS TO BERLIN",
+		"artist": "INFERNAL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/from_paris_to_berlin.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d32635e5-de20-35d4-a91f-44a23f4574d8",
+			"albumTitle": "From Paris to Berlin",
 			"artist": "Infernal",
 			"type": "Album"
 		}
@@ -19091,6 +19368,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b25a39f2-4b68-359a-9a1f-bcb1459e071e",
 			"albumTitle": "Dynamite",
+			"artist": "Jamiroquai",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HIGH TIMES SINGLES 1992-2006",
+		"artist": "JAMIROQUAI",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/high_times.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7f0f7b13-1c36-3473-928c-8c9aeb59d701",
+			"albumTitle": "High Times: Singles 1992–2006",
 			"artist": "Jamiroquai",
 			"type": "Album"
 		}
@@ -20971,6 +21262,20 @@
 		}
 	},
 	{
+		"albumTitle": "DAY & AGE",
+		"artist": "THE KILLERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/day_and_age.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "485b458c-7b4f-38c4-a113-aa4ea29c3d6d",
+			"albumTitle": "Day & Age",
+			"artist": "The Killers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SAM'S TOWN",
 		"artist": "THE KILLERS",
 		"price": "10,00 kr.",
@@ -20980,6 +21285,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "e5ae2682-f6cb-327d-9e5e-8e055fb5b094",
 			"albumTitle": "Sam’s Town",
+			"artist": "The Killers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SAWDUST",
+		"artist": "THE KILLERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/sawdust.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "69d02e5c-215e-3ddb-ab24-d85a52085fbb",
+			"albumTitle": "Sawdust",
 			"artist": "The Killers",
 			"type": "Album"
 		}
@@ -21125,6 +21444,20 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE MAKES THE WORLD",
+		"artist": "CAROLE KING",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/love_makes_the_world.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9387e599-a672-393a-9b82-68749b7bcbfe",
+			"albumTitle": "Love Makes The World",
+			"artist": "Carole King",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE MAN",
 		"artist": "LEVEL 42's MARK KING",
 		"price": "20,00 kr.",
@@ -21162,6 +21495,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "7a23bc7e-d7bd-3a22-a38d-7d1f793bae1c",
 			"albumTitle": "Only by the Night",
+			"artist": "Kings of Leon",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COME AROUND SUNDOWN",
+		"artist": "KINGS OF LEON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/come_around_sundown1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b44f35b2-0ae7-461c-a526-df86123edb91",
+			"albumTitle": "Come Around Sundown",
 			"artist": "Kings of Leon",
 			"type": "Album"
 		}
@@ -21599,6 +21946,20 @@
 		}
 	},
 	{
+		"albumTitle": "OKAY OKAY BOYS",
+		"artist": "KLICHE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/okay_okay.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "39b0232c-a629-349e-a1c2-baa2c6111d40",
+			"albumTitle": "Okay Okay Boys",
+			"artist": "Kliché",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE GREATEST HITS",
 		"artist": "GLADYS KNIGHT",
 		"price": "10,00 kr.",
@@ -21655,6 +22016,15 @@
 		}
 	},
 	{
+		"albumTitle": "LAST EXIT TO BROOKLYN (ejersignatur på innersleeve)",
+		"artist": "MARK KNOPFLER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/last_exit_to_brooklyn.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SCREENPLAYING",
 		"artist": "MARK KNOPFLER",
 		"price": "10,00 kr.",
@@ -21692,6 +22062,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "9855c588-2fec-315a-93cd-c613752c9de2",
 			"albumTitle": "The Ragpicker’s Dream",
+			"artist": "Mark Knopfler",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GET LUCKY",
+		"artist": "MARK KNOPFLER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/get_lucky.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bfe4edbb-3a4a-4193-91c7-ea5367d6c4fc",
+			"albumTitle": "Get Lucky",
+			"artist": "Mark Knopfler",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "KILL TO GET CRIMSON",
+		"artist": "MARK KNOPFLER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/kill_to_get_crimson.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "73e7b1df-648c-3bca-88f1-db3b4622c23a",
+			"albumTitle": "Kill to Get Crimson",
 			"artist": "Mark Knopfler",
 			"type": "Album"
 		}
