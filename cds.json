@@ -3222,20 +3222,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "LET IT BE",
-		"artist": "THE BEATLES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/let_it_be.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bff544a7-56e0-3ed6-9e0f-3b676cca9111",
-			"albumTitle": "Let It Be",
-			"artist": "The Beatles",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE AT THE BBC (2CD)",
 		"artist": "THE BEATLES",
 		"price": "30,00 kr.",
@@ -10547,15 +10533,6 @@
 		}
 	},
 	{
-		"albumTitle": "SMERTEFULDE SANGE",
-		"artist": "POUL DISSING",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/smetefulde_sange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "TROUBADOURENS BEDSTE (2CD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "20,00 kr.",
@@ -16928,15 +16905,6 @@
 		}
 	},
 	{
-		"albumTitle": "TIME MACHINE",
-		"artist": "KELD HEICK",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/time_machine.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "AUDITION BALLERINA",
 		"artist": "HEIDI (HERLØW)",
 		"price": "10,00 kr.",
@@ -18663,20 +18631,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "BLAH BLAH BLAH",
-		"artist": "IGGY POP",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/blah_blah_blah.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ce94516f-2766-3ab3-9c40-094c3cb5eadb",
-			"albumTitle": "Blah‐Blah‐Blah",
-			"artist": "Iggy Pop",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "BRICK BY BRICK",
@@ -32762,34 +32716,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "PASSION ORANGE",
-		"artist": "PASSION ORANGE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/passion_orange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "166f6154-ccfd-47b1-8d10-fefc69ac9c7c",
-			"albumTitle": "Passion Orange",
-			"artist": "Passion Orange",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BACK IN THE BOX",
-		"artist": "PASSION ORANGE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/back_in_the_box.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d2d090c3-5af3-3bbf-8e3c-db558a973e6f",
-			"albumTitle": "Back in the Box",
-			"artist": "Passion Orange",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BLUE TATTOO",
 		"artist": "PASSPORT",
 		"price": "30,00 kr.",
@@ -35292,20 +35218,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE SHAPE OF PUNK TO COME",
-		"artist": "REFUSED",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_shape_of_punk.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d49f2704-3677-4ba4-8162-e2bd83c76417",
-			"albumTitle": "The Shape of Punk to Come Obliterated",
-			"artist": "Refused",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ECHOES",
