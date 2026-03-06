@@ -30703,20 +30703,6 @@
 		}
 	},
 	{
-		"albumTitle": "NIK & JAY",
-		"artist": "NIK & JAY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/nik_&_jay.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e892cacf-03ca-38b1-8399-85c0d923ea0e",
-			"albumTitle": "Nik & Jay",
-			"artist": "Nik & Jay",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "3 : FRESH FRI FLY",
 		"artist": "NIK & JAY",
 		"price": "10,00 kr.",
