@@ -10859,20 +10859,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "1",
-		"artist": "DODO & THE DODO's",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/dodo1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "84784101-bb8c-48e8-ab8f-40d3a5208ca3",
-			"albumTitle": "1986 - 1991 Revisited Part 1.",
-			"artist": "Miloš Doležal, Vitacit",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "2",
 		"artist": "DODO & THE DODO'S",
 		"price": "10,00 kr.",
