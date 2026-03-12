@@ -10225,7 +10225,7 @@
 		"albumTitle": "WHISPERS",
 		"artist": "TINA DICKOW",
 		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/whispers.htm",
+		"origin": "http://cd6000.dk/dickow_whispers.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -18725,24 +18725,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "A CROW LEFT OF THE MURDER (CD+DVD)",
-		"artist": "INCIBUS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/a_crow_left.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ALIVE AT RED ROCKS (2CD)",
-		"artist": "INCIBUS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/alive_at_red_rocks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE RACE",
 		"artist": "INDIGO SUN",
 		"price": "30,00 kr.",
@@ -22388,6 +22370,15 @@
 		}
 	},
 	{
+		"albumTitle": "ANGELENO ROAD (mangler inlay - derfor pris)",
+		"artist": "POUL KREBS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/angeleno_road1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "DANSEN, MÅNEN & VEJEN",
 		"artist": "POUL KREBS",
 		"price": "10,00 kr.",
@@ -23079,6 +23070,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1a7c2ebe-9123-3f0c-bc4a-0fe7f0288624",
 			"albumTitle": "Kim Larsen & Yankee drengene",
+			"artist": "Kim Larsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SANGE FRA FØRSTE SAL",
+		"artist": "KIM LARSEN",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/sange_fra_foerste_sal.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c8104dc0-35ff-49a6-81c4-111463117036",
+			"albumTitle": "Sange Fra Første Sal",
 			"artist": "Kim Larsen",
 			"type": "Album"
 		}
@@ -23808,6 +23813,15 @@
 			"artist": "John Lennon",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "WORKING CLASS HERO THE DEFINITIVE COLLEXTION (2CD)",
+		"artist": "JOHN LENNON",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/working_class_hero.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "HELP YOURSELF",
@@ -24943,6 +24957,20 @@
 		}
 	},
 	{
+		"albumTitle": "LITTLE PAUL'S BLVD.",
+		"artist": "THE LOFT",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/little_pauls_blvd.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "47f4cd49-5b5b-4fbd-8896-64dd3ac3397e",
+			"albumTitle": "Little Paul's Blvd.",
+			"artist": "The Loft",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NO ORDINARY MAN",
 		"artist": "THE LOFT",
 		"price": "10,00 kr.",
@@ -25073,6 +25101,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b49f2176-899b-3262-9b08-0a2aa0f5fbd6",
 			"albumTitle": "On the 6",
+			"artist": "Jennifer Lopez",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "REBIRTH",
+		"artist": "JENNIFER LOPEZ",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/rebirth.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "10aee628-fbbd-34bf-bced-7fc745db5582",
+			"albumTitle": "Rebirth",
 			"artist": "Jennifer Lopez",
 			"type": "Album"
 		}
@@ -25784,6 +25826,15 @@
 		}
 	},
 	{
+		"albumTitle": "REGNMANDEN (CD+DVD)",
+		"artist": "JOHNNY MADSEN",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/regnmanden.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE BLUES",
 		"artist": "JOHNNY MADSEN",
 		"price": "25,00 kr.",
@@ -26073,6 +26124,20 @@
 		}
 	},
 	{
+		"albumTitle": "A TOUCH OF CLASS",
+		"artist": "THE MANHATTAN TRANSFER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/a_touch_of_class.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "affe9b9d-85af-31d7-974f-f8d34e70f387",
+			"albumTitle": "Jukin’",
+			"artist": "The Manhattan Transfer and Gene Pistilli",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "POST MODERN PANIC ATTACK",
 		"artist": "MANI SPINX",
 		"price": "10,00 kr.",
@@ -26313,6 +26378,15 @@
 			"artist": "Marillion",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE GREATEST COLLECTION (4CD)",
+		"artist": "BOB MARLEY",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/bob_marley_greatest4.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GREATEST HITS",
@@ -26711,6 +26785,20 @@
 		}
 	},
 	{
+		"albumTitle": "FLOWERS IN THE DIRT",
+		"artist": "PAUL McCARTNEY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/flowers_in_the_dirt.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "069723af-5af7-350f-a5fa-bfc13c901649",
+			"albumTitle": "Flowers in the Dirt",
+			"artist": "Paul McCartney",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MEMORY ALMOST FULL",
 		"artist": "PAUL McCARTNEY",
 		"price": "10,00 kr.",
@@ -26781,6 +26869,20 @@
 		}
 	},
 	{
+		"albumTitle": "DRIVING RAIN",
+		"artist": "PAUL McCARTNEY",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/driving_rain.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d42052d6-1490-3072-980c-02f191334aee",
+			"albumTitle": "Driving Rain",
+			"artist": "Paul McCartney",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FLAMING PIE",
 		"artist": "PAUL McCARTNEY",
 		"price": "15,00 kr.",
@@ -26790,6 +26892,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b15fc97a-d55b-335c-9871-4ba4733b16d5",
 			"albumTitle": "Flaming Pie",
+			"artist": "Paul McCartney",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GIVE MY REGARDS TO BROAD STREET",
+		"artist": "PAUL McCARTNEY",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/give_my_regards.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "31b56849-19b8-3454-af3f-b72891f34ae4",
+			"albumTitle": "Give My Regards to Broad Street",
 			"artist": "Paul McCartney",
 			"type": "Album"
 		}
@@ -27037,6 +27153,34 @@
 		}
 	},
 	{
+		"albumTitle": "THE FREEDOM SESSIONS",
+		"artist": "SARAH McLACHLAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_freedom_sessions.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7dd652ea-9f82-31a8-a8a4-9062a9b9bfdf",
+			"albumTitle": "The Freedom Sessions",
+			"artist": "Sarah McLachlan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TOUCH",
+		"artist": "SARAH McLACHLAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/mclachlan_touch.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7eab53c3-8d6e-3649-84f1-e6fe64d4e71f",
+			"albumTitle": "Touch",
+			"artist": "Sarah McLachlan",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PORTRAIT",
 		"artist": "JOHN McLAUGHLIN",
 		"price": "20,00 kr.",
@@ -27242,6 +27386,20 @@
 		}
 	},
 	{
+		"albumTitle": "FOR ALTID",
+		"artist": "MEDINA",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/for_altid.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0e78e7aa-79c9-4a3e-a5b5-19cf2e9e70ce",
+			"albumTitle": "For Altid",
+			"artist": "Medina",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CRYPTIC WRITINGS (remastered)",
 		"artist": "MEGADETH",
 		"price": "20,00 kr.",
@@ -27275,6 +27433,20 @@
 			"releaseGroupId": "5462e170-d7a8-30d9-97a0-04bdf84e8811",
 			"albumTitle": "United Abominations",
 			"artist": "Megadeth",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PIGEN OG TROMPETEN",
+		"artist": "MEK PEK & THE ALLRIGHTS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/pigen_og_trompeten.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
+			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
+			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -27321,6 +27493,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE LONESOME JUBILEE",
+		"artist": "JOHN MELLENCAMP",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_lonesome_jubilee.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "101f26fb-28e4-4804-815e-b322bfc93f91",
+			"albumTitle": "Selftitled",
+			"artist": "Small Town Riot",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WHENEVER WE WANTED",
 		"artist": "JOHN COUGAR MELLENCAMP",
 		"price": "10,00 kr.",
@@ -27359,20 +27545,6 @@
 			"releaseGroupId": "685dbba5-2083-375a-8066-b842300f40fa",
 			"albumTitle": "Scream",
 			"artist": "Melody Club",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PIGEN OG TROMPETEN",
-		"artist": "MEK PEK & THE ALLRIGHTS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/pigen_og_trompeten.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
@@ -28282,6 +28454,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "8ae59d5a-799a-3a6b-89fb-f82c5d736c96",
 			"albumTitle": "Nobody's Angel",
+			"artist": "Miss B. Haven",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ON HONEYMOON",
+		"artist": "MISS B. HAVEN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/on_honeymoon.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1b48c90e-8059-3c42-a464-15ccd9577693",
+			"albumTitle": "On Honeymoon",
+			"artist": "Miss B. Haven",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SUK & STADS",
+		"artist": "MISS B. HEAVEN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/suk_&_stads.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8af978c8-6470-3a0c-a42b-f433cd524ef6",
+			"albumTitle": "Suk & Stads",
 			"artist": "Miss B. Haven",
 			"type": "Album"
 		}
@@ -29703,6 +29903,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DEN NAT AF ALLE NÆTTER",
+		"artist": "NABOERNE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/den_nat_af_alle_naetter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "NAJA ROSA",
 		"artist": "NAJA ROSA",
 		"price": "10,00 kr.",
@@ -29892,6 +30101,15 @@
 			"artist": "Gianna Nannini",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "MADE OF BRICKS BY KATE NASH",
+		"artist": "KATE NASH",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/made_of_bricks_by.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "MY BEST FRIEND IS YOU",
@@ -30280,6 +30498,20 @@
 			"releaseGroupId": "908fde14-b978-3f93-927a-960444312b40",
 			"albumTitle": "Sort på hvidt",
 			"artist": "News",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "JEG ELSKER DIG (Alle Tiders)",
+		"artist": "NEWS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/jeg_elsker_dig.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
 			"type": "Album"
 		}
 	},
@@ -32331,6 +32563,20 @@
 		}
 	},
 	{
+		"albumTitle": "NO QUARTER",
+		"artist": "JIMMY PAGE & ROBERT PLANT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/no_quarter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "96223279-d70a-3e8b-be19-3cddd9a772a8",
+			"albumTitle": "No Quarter",
+			"artist": "Jimmy Page & Robert Plant",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "JENNIFER PAGE",
 		"artist": "JENNIFER PAGE",
 		"price": "10,00 kr.",
@@ -32408,6 +32654,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CLASSIC",
+		"artist": "ROBERT PALMER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/robert_palmer_classic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "89f537d3-406b-4fd8-9c75-5a10148ff143",
+			"albumTitle": "Classic",
+			"artist": "Robert Palmer",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "RHYTHM & BLUES",
@@ -32995,6 +33255,20 @@
 		}
 	},
 	{
+		"albumTitle": "NAKED AND SACRED",
+		"artist": "CHYNNA PHILLIPS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/naked_and_sacred.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9474239f-eb2d-3e2c-aaf4-67383f8b6136",
+			"albumTitle": "Naked and Sacred",
+			"artist": "Chynna Phillips",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PHILLIPS 66",
 		"artist": "JOHN PHILLIPS",
 		"price": "10,00 kr.",
@@ -33067,6 +33341,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "BOAR RIDERS",
+		"artist": "PILGRIMZ",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/boar_riders.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b79a6776-2b52-310c-953d-007864d188db",
+			"albumTitle": "Boar Riders",
+			"artist": "Pilgrimz",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "CAN'T TAKE ME HOME",
@@ -45317,34 +45605,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "VEJEN HJEM FRA ROCKNROLL",
-		"artist": "JENS UNMACK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/vejen_hjem_fra_rocknroll.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6b06f9aa-9c65-3353-a1a9-d7e705c89903",
-			"albumTitle": "Vejen hjem fra rocknroll",
-			"artist": "Jens Unmack",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "AFTENLAND EXPRESS",
-		"artist": "JENS UNMACK",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/afterland_express.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc656bb9-ef02-3d6a-b3ae-c02ee6a040d3",
-			"albumTitle": "Aftenland express",
-			"artist": "Jens Unmack",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "DAYS GO BY",
