@@ -19365,20 +19365,6 @@
 		}
 	},
 	{
-		"albumTitle": "IMAGES THE BEST OF",
-		"artist": "JEAN-MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/images.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e3a606fb-58ad-3f52-95d3-05b2e5faaac5",
-			"albumTitle": "Images: The Best of Jean Michel Jarre",
-			"artist": "Jean‐Michel Jarre",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REVOLUTIONS",
 		"artist": "JEAN-MICHEL JARRE",
 		"price": "10,00 kr.",
@@ -28357,20 +28343,6 @@
 			"releaseGroupId": "91838f83-3f1c-32b8-8760-a40a26fbc1fe",
 			"albumTitle": "Valve",
 			"artist": "Milltown Brothers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CABARET",
-		"artist": "LISA MINELLI",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/cabaret.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c41bc638-ae95-3668-b0f9-1194f53f0a67",
-			"albumTitle": "Cabaret",
-			"artist": "Liza Minnelli",
 			"type": "Album"
 		}
 	},
