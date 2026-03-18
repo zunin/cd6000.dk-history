@@ -32181,6 +32181,20 @@
 		}
 	},
 	{
+		"albumTitle": "HIGHLAND",
+		"artist": "ONE MORE TIME",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/highland.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "227f98f8-a494-37e2-b376-60e784422b50",
+			"albumTitle": "Highland",
+			"artist": "One More Time",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE MORE TIME",
 		"artist": "ONE MORE TIME",
 		"price": "10,00 kr.",
@@ -33403,6 +33417,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE FINAL CUT",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_final_cut.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e8b7e7a3-ef56-34a5-bedf-085783c9a076",
+			"albumTitle": "The Final Cut",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE WALL (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -33983,6 +34011,20 @@
 		}
 	},
 	{
+		"albumTitle": "STRIPPED",
+		"artist": "PRETTY MAIDS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/pretty_maids_stripped.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d37f4897-d4e8-327e-8424-6c866540c46e",
+			"albumTitle": "Stripped",
+			"artist": "Pretty Maids",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HEAVEN KNOWS",
 		"artist": "RICK PRICE",
 		"price": "10,00 kr.",
@@ -34471,6 +34513,20 @@
 		}
 	},
 	{
+		"albumTitle": "LIVE AT WEMBLEY STADIUM (2CD)",
+		"artist": "QUEEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/queen_live_wembley.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "015fa681-78e3-37b2-bff2-fa19f8d5a8d4",
+			"albumTitle": "Greatest Hits: We Will Rock You",
+			"artist": "Queen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE MAGIC",
 		"artist": "QUEEN",
 		"price": "20,00 kr.",
@@ -34843,6 +34899,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "REISE REISE",
+		"artist": "RAMMSTEIN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/reise_reise.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ea9bf147-abbd-39df-b927-46fc945a5140",
+			"albumTitle": "Reise, Reise",
+			"artist": "Rammstein",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ROSENROT",
 		"artist": "RAMMSTEIN",
 		"price": "20,00 kr.",
@@ -35075,6 +35145,20 @@
 		}
 	},
 	{
+		"albumTitle": "LUST LUST LUST",
+		"artist": "THE RAVEONETTES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/lust_lust_lust.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2dd0bc12-9d2b-35d7-876e-36d37adeb3c9",
+			"albumTitle": "Lust Lust Lust",
+			"artist": "The Raveonettes",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALL THE HITS",
 		"artist": "RAY DEE OHH",
 		"price": "10,00 kr.",
@@ -35196,6 +35280,48 @@
 		"musicbrainz": {
 			"releaseGroupId": "dcb3575b-2b3e-3ab4-93c3-64a261bb8832",
 			"albumTitle": "The Very Best of Chris Rea",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DANCING WITH STRANGERS",
+		"artist": "CHRIS REA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dancing_with_strangers.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f65d5695-a859-3da2-bd29-2e7234ae71a9",
+			"albumTitle": "Dancing With Strangers",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GOD'S GREAT BANANA SKIN",
+		"artist": "CHRIS REA",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/gods_great_banana_skin.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "10b09f06-7fbb-377a-bc4b-0862d3376c67",
+			"albumTitle": "God’s Great Banana Skin",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ON THE BEACH",
+		"artist": "CHRIS REA",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/on_the_beach.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "843b05a6-3e8b-3528-8f2a-294baf314cfe",
+			"albumTitle": "On the Beach",
 			"artist": "Chris Rea",
 			"type": "Album"
 		}
@@ -36015,6 +36141,20 @@
 		}
 	},
 	{
+		"albumTitle": "TALK THAT TALK",
+		"artist": "RIHANNA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/talk_that_talk.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "15818ec5-bf34-47de-a4e5-260f98828d64",
+			"albumTitle": "Talk That Talk",
+			"artist": "Rihanna",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "RATED R",
 		"artist": "RIHANNA",
 		"price": "20,00 kr.",
@@ -36689,6 +36829,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE DEFINITIVE COLLECTION",
+		"artist": "DIANA ROSS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/diana_ross_definitive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "89cbd967-d8d0-3428-9296-99af286b7ce4",
+			"albumTitle": "The Definitive Collection",
+			"artist": "Diana Ross",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WHY DO FOOLS FALL IN LOVE",
 		"artist": "DIANA ROSS",
 		"price": "10,00 kr.",
@@ -37201,6 +37355,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HEARTLAND",
+		"artist": "RUNRIG",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/heartland.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c2b93a59-e46c-314f-b280-c64403fecb85",
+			"albumTitle": "Heartland",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MARA",
 		"artist": "RUNRIG",
 		"price": "15,00 kr.",
@@ -37224,6 +37392,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "cf1288e7-5272-3935-8cd6-8e882177cda6",
 			"albumTitle": "Recovery",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SEARCHLIGHT",
+		"artist": "RUNRIG",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/searchlight.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "20ed0a6c-d467-3f5c-9be4-420546033921",
+			"albumTitle": "Searchlight",
 			"artist": "Runrig",
 			"type": "Album"
 		}
@@ -37994,6 +38176,15 @@
 			"artist": "The Savage Rose",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "FROM THE GUTTER TO THE STAGE, THE BEST OF (2CD)",
+		"artist": "SAVATAGE",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/from_the_gutter_to.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "EYES ON THE HIGHWAY",
@@ -39457,6 +39648,20 @@
 		}
 	},
 	{
+		"albumTitle": "BRIDGE OVER TROUBLED WATER",
+		"artist": "SIMON & GARFUNKEL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/bridge_over.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c39f7f80-d42f-3669-9653-230f8e922083",
+			"albumTitle": "Bridge Over Troubled Water",
+			"artist": "Simon & Garfunkel",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "COLLECTION, 17 ALL TIME GREATEST RECORDINGS",
 		"artist": "SIMON & GARFUNKEL",
 		"price": "10,00 kr.",
@@ -40135,6 +40340,20 @@
 			"releaseGroupId": "3ad38e1b-aa77-3a50-bec8-629ea3814b53",
 			"albumTitle": "Collide",
 			"artist": "Skillet",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SÅ SIGER MAN TAK (signeret)",
+		"artist": "SKIPPER JUST FROST",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/saa_siger_man_tak.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
+			"albumTitle": "Unknown Title",
+			"artist": "[unknown]",
 			"type": "Album"
 		}
 	},
@@ -41028,6 +41247,20 @@
 			"releaseGroupId": "a753fd18-d9d1-3381-9023-fb7ff85fe6b2",
 			"albumTitle": "Flow My Firetear",
 			"artist": "Sort Sol",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MARK II",
+		"artist": "SORTEN MULD",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/mark_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6adfa099-89d1-37f5-8010-fe33f4346131",
+			"albumTitle": "Mark II",
+			"artist": "Sorten Muld",
 			"type": "Album"
 		}
 	},
@@ -42535,6 +42768,20 @@
 		}
 	},
 	{
+		"albumTitle": "WHERE THE STORM MEETS THE GROUND",
+		"artist": "THE STORM",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/where_the_storm_meets_the_ground.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "113f4aba-200a-3a55-bf91-6f3af11f7e6e",
+			"albumTitle": "Where the Storm Meets the Ground",
+			"artist": "The Storm",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "A GRAND DON'T COME FOR FREE / ORIGINAL PIRATE MATERIAL (2CD)",
 		"artist": "THE STREETS",
 		"price": "10,00 kr.",
@@ -43091,6 +43338,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE COMPLETE COLLECTION 1997-2005 (2CD)",
+		"artist": "SWAN LEE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/swan_lee_complete.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "BALLROOM HITZ (2CD)",
 		"artist": "SWEET",
 		"price": "10,00 kr.",
@@ -43598,6 +43854,20 @@
 		}
 	},
 	{
+		"albumTitle": "STAY UNDER THE STARS",
+		"artist": "TEITUR",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/stay_under_the_stars.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c67314e5-32e5-36b4-9e77-2590c9baf2ee",
+			"albumTitle": "Stay Under the Stars",
+			"artist": "Teitur",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE SINGER",
 		"artist": "TEITUR",
 		"price": "10,00 kr.",
@@ -43770,6 +44040,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "eba88e43-50aa-3457-a2e9-b5960f06aa3a",
 			"albumTitle": "White on Blonde",
+			"artist": "Texas",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RED BOOK",
+		"artist": "TEXAS",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/red_book.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6cd718cb-235d-3506-8a5a-92af6e017b5f",
+			"albumTitle": "Red Book",
 			"artist": "Texas",
 			"type": "Album"
 		}
@@ -44676,6 +44960,20 @@
 		}
 	},
 	{
+		"albumTitle": "BREAK EVERY RULE",
+		"artist": "TINA TURNER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/break_every_rule.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b7cda27a-6174-3b99-aaf9-d2420a62319c",
+			"albumTitle": "Break Every Rule",
+			"artist": "Tina Turner",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "COLLECTION",
 		"artist": "TINA TURNER",
 		"price": "10,00 kr.",
@@ -45000,20 +45298,6 @@
 		}
 	},
 	{
-		"albumTitle": "FANTASTISKE TOYOTA",
-		"artist": "TV-2",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/fantastiske_toyota.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "66d42362-108f-3ffc-87c0-c037e8a1717a",
-			"albumTitle": "Fantastiske Toyota",
-			"artist": "TV-2",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HITS (2CD+DVD)",
 		"artist": "TV-2",
 		"price": "25,00 kr.",
@@ -45021,20 +45305,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "NUTIDENS UNGE",
-		"artist": "TV-2",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/nutidens_unge.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "703f3167-82e7-39a2-b4ed-c0b588548075",
-			"albumTitle": "Nutidens unge",
-			"artist": "TV-2",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "VERDEN ER VIDUNDERLIG",
@@ -45361,6 +45631,15 @@
 		"artist": "TØSEDRENGENE",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/pas_paa_dine_blaa_oejne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SIG DU KA' LI' MIG (2CD)",
+		"artist": "TØSEDRENGENE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/sig_du_ka_li_mig_2.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
