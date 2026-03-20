@@ -41001,20 +41001,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE NASHVILLE ALBUM",
-		"artist": "SMOKIE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/smokie_the_nashville_album.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "445c7a21-ff43-32af-ada3-bf2af2def964",
-			"albumTitle": "Wild Horses: The Nashville Album",
-			"artist": "Smokie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "UNCOVERED",
 		"artist": "SMOKIE",
 		"price": "10,00 kr.",
