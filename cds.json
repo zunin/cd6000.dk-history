@@ -42,6 +42,34 @@
 		}
 	},
 	{
+		"albumTitle": "SCOUNDREL DAYS",
+		"artist": "A-HA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/scoundrel_days.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4400a68a-2d6b-370a-b98e-3a8b991e87b3",
+			"albumTitle": "Scoundrel Days",
+			"artist": "a‐ha",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "18 HITS",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/18_hits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2f90259-a8f1-36bc-830a-359540f242bd",
+			"albumTitle": "18 Hits",
+			"artist": "ABBA",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GOLD",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -296,6 +324,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "46fd6f83-e94a-3060-8457-13b8ea8e1262",
 			"albumTitle": "Ballbreaker",
+			"artist": "AC/DC",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BLACK ICE",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/black_ice.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "afca53c1-c5b3-3f91-8590-281b0aa12722",
+			"albumTitle": "Black Ice",
+			"artist": "AC/DC",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BLOW UP YOUR VIDEO",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/blow_up_your_video.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "baab9433-37a8-32ee-a1d3-34c7d6cf6e69",
+			"albumTitle": "Blow Up Your Video",
 			"artist": "AC/DC",
 			"type": "Album"
 		}
@@ -774,6 +830,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "TOKEN WORD",
+		"artist": "AL AGAMI",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/token_word.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d6b74c5b-34e4-435c-8bca-d9bcbf925b04",
+			"albumTitle": "Token Word",
+			"artist": "Al Agami",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE VOICE OF ABBA",
 		"artist": "AGNETA & FRIDA (Fältskog & Lyngstad)",
 		"price": "10,00 kr.",
@@ -1156,6 +1226,20 @@
 			"releaseGroupId": "894aa56b-561e-46ad-85b0-54c49df390dd",
 			"albumTitle": "VOYAGE III - BEYOND DARKNESS",
 			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DEFINED",
+		"artist": "AMICI FOREVER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/defined.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3054aa27-5ddd-3c3b-9083-ee770c3dcde2",
+			"albumTitle": "Defined",
+			"artist": "Amici Forever",
 			"type": "Album"
 		}
 	},
@@ -1834,20 +1918,6 @@
 		}
 	},
 	{
-		"albumTitle": "COSMIC THING",
-		"artist": "B-52s",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/cosmic_thing.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1b36a363-eec6-35ba-b0ed-34a1f2f2cd82",
-			"albumTitle": "Cosmic Thing",
-			"artist": "The B‐52s",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOOD STUFF",
 		"artist": "THE B-52s",
 		"price": "10,00 kr.",
@@ -1858,6 +1928,20 @@
 			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
 			"albumTitle": "Unknown Title",
 			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COSMIC THING",
+		"artist": "B-52s",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/cosmic_thing.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1b36a363-eec6-35ba-b0ed-34a1f2f2cd82",
+			"albumTitle": "Cosmic Thing",
+			"artist": "The B‐52s",
 			"type": "Album"
 		}
 	},
@@ -2204,6 +2288,15 @@
 			"artist": "George Baker Selection",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "JAGTEN PÅ NOGET",
+		"artist": "BALSTYRKO",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/jagten_paa_noget.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "15 STÆRKE PÅ STRIBE",
@@ -2911,6 +3004,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "BARCLAY JAMES HARVEST",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/bjh_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "704686dd-224f-479c-b6de-367248a495ef",
+			"albumTitle": "Titles – The Best Of",
+			"artist": "Barclay James Harvest",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE MOON WAS BLUE",
 		"artist": "BOBBY BARE",
 		"price": "10,00 kr.",
@@ -2991,6 +3098,20 @@
 			"releaseGroupId": "d7d0e5fb-e0cf-380c-b337-a6243c927743",
 			"albumTitle": "Precious Memories",
 			"artist": "Alan Jackson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BASIC INJECTION",
+		"artist": "BASIC ELEMENT",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/basic_injection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4645c28a-2731-31eb-b94a-8e0eddb6935f",
+			"albumTitle": "Basic Injection",
+			"artist": "Basic Element",
 			"type": "Album"
 		}
 	},
@@ -3259,6 +3380,20 @@
 		}
 	},
 	{
+		"albumTitle": "WITH THE BEATLES",
+		"artist": "THE BEATLES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/with_the_beatles.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a63dc65f-09f2-359b-a10e-648f00ecd96c",
+			"albumTitle": "With The Beatles",
+			"artist": "The Beatles",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "XMAS!",
 		"artist": "THE BEATMAS (RUBBER BAND)",
 		"price": "15,00 kr.",
@@ -3381,6 +3516,20 @@
 			"releaseGroupId": "0d86f74c-8cd8-3647-b4fd-18e5063323cd",
 			"albumTitle": "N.B.",
 			"artist": "Natasha Bedingfield",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "E.S.P.",
+		"artist": "BEE GEES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/esp.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "eb453cb9-6643-318d-a578-8216980ee70a",
+			"albumTitle": "E·S·P",
+			"artist": "Bee Gees",
 			"type": "Album"
 		}
 	},
@@ -4192,6 +4341,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE HOLY GROUND",
+		"artist": "MARY BLACK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_holy_ground.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4422a489-183a-3ff2-9c7b-64ebfd2270ec",
+			"albumTitle": "The Holy Ground",
+			"artist": "Mary Black",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ALL SOULS ALIVE",
 		"artist": "THE BLACKEYED SUSANS",
 		"price": "10,00 kr.",
@@ -4431,6 +4594,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SWEEP OF DAYS",
+		"artist": "BLUE FOUNDATION",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/sweep_of_days.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "98ebae7f-bab7-306d-803e-457bc14aaae4",
+			"albumTitle": "Sweep of Days",
+			"artist": "Blue Foundation",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "DIAMOND ON A DUMP",
@@ -12410,20 +12587,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "e0d63fd7-1f16-3633-bf51-b143f6ebb8b6",
 			"albumTitle": "The Cross of Changes",
-			"artist": "Enigma",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE SCREEN BEHIND THE MIRROR",
-		"artist": "ENIGMA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_screen_behind_the_mirror.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "acf944dc-3ac6-3557-8be8-2fb74ee54ba6",
-			"albumTitle": "The Screen Behind the Mirror",
 			"artist": "Enigma",
 			"type": "Album"
 		}
@@ -36667,20 +36830,6 @@
 		}
 	},
 	{
-		"albumTitle": "NO SECURITY",
-		"artist": "ROLLING STONES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/no_security.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7fe31c92-8c46-3e4c-b998-7b466ea74f8e",
-			"albumTitle": "No Security",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "STEEL WHEELS",
 		"artist": "THE ROLLING STONES",
 		"price": "15,00 kr.",
@@ -37559,6 +37708,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "ea64beae-333e-37fd-84c4-26a5d6dab17d",
 			"albumTitle": "Stronger Than Pride",
+			"artist": "Sade",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE BEST OF SADE",
+		"artist": "SADE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/sade_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bd2d0080-c80a-3089-b1ab-1ed80feccc51",
+			"albumTitle": "The Best of Sade",
 			"artist": "Sade",
 			"type": "Album"
 		}
@@ -43217,6 +43380,20 @@
 		}
 	},
 	{
+		"albumTitle": "RETROSPECTACLE THE SUPERTRAMP ANTHOLOGY",
+		"artist": "SUPERTRAMP",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/retrospectacle.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2c1f18a8-ceb3-39b9-a58b-c979b5ee1999",
+			"albumTitle": "Retrospectacle: The Supertramp Anthology",
+			"artist": "Supertramp",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BABY LOVE",
 		"artist": "THE SUPREMES",
 		"price": "10,00 kr.",
@@ -44228,6 +44405,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "RIDE 'TILL I DIE",
+		"artist": "GEORGE THOROGOOD & THE DESTROYERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ride_till_i_die.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
+			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
+			"artist": "Bruce Springsteen, The E Street Band",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "CHRISTMAS WITH THE THREE DEGREES",
@@ -45668,6 +45859,20 @@
 		}
 	},
 	{
+		"albumTitle": "BOY",
+		"artist": "U2",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/boy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "53b0d89e-f856-3015-a3a6-a70e1e935fd6",
+			"albumTitle": "Boy",
+			"artist": "U2",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HOW TO DISMANTLE AN ATOMIC BOBM",
 		"artist": "U2",
 		"price": "10,00 kr.",
@@ -45719,6 +45924,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF 1990-2000",
+		"artist": "U2",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/u2_the_best_1990-2000.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b61193ac-8f31-3b07-847a-fc8b4d495218",
+			"albumTitle": "The Best of 1990–2000",
+			"artist": "U2",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE UNFORGETTABLE FIRE",
 		"artist": "U2",
 		"price": "10,00 kr.",
@@ -45728,6 +45947,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "c84d00f4-afd3-3184-be62-6ae5f135aa38",
 			"albumTitle": "The Unforgettable Fire",
+			"artist": "U2",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNDER A BLOOD RED SKY",
+		"artist": "U2",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/under_a_blood_red_sky.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "880334fc-8365-36b9-b212-6cafa92879e5",
+			"albumTitle": "Under a Blood Red Sky",
 			"artist": "U2",
 			"type": "Album"
 		}
@@ -46210,6 +46443,20 @@
 		}
 	},
 	{
+		"albumTitle": "LIVE ALIVE",
+		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/vaughan_live_alive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9d64b0ca-42d1-39b3-96fb-8a82acd431a2",
+			"albumTitle": "Live Alive",
+			"artist": "Stevie Ray Vaughan and Double Trouble",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SOUL TO SOUL",
 		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
 		"price": "20,00 kr.",
@@ -46446,6 +46693,15 @@
 		"artist": "VESTRE JAZZVÆRK",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/i_jazzsmedien.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "I WILL NOT LISTEN (5 track single-CD)",
+		"artist": "VETO",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/i_will_not_listen.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -46977,6 +47233,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "35c9a4b0-d4dd-3e6f-87fd-2185519296e2",
 			"albumTitle": "Closing Time",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RAIN DOGS",
+		"artist": "TOM WAITS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/rain_dogs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fb25a883-2270-3ec4-8c62-85c7ed857e6f",
+			"albumTitle": "Rain Dogs",
 			"artist": "Tom Waits",
 			"type": "Album"
 		}
@@ -48574,6 +48844,20 @@
 		}
 	},
 	{
+		"albumTitle": "IT'S BLITZ!",
+		"artist": "YEAH YEAH YEAHS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/its_blitz.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "08e1a593-cbce-3943-8a90-79c4d8c2b693",
+			"albumTitle": "It’s Blitz!",
+			"artist": "Yeah Yeah Yeahs",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EVERYBODY KNOWS",
 		"artist": "TRISHA YEARWOOD",
 		"price": "10,00 kr.",
@@ -48931,6 +49215,15 @@
 			"artist": "Frank Zappa",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "STRICTLY COMMERCIAL (unofficial)",
+		"artist": "FRANK ZAPPA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/zappa_strictly_u.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "WHAT DOES FISH IS",
@@ -50687,6 +50980,20 @@
 		}
 	},
 	{
+		"albumTitle": "HITS OF.. 81-82",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hits_of_81-82.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4f1f38c3-1cce-40ef-9010-c44b87016d7f",
+			"albumTitle": "NON TITLE",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HITS OF.... 83-84",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -50710,6 +51017,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "HITS OF... 85-86",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HITS OF.. 87-88",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hits_of_87-88.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
+			"albumTitle": "HITS OF.. 87-88",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
@@ -52637,6 +52958,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE BEST OF WOODSTOCK (remastered)",
+			"artist": "Various Artists",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNPLUGGED",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/unplugged.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6d7181fb-3073-4b01-a762-f688996625f4",
+			"albumTitle": "Unplugged",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
