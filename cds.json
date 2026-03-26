@@ -42,20 +42,6 @@
 		}
 	},
 	{
-		"albumTitle": "SCOUNDREL DAYS",
-		"artist": "A-HA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/scoundrel_days.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4400a68a-2d6b-370a-b98e-3a8b991e87b3",
-			"albumTitle": "Scoundrel Days",
-			"artist": "a‐ha",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "18 HITS",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -2288,15 +2274,6 @@
 			"artist": "George Baker Selection",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "JAGTEN PÅ NOGET",
-		"artist": "BALSTYRKO",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/jagten_paa_noget.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "15 STÆRKE PÅ STRIBE",
