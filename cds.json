@@ -250,20 +250,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HJEMLÆNGSEL",
-		"artist": "PETER ABRAHAMSEN & BELL PEPPER BOYS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/hjemlaengsel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "HJEMLÆNGSEL",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FRIHED, RET OG TRO",
 		"artist": "PETER ABRAHAMSEN JANNIE LÆRKEDAHL & BELL PEPPER BOYS",
 		"price": "10,00 kr.",
@@ -2981,20 +2967,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE BEST OF",
-		"artist": "BARCLAY JAMES HARVEST",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bjh_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "704686dd-224f-479c-b6de-367248a495ef",
-			"albumTitle": "Titles – The Best Of",
-			"artist": "Barclay James Harvest",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE MOON WAS BLUE",
 		"artist": "BOBBY BARE",
 		"price": "10,00 kr.",
@@ -5336,20 +5308,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "f05647bf-86a7-3e6e-872a-20eb465be0a5",
 			"albumTitle": "1.Outside: The Nathan Adler Diaries: A Hyper Cycle",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HEATHEN",
-		"artist": "DAVID BOWIE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/heathen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fed49206-4869-307d-9bfa-08109424cb73",
-			"albumTitle": "Heathen",
 			"artist": "David Bowie",
 			"type": "Album"
 		}
@@ -9554,15 +9512,6 @@
 		}
 	},
 	{
-		"albumTitle": "TYVE-TI (CD+DVD) (15x14 cm 'papcover')",
-		"artist": "DALTON",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/tyve-ti.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SPRED VINGERNE UD!",
 		"artist": "DANSEORKESTRET",
 		"price": "10,00 kr.",
@@ -12713,20 +12662,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d26f34e9-7402-3afe-9681-e3eae467cbb2",
 			"albumTitle": "I Say I Say I Say",
-			"artist": "Erasure",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE INNOCENTS",
-		"artist": "ERASURE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_innocents.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7739a5e3-4616-3e08-a8d5-d1da69e86da5",
-			"albumTitle": "The Innocents",
 			"artist": "Erasure",
 			"type": "Album"
 		}
@@ -20773,20 +20708,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "KAOS",
-		"artist": "BO KASPERS ORKESTER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bo_kaspers_kaos.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0a131350-4fee-308c-a913-e94121ce184c",
-			"albumTitle": "Kaos",
-			"artist": "Bo Kaspers orkester",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "DISCOLIZED (2CD)",
@@ -31684,15 +31605,6 @@
 		}
 	},
 	{
-		"albumTitle": "FAITH AND COURAGE (chinese release)",
-		"artist": "SINEAD O'CONNOR",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/faith_and_courage.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "I DO NOT WANT WHAT I HAVEN'T GOT",
 		"artist": "SINEAD O'CONNOR",
 		"price": "10,00 kr.",
@@ -31730,20 +31642,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "f7158e4b-87d0-3310-85ae-71b15769f4ef",
 			"albumTitle": "The Lion and the Cobra",
-			"artist": "Sinéad O’Connor",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "UNIVERSAL MOTHER",
-		"artist": "SINEAD O'CONNOR",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/universal_mother.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "80ffc97e-ab47-34fb-a1cf-d219162dae66",
-			"albumTitle": "Universal Mother",
 			"artist": "Sinéad O’Connor",
 			"type": "Album"
 		}
@@ -38722,20 +38620,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "OVER HAVET UNDER HIMLEN",
-		"artist": "SEBASTIAN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/over_havet_under.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "38fb2a8f-a0f6-337f-a2ca-c39edfda5244",
-			"albumTitle": "Over havet, under himlen",
-			"artist": "Sebastian",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PÅ VULKANER",
 		"artist": "SEBASTIAN",
 		"price": "25,00 kr.",
@@ -38766,20 +38650,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TIDERNE SKIFTER",
-		"artist": "SEBASTIAN",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/tiderne_skifter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c4625f02-8835-3c30-a7be-b65c5664e32e",
-			"albumTitle": "Tiderne skifter",
-			"artist": "Sebastian",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ØJEBLIKKETS MESTER (CD+DVD)",
@@ -38953,20 +38823,6 @@
 			"releaseGroupId": "a561dca2-685f-3b7f-8463-d37475b502c8",
 			"albumTitle": "Where Are My Shoes",
 			"artist": "Sidsel Ben Semmane",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NEVER MIND THE BOLLOCKS",
-		"artist": "SEX PISTOLS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/never_mind_the_bollocks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e959a4b3-6306-3c45-9df6-e7241dae9ea3",
-			"albumTitle": "Never Mind the Bollocks Here’s the Sex Pistols",
-			"artist": "Sex Pistols",
 			"type": "Album"
 		}
 	},
@@ -47210,20 +47066,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "35c9a4b0-d4dd-3e6f-87fd-2185519296e2",
 			"albumTitle": "Closing Time",
-			"artist": "Tom Waits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RAIN DOGS",
-		"artist": "TOM WAITS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/rain_dogs.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fb25a883-2270-3ec4-8c62-85c7ed857e6f",
-			"albumTitle": "Rain Dogs",
 			"artist": "Tom Waits",
 			"type": "Album"
 		}
