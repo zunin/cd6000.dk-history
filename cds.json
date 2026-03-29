@@ -21399,20 +21399,6 @@
 		}
 	},
 	{
-		"albumTitle": "CITY STREETS",
-		"artist": "CAROLE KING",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/city_streets.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3c2402af-c4cc-3e95-ad21-3c6aa0e0e160",
-			"albumTitle": "City Streets",
-			"artist": "Carole King",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LOVE MAKES THE WORLD",
 		"artist": "CAROLE KING",
 		"price": "10,00 kr.",
@@ -21422,6 +21408,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "9387e599-a672-393a-9b82-68749b7bcbfe",
 			"albumTitle": "Love Makes The World",
+			"artist": "Carole King",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "CITY STREETS",
+		"artist": "CAROLE KING",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/city_streets.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3c2402af-c4cc-3e95-ad21-3c6aa0e0e160",
+			"albumTitle": "City Streets",
 			"artist": "Carole King",
 			"type": "Album"
 		}
