@@ -43199,20 +43199,6 @@
 		}
 	},
 	{
-		"albumTitle": "RETROSPECTACLE THE SUPERTRAMP ANTHOLOGY",
-		"artist": "SUPERTRAMP",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/retrospectacle.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2c1f18a8-ceb3-39b9-a58b-c979b5ee1999",
-			"albumTitle": "Retrospectacle: The Supertramp Anthology",
-			"artist": "Supertramp",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BABY LOVE",
 		"artist": "THE SUPREMES",
 		"price": "10,00 kr.",
