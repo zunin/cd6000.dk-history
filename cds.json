@@ -5313,20 +5313,6 @@
 		}
 	},
 	{
-		"albumTitle": "OUTSIDE",
-		"artist": "DAVID BOWIE",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/bowie_outside.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "746043f6-8144-4f44-8da5-f0bdb3fd0e4d",
-			"albumTitle": "Outside in Budapest",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REALITY",
 		"artist": "DAVID BOWIE",
 		"price": "20,00 kr.",
@@ -21943,20 +21929,6 @@
 		}
 	},
 	{
-		"albumTitle": "SUPERTANKER",
-		"artist": "KLICHE",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/supertanker.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ddc30aba-4c82-3017-8a43-100868e4f59f",
-			"albumTitle": "Supertanker",
-			"artist": "Kliché",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE GREATEST HITS",
 		"artist": "GLADYS KNIGHT",
 		"price": "10,00 kr.",
@@ -28079,20 +28051,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MEZZOFORTE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/mezzoforte_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "95cc76fe-2715-3447-afde-562cd94fc761",
-			"albumTitle": "The Very Best Of",
-			"artist": "Mezzoforte",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FAITH",
 		"artist": "GEORGE MICHAEL",
 		"price": "10,00 kr.",
@@ -32202,15 +32160,6 @@
 			"artist": "Mike Oldfield",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE DANISH COLLECTION (2CD)",
-		"artist": "MIKE OLDFIELD",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/oldfield_the_danish_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "EN GROS (2CD)",
