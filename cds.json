@@ -44881,48 +44881,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "TAMBU",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/tambu_bag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9ac42af4-654b-3cf5-b03e-009aec27638d",
-			"albumTitle": "Tambu",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THROUGH THE LOOKING GLASS",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/through_the_looking_glass.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9cf4d19e-3075-3ab1-aee2-eb85c9290c7b",
-			"albumTitle": "Through the Looking Glass",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE SEVENTH ONE",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_seventh_one.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "13e91ae0-26f6-3a8c-a398-622bccc73d3d",
-			"albumTitle": "The Seventh One",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TURN BACK",
 		"artist": "TOTO",
 		"price": "10,00 kr.",
@@ -44932,29 +44890,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "41ef9903-80e9-32d6-af07-ada9adda7359",
 			"albumTitle": "Turn Back",
-			"artist": "Toto",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "XX (1975-1985)",
-		"artist": "TOTO",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/toto_xx.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TOTO",
-		"artist": "TOTO",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/toto.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4c143f94-d1fa-4827-89f1-74869fb1c967",
-			"albumTitle": "Toto",
 			"artist": "Toto",
 			"type": "Album"
 		}
