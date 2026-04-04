@@ -26096,20 +26096,6 @@
 		}
 	},
 	{
-		"albumTitle": "FRIVÆRDI",
-		"artist": "MAGTENS KORRIDORER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/frivaerdi.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "80196e8e-9f05-3737-a358-4ac3cd47bb12",
-			"albumTitle": "Friværdi",
-			"artist": "Magtens Korridorer",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GLITER IN THE GUTTER",
 		"artist": "JESSE MALIN",
 		"price": "10,00 kr.",
