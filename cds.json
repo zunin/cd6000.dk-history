@@ -6177,20 +6177,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIONHEART",
-		"artist": "KATE BUSH",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/lionheart.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ab47675f-548d-3703-8689-28e5b5150bac",
-			"albumTitle": "Lionheart",
-			"artist": "Kate Bush",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE KICK INSIDE",
 		"artist": "KATE BUSH",
 		"price": "15,00 kr.",
@@ -40553,20 +40539,6 @@
 		}
 	},
 	{
-		"albumTitle": "SUBHUMAN RACE",
-		"artist": "SKID ROW",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/subhuman_race.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e6d90ec-db2f-3dc5-9e14-2d55f0ea8e40",
-			"albumTitle": "Subhuman Race",
-			"artist": "Skid Row",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "COLLECTION",
 		"artist": "BJÖRN SKIFS",
 		"price": "20,00 kr.",
@@ -40957,15 +40929,6 @@
 			"artist": "Slaughter",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "DEVINE INTERVENTION",
-		"artist": "SLAYER",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/devine_intervention.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "BACK ON THE RIGHT TRACK",
@@ -43775,15 +43738,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEAUTIFUL EYES (CD+DVD)",
-		"artist": "TAYLOR SWIFT",
-		"price": "100,00 kr.",
-		"origin": "http://cd6000.dk/beautiful_eyes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE LIVING RETURN (2CD)",
 		"artist": "SWING OUT SISTER",
 		"price": "10,00 kr.",
@@ -44045,20 +43999,6 @@
 			"releaseGroupId": "3420cded-8441-325a-9b3f-34b131b2807a",
 			"albumTitle": "Once in a Lifetime: The Best Of",
 			"artist": "Talking Heads",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STOP MAKING SENSE special new edition",
-		"artist": "TALKING HEADS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/stop_making_sense.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dfdb3255-0876-3fa4-8b04-c7c72dee7cd8",
-			"albumTitle": "No Titles Please",
-			"artist": "David Byrne",
 			"type": "Album"
 		}
 	},
