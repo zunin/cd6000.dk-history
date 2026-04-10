@@ -5206,34 +5206,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "1. OUTSIDE (THE NATHAN ADLER DIARIES: A HYPER CYCLE)",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bowie_1_outside.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f05647bf-86a7-3e6e-872a-20eb465be0a5",
-			"albumTitle": "1.Outside: The Nathan Adler Diaries: A Hyper Cycle",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EARTHLING",
-		"artist": "DAVID BOWIE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/earthling.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9a723e6e-2ede-371b-88bf-396cc362d77b",
-			"albumTitle": "Earthling",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REALITY",
 		"artist": "DAVID BOWIE",
 		"price": "20,00 kr.",
