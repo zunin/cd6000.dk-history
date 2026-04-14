@@ -32587,20 +32587,6 @@
 		}
 	},
 	{
-		"albumTitle": "NO QUARTER",
-		"artist": "JIMMY PAGE & ROBERT PLANT",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/no_quarter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "96223279-d70a-3e8b-be19-3cddd9a772a8",
-			"albumTitle": "No Quarter",
-			"artist": "Jimmy Page & Robert Plant",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "JENNIFER PAGE",
 		"artist": "JENNIFER PAGE",
 		"price": "10,00 kr.",
@@ -32678,20 +32664,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "CLASSIC",
-		"artist": "ROBERT PALMER",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/robert_palmer_classic.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "89f537d3-406b-4fd8-9c75-5a10148ff143",
-			"albumTitle": "Classic",
-			"artist": "Robert Palmer",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "RHYTHM & BLUES",
@@ -34854,20 +34826,6 @@
 			"releaseGroupId": "510b7dbd-c062-35b7-afaf-b3f2c5b98615",
 			"albumTitle": "Right Down the Line: The Best of Gerry Rafferty",
 			"artist": "Gerry Rafferty",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RAGE AGAINST THE MACHINE",
-		"artist": "RAGE AGAINST THE MACHINE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/rage_against_the_machine.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "55399028-fe94-48c7-867a-3ad4fae84569",
-			"albumTitle": "Rage Against the Machine",
-			"artist": "Rage Against the Machine",
 			"type": "Album"
 		}
 	},
