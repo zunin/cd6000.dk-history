@@ -9271,20 +9271,6 @@
 		}
 	},
 	{
-		"albumTitle": "DRAWS A CIRCLE/ CALL OF THE WILD",
-		"artist": "D.A.D.",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/dad_draws_call.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MONSTER PHILOSOPHY",
 		"artist": "D.A.D.",
 		"price": "20,00 kr.",
