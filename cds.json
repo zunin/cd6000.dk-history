@@ -5424,20 +5424,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHISPER TO THE WILD WATER",
-		"artist": "MARIE BRENNAN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/whisper_to_the_wild_water.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a1e948b1-808f-35f8-a799-c5322670aab9",
-			"albumTitle": "Enya",
-			"artist": "Enya",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GHOST OF A DOG",
 		"artist": "EDIE BRICKNELL & NEW BOHEMIANS",
 		"price": "10,00 kr.",
@@ -7452,34 +7438,6 @@
 		}
 	},
 	{
-		"albumTitle": "ANAM",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/anam.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6e9c5857-40d3-30b8-9cf8-d34b7ec3e637",
-			"albumTitle": "Anam",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "ATLANTIC REALM",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/atlantic_realm.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9de35ff9-bc33-3f8f-a8ff-f9ae1eea5dfd",
-			"albumTitle": "Atlantic Realm",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BANBA",
 		"artist": "CLANNAD",
 		"price": "10,00 kr.",
@@ -7489,20 +7447,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0f6bc89c-5129-383b-991f-a1336b58216c",
 			"albumTitle": "Banba",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LANDMARKS",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/landmarks.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "29f51e57-1798-35e6-b4d6-da5a3581c6d6",
-			"albumTitle": "Landmarks",
 			"artist": "Clannad",
 			"type": "Album"
 		}
@@ -7540,34 +7484,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "20cc3cc0-a675-36ed-b4d6-796bba28ebea",
 			"albumTitle": "Magical Ring",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PAST PRESENT",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/past_present.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4fe96904-c055-31ab-b0b5-6749ac2a8a7d",
-			"albumTitle": "Past Present",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SIRIUS",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/sirius.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc6d4cbd-646d-3af3-89b2-64f44e88eecb",
-			"albumTitle": "Sirius",
 			"artist": "Clannad",
 			"type": "Album"
 		}
@@ -12471,20 +12387,6 @@
 		}
 	},
 	{
-		"albumTitle": "LOVE SENSUALITY DEVOTION THE GREATEST HITS",
-		"artist": "ENIGMA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/love_sensuality.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "60b3c72e-0bff-384c-8c25-da7d06a9ab05",
-			"albumTitle": "Love Sensuality Devotion: The Greatest Hits",
-			"artist": "Enigma",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MCMXC a.d.",
 		"artist": "ENIGMA",
 		"price": "10,00 kr.",
@@ -12935,20 +12837,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE FINAL COUNTDOWN",
-		"artist": "EUROPE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/the_final_countdown.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8e0f0c00-7d5c-42e0-8a83-d8623729c52d",
-			"albumTitle": "The Final Countdown",
-			"artist": "Europe",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "PEACE",
@@ -19158,6 +19046,20 @@
 		}
 	},
 	{
+		"albumTitle": "EXCESS OVERLOAD",
+		"artist": "INNOCENT BLOOD",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/excess_overload.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2cd7f87-97ea-4d48-9319-998cc2d5af77",
+			"albumTitle": "[untitled]",
+			"artist": "Blood Axis, Robert N. Taylor",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "IN NATURE'S UNIFORM",
 		"artist": "INSIDE THE WHALE",
 		"price": "10,00 kr.",
@@ -19167,6 +19069,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "5003dc1d-19f0-3628-9390-533ac0b7a93f",
 			"albumTitle": "In Nature's Uniform",
+			"artist": "Inside the Whale",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "REBELLER UDEN SAG",
+		"artist": "INSIDE THE WHALE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/rebeller_uden_sag.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6300be67-362e-3731-8c93-649636b3f4d7",
+			"albumTitle": "Rebeller uden sag",
+			"artist": "Inside the Whale",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TÆNK HVIS DU GIK GLIP AF NOGET",
+		"artist": "INSIDE THE WHALE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/taenk_hvis_du_gik_glip_af_noget.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0089f9ab-8d5a-3faa-8389-01f255ab2e10",
+			"albumTitle": "Tænk hvis du gik glip af noget",
 			"artist": "Inside the Whale",
 			"type": "Album"
 		}
@@ -19218,6 +19148,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "db9d2a73-3ebe-39c7-ba37-f5ae7ec06105",
 			"albumTitle": "Welcome to Wherever You Are",
+			"artist": "INXS",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST",
+		"artist": "INXS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/inxs_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9ab65efb-e969-4442-b9e0-e294edad4524",
+			"albumTitle": "The Very Best",
 			"artist": "INXS",
 			"type": "Album"
 		}
@@ -19650,34 +19594,6 @@
 			"releaseGroupId": "8043def9-772b-34df-8627-50a5247d4087",
 			"albumTitle": "Spins",
 			"artist": "Janes Rejoice",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "REVOLUTIONS",
-		"artist": "JEAN-MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/revolutions.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2cc8fe44-5a30-39c9-aea1-9a85724c0c9d",
-			"albumTitle": "Revolutions",
-			"artist": "Jean‐Michel Jarre",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WAITING FOR COUSTEAU",
-		"artist": "JEAN MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/waiting_for_cousteau.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "361bd924-fe82-3182-844f-e8cf71f45490",
-			"albumTitle": "En attendant Cousteau / Waiting for Cousteau",
-			"artist": "Jean‐Michel Jarre",
 			"type": "Album"
 		}
 	},
@@ -21609,20 +21525,6 @@
 			"releaseGroupId": "866529e9-0ca2-35fa-8c6f-65ec1424ff0e",
 			"albumTitle": "Riding With the King",
 			"artist": "B.B. King, Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "80",
-		"artist": "B.B. KING & FRIENDS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bb_king_80.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ee856d4b-bbc4-3bb6-8c16-397cf4fea00a",
-			"albumTitle": "80",
-			"artist": "B.B. King",
 			"type": "Album"
 		}
 	},
@@ -44134,34 +44036,6 @@
 			"releaseGroupId": "6cf58406-dd7a-39d1-8e07-2b15f548959f",
 			"albumTitle": "Monkey on Rico",
 			"artist": "Thermadore",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "VISIONS",
-		"artist": "HANS THESSINK & TERRY EVANS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/visions.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f363498e-717d-321c-9781-4af55069755e",
-			"albumTitle": "Visions",
-			"artist": "Hans Theessink, Terry Evans",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GOIN' DOWN SLOW (signeret)",
-		"artist": "THEESSINK, NALLE & MØLLER",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/goin_down_slow.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e328636-9869-466a-9192-d175fbb95955",
-			"albumTitle": "1978‐05‐23: Shea’s Buffalo Theatre, Buffalo, NY, USA",
-			"artist": "Bruce Springsteen, The E Street Band",
 			"type": "Album"
 		}
 	},
