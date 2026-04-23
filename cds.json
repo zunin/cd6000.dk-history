@@ -19598,6 +19598,118 @@
 		}
 	},
 	{
+		"albumTitle": "AIN'T NO SUNSHINE",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/ain't_no_sunshine.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "472f534b-49bf-469e-937b-6df98329897e",
+			"albumTitle": "Ain't No Sunshine",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BREAKIN' AWAY",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/breakin_away.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e1b32ac5-8aed-3e4c-966a-616dd2c93b1f",
+			"albumTitle": "Breakin’ Away",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GLOW",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/glow.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8dd0730f-5f91-31a9-8eda-feceef8291bd",
+			"albumTitle": "Glow",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HEART'S HORIZON",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/hearts_horizon.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5ad02340-5063-33a9-a775-ccd8fd3ad2bc",
+			"albumTitle": "Heart’s Horizon",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HEAVEN AND EARTH",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/heaven_and_earth.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4a6cec90-7f08-3b98-b1b7-f92655311e92",
+			"albumTitle": "Heaven and Earth",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HIGH CRIME",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/high_crime.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2860fee-7caa-33fe-ad04-0c63d2a6b96d",
+			"albumTitle": "High Crime",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TENDERNESS",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/tenderness.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9f3542d-b86d-387b-ad26-807053a01f94",
+			"albumTitle": "Tenderness",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WE GOT BY",
+		"artist": "AL JARREAU",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/we_got_by.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ea457508-b567-3338-bc55-6b8b756cef6c",
+			"albumTitle": "We Got By",
+			"artist": "Al Jarreau",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SOMEBODY TO LOVE AND OTHER GREAT HITS LIVE",
 		"artist": "JEFFERSON AIRPLANE",
 		"price": "15,00 kr.",
@@ -20003,6 +20115,15 @@
 		}
 	},
 	{
+		"albumTitle": "GREATEST HITS 1970-2002 (3CD) ('nusset' cover)",
+		"artist": "ELTON JOHN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/elton_greatest_3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ICE ON FIRE",
 		"artist": "ELTON JOHN",
 		"price": "20,00 kr.",
@@ -20235,6 +20356,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "e7505eac-18f0-3db2-9dbc-579dc07f030c",
 			"albumTitle": "The Magazine",
+			"artist": "Rickie Lee Jones",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PIRATES",
+		"artist": "RICKIE LEE JONES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/pirates.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "166aedad-42b2-3aaa-b496-6717b73efc84",
+			"albumTitle": "Pirates",
 			"artist": "Rickie Lee Jones",
 			"type": "Album"
 		}
@@ -20570,6 +20705,20 @@
 		}
 	},
 	{
+		"albumTitle": "VILD I VARMEN",
+		"artist": "C.V. JØRGENSEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/vild_i_varmen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "077c3a4f-14cb-3314-8d0b-e21e4841401c",
+			"albumTitle": "Vild i varmen",
+			"artist": "C.V. Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PAINTED DESERT SERENADE",
 		"artist": "JOSHUA KADISON",
 		"price": "10,00 kr.",
@@ -20889,6 +21038,15 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "CLOSE TO THE FIRE",
+		"artist": "KAWAN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/close_to_the_fire.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE STATE I'M IN",
@@ -21557,6 +21715,20 @@
 		}
 	},
 	{
+		"albumTitle": "FANTASY",
+		"artist": "CAROLE KING",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/carole_king_fantasy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e8f82a18-9bb8-3eef-89d4-8de8bbda6738",
+			"albumTitle": "Fantasy",
+			"artist": "Carole King",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE MAN",
 		"artist": "LEVEL 42's MARK KING",
 		"price": "20,00 kr.",
@@ -22059,6 +22231,20 @@
 		}
 	},
 	{
+		"albumTitle": "SUPERTANKER",
+		"artist": "KLICHE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/supertanker.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ddc30aba-4c82-3017-8a43-100868e4f59f",
+			"albumTitle": "Supertanker",
+			"artist": "Kliché",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE GREATEST HITS",
 		"artist": "GLADYS KNIGHT",
 		"price": "10,00 kr.",
@@ -22343,6 +22529,20 @@
 			"releaseGroupId": "995f542e-b6aa-4798-95f0-4791b7f4c2b5",
 			"albumTitle": "The Eloquence Of…",
 			"artist": "Benjamin Koppel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "A MERRY LITTLE CHRISTMAS",
+		"artist": "MARIE CARMEN KOPPEL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/a_merry_little_christmas.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d1eb9be0-9da7-48d1-9c70-69111ee4f375",
+			"albumTitle": "A Merry Little Christmas",
+			"artist": "Marie Carmen Koppel",
 			"type": "Album"
 		}
 	},
@@ -22644,6 +22844,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "4d62d430-2b6b-3b48-8412-9e87b9a4d1c6",
 			"albumTitle": "Alt det du brænder for",
+			"artist": "Poul Krebs",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ANGELENO ROAD",
+		"artist": "POUL KREBS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/angeleno_road_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c3921d68-4692-491e-9bcb-4759d5d4e978",
+			"albumTitle": "Angeleno Road - Lige ved siden af virkeligheden",
 			"artist": "Poul Krebs",
 			"type": "Album"
 		}
@@ -23075,6 +23289,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "GLAM NATION LIVE (CD+DVD)",
+		"artist": "ADAM LAMBERT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/glam_nation_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SMILE",
 		"artist": "SUSANNE LANA",
 		"price": "10,00 kr.",
@@ -23082,6 +23305,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "LIE TO ME",
+		"artist": "JOHNNY LANG",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/lie_to_me.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b2edbe67-8450-3589-abf8-fe8ccb591691",
+			"albumTitle": "Lie to Me",
+			"artist": "Jonny Lang",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "INGÉNUE",
@@ -23858,6 +24095,20 @@
 			"releaseGroupId": "d52277ba-5ebb-4343-a6ca-2add5dc2a87d",
 			"albumTitle": "The Collection",
 			"artist": "Lecia & Lucienne",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "I",
+		"artist": "LED ZEPPELIN",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/led_zeppelin_i.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5afb2f13-2005-460d-87c9-5452d7aae2b9",
+			"albumTitle": "I / Coda",
+			"artist": "Led Zeppelin",
 			"type": "Album"
 		}
 	},
@@ -25970,6 +26221,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MADSEN PÅ DEN ANDEN SIDE",
+		"artist": "JOHNNY MADSEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/madsen_paa_den_anden_side.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cd942758-1bbe-39a5-ba19-ba42cef14a79",
+			"albumTitle": "Madsen på den anden side",
+			"artist": "Johnny Madsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MADSENS STØRSTE (2CD)",
 		"artist": "JOHNNY MADSEN",
 		"price": "20,00 kr.",
@@ -26156,6 +26421,34 @@
 		}
 	},
 	{
+		"albumTitle": "IMPERIET FALDER",
+		"artist": "MAGTENS KORRIDORER",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/imperiet_falder.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f4cf09a5-1e2f-464e-ad2d-4c7e25c8a515",
+			"albumTitle": "Imperiet falder",
+			"artist": "Magtens Korridorer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MILAN ALLÉ",
+		"artist": "MAGTENS KORRIDORER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/milan_alle.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "95216fa4-1373-409a-9774-ff7111e60e11",
+			"albumTitle": "Milan Allé",
+			"artist": "Magtens Korridorer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GLITER IN THE GUTTER",
 		"artist": "JESSE MALIN",
 		"price": "10,00 kr.",
@@ -26305,6 +26598,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLINDED BY THE LIGHT THE VERY BEST OF",
+		"artist": "MANFRED MANN's EARTH BAND",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/blinded_by_the_light.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d21abc4d-d3cf-34f3-9ba7-3e6d19b6778c",
+			"albumTitle": "Blinded by the Light: The Very Best Of",
+			"artist": "Manfred Mann’s Earth Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "A TOUCH OF CLASS",
 		"artist": "THE MANHATTAN TRANSFER",
 		"price": "10,00 kr.",
@@ -26435,6 +26742,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "719e5d6c-2b64-3136-8aa0-538dbac94b61",
 			"albumTitle": "Lost in Space",
+			"artist": "Aimee Mann",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WHATEVER",
+		"artist": "AIMEE MANN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/mann_whatever.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a045be5a-5bc2-35f1-9860-6dc999ae64b9",
+			"albumTitle": "Whatever",
 			"artist": "Aimee Mann",
 			"type": "Album"
 		}
@@ -28004,6 +28325,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MASTER OF PUPPETS",
+		"artist": "METALLICA",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/master_of_puppets.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3d00fb45-f8ab-3436-a8e1-b4bfc4d66913",
+			"albumTitle": "Master of Puppets",
+			"artist": "Metallica",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "METALLICA",
 		"artist": "METALLICA",
 		"price": "20,00 kr.",
@@ -28687,6 +29022,20 @@
 			"releaseGroupId": "66f5d355-d80b-332f-a4e5-7a8e8ac75a95",
 			"albumTitle": "Fairytales of Slavery",
 			"artist": "Miranda Sex Garden",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HITS",
+		"artist": "JONI MITCHELL",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/joni_mitchell_hits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5ffcbfc1-5624-3b54-a9e6-a8d5f89fa4d4",
+			"albumTitle": "Hits",
+			"artist": "Joni Mitchell",
 			"type": "Album"
 		}
 	},
@@ -31154,6 +31503,20 @@
 			"releaseGroupId": "d36bae4f-8680-49c3-a3c5-790f137e0519",
 			"albumTitle": "Unknown Title",
 			"artist": "[unknown]",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "UNITED",
+		"artist": "NIK & JAY",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/nik_og_jay_united.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d494e1b0-b793-4a2d-b005-58ccee49e9cd",
+			"albumTitle": "United",
+			"artist": "Nik & Jay",
 			"type": "Album"
 		}
 	},
