@@ -10232,20 +10232,6 @@
 		}
 	},
 	{
-		"albumTitle": "FUEL",
-		"artist": "TINA DICKOW and SHERIFF",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/fuel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "afd84110-d3f8-3bbb-9848-21f1ebe37ed6",
-			"albumTitle": "Fuel",
-			"artist": "Tina Dickow",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BETWEEN ANY FOUR WALLS",
 		"artist": "DICTE",
 		"price": "10,00 kr.",
@@ -16258,20 +16244,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "7ef05688-558a-36a6-97a8-ff4e6174aae6",
 			"albumTitle": "“The Spaghetti Incident?”",
-			"artist": "Guns N’ Roses",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "USE YOUR ILLUSION I",
-		"artist": "GUNS N' ROSES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/use_your_illusion_i.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
-			"albumTitle": "Use Your Illusion I",
 			"artist": "Guns N’ Roses",
 			"type": "Album"
 		}
@@ -27310,20 +27282,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "ceabc566-03bb-3d94-bc0d-cf4e2e707041",
 			"albumTitle": "Memory Almost Full",
-			"artist": "Paul McCartney",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "OFF THE GROUND",
-		"artist": "PAUL McCARTNEY",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/off_the_ground.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "23edafe6-b651-38f3-99a7-7fca03a7fe0f",
-			"albumTitle": "Off the Ground",
 			"artist": "Paul McCartney",
 			"type": "Album"
 		}
@@ -45544,20 +45502,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "COME ON OVER",
-		"artist": "SHANIA TWAIN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/come_on_over.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "45bcf3e0-a274-3bdd-9130-299a5ef780ea",
-			"albumTitle": "Come On Over",
-			"artist": "Shania Twain",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "SHANIA TWAIN",
 		"price": "10,00 kr.",
@@ -51983,48 +51927,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1980-81 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/very_best_80-81.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1980-81 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1982-83 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/very_best_82-83.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1982-83 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1984-85 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/very_best_84-85.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1984-85 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE VERY BEST OF POP MUSIC 1985-86 (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -52062,34 +51964,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
 			"albumTitle": "THE VERY BEST OF POP MUSIC 1987-88 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1989-90 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/very_best_89-90.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1989-90 (2CD)",
-			"artist": "Various Artists",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE VERY BEST OF POP MUSIC 1991-92 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/very_best_91-92.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44376729-434c-4010-b921-da03e5bb3c65",
-			"albumTitle": "THE VERY BEST OF POP MUSIC 1991-92 (2CD)",
 			"artist": "Various Artists",
 			"type": "Album"
 		}
