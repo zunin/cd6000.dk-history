@@ -8,10 +8,6 @@ node_modules/
 # Output data (generated)
 cds.json
 
-# DuckLake
-cd6000.ducklake
-parquet/
-
 # IDE
 .vscode/
 .idea/
