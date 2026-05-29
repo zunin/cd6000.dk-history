@@ -1,1 +1,24 @@
-node_modules
+# Deno
+.deno/
+deno.lock
+
+# Dependencies
+node_modules/
+
+# Output data (generated)
+cds.json
+
+# DuckLake
+cd6000.ducklake
+parquet/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

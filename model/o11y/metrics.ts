@@ -19,9 +19,7 @@
 //----------------------------------------------------------------------------------------------------------
 
 /**
- * A counter of the number of messages processed.
- *
- * @experimental This metric is experimental and is subject to breaking changes in minor releases of `@opentelemetry/semantic-conventions`.
+ * A counter of the number of queries to musicbrainz.org.
  */
-export const METRIC_EXAMPLE_COUNTER = 'example.counter' as const;
+export const METRIC_MUSICBRAINZ_QUERY_COUNTER = 'musicbrainz.query.counter' as const;
 

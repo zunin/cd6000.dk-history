@@ -1,22 +1,21 @@
 groups:
-  - id: span.example_message
-    type: span
-    stability: development
-    brief: This span represents a simple message.
-    span_kind: client
+  - id: metric.cd6000_query_counter
+    type: metric
+    metric_name: cd6000.query.counter
+    stability: stable
+    brief: A counter of the number of queries to cd6000.dk.
+    instrument: counter
+    unit: "1"
     attributes:
-      - ref: example.message
-        requirement_level: required
       - ref: host.name
         requirement_level: required
       - ref: host.arch
         requirement_level: required
-
-  - id: metric.example_counter
+  - id: metric.musicbrainz_query_counter
     type: metric
-    metric_name: example.counter
-    stability: development
-    brief: A counter of the number of messages processed.
+    metric_name: musicbrainz.query.counter
+    stability: stable
+    brief: A counter of the number of queries to musicbrainz.org.
     instrument: counter
     unit: "1"
     attributes:

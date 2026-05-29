@@ -1,5 +1,5 @@
 groups:
-  - id: registry.example
+  - id: registry.cd6000
     type: attribute_group
     display_name: Example Attributes
     brief: Attributes used in the example application signals.
