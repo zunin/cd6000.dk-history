@@ -5052,34 +5052,6 @@
 		}
 	},
 	{
-		"albumTitle": "MORE GOLD 20 SUPER HITS VOL. II",
-		"artist": "BONEY M",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/boney_m_more_gold.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1f718970-bfef-3c6b-a1a1-1e30489ec391",
-			"albumTitle": "More Gold Plus 4 New Songs: 20 Super Hits, Volume II",
-			"artist": "Boney M.",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE * COLLECTION",
-		"artist": "BONEY M",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/boney_m_star_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "800660cf-4ffc-3a41-80d0-bb4d53d42c7a",
-			"albumTitle": "[untitled]",
-			"artist": "Sachiko M, Sean Meehan",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE COMPLETE COLLECTION (2CD)",
 		"artist": "BONEY M",
 		"price": "20,00 kr.",
