@@ -10872,16 +10872,16 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "2",
-		"artist": "DODO & THE DODO'S",
+		"albumTitle": "1",
+		"artist": "DODO & THE DODO's",
 		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/dodo2.htm",
+		"origin": "http://cd6000.dk/dodo1.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
-			"releaseGroupId": "50604598-3d4d-39b5-9371-dacb54d33b41",
-			"albumTitle": "Dodo and the Dodo's 2",
-			"artist": "Dodo and the Dodo’s",
+			"releaseGroupId": "84784101-bb8c-48e8-ab8f-40d3a5208ca3",
+			"albumTitle": "1986 - 1991 Revisited Part 1.",
+			"artist": "Miloš Doležal, Vitacit",
 			"type": "Album"
 		}
 	},
@@ -15358,6 +15358,20 @@
 		}
 	},
 	{
+		"albumTitle": "I LOVE, YOU LOVE, ME LOVE",
+		"artist": "GARY GLITTER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/i_love_you_love_me_love.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "49b53e81-0ecd-36d6-96b2-a18881cbf421",
+			"albumTitle": "I Love, You Love, Me Love",
+			"artist": "Gary Glitter",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HYMNS",
 		"artist": "COREY GLOVER",
 		"price": "10,00 kr.",
@@ -16360,6 +16374,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ALLEGRIA",
+		"artist": "GIPSY KINGS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/allegria.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "65598faa-3cd9-490c-834f-f8a128cfc082",
+			"albumTitle": "Allegria",
+			"artist": "Gipsy Kings",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SIXTEEN GREATEST",
 		"artist": "HALBEWRG LARSEN",
 		"price": "20,00 kr.",
@@ -17305,6 +17333,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ONE OF THESE NIGHTS (unofficial)",
+		"artist": "DON HENLEY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/one_of_these_nights.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "BÄSTA",
 		"artist": "HEP STARS",
 		"price": "30,00 kr.",
@@ -17746,6 +17783,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MARK HOLLIS",
+		"artist": "MARK HOLLIS",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/mark_hollis.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a7904fc1-8a64-38ef-8b8f-85a29b46b4a0",
+			"albumTitle": "Mark Hollis",
+			"artist": "Mark Hollis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "OH BOY, THIS IS...",
 		"artist": "BUDDY HOLLY",
 		"price": "10,00 kr.",
@@ -17992,6 +18043,15 @@
 		}
 	},
 	{
+		"albumTitle": "LOOK ME IN THE EYES",
+		"artist": "HOPESCOTCH",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/look_me_in_the_eyes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "A NIGHT ON THE TOWN",
 		"artist": "BRUCE HORNSBY & THE RANGE",
 		"price": "10,00 kr.",
@@ -18197,6 +18257,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE COLLECTION (5CD boks) (NY i folie)",
+		"artist": "WHITNEY HOUSTON",
+		"price": "75,00 kr.",
+		"origin": "http://cd6000.dk/whitney_collection_boks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE ESSENTIAL (2CD)",
 		"artist": "WHITNEY HOUSTON",
 		"price": "15,00 kr.",
@@ -18303,6 +18372,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "edc0d4f5-528b-3a8e-bf03-3486160ada40",
 			"albumTitle": "Jeg gi'r en omgang hvis du gi'r to!!",
+			"artist": "Humleridderne",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TYPISK TÅRNBY",
+		"artist": "HUMLERIDDERNE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/typisk_taarnby.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c6b9ed13-8c21-3bbf-a9ff-935663f51d1a",
+			"albumTitle": "Typisk Tårnby",
 			"artist": "Humleridderne",
 			"type": "Album"
 		}
@@ -18999,6 +19082,20 @@
 		}
 	},
 	{
+		"albumTitle": "FOREVER BLUE",
+		"artist": "CHRIS ISAAK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/forever_blue.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c0a0fbbf-eb70-3bdc-a78b-7892753c8171",
+			"albumTitle": "Forever Blue",
+			"artist": "Chris Isaak",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SAN FRANCISCO DAYS",
 		"artist": "CHRIS ISAK",
 		"price": "10,00 kr.",
@@ -19591,6 +19688,15 @@
 		}
 	},
 	{
+		"albumTitle": "TOO OLD TO ROCK N' ROLL YOO YOUNG TO DIE",
+		"artist": "JETHRO TULL",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/too_old_to_rock_n_roll.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SPIRIT",
 		"artist": "JEWEL",
 		"price": "10,00 kr.",
@@ -20139,6 +20245,20 @@
 		}
 	},
 	{
+		"albumTitle": "IT'S LIKE THIS",
+		"artist": "RICKIE LEE JONES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/its_like_this.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "047a4c9c-7d0e-3f19-ac4a-d1e0c65826ae",
+			"albumTitle": "It's Like This",
+			"artist": "Rickie Lee Jones",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PIRATES",
 		"artist": "RICKIE LEE JONES",
 		"price": "20,00 kr.",
@@ -20423,6 +20543,29 @@
 		}
 	},
 	{
+		"albumTitle": "FRAKLIP FRA DET FJERNE",
+		"artist": "CV JØRGENSEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/fraklip_fra_det_fjerne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f725236c-1ea5-3dc5-b485-68cd9ad05995",
+			"albumTitle": "Fraklip fra det fjerne",
+			"artist": "C.V. Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LIVE LOVLIG LIVE (digitally remastered) (med ligegyldige hairliners)",
+		"artist": "C.V. JØRGENSEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/lige_lovlig_live.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SJÆLLAND",
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
@@ -20529,6 +20672,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MASKINERI",
+		"artist": "KAIZERS ORCHESTRA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/maskineri.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "be13f225-e332-390f-8831-5ceeca778232",
+			"albumTitle": "Maskineri",
+			"artist": "Kaizers Orchestra",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "KAJAGOOGOO & LIMAHL",
 		"price": "15,00 kr.",
@@ -20539,6 +20696,20 @@
 			"releaseGroupId": "fda364a9-6f0e-326d-bbd9-3436f87c0f7e",
 			"albumTitle": "The Best of Kajagoogoo & Limahl",
 			"artist": "Kajagoogoo, Limahl",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MOVE UNTIL WE FLY",
+		"artist": "NICK KAMEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/move_until_we_fly.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "061f8bd7-936c-31c4-9d3d-8c008f543108",
+			"albumTitle": "Move Until We Fly",
+			"artist": "Nick Kamen",
 			"type": "Album"
 		}
 	},
@@ -20755,6 +20926,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "HUND",
+		"artist": "BO KASPERS ORKESTER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/hund.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "26c04fed-60c4-3fe3-8dd2-aaa6cc8d91cb",
+			"albumTitle": "Hund",
+			"artist": "Bo Kaspers orkester",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "DISCOLIZED (2CD)",
@@ -21437,6 +21622,34 @@
 		}
 	},
 	{
+		"albumTitle": "JAZZMAN",
+		"artist": "CAROLE KING",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/jazzman.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a60e6e70-2ac3-4c6e-8837-7bc69d9f15f1",
+			"albumTitle": "Jazzman",
+			"artist": "Carole King",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TAPESTRY",
+		"artist": "CAROLE KING",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/tapestry.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6e4f39e6-3403-39d7-81c6-8e61a990d509",
+			"albumTitle": "Tapestry",
+			"artist": "Carole King",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE MAN",
 		"artist": "LEVEL 42's MARK KING",
 		"price": "20,00 kr.",
@@ -21637,6 +21850,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "92b0d922-03c2-345b-8506-f3a91141c72a",
 			"albumTitle": "Kira and the Kindred Spirits",
+			"artist": "Kira and the Kindred Spirits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THIS IS NOT AN EXIT",
+		"artist": "KIRA & THE KINDRED SPIRITS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/this_is_not_an_exit.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "70adedeb-7658-3775-b90c-9128697cbf07",
+			"albumTitle": "This Is Not an Exit",
 			"artist": "Kira and the Kindred Spirits",
 			"type": "Album"
 		}
@@ -23076,6 +23303,20 @@
 		}
 	},
 	{
+		"albumTitle": "231045-0637 (remastered)",
+		"artist": "KIM LARSEN",
+		"price": "50,00 kr.",
+		"origin": "http://cd6000.dk/231045-0637_rem.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4f3cb056-6518-4192-a9c9-eea092f73d28",
+			"albumTitle": "self-titled",
+			"artist": "Bells Larsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FORKLÆDT SOM VOKSEN",
 		"artist": "KIM LARSEN & KJUKKEN",
 		"price": "20,00 kr.",
@@ -23113,6 +23354,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1a7c2ebe-9123-3f0c-bc4a-0fe7f0288624",
 			"albumTitle": "Kim Larsen & Yankee drengene",
+			"artist": "Kim Larsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MIDT OM NATTEN",
+		"artist": "KIM LARSEN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/midt_om_natten.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b690a9a6-b6f8-3bd8-bc80-ebc824b2c440",
+			"albumTitle": "Midt om natten",
 			"artist": "Kim Larsen",
 			"type": "Album"
 		}
@@ -23794,6 +24049,20 @@
 		}
 	},
 	{
+		"albumTitle": "HAPPY TOGETHER",
+		"artist": "LENINGRAD COWBOYS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/happy_together.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bba2303f-b11b-3e93-8af7-51bc173897bc",
+			"albumTitle": "Happy Together",
+			"artist": "Leningrad Cowboys, Академический ансамбль песни и пляски Российской Армии имени А. В. Александрова",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LEGEND THE VERY BEST OF",
 		"artist": "JOHN LENNON",
 		"price": "10,00 kr.",
@@ -23852,6 +24121,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DIVA",
+		"artist": "ANNIE LENNOX",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/diva.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bb94025b-0278-3a61-b401-ccf9c5fea353",
+			"albumTitle": "Diva",
+			"artist": "Annie Lennox",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "MEDUSA",
@@ -23942,6 +24225,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "6cc302f0-3ff6-455e-a307-cb6afce1451a",
 			"albumTitle": "Running in the Family",
+			"artist": "Level 42",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STARING AT THE SUN",
+		"artist": "LEVEL 42",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/staring_at_the_sun.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9fe84909-a153-3e52-bde5-cbeaa895688e",
+			"albumTitle": "Staring at the Sun",
 			"artist": "Level 42",
 			"type": "Album"
 		}
@@ -29159,20 +29456,6 @@
 			"releaseGroupId": "ffa5355a-6bbb-37c8-bc34-3d76fac6c555",
 			"albumTitle": "Under Rug Swept",
 			"artist": "Alanis Morissette",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MALADJUSTED",
-		"artist": "MORRISSEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/maladjusted.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "54f48cda-2bad-317c-9f43-e1e308a03eeb",
-			"albumTitle": "Maladjusted",
-			"artist": "Morrissey",
 			"type": "Album"
 		}
 	},
