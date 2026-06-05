@@ -29460,6 +29460,20 @@
 		}
 	},
 	{
+		"albumTitle": "MALADJUSTED",
+		"artist": "MORRISSEY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/maladjusted.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "54f48cda-2bad-317c-9f43-e1e308a03eeb",
+			"albumTitle": "Maladjusted",
+			"artist": "Morrissey",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "RINGLEADER OF THE TORMENTORS (lille fold på bagcover - derfor pris)",
 		"artist": "MORRISSEY",
 		"price": "10,00 kr.",
