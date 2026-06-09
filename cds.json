@@ -3147,15 +3147,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "GREATEST HITS 2 (unofficial release)",
-		"artist": "THE BEATLES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/beatles_greatest_vol2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HEAR THE BEATLES TELL ALL INTERVIEWS WITH THE BEATLES FROM 1964",
 		"artist": "THE BEATLES",
 		"price": "20,00 kr.",
@@ -9797,15 +9788,6 @@
 			"artist": "Deep Purple",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "IN ROCK (reissue)",
-		"artist": "DEEP PURPLE",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/deep_purple_in_rock_reissue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "MADE IN JAPAN (2CD)",
@@ -19359,20 +19341,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE VERY BEST OF",
-		"artist": "MICHAEL JACKSON with JACKSON FIVE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/jackson_5_very_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a6792000-62f3-4b08-815f-3073de476cfc",
-			"albumTitle": "The Very Best Of",
-			"artist": "Michael Jackson",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SHE'S THE BOSS",
 		"artist": "MICK JAGGER",
 		"price": "10,00 kr.",
@@ -27683,15 +27651,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "PIGEN OG TROMPETEN",
-		"artist": "MEK PEK & THE ALLRIGHTS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/pigen_og_trompeten.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "PEK'EN PASSER",
 		"artist": "MEK PEK PARTY BAND",
 		"price": "15,00 kr.",
@@ -30815,20 +30774,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE BEST OF",
-		"artist": "OLIVIA NEWTON-JOHN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/olivia_best_of.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0a8bdbb4-9757-3b00-abb9-c3a8258342b3",
-			"albumTitle": "The Best of Olivia Newton-John",
-			"artist": "Olivia Newton‐John",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE DEFINITIVE COLLECTION",
 		"artist": "OLIVIA NEWTON JOHN",
 		"price": "10,00 kr.",
@@ -33868,20 +33813,6 @@
 		}
 	},
 	{
-		"albumTitle": "SVENSKA HITS",
-		"artist": "ELVIS PRESLEY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elvis_svenska_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bfef1d74-fb44-4a7a-bb5a-1a8b0416ffb3",
-			"albumTitle": "Elvis svenska hits",
-			"artist": "Elvis Presley",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FROM HAWAII VIA SATELLITE",
 		"artist": "ELVIS PRESLEY",
 		"price": "10,00 kr.",
@@ -35200,20 +35131,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "25d350fd-404f-3bb9-a73d-6f1a3d289daf",
 			"albumTitle": "The Best of Chris Rea",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE PLATINUM COLLECTION",
-		"artist": "CHRIS REA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/chris_rea_platinum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "755861f4-2d69-3290-bb67-51c72d07ed7a",
-			"albumTitle": "The Platinum Collection",
 			"artist": "Chris Rea",
 			"type": "Album"
 		}
@@ -36765,20 +36682,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE DEFINITIVE COLLECTION",
-		"artist": "DIANA ROSS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/diana_ross_definitive.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "89cbd967-d8d0-3428-9296-99af286b7ce4",
-			"albumTitle": "The Definitive Collection",
-			"artist": "Diana Ross",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WHY DO FOOLS FALL IN LOVE",
 		"artist": "DIANA ROSS",
 		"price": "10,00 kr.",
@@ -37017,20 +36920,6 @@
 			"releaseGroupId": "4b51d75c-ca0e-3ea7-9950-639eda1f7d1a",
 			"albumTitle": "Avalon",
 			"artist": "Roxy Music",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE COLLECTION TRIBUTE TO THE BEATLES",
-		"artist": "RUBBER BAND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rubber_band_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
-			"albumTitle": "Self Titled",
-			"artist": "The Band Who Knew Too Much",
 			"type": "Album"
 		}
 	},
@@ -38682,20 +38571,6 @@
 			"releaseGroupId": "a561dca2-685f-3b7f-8463-d37475b502c8",
 			"albumTitle": "Where Are My Shoes",
 			"artist": "Sidsel Ben Semmane",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE COOLEST CUTS",
-		"artist": "SHAKATAK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_coolest_cuts.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0f16c818-689e-326d-838b-a1c4347145a9",
-			"albumTitle": "The Coolest Cuts",
-			"artist": "Shakatak",
 			"type": "Album"
 		}
 	},
@@ -41309,20 +41184,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "BEST OF",
-		"artist": "RICK SPRINGFIELD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rick_springfield_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "aac9fc9a-4e87-3661-a1fa-9c682a048c41",
-			"albumTitle": "Best Of",
-			"artist": "Rick Springfield",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
@@ -41658,20 +41519,6 @@
 			"releaseGroupId": "0cfde3d6-3a81-370e-9ca6-c20bd23982b9",
 			"albumTitle": "All Around My Hat",
 			"artist": "Steeleye Span",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CAN'T BUY A THRILL",
-		"artist": "STEELY DAN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/cant_buy_a_thrill.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9d73a864-2976-3286-b6c1-8aabc7407737",
-			"albumTitle": "Can’t Buy a Thrill",
-			"artist": "Steely Dan",
 			"type": "Album"
 		}
 	},
@@ -42704,20 +42551,6 @@
 			"releaseGroupId": "afd8d6c6-e4a1-3e16-ba73-7ce75248f559",
 			"albumTitle": "Three",
 			"artist": "Sugababes",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "IT'S-IT",
-		"artist": "SUGARCUBES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/its_it.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "631d6f3a-46d9-3621-93ef-bc01eb4779ac",
-			"albumTitle": "It’s‐It",
-			"artist": "The Sugarcubes",
 			"type": "Album"
 		}
 	},
@@ -46697,15 +46530,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEJLIGE DANSKE (2CD)",
-		"artist": "WALKERS",
-		"price": "50,00 kr.",
-		"origin": "http://cd6000.dk/walkers_dejlige_danske.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SHALALALA GREATEST HITS (2CD)",
 		"artist": "WALKERS",
 		"price": "20,00 kr.",
@@ -49048,15 +48872,6 @@
 		}
 	},
 	{
-		"albumTitle": "DE BEDSTE SANGE",
-		"artist": "40 I FEBER",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/40_i_feber_bedste.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "PARADOX",
 		"artist": "666",
 		"price": "10,00 kr.",
@@ -50260,15 +50075,6 @@
 		"artist": "diverse kunstnere",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/magi_i_luften_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "MAGI I LUFTEN 2",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/magi_i_luften_2.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
