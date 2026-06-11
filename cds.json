@@ -24054,34 +24054,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "DIVA",
-		"artist": "ANNIE LENNOX",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/diva.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bb94025b-0278-3a61-b401-ccf9c5fea353",
-			"albumTitle": "Diva",
-			"artist": "Annie Lennox",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MEDUSA",
-		"artist": "ANNIE LENNOX",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/medusa.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "30ed2e5d-7c68-3841-b7b7-abc138dff53b",
-			"albumTitle": "Medusa",
-			"artist": "Annie Lennox",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BEST OF (new recordings)",
 		"artist": "LES HUMPHRIES SINGERS",
 		"price": "10,00 kr.",
@@ -29264,15 +29236,6 @@
 		"artist": "MARIA MONTELL",
 		"price": "15,00 kr.",
 		"origin": "http://cd6000.dk/montell_se.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "MONTY PYTHON SINGS",
-		"artist": "MINTY PYTHON",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/monty_python_sings.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
