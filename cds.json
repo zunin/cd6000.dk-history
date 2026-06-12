@@ -3601,20 +3601,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "UNDERVÆRKER",
-		"artist": "PETER BELLI & DE NYE RIVALER",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/undervaerker.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "744ad390-8f94-4fa6-9ac0-326323549b96",
-			"albumTitle": "Underværker",
-			"artist": "Peter Belli",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ABENTEUER",
 		"artist": "ANDREA BERG",
 		"price": "15,00 kr.",
@@ -8840,15 +8826,6 @@
 		"artist": "CREEDENCE CLEARWATER REVIVAL",
 		"price": "30,00 kr.",
 		"origin": "http://cd6000.dk/pendulum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DÉJÁ VÜ",
-		"artist": "CROSBY STILLS NASH & YOUNG",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/csny_deja_vu.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -22632,20 +22609,6 @@
 		}
 	},
 	{
-		"albumTitle": "ALT DET DU BRÆNDER FOR",
-		"artist": "POUL KREBS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/alt_det_du_braender_for1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4d62d430-2b6b-3b48-8412-9e87b9a4d1c6",
-			"albumTitle": "Alt det du brænder for",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ANGELENO ROAD",
 		"artist": "POUL KREBS",
 		"price": "15,00 kr.",
@@ -23230,20 +23193,6 @@
 			"releaseGroupId": "e0ea14e4-7730-47fd-8ef8-77651e12961f",
 			"albumTitle": "Mine damer og herrer",
 			"artist": "Kim Larsen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "231045-0637 (remastered)",
-		"artist": "KIM LARSEN",
-		"price": "50,00 kr.",
-		"origin": "http://cd6000.dk/231045-0637_rem.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4f3cb056-6518-4192-a9c9-eea092f73d28",
-			"albumTitle": "self-titled",
-			"artist": "Bells Larsen",
 			"type": "Album"
 		}
 	},
@@ -27194,15 +27143,6 @@
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/pipes_of_peace.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "WINGSPAN, HITS & HISTORY (2CD) (remastered)",
-		"artist": "PAUL McCARTNEY",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/wingspan.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
