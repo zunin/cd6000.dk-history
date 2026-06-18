@@ -84,6 +84,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE HITS 2",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/abba_the_hits_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b090af08-4dee-3b53-89d4-bc4313220336",
+			"albumTitle": "The Hits, Volume 2",
+			"artist": "ABBA",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE HITS 3",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -1280,20 +1294,6 @@
 			"releaseGroupId": "44eb22fe-ab6a-46de-82f6-cd4db8c469a1",
 			"albumTitle": "Echoes",
 			"artist": "Mike Andersen Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BRIGHT RED",
-		"artist": "LAURIE ANDERSON",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bright_red.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "755572b3-93fc-31fa-891e-0a50e5b25c19",
-			"albumTitle": "Bright Red",
-			"artist": "Laurie Anderson",
 			"type": "Album"
 		}
 	},
@@ -9325,15 +9325,6 @@
 			"artist": "Dalton",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "DALTON VAR HER (2CD+DVD)",
-		"artist": "DALTON",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/dalton_var_her.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "TYVE-TI",
@@ -31409,34 +31400,6 @@
 		}
 	},
 	{
-		"albumTitle": "\"BLEACH\"",
-		"artist": "NIRVANA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bleach.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f1afec0b-26dd-3db5-9aa1-c91229a74a24",
-			"albumTitle": "Bleach",
-			"artist": "Nirvana",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "IN UTERO",
-		"artist": "NIRVANA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/in_utero.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2a0981fb-9593-3019-864b-ce934d97a16e",
-			"albumTitle": "In Utero",
-			"artist": "Nirvana",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "NIRVANA (REMASTERED)",
 		"artist": "NIRVANA",
 		"price": "15,00 kr.",
@@ -32702,6 +32665,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "STANKONIA",
+		"artist": "OUTKAST",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/stankonia.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "00d2cd53-21c9-3738-b683-56847b7b0040",
+			"albumTitle": "Stankonia",
+			"artist": "OutKast",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CLOSER THAN VEINS",
 		"artist": "OUTLANDISH",
 		"price": "10,00 kr.",
@@ -32737,6 +32714,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ALL THE NAKED PEOPLE",
+		"artist": "OVERLORDS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/all_the_naked_people.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5b22905a-4a00-3a5b-8a2d-f5a48522fd3b",
+			"albumTitle": "All The Naked People",
+			"artist": "The Overlords",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE VERY BEST OF VOL. 1",
@@ -32985,6 +32976,34 @@
 			"releaseGroupId": "8c9b7275-47bf-36ff-a1eb-cd1624a7809e",
 			"albumTitle": "Host",
 			"artist": "Paradise Lost",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BRAND NEW EYES",
+		"artist": "PARAMORE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/brand_new_eyes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cd706457-8b16-4809-a61a-cdba1b281d39",
+			"albumTitle": "Brand New Eyes",
+			"artist": "Paramore",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RIOT!",
+		"artist": "PARAMORE",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/riot.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ebd19544-9af0-317a-a2d3-f0c57ddd79f7",
+			"albumTitle": "RIOT!",
+			"artist": "Paramore",
 			"type": "Album"
 		}
 	},
@@ -33591,6 +33610,20 @@
 		}
 	},
 	{
+		"albumTitle": "A MOMENTARY LAPSE OF REASON",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/a_momentary_lapse_of_reason.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+			"albumTitle": "A Momentary Lapse of Reason",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ECHOES, THE BEST OF (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -33598,6 +33631,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE DIVISION BELL",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_division_bell.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+			"albumTitle": "The Division Bell",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE FINAL CUT",
@@ -34353,6 +34400,34 @@
 		}
 	},
 	{
+		"albumTitle": "MUSIC FOR THE JILTED GENERATION",
+		"artist": "PRODIGY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/music_for_the_jilted_generation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f9fa083f-db00-3048-99e7-5b186672bb09",
+			"albumTitle": "Music for the Jilted Generation",
+			"artist": "The Prodigy",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BEATS ME",
+		"artist": "PSYCHED UP JANIS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/beats_me.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "58dc2fbd-28fa-337f-b888-e25a1a1688ab",
+			"albumTitle": "Beats Me",
+			"artist": "Psyched Up Janis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ENTER THE SUPER PEPPERMINT LOUNGE",
 		"artist": "PSYCHED UP JANIS",
 		"price": "10,00 kr.",
@@ -34933,6 +35008,38 @@
 		}
 	},
 	{
+		"albumTitle": "OK COMPUTER",
+		"artist": "RADIOHEAD",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ok_computer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b1392450-e666-3926-a536-22c65f834433",
+			"albumTitle": "OK Computer",
+			"artist": "Radiohead",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MY IRON LUNG (tynd fold på bagcover)",
+		"artist": "RADIOHEAD",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/my_iron_lung.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE BENDS (tynd fold på bagcover)",
+		"artist": "RADIOHEAD",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_bends.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LONGING IN THEIR HEARTS",
 		"artist": "BONNIE RAITT",
 		"price": "10,00 kr.",
@@ -34984,6 +35091,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "683222b9-0f25-35e2-bfab-cf80b7e01ef4",
 			"albumTitle": "Road Tested",
+			"artist": "Bonnie Raitt",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SILVER LINING",
+		"artist": "BONNIE RAITT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/silver_lining.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ece7902a-1de4-3785-ad7c-86da37d12e04",
+			"albumTitle": "Silver Lining",
 			"artist": "Bonnie Raitt",
 			"type": "Album"
 		}
@@ -35415,6 +35536,34 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE IS THE WAY",
+		"artist": "EDDI READER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/love_is_the_way.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b6dc9bda-4d98-3301-9ab5-f4d938099368",
+			"albumTitle": "Love Is the Way",
+			"artist": "Eddi Reader",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PEACETIME",
+		"artist": "EDDI READER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/peacetime.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "795994bc-3087-35bc-ab49-6239048325af",
+			"albumTitle": "Peacetime",
+			"artist": "Eddi Reader",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DREAM NO. 7",
 		"artist": "REAMON",
 		"price": "10,00 kr.",
@@ -35478,6 +35627,15 @@
 			"artist": "Red Hot Chili Peppers",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "ONE HOT MINUTE (tynd fold på bagcover)",
+		"artist": "RED HOT CHILI PEPPERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/one_hot_minute.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "WHAT HITS ?",
@@ -37454,6 +37612,15 @@
 			"artist": "Rush",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "GRACE UNDER PRESSURE THE RUSH REMASTERS",
+		"artist": "RUSH",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/grace_under_pressure.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "INTERNATIONAL VERSION",
