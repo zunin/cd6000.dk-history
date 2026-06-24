@@ -9647,15 +9647,6 @@
 		}
 	},
 	{
-		"albumTitle": "CAN'T FIGHT FATE",
-		"artist": "TAYLOR DAYNE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/cant_fight_fate.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "TELL IT YO MY HEART",
 		"artist": "TAYLOR DANE",
 		"price": "10,00 kr.",
@@ -37559,6 +37550,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE HIGHLAND CONNECTION",
+		"artist": "RUNRIG",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_highland_connection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4116a6b6-b8f3-3d16-b316-495f3b2eed20",
+			"albumTitle": "The Highland Connection",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE STAMPING GROUND",
 		"artist": "RUNRIG",
 		"price": "20,00 kr.",
@@ -37621,6 +37626,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE POWER OF JENNIFER RUSH",
+		"artist": "JENNIFER RUSH",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_power_of_jennifer_rush.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4d0f5005-f403-35be-b701-b99d7a3fd584",
+			"albumTitle": "The Power of Jennifer Rush",
+			"artist": "Jennifer Rush",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "INTERNATIONAL VERSION",
@@ -37925,6 +37944,34 @@
 		}
 	},
 	{
+		"albumTitle": "INGEN ENGEL",
+		"artist": "SANNE SALOMONSEN",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/ingen_engel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8079913f-1f94-31ee-be47-b99d265de336",
+			"albumTitle": "Ingen engel",
+			"artist": "Sanne Salomonsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LOVE IS GONNA CALL",
+		"artist": "SANNE SALOMONSEN",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/love_is_gonna_call.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "283844f2-c0ee-3142-8197-355cbaa7b329",
+			"albumTitle": "Love Is Gonna Call",
+			"artist": "Sanne Salomonsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PRECIOUS MOMENTS",
 		"artist": "SANNE SALOMONSEN",
 		"price": "40,00 kr.",
@@ -38145,6 +38192,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CLOSE TO SEVEN",
+		"artist": "SANDRA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/close_to_seven.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f6df6380-3d28-3107-bff2-a1486d75c7f3",
+			"albumTitle": "Close to Seven",
+			"artist": "Sandra",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "INTO A SECRET LAND",
@@ -38429,6 +38490,20 @@
 		}
 	},
 	{
+		"albumTitle": "BEST",
+		"artist": "SCORPIONS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/scorpions_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d382eca2-6c6f-492a-be46-063b67ea96b2",
+			"albumTitle": "Best",
+			"artist": "Scorpions",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CRAZY WORLD",
 		"artist": "SCORPIONS",
 		"price": "10,00 kr.",
@@ -38508,6 +38583,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "221ad390-52b3-4f67-b5a6-1381f73b30bf",
 			"albumTitle": "Gold Ballads",
+			"artist": "Scorpions",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HOT & SLOW THE BEST OF THE BALLADS",
+		"artist": "SCORPIONS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/hot_and_slow.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4df9f54-26dc-3eaa-9998-6487d0ace7b6",
+			"albumTitle": "Hot & Slow: The Best of the Ballads",
 			"artist": "Scorpions",
 			"type": "Album"
 		}
@@ -38914,6 +39003,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SELVMORD",
+		"artist": "SELVMORD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/selvmord.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bc4a71ff-9c55-42ee-90f0-a66695ec7892",
+			"albumTitle": "Selvmord",
+			"artist": "Selvmord",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "..I SELVSVING (2CD)",
 		"artist": "SELVSVING",
 		"price": "20,00 kr.",
@@ -38933,6 +39036,29 @@
 			"releaseGroupId": "a561dca2-685f-3b7f-8463-d37475b502c8",
 			"albumTitle": "Where Are My Shoes",
 			"artist": "Sidsel Ben Semmane",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ROOTS (tynd fold på bagcover)",
+		"artist": "SEPULTURA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/roots.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE BRIAN SETZER ORCHESTRA",
+		"artist": "THE BRIAN SETZER ORCHESTRA",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_brian_setzer_orchestra.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2bb81aa0-81c0-39bb-9015-d424e17725f2",
+			"albumTitle": "The Brian Setzer Orchestra",
+			"artist": "The Brian Setzer Orchestra",
 			"type": "Album"
 		}
 	},
@@ -39188,6 +39314,20 @@
 			"releaseGroupId": "cdae07b8-1c0c-3826-a012-a5519637c992",
 			"albumTitle": "The Great Indoors",
 			"artist": "Shirtsville",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "16 STØRSTE SUCCES'ER 1",
+		"artist": "SHIT & CHALOU",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/16_stoerste_successer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "95ef5918-33c2-360a-9c38-06d25eda9232",
+			"albumTitle": "16 største succes'er 1",
+			"artist": "Shit & Chanel",
 			"type": "Album"
 		}
 	},
@@ -40820,6 +40960,15 @@
 		}
 	},
 	{
+		"albumTitle": "GISH (tynd fold på bagcover)",
+		"artist": "SMASHING PUMPKINS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/gish.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "MACHINA THE MACHINES OF GOD",
 		"artist": "THE SMASHING PUMPKINS",
 		"price": "15,00 kr.",
@@ -40832,6 +40981,15 @@
 			"artist": "The Smashing Pumpkins",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SIAMESE DREAM (tynd fold på bagcover)",
+		"artist": "SMASHING PUNPKINS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/siamese_dream.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ASTRO LOUNGE",
@@ -41546,6 +41704,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "18 TRACKS",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/springsteen_18_tracks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "609d33d6-e77e-3983-8670-1e1a0172453d",
+			"albumTitle": "18 Tracks",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
@@ -41574,6 +41746,20 @@
 		}
 	},
 	{
+		"albumTitle": "IN CONCERT MTV PLUGGED",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/springsteen_in_concert.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2054102a-eab9-326a-a2aa-58fb8b47e219",
+			"albumTitle": "In Concert: MTV Plugged",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HUMAN TOUCH",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "10,00 kr.",
@@ -41588,6 +41774,20 @@
 		}
 	},
 	{
+		"albumTitle": "BORN TO RUN",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/born_to_run.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "39b22944-7503-3937-8bba-09b17281cc6a",
+			"albumTitle": "Born to Run",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DEVILS & DUST (CD+DVD)",
 		"artist": "BRUCE SPRINGSTEEN",
 		"price": "20,00 kr.",
@@ -41595,6 +41795,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GREATEST HITS (NY i folie)",
+		"artist": "BRUCE SPRINGSTEEN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/springsteen_greatest_ny.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
+			"albumTitle": "[untitled]",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "WRECKING BALL",
@@ -41917,6 +42131,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LIVE FROM PARADISE",
+		"artist": "NIELS JØRGEN STEEN'S MONDAY NIGHT BIG BAND",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/live_from_paradise.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE SWEET ESCAPE",
 		"artist": "GWEN STEFANI",
 		"price": "10,00 kr.",
@@ -41988,6 +42211,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "LANGUAGE: SEX, VIOLENCE, OTHER?",
+		"artist": "STEREOPHONICS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/language_sex.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "82785d3e-4488-3e02-a077-c44f46ecbf9c",
+			"albumTitle": "Language. Sex. Violence. Other?",
+			"artist": "Stereophonics",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "AN OTHER CUP",
@@ -43051,6 +43288,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "INGEN SLUKKER THE STARS",
+		"artist": "SUSPEKT",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/ingen_slukker.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e143d43f-1782-3d96-b7a5-5854e9e279a3",
+			"albumTitle": "Ingen slukker the Stars",
+			"artist": "Suspekt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE ROAD SHOW",
 		"artist": "SUSSI & LEO",
 		"price": "10,00 kr.",
@@ -43986,6 +44237,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ROCKIN' MY LIFE AWAY",
+		"artist": "GEORGE THOROGOOD & THE DESTROYERS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/rockin_my_life_away.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e226b3e6-8687-35cb-a032-b6419069393c",
+			"albumTitle": "Rockin’ My Life Away",
+			"artist": "George Thorogood & the Destroyers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CHRISTMAS WITH THE THREE DEGREES",
 		"artist": "THE THREE DEGREES",
 		"price": "10,00 kr.",
@@ -44322,6 +44587,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THROUGH THE LOOKING GLASS",
+		"artist": "TOTO",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/through_the_looking_glass.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9cf4d19e-3075-3ab1-aee2-eb85c9290c7b",
+			"albumTitle": "Through the Looking Glass",
+			"artist": "Toto",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "TURN BACK",
@@ -45056,6 +45335,20 @@
 		}
 	},
 	{
+		"albumTitle": "FANTASTISKE TOYOTA",
+		"artist": "TV-2",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/fantastiske_toyota.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "66d42362-108f-3ffc-87c0-c037e8a1717a",
+			"albumTitle": "Fantastiske Toyota",
+			"artist": "TV-2",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HITS (2CD+DVD)",
 		"artist": "TV-2",
 		"price": "25,00 kr.",
@@ -45139,6 +45432,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "4894a267-38ed-31c8-9b97-924e89c3a543",
 			"albumTitle": "Bitterblue",
+			"artist": "Bonnie Tyler",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COMEBACK SINGLE COLLECTION '90-'94",
+		"artist": "BONNIE TYLER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/comeback_single.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "97da59e9-6c95-3812-81cb-eb93b75ae8cd",
+			"albumTitle": "Comeback Single‐Collection ’90–’94",
 			"artist": "Bonnie Tyler",
 			"type": "Album"
 		}
@@ -45258,6 +45565,15 @@
 			"artist": "Bonnie Tyler",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "STILL BELIEVE",
+		"artist": "BONNIE TYLER",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/simply_believe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "VI SPARKER RØV",
