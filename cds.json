@@ -37958,20 +37958,6 @@
 		}
 	},
 	{
-		"albumTitle": "LOVE IS GONNA CALL",
-		"artist": "SANNE SALOMONSEN",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/love_is_gonna_call.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "283844f2-c0ee-3142-8197-355cbaa7b329",
-			"albumTitle": "Love Is Gonna Call",
-			"artist": "Sanne Salomonsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PRECIOUS MOMENTS",
 		"artist": "SANNE SALOMONSEN",
 		"price": "40,00 kr.",
@@ -38192,20 +38178,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "CLOSE TO SEVEN",
-		"artist": "SANDRA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/close_to_seven.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f6df6380-3d28-3107-bff2-a1486d75c7f3",
-			"albumTitle": "Close to Seven",
-			"artist": "Sandra",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "INTO A SECRET LAND",
@@ -39047,20 +39019,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE BRIAN SETZER ORCHESTRA",
-		"artist": "THE BRIAN SETZER ORCHESTRA",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/the_brian_setzer_orchestra.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2bb81aa0-81c0-39bb-9015-d424e17725f2",
-			"albumTitle": "The Brian Setzer Orchestra",
-			"artist": "The Brian Setzer Orchestra",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HORMONALLY YOURS",
