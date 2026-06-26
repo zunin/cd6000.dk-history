@@ -20433,20 +20433,6 @@
 		}
 	},
 	{
-		"albumTitle": "FRAKLIP FRA DET FJERNE",
-		"artist": "CV JØRGENSEN",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/fraklip_fra_det_fjerne.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f725236c-1ea5-3dc5-b485-68cd9ad05995",
-			"albumTitle": "Fraklip fra det fjerne",
-			"artist": "C.V. Jørgensen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE LOVLIG LIVE (digitally remastered) (med ligegyldige hairliners)",
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
@@ -41727,20 +41713,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "220de9c6-fa5f-39e3-ae89-1faf8a8bbc67",
 			"albumTitle": "Human Touch",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BORN TO RUN",
-		"artist": "BRUCE SPRINGSTEEN",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/born_to_run.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "39b22944-7503-3937-8bba-09b17281cc6a",
-			"albumTitle": "Born to Run",
 			"artist": "Bruce Springsteen",
 			"type": "Album"
 		}
