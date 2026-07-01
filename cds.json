@@ -5335,20 +5335,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "NORMALITY KILLED THE CAT",
-		"artist": "BRIMSTONE BUTTERFLY",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/normality_killed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d0d70e81-7604-431d-a3e3-03f4d3ca0078",
-			"albumTitle": "Normality Killed the Cat",
-			"artist": "Brimstone Butterfly",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BRINCK",
 		"artist": "BRINCK",
 		"price": "10,00 kr.",
@@ -25089,20 +25075,6 @@
 		}
 	},
 	{
-		"albumTitle": "AWAKE, THE BEST OF (CD+DVD)",
-		"artist": "LIVE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/awake.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1c19127c-f6e0-4c56-a1c6-ae7780961ccc",
-			"albumTitle": "Untitled",
-			"artist": "Life... But How to Live It?",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LITTLE PAUL'S BLVD.",
 		"artist": "THE LOFT",
 		"price": "10,00 kr.",
@@ -26341,20 +26313,6 @@
 			"releaseGroupId": "d21abc4d-d3cf-34f3-9ba7-3e6d19b6778c",
 			"albumTitle": "Blinded by the Light: The Very Best Of",
 			"artist": "Manfred Mann’s Earth Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "A TOUCH OF CLASS",
-		"artist": "THE MANHATTAN TRANSFER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/a_touch_of_class.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "affe9b9d-85af-31d7-974f-f8d34e70f387",
-			"albumTitle": "Jukin’",
-			"artist": "The Manhattan Transfer and Gene Pistilli",
 			"type": "Album"
 		}
 	},
@@ -34971,20 +34929,6 @@
 		}
 	},
 	{
-		"albumTitle": "RIGHT DOWN THE LINE THE BEST OF",
-		"artist": "GERRY RAFFERTY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/right_down_the_line.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "510b7dbd-c062-35b7-afaf-b3f2c5b98615",
-			"albumTitle": "Right Down the Line: The Best of Gerry Rafferty",
-			"artist": "Gerry Rafferty",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OK COMPUTER",
 		"artist": "RADIOHEAD",
 		"price": "10,00 kr.",
@@ -38055,20 +37999,6 @@
 		}
 	},
 	{
-		"albumTitle": "TIMEAGAIN",
-		"artist": "DAVID SANBORN",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/timeagain.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "53c99e95-7990-3847-a1f5-aa96ed3c1815",
-			"albumTitle": "Timeagain",
-			"artist": "David Sanborn",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DU MILDE HIMMEL",
 		"artist": "IVAN SAND",
 		"price": "20,00 kr.",
@@ -39804,34 +39734,6 @@
 		}
 	},
 	{
-		"albumTitle": "SPOILED GIRL",
-		"artist": "CARLY SIMON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/spoiled_girl.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "74717ee7-06bf-3d32-8cf3-cbad5b23ac13",
-			"albumTitle": "Spoiled Girl",
-			"artist": "Carly Simon",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "TORCH",
-		"artist": "CARLY SIMON",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/torch.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc",
-			"albumTitle": "Torch",
-			"artist": "Carly Simon",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BRIDGE OVER TROUBLED WATER",
 		"artist": "SIMON & GARFUNKEL",
 		"price": "10,00 kr.",
@@ -40010,15 +39912,6 @@
 			"artist": "Simple Minds",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "IN THE CITY OF LIGHT LIVE (2CD)",
-		"artist": "SIMPLE MINDS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/in_the_city_of_light.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ONCE UPON A TIME",
@@ -44593,20 +44486,6 @@
 		}
 	},
 	{
-		"albumTitle": "ONE OF THESE DAYS",
-		"artist": "TOYS OF JOY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/one_of_these_days.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4ad37550-4c3a-4b14-bb87-f3243b1cd440",
-			"albumTitle": "Untitled",
-			"artist": "No-Joy",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RECOVERING THE WASTED YEARS",
 		"artist": "MIKE TRAMP",
 		"price": "20,00 kr.",
@@ -48963,6 +48842,20 @@
 		}
 	},
 	{
+		"albumTitle": "JAZZ FROM HELL",
+		"artist": "FRANK ZAPPA",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/jazz_from_hell.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "db261fa2-7a8e-36e5-b94e-4075c6c09944",
+			"albumTitle": "Jazz From Hell",
+			"artist": "Frank Zappa",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SHEIK YERBOUTI",
 		"artist": "FRANK ZAPPA",
 		"price": "20,00 kr.",
@@ -48972,6 +48865,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "c2980035-5ee5-30ff-9fbc-657255fbe4fd",
 			"albumTitle": "Sheik Yerbouti",
+			"artist": "Frank Zappa",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STRICTLY COMMERCIAL THE BEST OF",
+		"artist": "FRANK ZAPPA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/strictly_commercial.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f3b3542a-8dbf-3a55-98ab-45e2e184c886",
+			"albumTitle": "Strictly Commercial: The Best of Frank Zappa",
 			"artist": "Frank Zappa",
 			"type": "Album"
 		}
@@ -49425,20 +49332,6 @@
 			"releaseGroupId": "956eb9ac-78f5-33d6-812d-38efeade401e",
 			"albumTitle": "Alle Børnene",
 			"artist": "2 x Kaj",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "5 X KAJ",
-		"artist": "5 X KAJ",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/5xkaj.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2c85008e-92fa-3739-8efe-39e5ef1b30a3",
-			"albumTitle": "5 x Kaj",
-			"artist": "5 X Kaj",
 			"type": "Album"
 		}
 	},
