@@ -36517,6 +36517,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DET HELE (6CD boks)",
+		"artist": "ROCAZINO",
+		"price": "75,00 kr.",
+		"origin": "http://cd6000.dk/rocazino_det_hele.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ELSK MIG I NAT",
 		"artist": "ROCAZINO",
 		"price": "20,00 kr.",
@@ -37999,6 +38008,20 @@
 		}
 	},
 	{
+		"albumTitle": "VOYEUR",
+		"artist": "DAVID SANBORN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/voyeur.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7a4f6487-35a2-3c3b-8739-965396a5e673",
+			"albumTitle": "Voyeur",
+			"artist": "David Sanborn",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DU MILDE HIMMEL",
 		"artist": "IVAN SAND",
 		"price": "20,00 kr.",
@@ -39097,6 +39120,15 @@
 			"artist": "Ed Sheeran",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "+ (NY i folie)",
+		"artist": "ED SHEERAN",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/ed_sheeran_+_ny.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "X",
@@ -41762,6 +41794,15 @@
 			"artist": "Starfuckers",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "ANTHOLOGY.. SO FAR (3CD)",
+		"artist": "RINGO STARR & HIS ALL STAR BAND",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/ringo_anthology_so_far.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE VERY BEST OF",
@@ -44736,6 +44777,20 @@
 		}
 	},
 	{
+		"albumTitle": "TELLIN' STORIES",
+		"artist": "WALTER TROUT BAND",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/tellin_stories.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5e32d362-9464-36af-af32-c37eded9845a",
+			"albumTitle": "Tellin' Stories",
+			"artist": "Walter Trout Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DRASTIC FANTASTIC",
 		"artist": "KT TURNSTALL",
 		"price": "10,00 kr.",
@@ -45408,6 +45463,66 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SILDETUR",
+		"artist": "TØRFISK",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/sildetur.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "02a4040d-7052-4878-9dfb-b2035064c04a",
+			"albumTitle": "Sildetur",
+			"artist": "Tørfisk",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STILL GOING STRONG",
+		"artist": "TØRFISK",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/still_going_strong.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TI",
+		"artist": "TØRFISK",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/toerfisk_ti.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0df33893-7e7b-361b-839a-83483f8721f5",
+			"albumTitle": "Ti",
+			"artist": "Tørfisk",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "TIDENS HERRER",
+		"artist": "TØRFISK",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/tidens_herrer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "VORES FAVORITTER",
+		"artist": "TØRFISK",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/toerfisk_vores_favoritter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "18d43c67-e556-3a6f-bbfc-fead59d44a32",
+			"albumTitle": "Vores favoritter",
+			"artist": "Tørfisk",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET BEDSTE",
 		"artist": "TØSEDRENGENE",
 		"price": "10,00 kr.",
@@ -45494,6 +45609,24 @@
 			"artist": "Tøsedrengene",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "KOMPLET (6CD boks)",
+		"artist": "TØSEDRENGENE",
+		"price": "75,00 kr.",
+		"origin": "http://cd6000.dk/toesedrengene_komplet.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "KOMPLET (6CD boks)",
+		"artist": "TØSEDRENGENE",
+		"price": "75,00 kr.",
+		"origin": "http://cd6000.dk/toesedrengene_komplet.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "PAS PÅ DINE BLÅ ØJNE",
@@ -45793,6 +45926,20 @@
 			"releaseGroupId": "55e5c181-7156-3090-bfa4-c3d5b178384d",
 			"albumTitle": "Days Go By",
 			"artist": "Keith Urban",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LIVE IN MOSCOW",
+		"artist": "URIAH HEEP",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/uriah_heep_moscow.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "82e4fa3d-d93c-3ab1-a6bd-cd799bd9e30a",
+			"albumTitle": "Live in Moscow",
+			"artist": "Uriah Heep",
 			"type": "Album"
 		}
 	},
@@ -46344,6 +46491,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "FORTH",
+		"artist": "THE VERVE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_verve_forth.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a0fcb9a4-f495-3069-a24c-44558181b215",
+			"albumTitle": "Forth",
+			"artist": "The Verve",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NÅR JEG DRØMMER",
 		"artist": "PETER VESTH",
 		"price": "10,00 kr.",
@@ -46376,6 +46537,15 @@
 		}
 	},
 	{
+		"albumTitle": "LIVE I JAZZ-SMEDIEN",
+		"artist": "VESTRE JAZZVÆRK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/live_i_jazz_smedien.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "RIVERBOAT SHUFFLE",
 		"artist": "VESTRE JAZZVÆRK",
 		"price": "10,00 kr.",
@@ -46403,6 +46573,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "fb4ad06d-af90-3520-bc03-1744be3b29a2",
 			"albumTitle": "Crushing Digits",
+			"artist": "Veto",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "EVERYTHING IS AMPLIFIED",
+		"artist": "VETO",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/everything_is_amplified.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5566a1bc-729c-49ce-91e0-f4e0c813be0d",
+			"albumTitle": "Everything Is Amplified",
 			"artist": "Veto",
 			"type": "Album"
 		}
@@ -46933,6 +47117,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLOOD MONEY",
+		"artist": "TOM WAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/blood_money.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "63377d20-38df-30ae-b1bc-6808b9e05482",
+			"albumTitle": "Blood Money",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BLUE VALENTINE",
 		"artist": "TOM WAITS",
 		"price": "20,00 kr.",
@@ -46942,6 +47140,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "a138f035-a018-3d29-8b90-36b30956fccc",
 			"albumTitle": "Blue Valentine",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "BONE MACHINE",
+		"artist": "TOM WAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/bone_machine.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b65ca7b8-4069-3782-9c4c-b2353cc4bc04",
+			"albumTitle": "Bone Machine",
 			"artist": "Tom Waits",
 			"type": "Album"
 		}
@@ -46961,6 +47173,20 @@
 		}
 	},
 	{
+		"albumTitle": "MULE VARIATIONS",
+		"artist": "WOM WAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/mule_variations.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "be821a7a-4a19-3062-9ca6-8d07a658bc10",
+			"albumTitle": "Mule Variations",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "REAL GONE",
 		"artist": "TOM WAITS",
 		"price": "20,00 kr.",
@@ -46970,6 +47196,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "576c3356-80fc-3f59-b9b3-c4af2428056a",
 			"albumTitle": "Real Gone",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RAIN DOGS",
+		"artist": "TOM WAITS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/rain_dogs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fb25a883-2270-3ec4-8c62-85c7ed857e6f",
+			"albumTitle": "Rain Dogs",
 			"artist": "Tom Waits",
 			"type": "Album"
 		}
@@ -47415,6 +47655,20 @@
 		}
 	},
 	{
+		"albumTitle": "BEST OF",
+		"artist": "WET WET WET",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/wet_wet_wet_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f9fed6bf-6342-3aea-83c7-e856bfba401d",
+			"albumTitle": "The Best of Wet Willie",
+			"artist": "Wet Willie",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "END OF PART ONE",
 		"artist": "WET WET WET",
 		"price": "10,00 kr.",
@@ -47441,6 +47695,15 @@
 			"artist": "Wet Wet Wet",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "IF YOU WERE THERE THE BEST OF",
+		"artist": "WHAM",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/wham_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE FINAL",
@@ -47942,6 +48205,20 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE MOVES",
+		"artist": "KIM WILDE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/love_moves.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b7bbc98a-2550-3ed7-afbb-c5df6346e2ce",
+			"albumTitle": "Love Moves",
+			"artist": "Kim Wilde",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST OF",
 		"artist": "KIM WILDE",
 		"price": "10,00 kr.",
@@ -47994,6 +48271,20 @@
 			"releaseGroupId": "18c75540-1e2a-4dfd-91bf-a90dc41313cf",
 			"albumTitle": "Diamond in the Rough",
 			"artist": "Aud Wilken",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WAYNE COYNE",
+		"artist": "THE WILLIAM BLAKES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/wayne_coyne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bd66c385-7279-4e16-b041-b4d8b6d775cf",
+			"albumTitle": "Wayne Coyne",
+			"artist": "The William Blakes",
 			"type": "Album"
 		}
 	},
@@ -48155,6 +48446,20 @@
 			"releaseGroupId": "6eac2e57-ee50-36f8-b0c4-c4c847a2c098",
 			"albumTitle": "Back to Black",
 			"artist": "Amy Winehouse",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ROCK & POP LEGENDS",
+		"artist": "JOHNNY WINTER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/johnny_winter_rock_pop.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fdcc5142-0fb0-4bd5-bc51-8b10ba78574b",
+			"albumTitle": "First Winter",
+			"artist": "Johnny Winter",
 			"type": "Album"
 		}
 	},
@@ -48409,6 +48714,20 @@
 		}
 	},
 	{
+		"albumTitle": "GROOVIN'",
+		"artist": "BILL WYMAN'S RHYTHM KINGS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/groovin.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c484cd9c-37ed-3cf0-a93a-2dfe9491cf68",
+			"albumTitle": "Groovin'",
+			"artist": "Bill Wyman’s Rhythm Kings",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GLORIEPROTESE",
 		"artist": "ÜBERMENCH",
 		"price": "10,00 kr.",
@@ -48641,6 +48960,29 @@
 		"musicbrainz": {
 			"releaseGroupId": "b6a3952b-9977-351c-a80a-73e023143858",
 			"albumTitle": "After the Gold Rush",
+			"artist": "Neil Young",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "CROME DREAMS II",
+		"artist": "NEIL YOUNG",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/crome_dreams_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "FREEDOM",
+		"artist": "NEIL YOUNG",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/neil_young_freedom.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6ae11dfd-4dc8-3b0b-be8c-456d6254ac9f",
+			"albumTitle": "Freedom",
 			"artist": "Neil Young",
 			"type": "Album"
 		}
