@@ -5808,20 +5808,6 @@
 		}
 	},
 	{
-		"albumTitle": "QUIET REVOLUTION",
-		"artist": "CHRIS de BURGH",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/quiet_revolution.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6850893b-d17c-3d81-93d8-ba363a75c94c",
-			"albumTitle": "Quiet Revolution",
-			"artist": "Chris de Burgh",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SPARK TO A FLAME THE VERY BEST OF",
 		"artist": "CHRIS de BURGH",
 		"price": "10,00 kr.",
@@ -19693,20 +19679,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "LIVE IN AUSTRALIA",
-		"artist": "ELTON JOHN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/elton_live_australia.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "01eae881-2e8d-393c-83bb-942944a4eae7",
-			"albumTitle": "Live in Australia",
-			"artist": "Elton John, Melbourne Symphony Orchestra",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LOVE SONGS",
 		"artist": "ELTON JOHN",
 		"price": "10,00 kr.",
@@ -24090,15 +24062,6 @@
 			"artist": "Level 42",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "WORLD MACHINE (lille tidl. ejersignatur på innersleeve)",
-		"artist": "LEVEL 42",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/world_machine.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "LEVEL 42",
@@ -36840,29 +36803,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "22",
-		"artist": "TAMRA ROSANES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tamra_22.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "COUNTRY ROOTS",
-		"artist": "TAMRA ROSANES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/country_roots.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "36ea5262-8090-34cd-a231-8b783fe69a70",
-			"albumTitle": "Country Roots",
-			"artist": "Tamra Rosanes",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FOOTLOOSE",
 		"artist": "TAMRA ROSANES",
 		"price": "10,00 kr.",
@@ -36872,20 +36812,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b3ec6fe7-b686-3e7e-b1dc-2fdb4ca02d76",
 			"albumTitle": "Footloose",
-			"artist": "Tamra Rosanes",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIKE I LIKE IT",
-		"artist": "TAMRA ROSANES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/like_i_like_it.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d722b584-99cf-3e53-a7d5-0a1a278b98b2",
-			"albumTitle": "Like I Like It",
 			"artist": "Tamra Rosanes",
 			"type": "Album"
 		}
@@ -39344,20 +39270,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "2",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/shubidua_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "58f7310a-2578-372c-bbcb-01a79670e4c0",
-			"albumTitle": "Shu•bi•dua 2",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "3",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
@@ -39460,20 +39372,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0d339a96-a7a8-3d9a-81c2-a54c02d343d9",
 			"albumTitle": "Shu•bi•dua 10",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "12",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/shubidua_12.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6326b25e-568b-31b4-b7cf-86722917f5fc",
-			"albumTitle": "Shu•bi•dua 12",
 			"artist": "Shu•bi•dua",
 			"type": "Album"
 		}
@@ -42384,29 +42282,6 @@
 			"releaseGroupId": "a4e97980-2b8b-3f87-8424-a35863623d88",
 			"albumTitle": "Inflammable Material",
 			"artist": "Stiff Little Fingers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HOORAY FOR LOVE",
-		"artist": "CURTIS STIGERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/hooray_for_love.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LOST IN DREAMS",
-		"artist": "CURTIS STIGERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/lost_in_dreams.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cc81bb49-f3ca-4700-aee2-099dd061a9de",
-			"albumTitle": "Lost in Dreams",
-			"artist": "Curtis Stigers",
 			"type": "Album"
 		}
 	},
