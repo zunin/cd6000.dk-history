@@ -2837,15 +2837,6 @@
 		}
 	},
 	{
-		"albumTitle": "WHITE NOISE AND DIAMOND NIGHTS (lille kuglepens-'krusedulle' på front)",
-		"artist": "PAUL BANKS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/white_noise_and.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "POUL BANKS & STEEN VIG",
 		"artist": "POUL BANKS & STEEN VIG",
 		"price": "25,00 kr.",
@@ -5067,20 +5058,6 @@
 			"releaseGroupId": "64a83500-b758-3f84-ad92-c7bb454543df",
 			"albumTitle": "Art of Living",
 			"artist": "The Boomers",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIVE",
-		"artist": "THE BOOTLES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_bootles_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8f20489c-6084-4c68-b8b3-9d59ceca738c",
-			"albumTitle": "Live",
-			"artist": "The Beatles",
 			"type": "Album"
 		}
 	},
@@ -7906,15 +7883,6 @@
 			"artist": "Coldplay",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "LIVE IN PARIS",
-		"artist": "COLDPLAY",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/coldplay_live_paris.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "MYLO XYLOTO",
@@ -14432,20 +14400,6 @@
 		}
 	},
 	{
-		"albumTitle": "BREAKIN' ICE",
-		"artist": "PER FROST",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/breakin_ice.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "45798195-1ed2-41c4-b32d-d792eb4dea4a",
-			"albumTitle": "Breakin' Ice",
-			"artist": "Per Chr. Frost",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OLD FRIEND'S BACK",
 		"artist": "PER FROST",
 		"price": "20,00 kr.",
@@ -17826,20 +17780,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEFINITIVE COLLECTION",
-		"artist": "HOOTERS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hooters_definitive.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "51a9d844-620b-38c4-a142-6e912a7246a7",
-			"albumTitle": "Definitive Collection",
-			"artist": "The Hooters",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "HOOTERS",
 		"price": "10,00 kr.",
@@ -17903,20 +17843,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FAIRWEATHER JOHNSON",
-		"artist": "HOOTIE & THE BLOWFISH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/fairweather_johnson.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a4e5b5b2-2ef0-3b9f-acde-f1ffe9ce7d5a",
-			"albumTitle": "Fairweather Johnson",
-			"artist": "Hootie & the Blowfish",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "LOOK ME IN THE EYES",
@@ -18954,34 +18880,6 @@
 			"releaseGroupId": "9ab65efb-e969-4442-b9e0-e294edad4524",
 			"albumTitle": "The Very Best",
 			"artist": "INXS",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FOREVER BLUE",
-		"artist": "CHRIS ISAAK",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/forever_blue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c0a0fbbf-eb70-3bdc-a78b-7892753c8171",
-			"albumTitle": "Forever Blue",
-			"artist": "Chris Isaak",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SAN FRANCISCO DAYS",
-		"artist": "CHRIS ISAK",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/san_francisco_days.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d9d75876-b5b5-347c-af6e-e176fa0654bd",
-			"albumTitle": "San Francisco Days",
-			"artist": "Chris Isaak",
 			"type": "Album"
 		}
 	},
@@ -33654,20 +33552,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE BEST OF",
-		"artist": "THE POGUES",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/pogues_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ff7077ed-0022-329e-983f-a10fb5cff30d",
-			"albumTitle": "The Best of The Pogues",
-			"artist": "The Pogues",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HOT HOT HOT",
