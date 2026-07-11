@@ -22530,29 +22530,6 @@
 		}
 	},
 	{
-		"albumTitle": "HINKERUDER PÅ MOTORVEJEN",
-		"artist": "SØREN KRAGH-JACOBSEN & LEIF LINDSKOV",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/hinkeruder.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6aec6542-975f-4dcf-82d3-a52c95019508",
-			"albumTitle": "Hinkeruder på motorvejen",
-			"artist": "Søren Kragh-Jacobsen, Leif Lindskov",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HINKERUDER PÅ MOTORVEJEN /TUR-RETUR (2LP på 1CD)",
-		"artist": "SØREN KRAGH-JACOBSEN",
-		"price": "50,00 kr.",
-		"origin": "https://cd6000.dk/hinkeruder_tur.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "ALL FOR YOU",
 		"artist": "DIANA KRALL",
 		"price": "10,00 kr.",
