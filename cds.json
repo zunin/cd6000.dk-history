@@ -11957,20 +11957,6 @@
 		}
 	},
 	{
-		"albumTitle": "DYLAN & THE DEAD",
-		"artist": "DYLAN & THE DEAD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dylan_and_the_dead.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b6c3799f-0646-4619-a25c-95653181a8bb",
-			"albumTitle": "Untitled",
-			"artist": "Until the Dead Walk",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A MOUTHFUL",
 		"artist": "THE DØ",
 		"price": "15,00 kr.",
@@ -13269,20 +13255,6 @@
 			"releaseGroupId": "a2a57226-2a86-3d82-8ce3-b6520c305188",
 			"albumTitle": "The Very Best of Fairground Attraction",
 			"artist": "Fairground Attraction",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "KING FOR A DAY",
-		"artist": "FAITH NO MORE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/king_for_a_day.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "208004b6-8576-4e45-ac94-4a1fc0b02fa8",
-			"albumTitle": "Angel Dust / King for a Day",
-			"artist": "Faith No More",
 			"type": "Album"
 		}
 	},
@@ -31932,20 +31904,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE LION AND THE COBRA",
-		"artist": "SINEAD O'CONNOR",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/the_lion_and_the_cobra.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f7158e4b-87d0-3310-85ae-71b15769f4ef",
-			"albumTitle": "The Lion and the Cobra",
-			"artist": "Sinéad O’Connor",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SHE WHO DWELLS... (2CD)",
 		"artist": "SINEAD O'CONNOR",
 		"price": "50,00 kr.",
@@ -40405,20 +40363,6 @@
 		}
 	},
 	{
-		"albumTitle": "VISION THING",
-		"artist": "SISTERS OF MERCY",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/vision_thing_bag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cfe2791c-c9be-3140-9aa3-5e96126cbeab",
-			"albumTitle": "Vision Thing",
-			"artist": "The Sisters of Mercy",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "B-SIDE OURSELVES (EP)",
 		"artist": "SKID ROW",
 		"price": "10,00 kr.",
@@ -46545,20 +46489,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FORTH",
-		"artist": "THE VERVE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_verve_forth.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a0fcb9a4-f495-3069-a24c-44558181b215",
-			"albumTitle": "Forth",
-			"artist": "The Verve",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "NÅR JEG DRØMMER",
