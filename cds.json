@@ -222,6 +222,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE ALBUMS (9CD boks)",
+		"artist": "ABBA",
+		"price": "125,00 kr.",
+		"origin": "http://cd6000.dk/abba_boks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE VISITORS (remastered)",
 		"artist": "ABBA",
 		"price": "20,00 kr.",
@@ -550,15 +559,6 @@
 			"artist": "Bryan Adams",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "YOU WANT IT, YOU GOT IT",
-		"artist": "BRYAN ADAMS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/you_want_it_you_got_it.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DEMOLITION",
@@ -2976,6 +2976,20 @@
 		}
 	},
 	{
+		"albumTitle": "PRECIOUS",
+		"artist": "ALAN BARTON",
+		"price": "50,00 kr.",
+		"origin": "https://cd6000.dk/precious.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d7d0e5fb-e0cf-380c-b337-a6243c927743",
+			"albumTitle": "Precious Memories",
+			"artist": "Alan Jackson",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EN HYLDEST TIL LEO MATHIESEN",
 		"artist": "SIGURD BARRETT TRIO",
 		"price": "10,00 kr.",
@@ -4329,6 +4343,20 @@
 		}
 	},
 	{
+		"albumTitle": "REFLECTIONS (A RETROSPECTIVE)",
+		"artist": "MARY J. BLIGE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/blige_reflections.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "128b2d2a-e3e4-37a5-88ca-860c8741d2cb",
+			"albumTitle": "Reflections: A Retrospective",
+			"artist": "Mary J. Blige",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BREAKTHROUGH",
 		"artist": "MARY J BLIGE",
 		"price": "10,00 kr.",
@@ -5337,6 +5365,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "RISE",
+		"artist": "DARYL BRAITHWAITE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/brithwaite_rise.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1a1b68b0-36ad-3207-b1a3-2ebbad848bc3",
+			"albumTitle": "Rise",
+			"artist": "Daryl Braithwaite",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "NOWHERE ZONE",
@@ -7777,20 +7819,6 @@
 		}
 	},
 	{
-		"albumTitle": "GOLD",
-		"artist": "ERIC CLAPTON & THE YARDBIRDS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/clapton_yardbirds_gold.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "28df33b1-eec7-364b-8bf2-6f1e2027059f",
-			"albumTitle": "Gold",
-			"artist": "The Yardbirds",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BYEN ELSKER DIG",
 		"artist": "CLARA SOFIE & RUNE RK",
 		"price": "10,00 kr.",
@@ -9031,6 +9059,15 @@
 		}
 	},
 	{
+		"albumTitle": "STAR POWER : CREEDENCE CLEARWATER REVIVAL (digitally remastered)",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ccr_bell_records.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "PLATINUM (2CD)",
 		"artist": "CREEDENCE CLEARWATER REVIVAL",
 		"price": "10,00 kr.",
@@ -9082,6 +9119,15 @@
 		}
 	},
 	{
+		"albumTitle": "CREEDENCE CLEARWATER REVIVAL COSMO'S FACTORY (2CD)",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/ccr_and_cosmos_factory.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "GREEN RIVER / WILLIE & THE POOR BOYS (2in1)(unofficial)",
 		"artist": "CREEDENCE CLEARWATER REVIVAL",
 		"price": "40,00 kr.",
@@ -9100,6 +9146,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE COMPLETE HIT-ALBUM (2CD)",
+		"artist": "CREEDENCE CLEARWATER REVIVAL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/ccr_complete_hit-album_2cd.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "DÉJÁ VÜ (remastered)",
 		"artist": "CROSBY STILLS NASH & YOUNG",
 		"price": "20,00 kr.",
@@ -9107,6 +9162,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SO FAR",
+		"artist": "CROSBY, STILLS, NASH & YOUNG",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/csny_so_far.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5495ff00-06c2-3361-9284-ed729209dffc",
+			"albumTitle": "So Far",
+			"artist": "Crosby, Stills, Nash & Young",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "LIFE IS GOOD",
@@ -9526,6 +9595,20 @@
 		"artist": "D.A.D.",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/scare_yourself_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SCARE YOURSELF SPECIAL DVD EDITION (CD+DVD)",
+		"artist": "D.A.D.",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/scare_yourself_2.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {
@@ -9981,6 +10064,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DEAD CAN DANCE",
+		"artist": "DEAD CAN DANCE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/dead_can_dance.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "53a1670f-ec24-3d8d-a73a-2bd40225dcdf",
+			"albumTitle": "Dead Can Dance",
+			"artist": "Dead Can Dance",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TV ON THE RADIO",
 		"artist": "DEAR SCIENCE",
 		"price": "10,00 kr.",
@@ -10224,6 +10321,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DELIRIUM",
+		"artist": "CAPERCAILLIE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/delirium.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4ddf415-a891-379c-85b3-8c1ddab65de6",
+			"albumTitle": "Delirium",
+			"artist": "Capercaillie",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "DE KNUSTE HJERTERS KLUB",
@@ -10611,6 +10722,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MAKING MOVIES",
+		"artist": "DIRE STRAITS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/making_movies.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5b0a15ce-8aa9-323b-8fb6-02b657756ba9",
+			"albumTitle": "Making Movies",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MONEY FOR NOTHING",
 		"artist": "DIRE STRAITS",
 		"price": "10,00 kr.",
@@ -10632,6 +10757,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DIRE STRAITS",
+		"artist": "DIRE STRAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dire_straits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4914e4cf-4ad4-466d-a016-3d57bcb682ed",
+			"albumTitle": "Dire Straits",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "LIVE AT THE BBC",
@@ -11462,6 +11601,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE VERY BEST OF (remastered)",
+		"artist": "DR. JOHN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/dr_john_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "GREATEST HITS (AND MORE)",
 		"artist": "DR. HOOK",
 		"price": "10,00 kr.",
@@ -11508,6 +11656,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "be53141c-f792-46bd-bcea-cff9814909bc",
 			"albumTitle": "The Collection",
+			"artist": "Dr. Hook",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PLEASURE & PAIN",
+		"artist": "DR. HOOK",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/dr_hook_pleasure_and_pain.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bda68d1f-f797-33e1-89a1-90661b4928a7",
+			"albumTitle": "Pleasure & Pain",
 			"artist": "Dr. Hook",
 			"type": "Album"
 		}
@@ -11887,6 +12049,20 @@
 		}
 	},
 	{
+		"albumTitle": "HIGHWAY 61 REVISITED",
+		"artist": "BOB DYLAN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/highway_61.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fb48b1dc-412f-36aa-8820-1023c08c46c6",
+			"albumTitle": "Highway 61 Revisited",
+			"artist": "Bob Dylan",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NASHVILLE SKYLINE",
 		"artist": "BOB DYLAN",
 		"price": "20,00 kr.",
@@ -12013,6 +12189,20 @@
 		}
 	},
 	{
+		"albumTitle": "HOTEL CALIFORNIA",
+		"artist": "EAGLES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hotel_california.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "91bf707c-6c33-4efd-83ca-e4c88f14bcaa",
+			"albumTitle": "Hotel California",
+			"artist": "Eagles",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LONG ROAD OUT OF EDEN",
 		"artist": "THE EAGLES",
 		"price": "10,00 kr.",
@@ -12064,6 +12254,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE COMPLETE GREATEST HITS (2CD)",
+		"artist": "EAGLES",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/eagles_complete_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "HOTEL CALIFORNIA (digitally remastered)",
 		"artist": "EAGLES",
 		"price": "15,00 kr.",
@@ -12071,6 +12270,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "EARTH, WIND & FIRE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/earth_wind_fire_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4058f71-b119-3c26-b836-62d2b8cf0c1c",
+			"albumTitle": "The Very Best of",
+			"artist": "Earth, Wind & Fire",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE EDGE",
@@ -12394,6 +12607,15 @@
 		}
 	},
 	{
+		"albumTitle": "ELLEVILDE",
+		"artist": "ELLEFOLK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ellevilde.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "HOT SUMMER DANCE",
 		"artist": "DUKE ELLINGTON",
 		"price": "10,00 kr.",
@@ -12510,6 +12732,48 @@
 		}
 	},
 	{
+		"albumTitle": "DRAWN FROM MEMORY",
+		"artist": "EMBRACE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/drawn_from_memory.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b2171159-f936-3a69-a829-4fac2d1b2659",
+			"albumTitle": "Drawn From Memory",
+			"artist": "Embrace",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE GOOD WILL OUT",
+		"artist": "EMBRACE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_good_will_out.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4218e879-c04f-3b5f-89fc-1473e8f6abd2",
+			"albumTitle": "The Good Will Out",
+			"artist": "Embrace",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE SLIM SHADY LP",
+		"artist": "EMINEM",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_slim_shady_lp.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "be725de4-4633-3c8a-9a03-f2c4392b6e0d",
+			"albumTitle": "The Slim Shady LP",
+			"artist": "Eminem",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE VERY BEST OF",
 		"artist": "EN VOGUE",
 		"price": "10,00 kr.",
@@ -12524,10 +12788,42 @@
 		}
 	},
 	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "EN VOGUE",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/en_vogue_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c0ac31cf-a16d-3eca-bac2-9c74c2ad8efd",
+			"albumTitle": "The Very Best of En Vogue",
+			"artist": "En Vogue",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DE ENESTE TO",
+		"artist": "DOBBELTLIV",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/dobbeltliv.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "40 VISER OG SANGE (2CD)",
 		"artist": "HELGE ENGELBRECHT",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/40_viser_og_sange.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SÅ SPIL DA, KNEJT! (11CD)",
+		"artist": "HELGE ENGELBRECHT",
+		"price": "125,00 kr.",
+		"origin": "http://cd6000.dk/saa_spil_da_knejt.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12742,6 +13038,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "d26f34e9-7402-3afe-9681-e3eae467cbb2",
 			"albumTitle": "I Say I Say I Say",
+			"artist": "Erasure",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "POP! THE FIRST 20 HITS",
+		"artist": "ERASURE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/erasure_pop.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "82e2ea4a-18ba-3276-a93d-b32daf66b3d8",
+			"albumTitle": "Pop! The First 20 Hits",
 			"artist": "Erasure",
 			"type": "Album"
 		}
@@ -39969,15 +40279,6 @@
 		}
 	},
 	{
-		"albumTitle": "NEW COLD DREAM 81-82-83-84",
-		"artist": "SIMPLE MINDS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/new_gold_dream.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "REAL LIFE",
 		"artist": "SIMPLE MINDS",
 		"price": "10,00 kr.",
@@ -45301,20 +45602,6 @@
 		}
 	},
 	{
-		"albumTitle": "COMEBACK SINGLE COLLECTION '90-'94",
-		"artist": "BONNIE TYLER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/comeback_single.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "97da59e9-6c95-3812-81cb-eb93b75ae8cd",
-			"albumTitle": "Comeback Single‐Collection ’90–’94",
-			"artist": "Bonnie Tyler",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BONNIE TYLER",
 		"price": "10,00 kr.",
@@ -48261,20 +48548,6 @@
 		}
 	},
 	{
-		"albumTitle": "WAYNE COYNE",
-		"artist": "THE WILLIAM BLAKES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/wayne_coyne.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bd66c385-7279-4e16-b041-b4d8b6d775cf",
-			"albumTitle": "Wayne Coyne",
-			"artist": "The William Blakes",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GIRL",
 		"artist": "PHARRELL WILLIAMS",
 		"price": "10,00 kr.",
@@ -49170,20 +49443,6 @@
 		}
 	},
 	{
-		"albumTitle": "JAZZ FROM HELL",
-		"artist": "FRANK ZAPPA",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/jazz_from_hell.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "db261fa2-7a8e-36e5-b94e-4075c6c09944",
-			"albumTitle": "Jazz From Hell",
-			"artist": "Frank Zappa",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SHEIK YERBOUTI",
 		"artist": "FRANK ZAPPA",
 		"price": "20,00 kr.",
@@ -49193,20 +49452,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "c2980035-5ee5-30ff-9fbc-657255fbe4fd",
 			"albumTitle": "Sheik Yerbouti",
-			"artist": "Frank Zappa",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STRICTLY COMMERCIAL THE BEST OF",
-		"artist": "FRANK ZAPPA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/strictly_commercial.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f3b3542a-8dbf-3a55-98ab-45e2e184c886",
-			"albumTitle": "Strictly Commercial: The Best of Frank Zappa",
 			"artist": "Frank Zappa",
 			"type": "Album"
 		}
@@ -50613,15 +50858,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/dbadm_93-95.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DET BEDSTE AF DANSK MUSIK 1994-96 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/dbadm_94-96.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
