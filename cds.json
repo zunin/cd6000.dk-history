@@ -16124,20 +16124,6 @@
 		}
 	},
 	{
-		"albumTitle": "LUKAS GRAHAM",
-		"artist": "LUKAS GRAHAM",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/lukas_graham_2015.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0198c1e1-d8eb-4cd2-a7c6-65127ef77142",
-			"albumTitle": "Lukas Graham",
-			"artist": "Lukas Graham",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SHE",
 		"artist": "GRAND AVENUE",
 		"price": "10,00 kr.",
@@ -45794,6 +45780,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TRETTEN TRAVERE",
+		"artist": "TØRFISK",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/tretten_travere.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4abe3fe5-22c6-3126-98b9-790547cc47fc",
+			"albumTitle": "Tretten Travere",
+			"artist": "Tørfisk",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "VORES FAVORITTER",
