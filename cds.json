@@ -13657,6 +13657,20 @@
 		}
 	},
 	{
+		"albumTitle": "DE VILDESTE FUGLE",
+		"artist": "MICHAEL FALCH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/de_vildeste_fugle.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "eba6c1db-29c3-38b8-af74-c129ccb09a7c",
+			"albumTitle": "De vildeste fugle",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET ANDET LAND",
 		"artist": "MICHAEL FALCH",
 		"price": "15,00 kr.",
@@ -13694,6 +13708,20 @@
 		}
 	},
 	{
+		"albumTitle": "LYKKELIG UNDERVEJS",
+		"artist": "MICHAEL FALCH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/lykkelig_undervejs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2bd75b5b-c250-3520-b295-ae7a04d60a87",
+			"albumTitle": "Lykkelig Undervejs",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MICHAEL FALCH",
 		"artist": "MICHAEL FALCH",
 		"price": "30,00 kr.",
@@ -13726,6 +13754,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "f8da29d2-5f29-3ea7-a38a-7beba5979b0f",
 			"albumTitle": "Nye rejsende",
+			"artist": "Michael Falch",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SOMMEREN KOM NY TILBAGE",
+		"artist": "MICHAEL FALCH",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/sommeren_kom_ny_tilbage.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1ecc63a0-bc06-4e03-a272-602390d64b31",
+			"albumTitle": "Sommeren kom ny tilbage",
 			"artist": "Michael Falch",
 			"type": "Album"
 		}
@@ -13991,6 +14033,20 @@
 		}
 	},
 	{
+		"albumTitle": "ET KYS HERFRA",
+		"artist": "SØS FENGER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/et_kys_herfra.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7268239a-a2a2-3002-9ac3-cce3259b8e8e",
+			"albumTitle": "Et Kys Herfra",
+			"artist": "Søs Fenger",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NØGLEN TIL PARADIS (Søs synger Bent Fabricius Bjerre)",
 		"artist": "SØS FENGER",
 		"price": "10,00 kr.",
@@ -14009,6 +14065,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "16c41d84-ec1d-317e-b137-187c78b8deef",
 			"albumTitle": "On Holiday",
+			"artist": "Søs Fenger",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STJERNENAT",
+		"artist": "SØS FENGER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/stjernenat.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e806d35-4592-4411-9f86-94ef0d0e3071",
+			"albumTitle": "Stjernenat",
 			"artist": "Søs Fenger",
 			"type": "Album"
 		}
@@ -14338,6 +14408,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "FASTER (limited edition)(digisleeve)",
+		"artist": "SAMANTHA FISH",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/samantha_fish_faster.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "COMPACT JAZZ",
 		"artist": "ELLA FITZGERALD",
 		"price": "10,00 kr.",
@@ -14396,6 +14475,34 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "FLEETWOOD MAC",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/fleetwood_mac_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "76b021b5-fec4-47e0-9484-aeb045415667",
+			"albumTitle": "Greatest Hits",
+			"artist": "Fleetwood Mac",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "FLEETWOOD MAC",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/fleetwood_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "76b021b5-fec4-47e0-9484-aeb045415667",
+			"albumTitle": "Greatest Hits",
+			"artist": "Fleetwood Mac",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "TANGO IN THE NIGHT",
@@ -14473,6 +14580,20 @@
 			"releaseGroupId": "d10218fa-a162-4653-891b-840a5fe0ee02",
 			"albumTitle": "Howl at the Moon",
 			"artist": "The Floor Is Made of Lava",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "CEREMONIALS",
+		"artist": "FLORENCE + THE MACHINE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/ceremonials.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "998f1bc8-6703-49fe-8aed-028ec04a14f2",
+			"albumTitle": "Ceremonials",
+			"artist": "Florence + the Machine",
 			"type": "Album"
 		}
 	},
@@ -14561,6 +14682,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE BLUE RIDGE RANGERS RIDES AGAIN (CD+DVD)",
+		"artist": "JOHN FOGERTY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_blue_ridge_rangers_rides_again_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TALK TO YOUR DAUGHTER",
 		"artist": "ROBBEN FORD",
 		"price": "10,00 kr.",
@@ -14571,6 +14701,20 @@
 			"releaseGroupId": "78fa45b7-9f5a-3f98-a63e-bf75d5de177b",
 			"albumTitle": "Talk to Your Daughter",
 			"artist": "Robben Ford",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "4",
+		"artist": "FOREIGNER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/foreigner4.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b29a37cd-e84f-435e-a671-fd7541f65c53",
+			"albumTitle": "4",
+			"artist": "Foreigner",
 			"type": "Album"
 		}
 	},
@@ -14955,6 +15099,29 @@
 		}
 	},
 	{
+		"albumTitle": "DEN STÄNDIGA RESAN",
+		"artist": "MARIA FREDRIKSSON",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/den_staendiga_resan.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CLASSIC",
+		"artist": "FREE",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/free_classic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "454e8d11-8003-3794-8d5e-c6320c5d2dbd",
+			"albumTitle": "Classic Free",
+			"artist": "Free",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE LAST IN LINE..",
 		"artist": "FREE CLOUD NINE",
 		"price": "10,00 kr.",
@@ -15213,6 +15380,15 @@
 			"artist": "Serge Gainsbourg",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "SÅDAN ER REGLERNE (tynd fold på bagcover)",
+		"artist": "DEN GALE POSE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/saadan_er_reglerne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "COMPENDIUM GREATEST HITS",
@@ -15576,6 +15752,29 @@
 		}
 	},
 	{
+		"albumTitle": "īTHE HAPPY CLUB",
+		"artist": "BOB GELDORF",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_happy_club.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE VEGETARIANS OF LOVE",
+		"artist": "BOB GELDORF",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_vegetarians_of_love.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6cdd3b5a-d343-322f-a318-098f27995293",
+			"albumTitle": "The Vegetarians of Love",
+			"artist": "Bob Geldof",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "REVELATIONS",
 		"artist": "GENE",
 		"price": "10,00 kr.",
@@ -15618,6 +15817,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE WAY WE WALK VOLUME TWO: THE LONGS",
+		"artist": "GENESIS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_way_we_walk_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "df8075e6-a47e-3414-9620-c749619965d2",
+			"albumTitle": "The Way We Walk, Volume 2: The Longs",
+			"artist": "Genesis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TURN IT ON AGAIN THE HITS",
 		"artist": "GENESIS",
 		"price": "10,00 kr.",
@@ -15641,6 +15854,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "b76520a1-3c5f-3a0c-a755-4c4d99b97c98",
 			"albumTitle": "Abacab",
+			"artist": "Genesis",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GENESIS",
+		"artist": "GENESIS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/genesis.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d5a2f9de-fc59-36b4-9f33-c312cf24e730",
+			"albumTitle": "Genesis",
 			"artist": "Genesis",
 			"type": "Album"
 		}
@@ -15692,6 +15919,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "11c70ba5-2156-3738-816b-cd911864af05",
 			"albumTitle": "Open All Night",
+			"artist": "The Georgia Satellites",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SHAKEN NOT STIRRED",
+		"artist": "THE GEORGIA SATELLITES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/shaken_not_stirred.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f8b196c9-73a8-3c93-9901-79c0af20368f",
+			"albumTitle": "Shaken Not Stirred",
 			"artist": "The Georgia Satellites",
 			"type": "Album"
 		}
@@ -16361,6 +16602,20 @@
 		}
 	},
 	{
+		"albumTitle": "INTERNATIONAL SUPERHITS",
+		"artist": "GREEN DAY",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/international_superhits.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a867a345-f904-3cd1-939d-f7c24b14719f",
+			"albumTitle": "International Superhits!",
+			"artist": "Green Day",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WARNING:",
 		"artist": "GREEN DAY",
 		"price": "10,00 kr.",
@@ -16644,6 +16899,29 @@
 		}
 	},
 	{
+		"albumTitle": "APPETITE FOR DESTRUCTION",
+		"artist": "GUNS & ROSES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/appetite_for_destruction.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+			"albumTitle": "Appetite for Destruction",
+			"artist": "Guns N’ Roses",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "CHINEESE DEMOCRACY",
+		"artist": "GUNS 'N ROSES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/chineese_democracy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "G' N' R' LIES LIKE A SUICIDE (unofficial)",
 		"artist": "GUNS N' ROSES",
 		"price": "20,00 kr.",
@@ -16660,6 +16938,34 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "USE YOUR ILLUSION I",
+		"artist": "GUNS N' ROSES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/use_your_illusion_i.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
+			"albumTitle": "Use Your Illusion I",
+			"artist": "Guns N’ Roses",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "USE YOUR ILLUSION II",
+		"artist": "GUNS & ROSES",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/use_your_illusion_ii.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "617c9f00-9488-3a70-a994-9de312541617",
+			"albumTitle": "Use Your Illusion II",
+			"artist": "Guns N’ Roses",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "SOON",
@@ -50409,15 +50715,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "ALL WOMAN 4 (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/all_woman_4.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "ALLE TIDERS ROCK HITS (2CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -51355,24 +51652,6 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "BEST OF COUNTRY (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/best_of_country.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "BEST OF THE 90s (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/best_of_the_90s.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "BEST OF MOVIEHITS (3CD)",
