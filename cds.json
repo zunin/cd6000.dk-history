@@ -10337,20 +10337,6 @@
 		}
 	},
 	{
-		"albumTitle": "DE KNUSTE HJERTERS KLUB",
-		"artist": "JOHNNY DeLUXE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/de_knuste_hjerters_klub.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "be07d96d-43bf-3840-a1ac-67d4371c6149",
-			"albumTitle": "De knuste hjerters klub",
-			"artist": "Johnny Deluxe",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "JOHNNY DELUXE",
 		"artist": "JOHNNY DELUXE",
 		"price": "10,00 kr.",
@@ -10360,20 +10346,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "bbb02145-4c3a-3db9-b89c-787748026a5a",
 			"albumTitle": "Johnny Deluxe",
-			"artist": "Johnny Deluxe",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LUXUS",
-		"artist": "JOHNNY DELUXE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/luxus.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "903bf1ba-ab61-3ce4-babb-4d420edcf61e",
-			"albumTitle": "Luxus",
 			"artist": "Johnny Deluxe",
 			"type": "Album"
 		}
