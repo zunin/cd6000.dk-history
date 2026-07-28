@@ -6296,20 +6296,6 @@
 		}
 	},
 	{
-		"albumTitle": "CONGRATULATIONS",
-		"artist": "BZN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bzn_congratulations.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bdabeef8-ea08-4b20-a6cd-3296dabb25c4",
-			"albumTitle": "Congratulations",
-			"artist": "BZN",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GOLD",
 		"artist": "BZN",
 		"price": "10,00 kr.",
@@ -14821,20 +14807,6 @@
 		}
 	},
 	{
-		"albumTitle": "24 GREATEST HITS",
-		"artist": "CONNIE FRANCIS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/connie_francis_24.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cb40c4dc-eddc-3f3a-ae80-139642c754af",
-			"albumTitle": "24 Greatest Hits",
-			"artist": "Connie Francis",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ANDERS FRANDSEN",
 		"artist": "ANDERS FRANDSEN",
 		"price": "10,00 kr.",
@@ -19583,15 +19555,6 @@
 		}
 	},
 	{
-		"albumTitle": "FAVORITES (2CD) (NY i folie)",
-		"artist": "JØRGEN INGMANN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/ingmann_favourites.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BAD TO THE BONE",
 		"artist": "INNER CIRCLE",
 		"price": "10,00 kr.",
@@ -20892,15 +20855,6 @@
 			"artist": "Rickie Lee Jones",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "GOLD (2CD)",
-		"artist": "TOM JONES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/tom_jones_gold.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GREATEST HITS SINGLES A's & B's (2CD)",
