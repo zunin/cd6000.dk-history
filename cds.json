@@ -356,20 +356,6 @@
 		}
 	},
 	{
-		"albumTitle": "BLACK ICE",
-		"artist": "AC/DC",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/black_ice.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "afca53c1-c5b3-3f91-8590-281b0aa12722",
-			"albumTitle": "Black Ice",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE",
 		"artist": "AC/DC",
 		"price": "15,00 kr.",
@@ -379,34 +365,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0608c865-89be-32df-9473-7acbe734f850",
 			"albumTitle": "Live",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "STIFF UPPER LIP",
-		"artist": "AC/DC",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/stiff_upper_lip.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c8dcd7b4-d104-3559-bc18-a62f559e912e",
-			"albumTitle": "Stiff Upper Lip",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE RAZORS EDGE",
-		"artist": "AC/DC",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/the_razors_edge.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "03759365-2f74-3f12-b884-280d3aa17f0e",
-			"albumTitle": "The Razors Edge",
 			"artist": "AC/DC",
 			"type": "Album"
 		}
@@ -22988,20 +22946,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "UNTOUCHABLES",
-		"artist": "KORN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/untouchables.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4041334a-fdca-3a73-878e-8513b464a88d",
-			"albumTitle": "Untouchables",
-			"artist": "Korn",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ROCKIN THE COW PALACE (unofficial)",
 		"artist": "KORN",
 		"price": "20,00 kr.",
@@ -28578,20 +28522,6 @@
 		}
 	},
 	{
-		"albumTitle": "AND JUSTICE FOR ALL",
-		"artist": "METALLICA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/and_justice_for_all.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "67553e23-8dad-3792-b6f2-8fedd5650ff3",
-			"albumTitle": "…And Justice for All",
-			"artist": "Metallica",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DEATH MAGNETIC",
 		"artist": "METALLICA",
 		"price": "20,00 kr.",
@@ -28634,34 +28564,6 @@
 		}
 	},
 	{
-		"albumTitle": "KILL 'EM ALL",
-		"artist": "METALLICA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/kill_em_all.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f44f4f73-a714-31a1-a4b8-bfcaaf311f50",
-			"albumTitle": "Kill ’Em All",
-			"artist": "Metallica",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "MASTER OF PUPPETS",
-		"artist": "METALLICA",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/master_of_puppets.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3d00fb45-f8ab-3436-a8e1-b4bfc4d66913",
-			"albumTitle": "Master of Puppets",
-			"artist": "Metallica",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "METALLICA",
 		"artist": "METALLICA",
 		"price": "20,00 kr.",
@@ -28671,20 +28573,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "997ffa2b-9f07-4995-8095-928ff669eab7",
 			"albumTitle": "Metallica",
-			"artist": "Metallica",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RIDE THE LIGHTNING",
-		"artist": "METALLICA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/ride_the_lightning.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0da580f2-6768-498f-af9d-2becaddf15e0",
-			"albumTitle": "Ride the Lightning",
 			"artist": "Metallica",
 			"type": "Album"
 		}
@@ -35693,20 +35581,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "REISE REISE",
-		"artist": "RAMMSTEIN",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/reise_reise.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ea9bf147-abbd-39df-b927-46fc945a5140",
-			"albumTitle": "Reise, Reise",
-			"artist": "Rammstein",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ROSENROT",
 		"artist": "RAMMSTEIN",
 		"price": "20,00 kr.",
@@ -35716,20 +35590,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "15e65e08-85d1-3145-85b2-e18b9fbd4cba",
 			"albumTitle": "Rosenrot",
-			"artist": "Rammstein",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SEHNSUCHT",
-		"artist": "RAMMSTEIN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/sehnsucht.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2a323740-b615-35bc-9f58-1d2e6a5d9289",
-			"albumTitle": "Sehnsucht",
 			"artist": "Rammstein",
 			"type": "Album"
 		}
@@ -45806,20 +45666,6 @@
 		}
 	},
 	{
-		"albumTitle": "BITTERBLUE",
-		"artist": "BONNIE TYLER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/bitterblue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4894a267-38ed-31c8-9b97-924e89c3a543",
-			"albumTitle": "Bitterblue",
-			"artist": "Bonnie Tyler",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GREATEST HITS",
 		"artist": "BONNIE TYLER",
 		"price": "10,00 kr.",
@@ -47381,29 +47227,6 @@
 		}
 	},
 	{
-		"albumTitle": "ROCK THE REBEL/METAL THE DEVIL",
-		"artist": "VOLBEAT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/rock_the_rebel.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f0dafadb-5122-36e0-82c9-e221eb76721a",
-			"albumTitle": "Rock the Rebel/Metal the Devil",
-			"artist": "Volbeat",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE STRENGTH/THE SOUND/THE SONGS",
-		"artist": "VOLBEAT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_strength.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BEYOND HELL ABOVE HEAVEN (CD+DVD)",
 		"artist": "VOLBEAT",
 		"price": "30,00 kr.",
@@ -47422,20 +47245,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "a3ae34bf-0fb2-4edc-9708-c058b0fd0126",
 			"albumTitle": "Outlaw Gentlemen & Shady Ladies",
-			"artist": "Volbeat",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SEAL THE DEAL & LET'S BOOGIE",
-		"artist": "VOLBEAT",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/seal_the_deal.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fb31cdb0-a8ac-46d9-9851-5f1aa25d25f9",
-			"albumTitle": "Seal the Deal & Let’s Boogie",
 			"artist": "Volbeat",
 			"type": "Album"
 		}
