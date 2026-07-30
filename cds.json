@@ -17913,6 +17913,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "ARE YOU EXPERIENCED?",
+		"artist": "THE JIMI HENDRIX EXPERIENCE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/are_you_experienced.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "791fdbb8-b19c-4d33-9ba4-d2d2f35abec6",
+			"albumTitle": "Are You Experienced",
+			"artist": "The Jimi Hendrix Experience",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "19 GREAT PERFORMANCES (2CD)",
 		"artist": "JIMI HENDRIX",
 		"price": "30,00 kr.",
@@ -17968,10 +17982,33 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "I CAN'T STAND STILL",
+		"artist": "DON HENLEY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/i_cant_stand_still.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0fa219c7-197d-3850-982f-cc5ae49061e4",
+			"albumTitle": "I Can’t Stand Still",
+			"artist": "Don Henley",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ONE OF THESE NIGHTS (unofficial)",
 		"artist": "DON HENLEY",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/one_of_these_nights.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "SIR HENRY & HIS BUTLERS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/sir_henry_collection.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -18252,6 +18289,20 @@
 			"releaseGroupId": "5f6f82ab-a95f-3e50-b9e1-60f14a838724",
 			"albumTitle": "When You’re a Boy",
 			"artist": "Susanna Hoffs",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LIVE THROUGH THIS (lille fold på bagcover)",
+		"artist": "HOLE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/live_through_this.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "00ee70a7-369d-3747-a20b-f2978d3eeb0a",
+			"albumTitle": "Your Title Here",
+			"artist": "19th Hole",
 			"type": "Album"
 		}
 	},
@@ -18581,6 +18632,29 @@
 			"releaseGroupId": "2de52330-f003-310c-bc99-94438bf5a904",
 			"albumTitle": "The Healer",
 			"artist": "John Lee Hooker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HOUSE OF THE BLUES (2CD)",
+		"artist": "JOHN LEE HOOKER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/house_of_the_blues2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "BÄSTA",
+		"artist": "HOOTENANNY SINGERS",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/hootenanny_baesta.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c8f35be6-dea0-49f7-9dd4-e5ba7ffec0b6",
+			"albumTitle": "16 bästa",
+			"artist": "Hootenanny Singers",
 			"type": "Album"
 		}
 	},
@@ -19021,6 +19095,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "LES HUMPHRIES SINGERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/les_humphries_very_best_bellvue.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "274cba69-359d-3bb0-887c-1a6ba19382c0",
+			"albumTitle": "Spirit of Freedom",
+			"artist": "Les Humphries Singers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "A LIFETIME",
 		"artist": "HUSH",
 		"price": "10,00 kr.",
@@ -19089,6 +19177,15 @@
 			"artist": "Ashley Hutchings",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "LEVENDE POETERS KLUB (lille fold på bagcover)",
+		"artist": "HVID SJOKOLADE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/levende_poeters_klub.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "CREDO",
@@ -19689,6 +19786,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HEART SHAPED WORLD",
+		"artist": "CHRIS ISAAK",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/heart_shaped_world.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f6f75c7a-f1bb-3b22-ae18-269bf5bd7f47",
+			"albumTitle": "Heart Shaped World",
+			"artist": "Chris Isaak",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "VI SOM ALDRIG LANDAT",
 		"artist": "PATRIK ISAKSSON",
 		"price": "10,00 kr.",
@@ -20045,6 +20156,34 @@
 		}
 	},
 	{
+		"albumTitle": "REVOLUTIONS",
+		"artist": "JEAN-MICHEL JARRE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/revolutions.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2cc8fe44-5a30-39c9-aea1-9a85724c0c9d",
+			"albumTitle": "Revolutions",
+			"artist": "Jean‐Michel Jarre",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE CONCERTS IN CHINA",
+		"artist": "JEAN-MICHEL JARRE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_concerts_in_china_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d5bd79b4-eb0e-35ec-b5d9-b1439a29b051",
+			"albumTitle": "Les Concerts en Chine",
+			"artist": "Jean‐Michel Jarre",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SPINS",
 		"artist": "JANES REJOICE",
 		"price": "10,00 kr.",
@@ -20348,6 +20487,24 @@
 			"artist": "Billy Joel",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL (2CD)",
+		"artist": "BILLY JOEL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/billy_joel_essential.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL (2CD)",
+		"artist": "BILLY JOEL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/billy_joel_essential.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GREATEST HITS",
@@ -21461,6 +21618,20 @@
 		}
 	},
 	{
+		"albumTitle": "I CENTRUM",
+		"artist": "BO KASPERS ORKESTER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/bo_kaspers_i_centrum.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d8113f24-8af0-3626-8875-0ed3155f2e69",
+			"albumTitle": "I centrum",
+			"artist": "Bo Kaspers orkester",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DISCOLIZED (2CD)",
 		"artist": "KATO",
 		"price": "10,00 kr.",
@@ -22406,6 +22577,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DET VAR LIGE DET",
+		"artist": "KIRSTEN & SØREN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/det_var_lige_det.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "JULENS GLÆDER",
 		"artist": "KIRSTEN & SØREN",
 		"price": "20,00 kr.",
@@ -22665,6 +22845,20 @@
 			"releaseGroupId": "eb4da0f0-9fb8-30e8-b8ed-759ee5fb6243",
 			"albumTitle": "The Greatest Hits",
 			"artist": "Gladys Knight",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COME SEE ABOUT ME",
+		"artist": "GLADYS KNIGHT & THE PIPS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/come_see_about_me.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6d0d9a04-51fe-40f8-8d38-392f44b6d506",
+			"albumTitle": "Come See About Me",
+			"artist": "Gladys Knight & the Pips",
 			"type": "Album"
 		}
 	},
@@ -22983,6 +23177,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "31b0b13b-2348-3b41-9431-7b08a73231bc",
 			"albumTitle": "All for You: A Dedication to the Nat King Cole Trio",
+			"artist": "Diana Krall",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ONLY TRUST YOUR HEART",
+		"artist": "DIANA KRALL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/only_trust_your_heart.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "49148585-b05f-3e3e-8391-3955b4d62560",
+			"albumTitle": "Only Trust Your Heart",
 			"artist": "Diana Krall",
 			"type": "Album"
 		}
@@ -23359,6 +23567,20 @@
 		}
 	},
 	{
+		"albumTitle": "HEART ATTACK",
+		"artist": "KROKUS",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/krokus_heart_attack.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fe4b00ec-cebc-3cf3-8d0b-5055d1ec7398",
+			"albumTitle": "Heart Attack",
+			"artist": "Krokus",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "KRÆN BYSTED'S",
 		"artist": "KRÆN BYSTED'S",
 		"price": "50,00 kr.",
@@ -23539,6 +23761,15 @@
 		}
 	},
 	{
+		"albumTitle": "... KEEP SMILING",
+		"artist": "LAID BACK",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/keep_smiling.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "LAIDEST GREATEST",
 		"artist": "LAID BACK",
 		"price": "30,00 kr.",
@@ -23548,6 +23779,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "02d3c7b9-f510-3847-9d98-4ae8d06d5409",
 			"albumTitle": "Laidest Greatest",
+			"artist": "Laid Back",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SEE YOU IN THE LOBBY",
+		"artist": "LAID BACK",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/see_you_in_the_lobby.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "12768602-bf91-33d8-912d-ee35d6f12404",
+			"albumTitle": "See You in the Lobby",
 			"artist": "Laid Back",
 			"type": "Album"
 		}
@@ -24309,6 +24554,20 @@
 		}
 	},
 	{
+		"albumTitle": "TRUE COLORS",
+		"artist": "CYNDY LAUPER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/true_colors.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4bc09fb5-9c33-3c33-916f-07f2a4ae7ea6",
+			"albumTitle": "True Colors",
+			"artist": "Cyndi Lauper",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE BEST DAMN THING",
 		"artist": "AVRIL LAVIGNE",
 		"price": "10,00 kr.",
@@ -24489,6 +24748,48 @@
 		}
 	},
 	{
+		"albumTitle": "FLYING HIGH",
+		"artist": "KENN LENDING BLUES BAND",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/kenn_lending_flying.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dfbc7a01-33ba-4c89-ab6b-7d0493585951",
+			"albumTitle": "Flying High",
+			"artist": "Band of the Royal Air Force, Germany",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GAME OF LIFE",
+		"artist": "KENN LENDING BLUES BAND",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/game_of_life.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7afd6d02-0692-3978-bd54-fa8f06d41118",
+			"albumTitle": "Game of Life (Live at Djurs Blues)",
+			"artist": "Kenn Lending Blues Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PSYCHEDELIC MIND",
+		"artist": "KENN LINDING BLUES BAND",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/psychedelic_mind.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
+			"albumTitle": "Self Titled",
+			"artist": "The Band Who Knew Too Much",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GO SPACE",
 		"artist": "LENINGRAD COWBOYS",
 		"price": "20,00 kr.",
@@ -24575,6 +24876,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "RAINY DAYS",
+		"artist": "LES ENFANTS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/rainy_days.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "001f13ee-9325-4dd0-a795-b3553c46a70e",
+			"albumTitle": "Rainy Days",
+			"artist": "Les Enfants",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "THE BEST OF (new recordings)",
@@ -25218,6 +25533,15 @@
 		}
 	},
 	{
+		"albumTitle": "OG FANDEN DUKKED OP OG SAGDE JA !",
+		"artist": "LARS LILHOLT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/og_fanden_dukked_op.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "PORTLAND",
 		"artist": "LARS LILHOLT BAND",
 		"price": "20,00 kr.",
@@ -25329,6 +25653,20 @@
 			"releaseGroupId": "3d2cf77e-ea1a-48e0-ae72-5060a02c2a42",
 			"albumTitle": "Messed Up Happy Kid",
 			"artist": "Sebastian Lind",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE BEST OF",
+		"artist": "LINDISFARNE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/lindisfarne_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "afe15025-3d97-3514-a4a0-fe3bb102a4fa",
+			"albumTitle": "The Best of Lindisfarne",
+			"artist": "Lindisfarne",
 			"type": "Album"
 		}
 	},
@@ -25626,6 +25964,20 @@
 			"releaseGroupId": "8cb6f86d-10a0-3c4e-b9f3-67dd1a6635ce",
 			"albumTitle": "Sailin’ Shoes",
 			"artist": "Little Feat",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GET LUCKY",
+		"artist": "LITTLE RIVER BAND",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/little_river_band_get_lucky.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "30428a67-2a17-3d4a-afd1-233dcb073125",
+			"albumTitle": "Get Lucky",
+			"artist": "Little River Band",
 			"type": "Album"
 		}
 	},
@@ -26275,6 +26627,20 @@
 		}
 	},
 	{
+		"albumTitle": "HARD CANDY",
+		"artist": "MADONNA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/madonna_hard_candy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8160f309-f93b-31f3-86da-248aeff39c1f",
+			"albumTitle": "Hard Candy",
+			"artist": "Madonna",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIKE A PRAYER (digital recording)",
 		"artist": "MADONNA",
 		"price": "10,00 kr.",
@@ -26347,6 +26713,24 @@
 			"artist": "Madonna",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "MADONNA (remastered)",
+		"artist": "MADONNA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/madonna_rem.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "MDNA (2CD deluxe edition)",
+		"artist": "MADONNA",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/mdna_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE CONFESSIONS TOUR (CD+DVD)",
@@ -26682,6 +27066,20 @@
 		}
 	},
 	{
+		"albumTitle": "DET KRØLLEDE HÅB",
+		"artist": "MAGTENS KORRIDORER",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/det_kroellede_haab.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3cffc8d8-b79c-3dfe-9aee-3abb5885eba4",
+			"albumTitle": "Det krøllede håb",
+			"artist": "Magtens Korridorer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "VISIONS OF EMERALD BEYOND",
 		"artist": "MAHAVISHNU ORCHESTRA",
 		"price": "30,00 kr.",
@@ -26938,6 +27336,20 @@
 			"releaseGroupId": "5b08f85e-c7c2-3b85-966b-a8ed22de123a",
 			"albumTitle": "Post Modern Panic Attack",
 			"artist": "Mani Spinx",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "EVERYTHING MUST GO",
+		"artist": "MANIC STREET PREACHERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/everything_must_go.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c26969b8-13ce-3bb5-996a-eed9e21e1149",
+			"albumTitle": "Everything Must Go",
+			"artist": "Manic Street Preachers",
 			"type": "Album"
 		}
 	},
