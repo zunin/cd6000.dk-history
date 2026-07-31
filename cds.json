@@ -7053,20 +7053,6 @@
 		}
 	},
 	{
-		"albumTitle": "ONE WAY WIND",
-		"artist": "THE CATS",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/one_way_wind.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "590a6a0c-bb3c-301c-a9e3-5bccef0987fc",
-			"albumTitle": "One Way Wind",
-			"artist": "The Cats",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MURDER BALLADS",
 		"artist": "NICK CAVE & THE BAD SEEDS",
 		"price": "20,00 kr.",
@@ -8629,15 +8615,6 @@
 		}
 	},
 	{
-		"albumTitle": "TALK ON CORNERS SPECIAL EDITION",
-		"artist": "THE CORRS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/talk_on_corners_special.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BRUTAL YOUTH",
 		"artist": "ELVIS COSTELLO",
 		"price": "20,00 kr.",
@@ -9159,20 +9136,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "6c3f9031-a3ee-355f-b2ab-8529c580242a",
 			"albumTitle": "Another Page",
-			"artist": "Christopher Cross",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "EVERY TURN OF THE WORLD",
-		"artist": "CHRISTOPHER CROSS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/every_turn_of_the_world.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fd5ec64f-b95b-3e67-b9a5-f28bdad9d11a",
-			"albumTitle": "Every Turn of the World",
 			"artist": "Christopher Cross",
 			"type": "Album"
 		}
@@ -15363,15 +15326,6 @@
 		}
 	},
 	{
-		"albumTitle": "REVOLUCINATION",
-		"artist": "THE GARBO",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/revolucination.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "MY ONE AND ONLY THRILL",
 		"artist": "MELODY GARDOT",
 		"price": "10,00 kr.",
@@ -15396,20 +15350,6 @@
 			"releaseGroupId": "5bc06892-f4ee-379b-8438-0e86c267866f",
 			"albumTitle": "Worrisome Heart",
 			"artist": "Melody Gardot",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SOME ENCHANTED EVENING",
-		"artist": "ART GARFUNKEL",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/some_enchanted_evening.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "07e5e12c-d41b-3fcd-8f1a-a8a64c38ab88",
-			"albumTitle": "Some Enchanted Evening",
-			"artist": "Art Garfunkel",
 			"type": "Album"
 		}
 	},
@@ -17980,20 +17920,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "I CAN'T STAND STILL",
-		"artist": "DON HENLEY",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/i_cant_stand_still.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0fa219c7-197d-3850-982f-cc5ae49061e4",
-			"albumTitle": "I Can’t Stand Still",
-			"artist": "Don Henley",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "ONE OF THESE NIGHTS (unofficial)",
@@ -22340,20 +22266,6 @@
 		}
 	},
 	{
-		"albumTitle": "ONE MAN",
-		"artist": "LEVEL 42's MARK KING",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/one_man.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "63e1f35e-5748-3ac2-9b1e-5e760bc2b7b6",
-			"albumTitle": "One Man",
-			"artist": "Mark King",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BECAUSE OF THE TIMES",
 		"artist": "KINGS OF LEON",
 		"price": "10,00 kr.",
@@ -22905,15 +22817,6 @@
 		}
 	},
 	{
-		"albumTitle": "LAST EXIT TO BROOKLYN (ejersignatur på innersleeve)",
-		"artist": "MARK KNOPFLER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/last_exit_to_brooklyn.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SCREENPLAYING",
 		"artist": "MARK KNOPFLER",
 		"price": "10,00 kr.",
@@ -23250,15 +23153,6 @@
 			"artist": "Diana Krall, The Clayton–Hamilton Jazz Orchestra",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "FORGET ABOUT IT !!",
-		"artist": "ALISON KRAUS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/forget_about_it.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "5",
@@ -24748,20 +24642,6 @@
 		}
 	},
 	{
-		"albumTitle": "FLYING HIGH",
-		"artist": "KENN LENDING BLUES BAND",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/kenn_lending_flying.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "dfbc7a01-33ba-4c89-ab6b-7d0493585951",
-			"albumTitle": "Flying High",
-			"artist": "Band of the Royal Air Force, Germany",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GAME OF LIFE",
 		"artist": "KENN LENDING BLUES BAND",
 		"price": "25,00 kr.",
@@ -24772,20 +24652,6 @@
 			"releaseGroupId": "7afd6d02-0692-3978-bd54-fa8f06d41118",
 			"albumTitle": "Game of Life (Live at Djurs Blues)",
 			"artist": "Kenn Lending Blues Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PSYCHEDELIC MIND",
-		"artist": "KENN LINDING BLUES BAND",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/psychedelic_mind.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
-			"albumTitle": "Self Titled",
-			"artist": "The Band Who Knew Too Much",
 			"type": "Album"
 		}
 	},
@@ -25320,15 +25186,6 @@
 		"artist": "KRISTIAN LILHOLT",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/vejen_videre.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE SECOND RETURN",
-		"artist": "KLRISTIAN LILHOLT",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/the_second_return.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -25949,20 +25806,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "42099734-1f34-30d4-bec8-413fe7bb34cd",
 			"albumTitle": "Dixie Chicken",
-			"artist": "Little Feat",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SAILIN' SHOES",
-		"artist": "LITTLE FEAT",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/sailin_shoes.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8cb6f86d-10a0-3c4e-b9f3-67dd1a6635ce",
-			"albumTitle": "Sailin’ Shoes",
 			"artist": "Little Feat",
 			"type": "Album"
 		}
@@ -30552,20 +30395,6 @@
 		}
 	},
 	{
-		"albumTitle": "HOW DO YOU DO",
-		"artist": "MOUTH & MACNEAL",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/how_do_you_do.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cd247299-9bf9-46e2-98e7-ead5ce7a33b4",
-			"albumTitle": "How Do You Do",
-			"artist": "Mouth & MacNeal",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FLOWERS IN THE RAIN",
 		"artist": "THE MOVE",
 		"price": "20,00 kr.",
@@ -33283,34 +33112,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "235d489d-56b6-3b9d-bfdf-465f191840df",
 			"albumTitle": "Sugar Tax",
-			"artist": "Orchestral Manoeuvres in the Dark",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LIBERATOR",
-		"artist": "OMD",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/liberator.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a5f6fe32-80e6-3c54-94e6-a72f21769a68",
-			"albumTitle": "Liberator",
-			"artist": "Orchestral Manoeuvres in the Dark",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "UNIVERSAL",
-		"artist": "ORCHESTRAL MANOEUVERS IN THE DARK",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/omd_universal.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f9cec2c4-864f-32de-be14-8cdad8634ae9",
-			"albumTitle": "Universal",
 			"artist": "Orchestral Manoeuvres in the Dark",
 			"type": "Album"
 		}
@@ -37084,20 +36885,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "9b061398-252c-40a9-ad8e-4bc23f46fd11",
 			"albumTitle": "Planet Blue",
-			"artist": "Jascha Richter",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WHERE I BELONG",
-		"artist": "JASCHA RICHTER",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/where_i_belong.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d1b4bc7-bd98-4df2-816c-756710a6dc7b",
-			"albumTitle": "Where I Belong",
 			"artist": "Jascha Richter",
 			"type": "Album"
 		}
@@ -43587,15 +43374,6 @@
 		}
 	},
 	{
-		"albumTitle": "BELLEVUE",
-		"artist": "HENRIK STRUBE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/bellevue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "BLÅ HIMMEL OVER BYEN",
 		"artist": "HENRIK STRUBE",
 		"price": "30,00 kr.",
@@ -43873,20 +43651,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "62c969cc-eb39-39f8-a844-713f6334d634",
 			"albumTitle": "The Very Best of Supertramp",
-			"artist": "Supertramp",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "FREE AS A BIRD",
-		"artist": "SUPERTRAMP",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/free_as_a_bird.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "50fa1bf7-cee9-3bc9-951b-19121c789744",
-			"albumTitle": "Free as a Bird",
 			"artist": "Supertramp",
 			"type": "Album"
 		}
