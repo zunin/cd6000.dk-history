@@ -2439,20 +2439,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SOLEN SKINNER",
-		"artist": "BAMSE",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/solen_skinner.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e70933b2-b978-3164-9680-2c1f84d6242e",
-			"albumTitle": "Solen skinner",
-			"artist": "Flemming Bamse Jørgensen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SPOR 8",
 		"artist": "BAMSES VENNER",
 		"price": "25,00 kr.",
@@ -25371,20 +25357,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b505425d-7f5b-3dc7-b05a-2ddb499f9165",
 			"albumTitle": "Jens Langkniv",
-			"artist": "Lars Lilholt Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "LARS LILHOLT BAND",
-		"artist": "LARS LILHOLT BAND",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/lars_lilholt_band.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "241ba596-5113-45e1-a808-7401980c5512",
-			"albumTitle": "Lars Lilholt Band",
 			"artist": "Lars Lilholt Band",
 			"type": "Album"
 		}
