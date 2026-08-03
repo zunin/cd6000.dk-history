@@ -10638,15 +10638,6 @@
 		}
 	},
 	{
-		"albumTitle": "LIVE AT THE BBC",
-		"artist": "DIRE STRAITS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/dire_straits_bbc.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LOVE OVER GOLD",
 		"artist": "DIRE STRAITS",
 		"price": "15,00 kr.",
@@ -14957,20 +14948,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "CLASSIC",
-		"artist": "FREE",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/free_classic.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "454e8d11-8003-3794-8d5e-c6320c5d2dbd",
-			"albumTitle": "Classic Free",
-			"artist": "Free",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "THE LAST IN LINE..",
@@ -26755,20 +26732,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SPIDSEN AF KUGLEN",
-		"artist": "JOHNNY MADSEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/spidsen_af_kuglen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d6b1f097-7b6c-369c-a82b-970fbfa0da0b",
-			"albumTitle": "Spidsen af kuglen",
-			"artist": "Johnny Madsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BLUES",
 		"artist": "JOHNNY MADSEN",
 		"price": "25,00 kr.",
@@ -37343,20 +37306,6 @@
 		}
 	},
 	{
-		"albumTitle": "A BIGGER BANG",
-		"artist": "THE ROLLING STONES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/a_bigger_bang.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6d1a87c3-9e11-36d8-8c41-3e11b974fde7",
-			"albumTitle": "A Bigger Bang",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BRIDGES TO BABYLON",
 		"artist": "THE ROLLING STONES",
 		"price": "10,00 kr.",
@@ -37422,20 +37371,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "7645ef59-6d8c-37fe-8467-d566d3cf5926",
 			"albumTitle": "Voodoo Lounge",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BLUE & LONESOME",
-		"artist": "ROLLING STONES",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/blue_and_lonesome.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ab9b8aa8-d2bc-42cd-a36b-842f61de55f3",
-			"albumTitle": "Blue & Lonesome",
 			"artist": "The Rolling Stones",
 			"type": "Album"
 		}
@@ -47911,15 +47846,6 @@
 			"artist": "Watercress",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE BEST OF THE MILLENIUM COLLECTION",
-		"artist": "MUDDY WATERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/muddy_waters_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "AMUSED TO DEATH",
