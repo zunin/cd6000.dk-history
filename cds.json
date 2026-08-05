@@ -27852,20 +27852,6 @@
 		}
 	},
 	{
-		"albumTitle": "GIVE MY REGARDS TO BROAD STREET",
-		"artist": "PAUL McCARTNEY",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/give_my_regards.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "31b56849-19b8-3454-af3f-b72891f34ae4",
-			"albumTitle": "Give My Regards to Broad Street",
-			"artist": "Paul McCartney",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PIPES OF PEACE (lettere 'fugt-bulet ' cover)",
 		"artist": "PAUL McCARTNEY",
 		"price": "20,00 kr.",
