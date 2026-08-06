@@ -27689,6 +27689,34 @@
 		}
 	},
 	{
+		"albumTitle": "WHY WORRY",
+		"artist": "JOHN MAYALL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/why_worry.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "172c2e7b-3554-3070-99c7-7df7cfe76b82",
+			"albumTitle": "Road Show Blues",
+			"artist": "John Mayall",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "WAKE UP CALL",
+		"artist": "JOHN MAYALL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/wake_up_call.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "541793e0-d400-3c6e-b866-acb396103347",
+			"albumTitle": "Wake Up Call",
+			"artist": "John Mayall",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "CONTINUUM",
 		"artist": "JOHN MAYER",
 		"price": "10,00 kr.",
@@ -27822,6 +27850,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CHAOS & CREATION IN THE BACKYARD",
+		"artist": "PAUL McCARTNEY",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/chaos_and_creation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a12b1e53-3426-3510-866e-0650e98d5894",
+			"albumTitle": "Chaos and Creation in the Backyard",
+			"artist": "Paul McCartney",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "DRIVING RAIN",
@@ -27975,6 +28017,15 @@
 			"artist": "Reba McEntire",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "A WINTER GARDEN",
+		"artist": "LOREENA McKENNITT",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/a_winter_garden.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE BOOK OF SECRETS",
@@ -28275,6 +28326,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "MEAT LOAF",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/meat_loaf_collection_bmg.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9b7d7148-7ac9-4fb6-b651-eff82ea13daf",
+			"albumTitle": "The Collection",
+			"artist": "Meat Loaf",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE MEAT LOAF COLLECTION",
 		"artist": "MEAT LOAF",
 		"price": "10,00 kr.",
@@ -28445,6 +28510,15 @@
 			"artist": "John Mellencamp",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "UH-HUH !",
+		"artist": "JOHN COUGAR MELLENCAMP",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/uh-huh.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "FACE THE MUSIC",
@@ -28684,6 +28758,34 @@
 		}
 	},
 	{
+		"albumTitle": "LOAD",
+		"artist": "METALLICA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/metallica_load.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e389b7df-862d-3d91-a612-acca150f6e71",
+			"albumTitle": "Load",
+			"artist": "Metallica",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "RELOAD",
+		"artist": "METALLICA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/reload.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8fd32554-02a7-3788-a761-7012e0e75e55",
+			"albumTitle": "Reload",
+			"artist": "Metallica",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ST. ANGER",
 		"artist": "METALLICA",
 		"price": "10,00 kr.",
@@ -28754,10 +28856,28 @@
 		}
 	},
 	{
+		"albumTitle": "ROARING THROUGH EUROPE (2CD)(unofficial)",
+		"artist": "METALLICA",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/roaring_through_europe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ST. ANGER (CD+DVD)",
 		"artist": "METALLICA",
 		"price": "15,00 kr.",
 		"origin": "http://cd6000.dk/st_anger_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE METAL MASTERS (unofficial)",
+		"artist": "METALLICA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_metal_masters.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -29276,6 +29396,20 @@
 		}
 	},
 	{
+		"albumTitle": "KYLIE",
+		"artist": "KYLIE MINOGUE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/kylie.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "665372d2-de13-3ef1-886d-be41fd229ade",
+			"albumTitle": "Kylie Minogue",
+			"artist": "Kylie Minogue",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIGHT YEARS",
 		"artist": "KYLIE MONOGUE",
 		"price": "10,00 kr.",
@@ -29551,6 +29685,15 @@
 		}
 	},
 	{
+		"albumTitle": "LIVET SKAL JO LEVES, VIL DU HA' EN SKRÅ?",
+		"artist": "JOHN MOGENSEN",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/livet_skal_jo_leves.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "JOHN MOGENSEN (6CD)",
 		"artist": "JOHN MOGENSEN",
 		"price": "40,00 kr.",
@@ -29783,6 +29926,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HEJ HVOR DET SVINGER",
+		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/hej_hvor_det_svinger.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0009353a-373d-4bf7-859d-7ebdc2696dcc",
+			"albumTitle": "Hej hvor det svinger",
+			"artist": "Monrad & Rislund",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PLATHEDER PÅ ET FUNDAMENT AF SJOFELHED",
 		"artist": "MONRAD & RISLUND",
 		"price": "20,00 kr.",
@@ -29836,6 +29993,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "THE MOODY BLUES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/moody_blues_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f80021f2-431e-4837-8983-76947f668ba3",
+			"albumTitle": "Greatest Hits",
+			"artist": "The Moody Blues",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "CLASSIC",
@@ -31361,6 +31532,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "NEWS",
+		"artist": "NEWS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/news_news.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "11ba711e-f753-4b48-bac1-0ccdaba5fda1",
+			"albumTitle": "News",
+			"artist": "News",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NEWS MASTER SERIE",
 		"artist": "NEWS",
 		"price": "20,00 kr.",
@@ -31581,6 +31766,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "HOMMAGE ONCE UPON A TIME",
+		"artist": "N.H.Ø.P./MIKKELBORG",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/hommage.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "79debf54-cdbd-4ad8-afe6-62ea467691a5",
+			"albumTitle": "HOMMAGE ONCE UPON A TIME",
+			"artist": "Jeff Ogdon Jr.",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "HANG ON TO A DREAM",
@@ -31824,6 +32023,15 @@
 		"artist": "NIK & JAY",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/nik_og_jay_stoerste_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "ENGLE ELLER DÆMONER (2CD)",
+		"artist": "NIK & JAY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/engle_eller_daemoner.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -32593,6 +32801,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE MASTERPLAN",
+		"artist": "OASIS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_masterplan.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3d79dc76-7b02-3510-b12b-5061f459f8ac",
+			"albumTitle": "The Masterplan",
+			"artist": "Oasis",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PHILHARMONICS",
 		"artist": "AGNES OBEL",
 		"price": "10,00 kr.",
@@ -32820,6 +33042,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "8f4719d7-2d2c-3362-8cad-557fde1cca7c",
 			"albumTitle": "Sange for rygere",
+			"artist": "Allan Olsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "GAJO",
+		"artist": "ALLAN OLSEN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/gajo.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5a96d779-297c-397b-8a4e-9986aadb9407",
+			"albumTitle": "Gajo",
 			"artist": "Allan Olsen",
 			"type": "Album"
 		}
@@ -33236,6 +33472,15 @@
 			"artist": "Kelly Osbourne",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL (2CD)",
+		"artist": "OZZY OSBOURNE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/ozzy_essential.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "SCHYSST & POPULÄR",
@@ -34234,6 +34479,20 @@
 		}
 	},
 	{
+		"albumTitle": "DARK SIDE OF THE MOON",
+		"artist": "PINK FLOYD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dark_side_of_the_moon.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+			"albumTitle": "The Dark Side of the Moon",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ECHOES, THE BEST OF (2CD)",
 		"artist": "PINK FLOYD",
 		"price": "20,00 kr.",
@@ -34308,6 +34567,20 @@
 		}
 	},
 	{
+		"albumTitle": "BAND OF JOY",
+		"artist": "ROBERT PLANT",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/band_of_joy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "39cd1170-92b9-44e1-9474-866fb2aeabc5",
+			"albumTitle": "Band of Joy",
+			"artist": "Robert Plant",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "RAISING SAND",
 		"artist": "ROBERT PLANT & ALISON KRAUS",
 		"price": "20,00 kr.",
@@ -34334,6 +34607,15 @@
 			"artist": "Pockets",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "DET' BARE ORD",
+		"artist": "POETEN & LILLEBROR",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/det_bare_ord.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DET SIDSTE ORD",
@@ -34719,6 +35001,15 @@
 		"artist": "ELVIS PRESLEY",
 		"price": "75,00 kr.",
 		"origin": "https://cd6000.dk/the_camden_collection_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE ESSENTIAL (2CD)",
+		"artist": "ELVIS PRESLEY",
+		"price": "25,00 kr.",
+		"origin": "https://cd6000.dk/elvis_essential_sony.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
