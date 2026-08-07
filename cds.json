@@ -987,20 +987,6 @@
 		}
 	},
 	{
-		"albumTitle": "LYSE NÆTTER",
-		"artist": "ALBERTE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/lyse_naetter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "38546600-cedb-3e12-91e1-0c5dc5805af9",
-			"albumTitle": "Lyse nætter",
-			"artist": "Alberte",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SVENSKE SPOR",
 		"artist": "ALBERTE",
 		"price": "10,00 kr.",
@@ -2061,20 +2047,6 @@
 			"releaseGroupId": "6ad9da45-76a5-32dc-9de4-250ae13fdac7",
 			"albumTitle": "Popfiction",
 			"artist": "Back to Back",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "HIT HOME",
-		"artist": "BACKSEAT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hit_home.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "747da30b-e7ba-36e8-9ba2-c52becdc5f19",
-			"albumTitle": "Hit Home",
-			"artist": "Backseat",
 			"type": "Album"
 		}
 	},
@@ -10809,20 +10781,6 @@
 		}
 	},
 	{
-		"albumTitle": "SVANTES VISER",
-		"artist": "POUL DISSING & BENNY ANDERSEN",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/svantes_viser_elap.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "40e4fb9b-ce58-401a-b6a5-b14e90bb0e8a",
-			"albumTitle": "Svantes viser",
-			"artist": "Benny Andersen, Povl Dissing",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "LIVE - FOR FULD UDBLÆSNING (CD+DVD)",
 		"artist": "POUL DISSING & BENNY ANDERSEN",
 		"price": "25,00 kr.",
@@ -15792,15 +15750,6 @@
 			"artist": "Gipsy Kings",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "MED STIV KULING OG HÅRET TILBAGE",
-		"artist": "DE GLADE SØMÆND",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/med_stiv_kuling.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GLASVEGAS",
@@ -22891,15 +22840,6 @@
 		}
 	},
 	{
-		"albumTitle": "SMÅ SKRIDT",
-		"artist": "KONTEKST",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/smaa_skridt.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "GET DOWN ON IT THE VERY BEST OF",
 		"artist": "KOOL & THE GANG",
 		"price": "10,00 kr.",
@@ -23556,15 +23496,6 @@
 			"artist": "Laban",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "LABAN'S BEDSTE (NY i folie)",
-		"artist": "LABAN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/labans_bedste_ny.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "BORN THIS WAY",
@@ -29917,15 +29848,6 @@
 		}
 	},
 	{
-		"albumTitle": "DET STORE TRIUMFTOG 30 ÅRS JUBILÆUM (5CD+1DVD) 2004",
-		"artist": "MONRAD & RISLUND CMC BESTIL NR. 25769",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/det_store_triumftog.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HEJ HVOR DET SVINGER",
 		"artist": "MONRAD & RISLUND (TOTALPETROLEUM)",
 		"price": "20,00 kr.",
@@ -29935,20 +29857,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0009353a-373d-4bf7-859d-7ebdc2696dcc",
 			"albumTitle": "Hej hvor det svinger",
-			"artist": "Monrad & Rislund",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "PLATHEDER PÅ ET FUNDAMENT AF SJOFELHED",
-		"artist": "MONRAD & RISLUND",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/platheder.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "20207281-07e9-43d3-b921-42ac52d97e5c",
-			"albumTitle": "Platheder på et fundament af Sjofelhed",
 			"artist": "Monrad & Rislund",
 			"type": "Album"
 		}
@@ -40458,20 +40366,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SYMFO-NI-DUA",
-		"artist": "SHU-BI-DUA & DR RADIOUNDERHOLDNINGS- ORKESTRET",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/symfo-ni-dua.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a6df0168-c37e-384f-ad97-fb4820f68da1",
-			"albumTitle": "Symfo•ni•dua",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "1000 FORMS OF FEAR",
 		"artist": "SIA",
 		"price": "10,00 kr.",
@@ -41086,15 +40980,6 @@
 			"artist": "Sir Henry & His Butlers",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THE COLLECTION",
-		"artist": "SIR HENRY & HIS BUTLERS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/sir_henry_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GOLD",
@@ -44252,15 +44137,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "DE ALLERSTØRSTE SANGE (3CD)",
-		"artist": "LIS SØRENSEN",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/de_allerstoerste_sange.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE PROMISE",
 		"artist": "T'PAU",
 		"price": "10,00 kr.",
@@ -45952,15 +45828,6 @@
 		}
 	},
 	{
-		"albumTitle": "HITS (2CD+DVD)",
-		"artist": "TV-2",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/tv2_hits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "VERDEN ER VIDUNDERLIG",
 		"artist": "TV-2",
 		"price": "20,00 kr.",
@@ -46209,15 +46076,6 @@
 			"artist": "Tørfisk",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "TIDENS HERRER",
-		"artist": "TØRFISK",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/tidens_herrer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "TRETTEN TRAVERE",
@@ -52513,15 +52371,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEN STORE ÅH ABE BOX (7CD) 2006",
-		"artist": "DIVERSE KUNSTNERE SONY BMG BESTIL NR. 26037",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/aah_abe_box.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "100 80'er HITS (5CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
@@ -52544,42 +52393,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/100_summer_hits_rids.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "200 DANSKTOPPERE (9CD boks)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/200_dansktoppere.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "200 PARTYHITS (9CD boks)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/200_partyhits.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "200 SOLSTIK (9CD boks)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "https://cd6000.dk/200_solstik.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "ALLETIDERS FOR JULD JUL (3CD) (mangler inlay - derfor nedsat pris)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/alletiders_for_fuld_jul.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -52734,24 +52547,6 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/folkemunde_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FOR FULD MUSIK 1 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/for_fuld_musik_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FOR FULD MUSIK 2 (3CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/for_fuld_musik_2.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
