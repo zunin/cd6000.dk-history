@@ -14482,20 +14482,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEJA VU ALL OVER AGAIN",
-		"artist": "JOHN FOGERTY",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/deja_vu_all_over_again.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "524966af-eb2d-3f70-ba01-b93a79822332",
-			"albumTitle": "Deja Vu All Over Again",
-			"artist": "John Fogerty",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BLUE RIDGE RANGERS RIDES AGAIN (CD+DVD)",
 		"artist": "JOHN FOGERTY",
 		"price": "20,00 kr.",
