@@ -46374,6 +46374,15 @@
 		}
 	},
 	{
+		"albumTitle": "ART IF ICIAL HOR I ZON (papcover)",
+		"artist": "U2",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/artificial_horizon.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "HOW TO DISMANTLE AN ATOMIC BOMB (CD+DVD)",
 		"artist": "U2",
 		"price": "20,00 kr.",
@@ -46430,6 +46439,34 @@
 			"releaseGroupId": "e5092f30-71e6-46b1-8c4b-4c4bfb172429",
 			"albumTitle": "[untitled]",
 			"artist": "Ben UFO",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "U vs Y",
+		"artist": "UFO YEPHA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/u_vs_y.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a3e24c26-d9e7-3bbb-8e1f-73bff59e8775",
+			"albumTitle": "U vs. Y",
+			"artist": "UFO Yepha",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "AMERICA'S LEAST WANTED",
+		"artist": "UGLY KID JOE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/americas_least_wanted.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "945ca7cf-e99b-3d5f-9643-ffc3b3b2bb54",
+			"albumTitle": "America’s Least Wanted",
+			"artist": "Ugly Kid Joe",
 			"type": "Album"
 		}
 	},
@@ -46895,6 +46932,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE SKY IS CRYING",
+		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_sky_is_crying.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e95cdadf-c7ef-39eb-a32a-6e880a0e7a49",
+			"albumTitle": "The Sky is Crying",
+			"artist": "Stevie Ray Vaughan and Double Trouble",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "VAYA CON DIOS",
@@ -47475,6 +47526,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DANCING WITH THE LION",
+		"artist": "ANDREAS WOLLENWEIDER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dancing_with_the_lion.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dd829851-fb22-3ec4-8358-5dc051893b1a",
+			"albumTitle": "Dancing With the Lion",
+			"artist": "Andreas Vollenweider",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "DOWN TO THE MOON",
