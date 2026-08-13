@@ -27820,6 +27820,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "WINGS GREATEST",
+		"artist": "WINGS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/wings_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fa174a7f-cbe4-31f0-b441-72be19e5d6a9",
+			"albumTitle": "Wings Greatest",
+			"artist": "Wings",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BLINK OF AN EYE",
 		"artist": "MICHAEL McDONALD",
 		"price": "10,00 kr.",
@@ -32885,6 +32899,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE ORCHESTRAL TUBULAR BELLS",
+		"artist": "MIKE OLDFIELD",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_orchestral_tubular_bells.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "dd251688-bb41-3ba8-9a37-a7fe252ada3c",
+			"albumTitle": "The Orchestral Tubular Bells",
+			"artist": "Mike Oldfield",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "VOYAGER",
 		"artist": "MIKE OLDFIELD",
 		"price": "10,00 kr.",
@@ -35061,6 +35089,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "LOVE SYMBOL",
+		"artist": "PRINCE & THE NEW POWER GENERATION",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/love_symbol.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "764f7332-b637-3a71-ae3c-934cdfff3b40",
+			"albumTitle": "[Love Symbol]",
+			"artist": "Prince, The New Power Generation",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LOVESEXY",
 		"artist": "PRINCE",
 		"price": "10,00 kr.",
@@ -35071,6 +35113,20 @@
 			"releaseGroupId": "905760be-b337-376d-94ce-64f22df89aed",
 			"albumTitle": "Lovesexy",
 			"artist": "Prince",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PARADE",
+		"artist": "PRINCE & THE REVOLUTION",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/parade.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8c20e5ba-1418-393e-a946-b6525fa3a94a",
+			"albumTitle": "Parade",
+			"artist": "Prince, The Revolution",
 			"type": "Album"
 		}
 	},
@@ -35135,6 +35191,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE HITS - THE B-SIDES (3CD)",
+		"artist": "PRINCE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/the_hits_the_b.sides.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ULTIMATE PRINCE (2CD)",
 		"artist": "PRINCE",
 		"price": "20,00 kr.",
@@ -35177,6 +35242,20 @@
 			"releaseGroupId": "c29ef593-2385-4357-ab12-3f3674681ab1",
 			"albumTitle": "Hit the Highway",
 			"artist": "The Proclaimers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE PRODIGAL STRANGER",
+		"artist": "PROCOL HARUM",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_prodigal_stranger.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0f4dcff8-288f-374f-b980-b1d4d3d36c3e",
+			"albumTitle": "The Prodigal Stranger",
+			"artist": "Procol Harum",
 			"type": "Album"
 		}
 	},
@@ -35717,6 +35796,29 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "RECKONING (THE I.R.S YEARS VINTAGE 1987)",
+		"artist": "R.E.M.",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/reckoning_irs.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SINGLES COLLECTED",
+		"artist": "R.E.M.",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/rem_singles_collected.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7b9f997a-2be6-32cb-8272-6efa8b6830d7",
+			"albumTitle": "Singles Collected",
+			"artist": "R.E.M.",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "SAY WOW! GREATEST AND LATEST",
@@ -37289,6 +37391,15 @@
 		}
 	},
 	{
+		"albumTitle": "BODY TALK PT. 3",
+		"artist": "ROBYN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/body_talk_pt3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ROCAZINO's BEDSTE",
 		"artist": "ROCAZINO",
 		"price": "10,00 kr.",
@@ -37561,6 +37672,20 @@
 		}
 	},
 	{
+		"albumTitle": "EXILE ON MAIN STREET",
+		"artist": "THE ROLLING STONES",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/exile_on_main_street.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2beb05b7-e789-427c-98ce-99b9a62f9499",
+			"albumTitle": "Sticky Fingers / Exile on Main Street",
+			"artist": "The Rolling Stones",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "FORTY LICKS (2CD)",
 		"artist": "THE ROLLING STONES",
 		"price": "20,00 kr.",
@@ -37713,6 +37838,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "de1e5699-ec18-345d-807f-a1fecf1f46bd",
 			"albumTitle": "Why Do Fools Fall in Love",
+			"artist": "Diana Ross",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DIANA EXTENDED",
+		"artist": "DIANA ROSS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/diana_extended.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b6abbbf6-d7ae-3abb-90ef-724765107fcb",
+			"albumTitle": "Diana Extended: The Remixes",
 			"artist": "Diana Ross",
 			"type": "Album"
 		}
@@ -39034,6 +39173,20 @@
 		}
 	},
 	{
+		"albumTitle": "DØDENS TRIUMF (DIGITAL REMASTERED)",
+		"artist": "SAVAGE ROSE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/doedens_triumf_rem.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "909d69b2-9c26-4dc4-a5af-662aefb1c92e",
+			"albumTitle": "Dr Ragtime & Pals/Self-Titled",
+			"artist": "Jack Rose",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE SAVAGE ROSE",
 		"artist": "THE SAVAGE ROSE",
 		"price": "30,00 kr.",
@@ -39492,6 +39645,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "SEBASTIAN's SKATTEØEN (DELUXE 25 ÅRS JUBILÆUMS-UDGAVE (CD+DVD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/skatteoeen_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "TRUBADURENS AFTEN (CD+DVD)",
 		"artist": "SEBASTIAN",
 		"price": "40,00 kr.",
@@ -39520,6 +39682,20 @@
 			"releaseGroupId": "483da0b4-6815-3311-af3e-c26e26e298d5",
 			"albumTitle": "Love Everlasting: The Very Best of Jon Lucien",
 			"artist": "Jon Lucien",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "DAWN OF A NEW CENTURY",
+		"artist": "SECRET GARDEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dawn_of_a_new_century.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6ffb20a5-74b5-30e9-bd4d-9a349fecfd7d",
+			"albumTitle": "Dawn of a New Century",
+			"artist": "Secret Garden",
 			"type": "Album"
 		}
 	},
@@ -42582,6 +42758,20 @@
 		}
 	},
 	{
+		"albumTitle": "CLASSIC",
+		"artist": "STATUS QUO",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/status_quo_classic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "12a8fa2b-8a02-4a38-ad67-325c8e411c4d",
+			"albumTitle": "Classic",
+			"artist": "Status Quo",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "IN THE ARMY NOW",
 		"artist": "STATUS QUO",
 		"price": "15,00 kr.",
@@ -43216,6 +43406,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "0046f7ec-acbe-3adf-a91a-5fdadf377ef4",
 			"albumTitle": "The Soul Sessions",
+			"artist": "Joss Stone",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE SOUL SESSIONS VOL. 2",
+		"artist": "JOSS STONE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_soul_sessions_vol2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6893160c-ea24-48ff-9557-a72c7b1d7d77",
+			"albumTitle": "The Soul Sessions, Vol 2",
 			"artist": "Joss Stone",
 			"type": "Album"
 		}
@@ -44183,6 +44387,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "41e694dc-8bba-393b-9275-186224d87fce",
 			"albumTitle": "Natural History: The Very Best of Talk Talk",
+			"artist": "Talk Talk",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF",
+		"artist": "TALK TALK",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/talk_talk_very_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4a712250-fdfe-392f-a395-806b645e2f53",
+			"albumTitle": "The Very Best of Talk Talk",
 			"artist": "Talk Talk",
 			"type": "Album"
 		}
@@ -45717,6 +45935,20 @@
 		}
 	},
 	{
+		"albumTitle": "SHOWTIME",
+		"artist": "TV-2",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/showtime.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "39160c47-db09-41df-b2e1-5cfe89fc3344",
+			"albumTitle": "Showtime",
+			"artist": "TV-2",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SLARAFFENLAND",
 		"artist": "TV-2",
 		"price": "10,00 kr.",
@@ -46211,6 +46443,15 @@
 		"artist": "TØSEDRENGENE",
 		"price": "30,00 kr.",
 		"origin": "http://cd6000.dk/sig_du_ka_li_mig_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TIDEN ER KLOG",
+		"artist": "TØSEDRENGENE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/tiden_er_klog.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -48964,20 +49205,6 @@
 			"releaseGroupId": "6cb8c7cb-4285-4b6e-9431-f3fc0ddeeb8f",
 			"albumTitle": "Mig og Charly",
 			"artist": "Kasper Winding",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "WINGS GREATEST",
-		"artist": "WINGS",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/wings_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fa174a7f-cbe4-31f0-b441-72be19e5d6a9",
-			"albumTitle": "Wings Greatest",
-			"artist": "Wings",
 			"type": "Album"
 		}
 	},
