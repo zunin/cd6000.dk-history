@@ -15724,29 +15724,6 @@
 		}
 	},
 	{
-		"albumTitle": "DEN BLÅ HUND",
-		"artist": "GNAGS",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/den_blaa_hund.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0fdd617e-6db9-36c8-9113-cf2d325a6c23",
-			"albumTitle": "Den blå hund",
-			"artist": "Gnags",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "GNAGS GREATEST Den Dejligste Plade i 100 År",
-		"artist": "GNAGS",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/gnags_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "EN UNDERLIG FISK",
 		"artist": "GNAGS",
 		"price": "20,00 kr.",
@@ -25180,6 +25157,20 @@
 		}
 	},
 	{
+		"albumTitle": "BARNDOMMENS GADE",
+		"artist": "ANNE LINNET",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/barndommens_gade.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "91b8200d-9433-3cd4-966b-477f3bd1c3c9",
+			"albumTitle": "Barndommens Gade",
+			"artist": "Anne Linnet",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "DET' SÅ DANSK",
 		"artist": "ANNE LINNET",
 		"price": "10,00 kr.",
@@ -25375,20 +25366,6 @@
 			"releaseGroupId": "5397975a-49c9-37bd-a179-018896a5d46d",
 			"albumTitle": "En elsker",
 			"artist": "Anne Linnet, Marquis de Sade",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "KRIG OG KÆRLIGHED",
-		"artist": "LINNET/SALOMONSEN",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/krig_og_kaerlighed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "266e20f7-c459-3145-bc37-cf63581039b6",
-			"albumTitle": "Krig Og Kærlighed",
-			"artist": "Linnet-Salomonsen",
 			"type": "Album"
 		}
 	},
@@ -26373,15 +26350,6 @@
 			"artist": "Johnny Madsen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "REGNMANDEN (CD+DVD)",
-		"artist": "JOHNNY MADSEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/regnmanden.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "REGNMANDEN (CD+DVD) (OBS - mange overfladeridser på DVD)",
@@ -32686,15 +32654,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "JØWT (signeret..?)",
-		"artist": "ALLAN OLSEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/joewt_s.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LUN LUFT OVER DANMARK",
 		"artist": "ALLAN OLSEN",
 		"price": "25,00 kr.",
@@ -32749,15 +32708,6 @@
 			"artist": "Allan Olsen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "SOLO LIVE VOL. 1 (2CD)",
-		"artist": "ALLAN OLSEN",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/allan_olsen_solo_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "RYGTER FRA RANDOMRÅDERNE LIVE (2CD)",
@@ -39182,15 +39132,6 @@
 		}
 	},
 	{
-		"albumTitle": "BERT BRECHT's DET GODE MENNESKE FRA SEZUAN",
-		"artist": "DIVERSE KUNSTNERE SEBASTIAN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/det_gode_menneske.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "MIRAKLERNES TID",
 		"artist": "SEBASTIAN",
 		"price": "15,00 kr.",
@@ -39347,15 +39288,6 @@
 		"artist": "RASMUS SEEBACH",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/mer_end_kaerlighed_2.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "FOR FULD MUSIK DET BEDSTE MED",
-		"artist": "TOMMY SEEBACH",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/tommy_seebach_fuld_musik.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -40106,24 +40038,6 @@
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/shubilaeum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "40 ÅRS SHU-BI-LÆUM (2CD) DE 40 STØRSTE HITS",
-		"artist": "SHU-BI-DUA",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/40_aars_shubilaeum.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "RAP JUL & GODT NYTÅR (NY i folie)",
-		"artist": "SHU-BI-DUA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/rap_jul.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -45605,20 +45519,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "DET GODE LIV",
-		"artist": "TV-2",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/det_gode_liv.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7fc582b1-8058-4b1d-aef0-6b323366e366",
-			"albumTitle": "Det gode liv",
-			"artist": "TV-2",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "FANTASTISKE TOYOTA",
 		"artist": "TV-2",
 		"price": "20,00 kr.",
@@ -45846,20 +45746,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SILDETUR",
-		"artist": "TØRFISK",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/sildetur.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "02a4040d-7052-4878-9dfb-b2035064c04a",
-			"albumTitle": "Sildetur",
-			"artist": "Tørfisk",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "STILL GOING STRONG",
 		"artist": "TØRFISK",
 		"price": "30,00 kr.",
@@ -45892,20 +45778,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "4abe3fe5-22c6-3126-98b9-790547cc47fc",
 			"albumTitle": "Tretten Travere",
-			"artist": "Tørfisk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "VORES FAVORITTER",
-		"artist": "TØRFISK",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/toerfisk_vores_favoritter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "18d43c67-e556-3a6f-bbfc-fead59d44a32",
-			"albumTitle": "Vores favoritter",
 			"artist": "Tørfisk",
 			"type": "Album"
 		}
@@ -51979,15 +51851,6 @@
 		}
 	},
 	{
-		"albumTitle": "VI SKAL ALLE GERNE HA' MERE PLAYER MIX VOL. 1",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/vi_skal_alle_gerne.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "VÆRSGO' 2",
 		"artist": "diverse kunstnere",
 		"price": "10,00 kr.",
@@ -52203,28 +52066,10 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "DANSK JUL (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dansk_jul.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "DANSKTOP GENNEM 40 ÅR (3CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/dansktop_gennem_40_aar.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "DEJLIGE DANSKE SLAGERE (2CD)",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dejlige_danske_slagere.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
