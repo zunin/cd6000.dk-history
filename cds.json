@@ -121,6 +121,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE NAME OF THE GAME",
+		"artist": "ABBA",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_name_of_the_game.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b2ccab1d-6902-3227-8ef1-8102c4c6b297",
+			"albumTitle": "The Name of the Game",
+			"artist": "ABBA",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WATERLOO",
 		"artist": "ABBA",
 		"price": "10,00 kr.",
@@ -2985,6 +2999,20 @@
 		}
 	},
 	{
+		"albumTitle": "BEST OF",
+		"artist": "BAY CITY ROLLERS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/bay_city_rollers_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b8a551ad-c96d-4cbe-8505-eda8c5e9afe8",
+			"albumTitle": "Give a Little Love: The Best Of",
+			"artist": "Bay City Rollers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "20 GOLDEN GREATS",
 		"artist": "THE BEACH BOYS",
 		"price": "10,00 kr.",
@@ -3309,6 +3337,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "eb453cb9-6643-318d-a578-8216980ee70a",
 			"albumTitle": "E·S·P",
+			"artist": "Bee Gees",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HIGH CIVILIZATION",
+		"artist": "BEE GEES",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/high_civilization.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "44634de0-0340-33de-ab01-30ace098332d",
+			"albumTitle": "High Civilization",
 			"artist": "Bee Gees",
 			"type": "Album"
 		}
@@ -5065,6 +5107,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HEATHEN",
+		"artist": "DAVID BOWIE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/heathen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fed49206-4869-307d-9bfa-08109424cb73",
+			"albumTitle": "Heathen",
+			"artist": "David Bowie",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "REALITY",
 		"artist": "DAVID BOWIE",
 		"price": "20,00 kr.",
@@ -5690,6 +5746,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "GOODBYE AND HELLO",
+		"artist": "TIM BUCKLEY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/goodbye_and_hello.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2e569a55-d829-31c8-9016-0c9a56333288",
+			"albumTitle": "Goodbye and Hello",
+			"artist": "Tim Buckley",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "TIM BUCKLEY / GOODBYE & HELLO",
 		"artist": "TIM BUCKLEY",
 		"price": "20,00 kr.",
@@ -5741,6 +5811,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "6925fecf-3f69-4fc9-b435-7913673608bd",
 			"albumTitle": "Live: House of the Rising Sun",
+			"artist": "Eric Burdon",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SINGS THE ANIMALS' GREATEST HITS",
+		"artist": "ERIC BURDEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/sings_the_animals.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e96f6575-c83b-3180-8cae-a9ba7915bc18",
+			"albumTitle": "Eric Burdon Sings the Animals Greatest Hits",
 			"artist": "Eric Burdon",
 			"type": "Album"
 		}
@@ -6370,6 +6454,20 @@
 			"releaseGroupId": "8081c065-3ef3-3981-a90e-edc79c309492",
 			"albumTitle": "The Best of Hooker ’n Heat",
 			"artist": "Canned Heat, John Lee Hooker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "20 YEARS OF ROMANCE",
+		"artist": "CAPTAIN & TENILLE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/20_years_of_romance.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4b633e79-755e-3a47-aa48-d9a06d6f48d9",
+			"albumTitle": "Twenty Years of Romance",
+			"artist": "Captain & Tennille",
 			"type": "Album"
 		}
 	},
@@ -33026,15 +33124,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE ESSENTIAL (2CD)",
-		"artist": "OZZY OSBOURNE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/ozzy_essential.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "SCHYSST & POPULÄR",
 		"artist": "OSCAR",
 		"price": "10,00 kr.",
@@ -34003,20 +34092,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "4940b8aa-898b-3e60-9992-94e073bab6f6",
 			"albumTitle": "A Momentary Lapse of Reason",
-			"artist": "Pink Floyd",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DARK SIDE OF THE MOON",
-		"artist": "PINK FLOYD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/dark_side_of_the_moon.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
-			"albumTitle": "The Dark Side of the Moon",
 			"artist": "Pink Floyd",
 			"type": "Album"
 		}
@@ -39783,15 +39858,6 @@
 		}
 	},
 	{
-		"albumTitle": "1",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/shubidua_1.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "3",
 		"artist": "SHU-BI-DUA",
 		"price": "10,00 kr.",
@@ -39827,20 +39893,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "SHU-BI-DUA 6",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/shubidua_6.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bcedcebd-1572-37aa-bc69-bcf2486371e1",
-			"albumTitle": "Shu•bi•dua 6",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SHU-BI-DUA 7",
@@ -39880,20 +39932,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b9f48e33-1e1a-3dfd-b475-fd6a104e2ee2",
 			"albumTitle": "Shu•bi•dua 9",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SHU-BI-DUA 10",
-		"artist": "SHU-BI-DUA",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/shubidua_10.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d339a96-a7a8-3d9a-81c2-a54c02d343d9",
-			"albumTitle": "Shu•bi•dua 10",
 			"artist": "Shu•bi•dua",
 			"type": "Album"
 		}
@@ -45436,20 +45474,6 @@
 		}
 	},
 	{
-		"albumTitle": "SHOWTIME",
-		"artist": "TV-2",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/showtime.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "39160c47-db09-41df-b2e1-5cfe89fc3344",
-			"albumTitle": "Showtime",
-			"artist": "TV-2",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SLARAFFENLAND",
 		"artist": "TV-2",
 		"price": "10,00 kr.",
@@ -47247,6 +47271,24 @@
 		}
 	},
 	{
+		"albumTitle": "DOWN TO THE MOON DANCING WITH THE LION (unofficfial release)",
+		"artist": "ANDREAS VOLLENWEIDER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/down_to_dancing_with.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GREATEST HITS (unofficial release)",
+		"artist": "ANDREAS VOLLENWEIDER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/vollenweider_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "NÅR VI VASKER VINDUER",
 		"artist": "VOS",
 		"price": "20,00 kr.",
@@ -47503,6 +47545,20 @@
 		}
 	},
 	{
+		"albumTitle": "SWORDFISHTROMBONES",
+		"artist": "TOM WAITS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/swordfishtrombones.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c791b365-0400-3926-be67-d1d9c71fc37e",
+			"albumTitle": "Swordfishtrombones",
+			"artist": "Tom Waits",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "USED SONGS 1973-1980",
 		"artist": "TOM WAITS",
 		"price": "20,00 kr.",
@@ -47679,6 +47735,20 @@
 		}
 	},
 	{
+		"albumTitle": "HEARTBREAKER",
+		"artist": "DIONNE WARWICK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/heartbreaker.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "270019a2-10a9-3635-92ba-839a5f2cb895",
+			"albumTitle": "Heartbreaker",
+			"artist": "Dionne Warwick",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE ESSENTIAL COLLETION (2CD)",
 		"artist": "DIONNE WARWICK",
 		"price": "10,00 kr.",
@@ -47753,6 +47823,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLACK MARKET",
+		"artist": "WEATHER REPORT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/black_market.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7db657be-44b2-38ea-9296-663c5446096d",
+			"albumTitle": "Black Market",
+			"artist": "Weather Report",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "OVATION THE BEST OF",
 		"artist": "AMDREW LLOYD WEBBER",
 		"price": "10,00 kr.",
@@ -47760,6 +47844,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TRUE MEANINGS",
+		"artist": "PAUL WELLER",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/true_meanings.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e8ea0b6c-7dbb-4561-9a7a-ebbc6fc0a0f3",
+			"albumTitle": "True Meanings",
+			"artist": "Paul Weller",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "ARE YOU MY BABY",
@@ -48368,6 +48466,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "WHO'S NEXT (unofficial release)",
+		"artist": "THE WHO",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/whos_next.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "WIRE & GLASS SIX SONGS FROM A MINI OPERA",
 		"artist": "THE WHO",
 		"price": "20,00 kr.",
@@ -48664,6 +48771,20 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "JOHNNY WINTER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/johnny_winter_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b3cf767d-cc51-387e-9f52-2d00700bf4bb",
+			"albumTitle": "The Best of Johnny Winter",
+			"artist": "Johnny Winter",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "REFUGEES OF THE HEART",
 		"artist": "STEVE WINWOOD",
 		"price": "10,00 kr.",
@@ -48687,6 +48808,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1f5e796c-6a7f-370f-b32a-d0d24a68015f",
 			"albumTitle": "Roll With It",
+			"artist": "Steve Winwood",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "JUNCTION SEVEN",
+		"artist": "STEVIE WINWOOD",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/junction_seven.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "34fa14d2-ac50-3e9e-8672-03c19ba17ccb",
+			"albumTitle": "Junction Seven",
 			"artist": "Steve Winwood",
 			"type": "Album"
 		}
@@ -48766,6 +48901,15 @@
 		}
 	},
 	{
+		"albumTitle": "PICK OF THE LITTER THE BEST OF 1991-1996",
+		"artist": "WOLFSTONE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/pick_of_the_litter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "YEAR OF THE DOG",
 		"artist": "WOLFSTONE",
 		"price": "15,00 kr.",
@@ -48843,6 +48987,15 @@
 			"artist": "Stevie Wonder",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "GRAND COLLECTION (unofficial)",
+		"artist": "STEVIE WONDER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/stevie_wonder_grand_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "TALKING BOOK",
@@ -49328,6 +49481,34 @@
 		}
 	},
 	{
+		"albumTitle": "WHAT DOES FISH IS",
+		"artist": "ZAPP ZAPP",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/what_does_fish_is.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "af8704db-3f31-381c-a1f2-0fa9e034c6bf",
+			"albumTitle": "What Does Fish Is.. ?",
+			"artist": "Zapp Zapp",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "YOU BETTER BELIEVE",
+		"artist": "ZAPP ZAPP",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/you_better_believe.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d3949457-8725-3b99-96f2-34cd566facdf",
+			"albumTitle": "You Better Believe",
+			"artist": "Zapp Zapp",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BURNT WEENY SANDWICH",
 		"artist": "FRANK ZAPPA & THE MOTHERS OF INVENTION",
 		"price": "40,00 kr.",
@@ -49405,20 +49586,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "WHAT DOES FISH IS",
-		"artist": "ZAPP ZAPP",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/what_does_fish_is.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "af8704db-3f31-381c-a1f2-0fa9e034c6bf",
-			"albumTitle": "What Does Fish Is.. ?",
-			"artist": "Zapp Zapp",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HAPPY FOOL",
@@ -49724,6 +49891,20 @@
 		}
 	},
 	{
+		"albumTitle": "CIRKLAR",
+		"artist": "CAJSA STINA ÅKERSTRÖM",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/cirklar.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3279669d-de02-3a07-8b42-e5caabfbdbab",
+			"albumTitle": "Cirklar",
+			"artist": "CajsaStina Åkerström",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "KLÄDD FÖR ATT GÅ",
 		"artist": "CAJSA STINA ÅKERSTRÖM",
 		"price": "10,00 kr.",
@@ -49848,6 +50029,15 @@
 			"artist": "2 x Kaj",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "DE BEDSTE SANGE",
+		"artist": "40 I FEBER",
+		"price": "50,00 kr.",
+		"origin": "http://cd6000.dk/40_i_feber_bedste.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "KAJ SYNGER POP",
@@ -52066,6 +52256,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "DANSKE ØREHÆNGERE (4CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/danske_oerehaengere4.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "DANSKTOP GENNEM 40 ÅR (3CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "25,00 kr.",
@@ -52142,6 +52341,15 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
 		"origin": "https://cd6000.dk/folkemunde_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "FOR FULD MUSIK 22",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/for_fuld_musik_22.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -52232,6 +52440,15 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/postkort_fra_livet.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TEATERKONCERT BOB DYLAN (2CD)",
+		"artist": "DIVERSE KUNSTNERE NIKOLAJ CEDERHOLM, BRDR. HELLEMANN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/teaterkoncert_bob_dylan.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
