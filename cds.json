@@ -46649,20 +46649,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "THE SKY IS CRYING",
-		"artist": "STEVIE RAY VAUGHAN & DOUBLE TROUBLE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/the_sky_is_crying.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e95cdadf-c7ef-39eb-a32a-6e880a0e7a49",
-			"albumTitle": "The Sky is Crying",
-			"artist": "Stevie Ray Vaughan and Double Trouble",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "VAYA CON DIOS",
 		"artist": "VAYA CON DIOS",
 		"price": "10,00 kr.",
@@ -48813,20 +48799,6 @@
 		}
 	},
 	{
-		"albumTitle": "JUNCTION SEVEN",
-		"artist": "STEVIE WINWOOD",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/junction_seven.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "34fa14d2-ac50-3e9e-8672-03c19ba17ccb",
-			"albumTitle": "Junction Seven",
-			"artist": "Steve Winwood",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REFUGEES OF THE HEART",
 		"artist": "STEVE WINWOOD",
 		"price": "10,00 kr.",
@@ -48899,15 +48871,6 @@
 			"artist": "Wolfstone",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "PICK OF THE LITTER THE BEST OF 1991-1996",
-		"artist": "WOLFSTONE",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/pick_of_the_litter.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "YEAR OF THE DOG",
