@@ -231,6 +231,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE DEFINITIVE COLLECTION (2CD)",
+		"artist": "ABBA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/abba_definitive.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "THE VISITORS (remastered)",
 		"artist": "ABBA",
 		"price": "20,00 kr.",
@@ -333,6 +342,20 @@
 		}
 	},
 	{
+		"albumTitle": "OBJECTION OVERRULED",
+		"artist": "ACCEPT",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/objection_overruled.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9334b1e1-84a3-30cb-9f4c-b6484b440461",
+			"albumTitle": "Objection Overruled",
+			"artist": "Accept",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "WHO MADE WHO (tidl. ejersignatur på frontcover)",
 		"artist": "AC/DC",
 		"price": "10,00 kr.",
@@ -356,6 +379,20 @@
 		}
 	},
 	{
+		"albumTitle": "BLACK ICE",
+		"artist": "AC/DC",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/black_ice.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "afca53c1-c5b3-3f91-8590-281b0aa12722",
+			"albumTitle": "Black Ice",
+			"artist": "AC/DC",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "LIVE",
 		"artist": "AC/DC",
 		"price": "15,00 kr.",
@@ -365,6 +402,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "0608c865-89be-32df-9473-7acbe734f850",
 			"albumTitle": "Live",
+			"artist": "AC/DC",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "STIFF UPPER LIP",
+		"artist": "AC/DC",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/stiff_upper_lip.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c8dcd7b4-d104-3559-bc18-a62f559e912e",
+			"albumTitle": "Stiff Upper Lip",
 			"artist": "AC/DC",
 			"type": "Album"
 		}
@@ -968,6 +1019,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "84db8c5f-17d7-37bf-8d69-38056841ac71",
 			"albumTitle": "Den forsvundne skat",
+			"artist": "Alberte",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LYSE NÆTTER",
+		"artist": "ALBERTE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/lyse_naetter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "38546600-cedb-3e12-91e1-0c5dc5805af9",
+			"albumTitle": "Lyse nætter",
 			"artist": "Alberte",
 			"type": "Album"
 		}
@@ -2999,20 +3064,6 @@
 		}
 	},
 	{
-		"albumTitle": "BEST OF",
-		"artist": "BAY CITY ROLLERS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bay_city_rollers_best.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b8a551ad-c96d-4cbe-8505-eda8c5e9afe8",
-			"albumTitle": "Give a Little Love: The Best Of",
-			"artist": "Bay City Rollers",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "20 GOLDEN GREATS",
 		"artist": "THE BEACH BOYS",
 		"price": "10,00 kr.",
@@ -4231,20 +4282,6 @@
 		}
 	},
 	{
-		"albumTitle": "REFLECTIONS (A RETROSPECTIVE)",
-		"artist": "MARY J. BLIGE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/blige_reflections.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "128b2d2a-e3e4-37a5-88ca-860c8741d2cb",
-			"albumTitle": "Reflections: A Retrospective",
-			"artist": "Mary J. Blige",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE BREAKTHROUGH",
 		"artist": "MARY J BLIGE",
 		"price": "10,00 kr.",
@@ -4361,6 +4398,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "2ad5be25-f658-4a21-beaa-37f3a3dc710d",
 			"albumTitle": "Illumination",
+			"artist": "Bliss",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "ROSEWATER",
+		"artist": "BLISS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/rosewater.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "34f517e4-e48f-4918-887b-0ad3cea8a2d5",
+			"albumTitle": "Rosewater",
 			"artist": "Bliss",
 			"type": "Album"
 		}
@@ -7071,6 +7122,20 @@
 		}
 	},
 	{
+		"albumTitle": "MATTERS OF THE HEART",
+		"artist": "TRACY CHAPMAN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/matters_of_the_heart.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9c1a6326-eb31-3a5e-904a-59709fb6471d",
+			"albumTitle": "Matters of the Heart",
+			"artist": "Tracy Chapman",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "NEW BEGINNING",
 		"artist": "TRACY CHAPMAN",
 		"price": "10,00 kr.",
@@ -7438,20 +7503,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "CLOSER",
-		"artist": "CHRISTOPHER",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/christopher_closer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "05da908c-1046-4498-af3e-aafc1428461b",
-			"albumTitle": "Closer",
-			"artist": "Christopher",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "TOLD YOU SO",
 		"artist": "CHRISTOPHER",
 		"price": "30,00 kr.",
@@ -7476,6 +7527,20 @@
 			"releaseGroupId": "a182d4d0-dc95-392a-84b7-e3754b306b5b",
 			"albumTitle": "Watching You",
 			"artist": "Christina Undhjem",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "LONG COLD WINTER",
+		"artist": "CINDERELLA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/long_cold_winter.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a960b51a-cf20-3284-a031-296d99dc11be",
+			"albumTitle": "Long Cold Winter",
+			"artist": "Cinderella",
 			"type": "Album"
 		}
 	},
@@ -7986,6 +8051,20 @@
 		}
 	},
 	{
+		"albumTitle": "SO LONG MARIANNE",
+		"artist": "LEONARD COHEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/so_long_marianne_columbia.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3b0662a8-6953-35f0-bda1-7acba73b4525",
+			"albumTitle": "So Long, Marianne",
+			"artist": "Leonard Cohen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "THE FUTURE",
 		"artist": "LEONARD COHEN",
 		"price": "10,00 kr.",
@@ -8438,6 +8517,48 @@
 		}
 	},
 	{
+		"albumTitle": "CLASSICKS",
+		"artist": "ALICE COOPER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/alice_cooper_classicks.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c52fe297-2752-3b99-9757-8730ea244a0d",
+			"albumTitle": "Alice Cooper Classicks",
+			"artist": "Alice Cooper",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HEY STOOPID",
+		"artist": "ALICE COOPER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/hey_stoopid.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9543c2d-2482-3f09-b552-18728b124eb3",
+			"albumTitle": "Hey Stoopid",
+			"artist": "Alice Cooper",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE LAST TEMPTATION",
+		"artist": "ALICE COOPER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_last_temptation.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "27b8892e-e772-3edf-8b3a-0aeddb455e96",
+			"albumTitle": "The Last Temptation",
+			"artist": "Alice Cooper",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "EXPRESSIONS",
 		"artist": "CHICK COREA",
 		"price": "20,00 kr.",
@@ -8634,6 +8755,20 @@
 			"releaseGroupId": "155b90ec-183a-399f-b686-585a41dc0b93",
 			"albumTitle": "Hard Candy",
 			"artist": "Counting Crows",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "COVERDALE PAGE",
+		"artist": "COVERDALE / PAGE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/coverdale_page.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ddcc4469-d08a-39a2-a263-f5f47771e9a8",
+			"albumTitle": "Coverdale · Page",
+			"artist": "David Coverdale, Jimmy Page",
 			"type": "Album"
 		}
 	},
@@ -9182,6 +9317,43 @@
 		"artist": "JAMIE CULLUM",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/twenty_something.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "CEREMONY",
+		"artist": "THE CULT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/cult_ceremony.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "98d413c3-00b1-3615-a99a-e40daa18c558",
+			"albumTitle": "Ceremony",
+			"artist": "The Cult",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PURE CULT THE SINGLES 1984-1995",
+		"artist": "THE CULT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/pure_cult.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b75939aa-368c-3efa-a506-969c12f8b1bd",
+			"albumTitle": "Pure Cult: The Singles 1984–1995",
+			"artist": "The Cult",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SONIC TEMPLE",
+		"artist": "THE CULT",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/sonic_temple.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -10531,20 +10703,6 @@
 		}
 	},
 	{
-		"albumTitle": "MONEY FOR NOTHING",
-		"artist": "DIRE STRAITS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/money_for_nothing.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8af3b92c-34b7-3182-b132-1b952637f7a6",
-			"albumTitle": "Money for Nothing",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "ON EVERY STREET (remastered)",
 		"artist": "DIRE STRAITS",
 		"price": "10,00 kr.",
@@ -10577,6 +10735,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "935dde7e-8390-39fa-8e0d-1350db96bc3f",
 			"albumTitle": "Love Over Gold",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "MONEY FOR NOTHING",
+		"artist": "DIRE STRAITS",
+		"price": "10,00 kr.",
+		"origin": "https://cd6000.dk/money_for_nothing.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8af3b92c-34b7-3182-b132-1b952637f7a6",
+			"albumTitle": "Money for Nothing",
 			"artist": "Dire Straits",
 			"type": "Album"
 		}
@@ -10799,6 +10971,20 @@
 			"releaseGroupId": "3f541664-2446-3e29-8865-0a2f2d172a1b",
 			"albumTitle": "Carmen",
 			"artist": "Georges Bizet, Leontyne Price, Franco Corelli, Robert Merrill, Mirella Freni, Wiener Philharmoniker, Herbert von Karajan",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "3",
+		"artist": "DISSING DISSING LAS & DISSING",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/dissing_dissing_las_3.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c6f4d972-415f-318f-b668-28f01b717622",
+			"albumTitle": "3",
+			"artist": "Dissing, Dissing, Las & Dissing",
 			"type": "Album"
 		}
 	},
@@ -12267,6 +12453,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "PART TWO",
+		"artist": "ELECTRIC LIGHT ORCHESTRA",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/elo_part_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "27ea5f79-4697-340d-8ef1-7ecb0b2f8e36",
+			"albumTitle": "Electric Light Orchestra Part Two",
+			"artist": "Electric Light Orchestra Part II",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "ELISABEDST",
 		"artist": "ELISABETH",
 		"price": "20,00 kr.",
@@ -13074,6 +13274,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE FINAL COUNTDOWN",
+		"artist": "EUROPE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_final_countdown.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8e0f0c00-7d5c-42e0-8a83-d8623729c52d",
+			"albumTitle": "The Final Countdown",
+			"artist": "Europe",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "PEACE",
@@ -14324,6 +14538,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE BEST OF",
+		"artist": "PETER GREEN'S FLEETWOOD MAC",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/peter_green_fleetwood_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "BEST OF FLIPPERS",
 		"artist": "FLIPPERS",
 		"price": "10,00 kr.",
@@ -14832,15 +15055,6 @@
 			"artist": "Freak Kitchen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "DEN STÄNDIGA RESAN",
-		"artist": "MARIA FREDRIKSSON",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/den_staendiga_resan.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE LAST IN LINE..",
@@ -23368,15 +23582,6 @@
 		}
 	},
 	{
-		"albumTitle": "... KEEP SMILING",
-		"artist": "LAID BACK",
-		"price": "30,00 kr.",
-		"origin": "http://cd6000.dk/keep_smiling.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LAIDEST GREATEST",
 		"artist": "LAID BACK",
 		"price": "30,00 kr.",
@@ -23386,20 +23591,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "02d3c7b9-f510-3847-9d98-4ae8d06d5409",
 			"albumTitle": "Laidest Greatest",
-			"artist": "Laid Back",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SEE YOU IN THE LOBBY",
-		"artist": "LAID BACK",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/see_you_in_the_lobby.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "12768602-bf91-33d8-912d-ee35d6f12404",
-			"albumTitle": "See You in the Lobby",
 			"artist": "Laid Back",
 			"type": "Album"
 		}
@@ -37043,15 +37234,6 @@
 			"artist": "Robyn",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "BODY TALK PT. 3",
-		"artist": "ROBYN",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/body_talk_pt3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ROCAZINO's BEDSTE",
@@ -51144,15 +51326,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HITS OF... 77-78",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/hits_of_77-78.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HITS OF.. 79-80",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
@@ -51162,28 +51335,10 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "HITS OF.. 81-82",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/hits_of_81-82.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "HITS OF.... 83-84",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/hits_of_83-84.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "HITS OF... 85-86",
-		"artist": "DIVERSE KUNSTNERE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/hits_of_85-86.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -51659,6 +51814,24 @@
 			"artist": "Various Artists",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "CHEF AID : THE SOUTH PARK ALBUM",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/south_park.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SINGS THE BLUES",
+		"artist": "THE SIMPSONS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_simpsons_sings.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "STAND BY ME 22 ORIGINAL SOUL HITS",
@@ -52137,6 +52310,20 @@
 		}
 	},
 	{
+		"albumTitle": "DEN STORE ÅH ABE BOX (7CD) 2006",
+		"artist": "DIVERSE KUNSTNERE SONY BMG BESTIL NR. 29100",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/aah_abe_box.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "49e0c6e4-c1aa-486b-b81e-1f6752aec05b",
+			"albumTitle": "Untitled (2012)",
+			"artist": "Brent Gutzeit",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "100 80'er HITS (5CD)",
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "30,00 kr.",
@@ -52232,6 +52419,15 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "25,00 kr.",
 		"origin": "https://cd6000.dk/dansktop_gennem_40_aar.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "DET MAN HØRER ER MAN SELV - HUMOR (2CD)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/det_man_hoerer.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -52403,6 +52599,15 @@
 		"artist": "DIVERSE KUNSTNERE",
 		"price": "20,00 kr.",
 		"origin": "https://cd6000.dk/postkort_fra_livet.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "SATURDAY NIGHT FEVER (digitally remastered)",
+		"artist": "DIVERSE KUNSTNERE",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/saturday_night_fever_rem.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
