@@ -5075,15 +5075,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "GREATEST HITS, THE ULTIMATE COLLECTION (2CD)",
-		"artist": "BON JOVI",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/bon_jovi_greatest_ultimate.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "LIVE & ALIVE VOL. 1 (unofficial) (different frontcover)",
 		"artist": "BON JOVI",
 		"price": "20,00 kr.",
@@ -7568,20 +7559,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0f6bc89c-5129-383b-991f-a1336b58216c",
 			"albumTitle": "Banba",
-			"artist": "Clannad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "CELTIC COLLECTION",
-		"artist": "CLANNAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/clannad_celtic.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5e7a6b10-1579-377f-b4be-068eb71fd979",
-			"albumTitle": "Celtic Collection",
 			"artist": "Clannad",
 			"type": "Album"
 		}
@@ -13274,20 +13251,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE FINAL COUNTDOWN",
-		"artist": "EUROPE",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/the_final_countdown.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8e0f0c00-7d5c-42e0-8a83-d8623729c52d",
-			"albumTitle": "The Final Countdown",
-			"artist": "Europe",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "PEACE",
@@ -20060,20 +20023,6 @@
 			"releaseGroupId": "ff3115e2-cc41-43cd-9d10-548991eb8aff",
 			"albumTitle": "The Collection",
 			"artist": "Phil Jones & The Unknown Blues",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "REVOLUTIONS",
-		"artist": "JEAN-MICHEL JARRE",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/revolutions.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2cc8fe44-5a30-39c9-aea1-9a85724c0c9d",
-			"albumTitle": "Revolutions",
-			"artist": "Jean‐Michel Jarre",
 			"type": "Album"
 		}
 	},
@@ -27974,20 +27923,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE MASK AND MIRROR",
-		"artist": "LOREENA McKENNITT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_mask_and_mirror.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "015a1ecf-c90c-3102-9760-ee1cc1c1a6d6",
-			"albumTitle": "The Mask and Mirror",
-			"artist": "Loreena McKennitt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PARALLEL DREAMS",
 		"artist": "LOREENA McKENNITT",
 		"price": "15,00 kr.",
@@ -32103,15 +32038,6 @@
 			"artist": "Nirvana",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "NIRVANA (REMASTERED)",
-		"artist": "NIRVANA",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/nirvana.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ROCK STEADY",
@@ -37812,15 +37738,6 @@
 			"artist": "Kelly Rowland",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "DON'T BORE US, GET TO THE CHORUS, GREATEST HITS",
-		"artist": "ROXETTE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dont_bore_us.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "HAVE A NICE DAY",
