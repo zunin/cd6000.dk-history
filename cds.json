@@ -342,20 +342,6 @@
 		}
 	},
 	{
-		"albumTitle": "OBJECTION OVERRULED",
-		"artist": "ACCEPT",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/objection_overruled.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9334b1e1-84a3-30cb-9f4c-b6484b440461",
-			"albumTitle": "Objection Overruled",
-			"artist": "Accept",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "WHO MADE WHO (tidl. ejersignatur på frontcover)",
 		"artist": "AC/DC",
 		"price": "10,00 kr.",
