@@ -35425,20 +35425,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE WORKS",
-		"artist": "QUEEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/queen_the_works.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "44c90c72-76b5-3c13-890e-3d37f21c10c9",
-			"albumTitle": "The Works",
-			"artist": "Queen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "SONGS FOR THE DEAF",
 		"artist": "QUEENS OF THE STONE AGE",
 		"price": "15,00 kr.",
