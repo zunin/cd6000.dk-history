@@ -6500,20 +6500,6 @@
 		}
 	},
 	{
-		"albumTitle": "GRAN TURISMO",
-		"artist": "THE CARDIGANS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/gran_turismo.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "80f8c2b9-c92a-32bf-a267-6119bc80f513",
-			"albumTitle": "Gran Turismo",
-			"artist": "The Cardigans",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BUTTERFLY",
 		"artist": "MARIAH CAREY",
 		"price": "10,00 kr.",
@@ -8762,15 +8748,6 @@
 			"artist": "The Cranberries",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "EVERYBODY ELSE IS DOING IT, SOM WHY CAN'T WE",
-		"artist": "THE CRANBERRIES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/everybody_else_is_doing_it.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "NO NEED TO ARGUE (CD+EP CD)",
@@ -14325,6 +14302,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "HELENE FISCHER",
+		"artist": "HELENE FISCHER",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/helene_fischer.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "WEINACHTEN (2CD)",
 		"artist": "HELENE FISCHER & THE ROYAL PHILHARMONIC ORCHESTRA",
 		"price": "20,00 kr.",
@@ -15164,6 +15150,29 @@
 		}
 	},
 	{
+		"albumTitle": "MY COLOURING BOOK",
+		"artist": "AGNETHA FÄLTSKOG",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/my_colouring_book.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2c3ed7cb-58b4-3648-8678-a4c4255b9002",
+			"albumTitle": "My Colouring Book",
+			"artist": "Agnetha Fältskog",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "SKAKMAT",
+		"artist": "G*BACH",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/skakmat.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "SHAKING THE TREE SIXTEEN GOLDEN GREATS",
 		"artist": "PETER GABRIEL",
 		"price": "10,00 kr.",
@@ -15799,6 +15808,15 @@
 		}
 	},
 	{
+		"albumTitle": "MAGIC (with 8 extra tracks)",
+		"artist": "IAN GILLAN",
+		"price": "50,00 kr.",
+		"origin": "http://cd6000.dk/gillan_magic.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "WICKED MAP",
 		"artist": "GINGER NINJA",
 		"price": "10,00 kr.",
@@ -15832,6 +15850,29 @@
 			"releaseGroupId": "9a257854-7f30-386b-ad9c-e3deaee59a0c",
 			"albumTitle": "Gipsy Kings",
 			"artist": "Gipsy Kings",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "HAVNENS FRISTELSER (CD+DVD)",
+		"artist": "DE GLADE SØMÆND",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/havnens_fristelser.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE THIN RED LINE",
+		"artist": "GLASS TIGER",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/the_thin_red_line.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1ef36dd6-acfc-342e-b460-283ee7d813c7",
+			"albumTitle": "The Thin Red Line",
+			"artist": "Glass Tiger",
 			"type": "Album"
 		}
 	},
@@ -16029,6 +16070,20 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "UNDER BØGEN",
+		"artist": "GNAGS",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/under_boegen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0b4c99c7-ebef-3e0a-a8a0-80f792a3eb7e",
+			"albumTitle": "Under bøgen",
+			"artist": "Gnags",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "X (remastered)",
@@ -34483,20 +34538,6 @@
 		}
 	},
 	{
-		"albumTitle": "DUMMY",
-		"artist": "PORTISHEAD",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dummy.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "48140466-cff6-3222-bd55-63c27e43190d",
-			"albumTitle": "Dummy",
-			"artist": "Portishead",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "GROFT SIGNERET",
 		"artist": "POULIN & DE LIDT BRUGTE",
 		"price": "40,00 kr.",
@@ -35495,20 +35536,6 @@
 		}
 	},
 	{
-		"albumTitle": "OUT OF TIME",
-		"artist": "REM",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/rem_out_of_time.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "400a5fdd-e616-3598-a9bf-cd8275cb53d0",
-			"albumTitle": "Out of Time",
-			"artist": "R.E.M.",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "REVEAL",
 		"artist": "REM",
 		"price": "10,00 kr.",
@@ -35648,33 +35675,10 @@
 		}
 	},
 	{
-		"albumTitle": "OK COMPUTER",
-		"artist": "RADIOHEAD",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/ok_computer.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b1392450-e666-3926-a536-22c65f834433",
-			"albumTitle": "OK Computer",
-			"artist": "Radiohead",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "MY IRON LUNG (tynd fold på bagcover)",
 		"artist": "RADIOHEAD",
 		"price": "15,00 kr.",
 		"origin": "http://cd6000.dk/my_iron_lung.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE BENDS (tynd fold på bagcover)",
-		"artist": "RADIOHEAD",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/the_bends.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -41591,20 +41595,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "TIL ROTTERNE, TIL KRAGERNE TIL HUNDENE",
-		"artist": "PETER SOMMER",
-		"price": "25,00 kr.",
-		"origin": "https://cd6000.dk/til_rotterne.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bac9545e-8b54-3751-aa00-fa272c505475",
-			"albumTitle": "Til rotterne, til kragerne, til hundene",
-			"artist": "Peter Sommer",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "SNAKECHARMER",
