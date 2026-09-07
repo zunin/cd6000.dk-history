@@ -1112,20 +1112,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "FOREVER YOUNG",
-		"artist": "ALPHAVILLE",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/alphaville_forever_young.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bd021fbe-fbe9-3564-96c7-14de208de37f",
-			"albumTitle": "Forever Young",
-			"artist": "Alphaville",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BEYOND DARKNESS",
 		"artist": "CHRISTIAN ALVAD RASMUS LYBERTH",
 		"price": "20,00 kr.",
@@ -15446,20 +15432,6 @@
 		}
 	},
 	{
-		"albumTitle": "GENESIS",
-		"artist": "GENESIS",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/genesis.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d5a2f9de-fc59-36b4-9f33-c312cf24e730",
-			"albumTitle": "Genesis",
-			"artist": "Genesis",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "PALOMA BLANCA",
 		"artist": "GEORGE BAKER SELECTION",
 		"price": "10,00 kr.",
@@ -29543,20 +29515,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "AKASUT MUNDVAND II",
-		"artist": "MONRAD & RISLUND",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/akasut_mundvand.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e09a02c8-41fe-37ac-8371-84ead71d878d",
-			"albumTitle": "Akasut Mundvand II",
-			"artist": "Monrad & Rislund",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "DEN STORE JULEBASAR",
 		"artist": "MONRAD & RISLUND",
 		"price": "10,00 kr.",
@@ -35142,20 +35100,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "015fa681-78e3-37b2-bff2-fa19f8d5a8d4",
 			"albumTitle": "Greatest Hits: We Will Rock You",
-			"artist": "Queen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "QUEEN",
-		"artist": "QUEEN",
-		"price": "20,00 kr.",
-		"origin": "https://cd6000.dk/queen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "810068af-2b3c-3e9c-b2ab-68a3f3e3787d",
-			"albumTitle": "Queen",
 			"artist": "Queen",
 			"type": "Album"
 		}
