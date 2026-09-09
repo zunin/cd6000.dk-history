@@ -21038,6 +21038,20 @@
 		}
 	},
 	{
+		"albumTitle": "FRAKLIP FRA DET FJERNE",
+		"artist": "CV JØRGENSEN",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/fraklip_fra_det_fjerne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f725236c-1ea5-3dc5-b485-68cd9ad05995",
+			"albumTitle": "Fraklip fra det fjerne",
+			"artist": "C.V. Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "SJÆLLAND",
 		"artist": "C.V. JØRGENSEN",
 		"price": "30,00 kr.",
@@ -21386,6 +21400,15 @@
 		"artist": "KASHMIR SONY COLUMBIA BESTIL NR. 23618",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/katalogue.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TRESPASSERS (digibook)",
+		"artist": "KASHMIR",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/trespassers_bog.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -21849,6 +21872,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "THE HISTORY OF ROCK",
+		"artist": "KID ROCK",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/kid_rock_the_history.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "937c1520-b73f-30cc-a458-46526b39082a",
+			"albumTitle": "The History of Rock",
+			"artist": "Kid Rock",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "HOBITTEN (2CD)",
 		"artist": "RUNE T. KIDDE",
 		"price": "15,00 kr.",
@@ -22113,6 +22150,20 @@
 		}
 	},
 	{
+		"albumTitle": "EAR CANDY",
+		"artist": "KINGS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/ear_candy.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "68e1ecd1-7c33-4322-8553-c41dcd75b5ba",
+			"albumTitle": "Untitled Mixtape",
+			"artist": "Carousel Kings",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BECAUSE OF THE TIMES",
 		"artist": "KINGS OF LEON",
 		"price": "10,00 kr.",
@@ -22251,6 +22302,15 @@
 			"artist": "The Kinks",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE * COLLECTION",
+		"artist": "THE KINKS",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/kinks_the_star_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE ULTIMATE COLLECTION (2CD)",
@@ -22766,6 +22826,20 @@
 		}
 	},
 	{
+		"albumTitle": "...KLARER ÆRTERNE",
+		"artist": "KONGEHUSET",
+		"price": "15,00 kr.",
+		"origin": "http://cd6000.dk/klarer_aerterne.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ae010189-517b-328a-90ae-7738945e59d3",
+			"albumTitle": "...klarer ærterne",
+			"artist": "Kongehuset",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "GET DOWN ON IT THE VERY BEST OF",
 		"artist": "KOOL & THE GANG",
 		"price": "10,00 kr.",
@@ -22914,6 +22988,15 @@
 		}
 	},
 	{
+		"albumTitle": "LOVE SCENES (afrivning på bagcover - derfor pris)",
+		"artist": "DIANA KRALL",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/krall_love_scenes.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ONLY TRUST YOUR HEART",
 		"artist": "DIANA KRALL",
 		"price": "10,00 kr.",
@@ -22982,6 +23065,15 @@
 			"artist": "Diana Krall, The Clayton–Hamilton Jazz Orchestra",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "THE VERY BEST OF (CD+DVD)",
+		"artist": "DIANA KRALL",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/krall_very_best_2.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "5",
