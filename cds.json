@@ -23470,6 +23470,29 @@
 		}
 	},
 	{
+		"albumTitle": "DOMINOLOGI",
+		"artist": "L.O.C.",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/dominologi.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8f7acf73-8678-3b03-8a4e-fab3c4d34d72",
+			"albumTitle": "Dominologi",
+			"artist": "L.O.C.",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "INKARNERET",
+		"artist": "L.O.C.",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/inkarneret.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "XXXCOUTURE",
 		"artist": "L.O.C.",
 		"price": "10,00 kr.",
@@ -24093,15 +24116,6 @@
 		}
 	},
 	{
-		"albumTitle": "GLEMMEBOGEN JUL & NYTÅR (remastered)",
-		"artist": "KIM LARSEN & KJUKKEN",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/glemmebogen_jul_rem.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "WEEKEND MUSIC",
 		"artist": "KIM LARSEN 6 KJUKKEN",
 		"price": "20,00 kr.",
@@ -24529,6 +24543,15 @@
 			"artist": "The Lejrbåls",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "IT'S A SHAME ABOUT RAY",
+		"artist": "LEMONHEADS",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/its_a_shame_about_ray.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GAME OF LIFE",
@@ -25403,6 +25426,15 @@
 		}
 	},
 	{
+		"albumTitle": "HYBRID THEORY",
+		"artist": "LINKIN PARK",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/hybrid_theory.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "MINUTES TO MIDNIGHT",
 		"artist": "LINKIN PARK",
 		"price": "15,00 kr.",
@@ -25826,6 +25858,15 @@
 		}
 	},
 	{
+		"albumTitle": "UNG KÆRLIGHED",
+		"artist": "LOLLIPOPS",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/ung_kaerlighed.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "NU' DET MIN TUR",
 		"artist": "LONNIE (DEVANTIER)",
 		"price": "40,00 kr.",
@@ -26188,6 +26229,15 @@
 		}
 	},
 	{
+		"albumTitle": "THE COLLECTION",
+		"artist": "ANNI-FRID LYNGSTAD",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/anni_frid_collection.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "ARMCHAIR THEATRE",
 		"artist": "JEFF LYNNE",
 		"price": "15,00 kr.",
@@ -26220,6 +26270,15 @@
 		"artist": "LYNYRD SKYNYRD",
 		"price": "25,00 kr.",
 		"origin": "http://cd6000.dk/lynyrd_skynyrd_gold.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "LYNYRD SKYNYRD",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/lynyrd_skynyrd_greatest.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -26761,6 +26820,15 @@
 		}
 	},
 	{
+		"albumTitle": "FRIVÆRDI",
+		"artist": "MAGTENS KORRIDORER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/frivaerdi.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "VISIONS OF EMERALD BEYOND",
 		"artist": "MAHAVISHNU ORCHESTRA",
 		"price": "30,00 kr.",
@@ -27003,6 +27071,20 @@
 			"releaseGroupId": "d21abc4d-d3cf-34f3-9ba7-3e6d19b6778c",
 			"albumTitle": "Blinded by the Light: The Very Best Of",
 			"artist": "Manfred Mann’s Earth Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THE BEST OF",
+		"artist": "THE MANHATTAN TRANSFER",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/manhattan_transfer_best.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2e814f60-c858-3f65-9024-7f0abe2fd622",
+			"albumTitle": "The Best of The Manhattan Transfer",
+			"artist": "The Manhattan Transfer",
 			"type": "Album"
 		}
 	},
@@ -27430,6 +27512,20 @@
 		}
 	},
 	{
+		"albumTitle": "HAIL HAIL",
+		"artist": "MASTER FATMAN",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/hail_hail.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "953dbb07-d8e1-3118-a2f2-f5560cf97f20",
+			"albumTitle": "Hail Hail",
+			"artist": "Master Fatman",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "MAD SEASON",
 		"artist": "MATCHBOX TWENTY",
 		"price": "10,00 kr.",
@@ -27820,6 +27916,20 @@
 		}
 	},
 	{
+		"albumTitle": "WINGSPAN, HITS & HISTORY (2CD) (remastered)",
+		"artist": "PAUL McCARTNEY",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/wingspan.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a810db2a-b3ad-4bda-ae5e-8135cb68ed31",
+			"albumTitle": "Entitled to Carry My Own Weight",
+			"artist": "Wings of an Angel",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "BLINK OF AN EYE",
 		"artist": "MICHAEL McDONALD",
 		"price": "10,00 kr.",
@@ -27940,6 +28050,15 @@
 		"artist": "LOREENA McKENNITT",
 		"price": "10,00 kr.",
 		"origin": "http://cd6000.dk/a_winter_garden.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "AN ANCIENT MUSE",
+		"artist": "LOREENA McKENNITT",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/an_ancient_muse.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -28311,6 +28430,15 @@
 			"artist": "Medina",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "MEGADETH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/megadeth_greatest_1.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "PEK'EN PASSER",
@@ -28706,6 +28834,15 @@
 			"artist": "botanichesky sad",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "MASTER OF PUPPETS",
+		"artist": "METALLICA",
+		"price": "25,00 kr.",
+		"origin": "http://cd6000.dk/master_of_puppets.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "METALLICA",
@@ -29289,6 +29426,15 @@
 			"artist": "Thurston Moore, Kylie Minoise, Tusco Terror, Wether",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "MISLYDE (2CD)",
+		"artist": "MISS B HAVEN",
+		"price": "30,00 kr.",
+		"origin": "http://cd6000.dk/mislyde.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "ON HONEYMOON",
@@ -30202,6 +30348,15 @@
 		}
 	},
 	{
+		"albumTitle": "COWBOY UDEN HEST",
+		"artist": "ALLAN MORTENSEN",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/cowboy_uden_hest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "NYD CIGAREN",
 		"artist": "ALLAN MORTENSEN",
 		"price": "30,00 kr.",
@@ -30401,6 +30556,15 @@
 		"artist": "LARS MUHL",
 		"price": "10,00 kr.",
 		"origin": "https://cd6000.dk/till_the_end.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "TO HEAL THE SPACE BETWEEN US",
+		"artist": "LARS MUHL & GITHA BEN-DAVID",
+		"price": "50,00 kr.",
+		"origin": "http://cd6000.dk/to_heal_the_space.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
@@ -30655,6 +30819,56 @@
 		}
 	},
 	{
+		"albumTitle": "FRIENDS FOREVER (2CD)",
+		"artist": "NHØP",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/friends_forever.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE ETERNAL TRAVELLER",
+		"artist": "NIELS-HENNING ØRSTED PEDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/the_eternal_traveller.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3bbbb078-d7f4-33fd-be1b-f848e989d0a6",
+			"albumTitle": "The Eternal Traveller",
+			"artist": "Niels‐Henning Ørsted Pedersen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "THIS IS ALL I ASK",
+		"artist": "NHØP",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/this_is_all_i_ask.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "UNCHARTED LAND",
+		"artist": "NIELS HENNING ØRSTED PEDERSEN",
+		"price": "10,00 kr.",
+		"origin": "http://cd6000.dk/uncharted_land.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "THE BASS IN THE BACKGROUND",
+		"artist": "N.H.Ø.P.",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/the_bass_in_the_background.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "CRACKS",
 		"artist": "NABIHA",
 		"price": "10,00 kr.",
@@ -30766,6 +30980,20 @@
 		}
 	},
 	{
+		"albumTitle": "GIV DIG HEN",
+		"artist": "NANNA",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/giv_dig_hen.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8f1286ea-9452-3b0e-bee3-d41ece91c2fd",
+			"albumTitle": "Giv dig hen",
+			"artist": "Nanna",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "PLETSKUD & VILDSKUD",
 		"artist": "NANNA",
 		"price": "20,00 kr.",
@@ -30775,6 +31003,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "3f959a40-a9f8-3a77-9133-a204a99e8dda",
 			"albumTitle": "Nanna's bedste: Pletskud & vildskud",
+			"artist": "Nanna",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "PRINSESSE HIMMEL-I-MUND",
+		"artist": "NANNA",
+		"price": "40,00 kr.",
+		"origin": "http://cd6000.dk/prinsesse_himmel.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1ce36828-4a9a-302a-8658-86ec32cdbbb0",
+			"albumTitle": "Prinsesse Himmel-i-Mund",
 			"artist": "Nanna",
 			"type": "Album"
 		}
@@ -30977,6 +31219,15 @@
 			"artist": "Natural Born Hippies",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "GREATEST HITS",
+		"artist": "NAZARETH",
+		"price": "20,00 kr.",
+		"origin": "http://cd6000.dk/nazareth_greatest.htm",
+		"quality": "unknown",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DEN GYLDNE NØGLE (CD+DVD)",
@@ -31426,47 +31677,6 @@
 			"artist": "Olivia Newton‐John",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "FRIENDS FOREVER (2CD)",
-		"artist": "NHØP",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/friends_forever.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "THE ETERNAL TRAVELLER",
-		"artist": "NIELS-HENNING ØRSTED PEDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_eternal_traveller.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3bbbb078-d7f4-33fd-be1b-f848e989d0a6",
-			"albumTitle": "The Eternal Traveller",
-			"artist": "Niels‐Henning Ørsted Pedersen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THIS IS ALL I ASK",
-		"artist": "NHØP",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/this_is_all_i_ask.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "UNCHARTED LAND",
-		"artist": "NIELS HENNING ØRSTED PEDERSEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/uncharted_land.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "HOMMAGE ONCE UPON A TIME",
@@ -39164,20 +39374,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "SELVMORD",
-		"artist": "SELVMORD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/selvmord.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc4a71ff-9c55-42ee-90f0-a66695ec7892",
-			"albumTitle": "Selvmord",
-			"artist": "Selvmord",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "..I SELVSVING (2CD)",
 		"artist": "SELVSVING",
 		"price": "20,00 kr.",
@@ -40185,20 +40381,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "CHRISTMAS SONGS",
-		"artist": "FRANK SINATRA",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/sinatra_christmas.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d1afc24d-82e7-3ca6-a6f6-283122a114a5",
-			"albumTitle": "Christmas Songs",
-			"artist": "Frank Sinatra",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "DUETS",
