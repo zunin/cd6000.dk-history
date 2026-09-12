@@ -2623,34 +2623,6 @@
 		}
 	},
 	{
-		"albumTitle": "THE COLLECTION",
-		"artist": "THE BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_band_collection.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f0ba913f-8c01-3623-9d27-3aae143a89ef",
-			"albumTitle": "The Collection",
-			"artist": "The Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE WEIGHT",
-		"artist": "THE BAND",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/the_weight.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ab427527-a26f-3f7c-b129-f44160bbf4e8",
-			"albumTitle": "Stan Kenton at the Rendevous Ballroom 1957-59 No.2 Unknown Title",
-			"artist": "Stan Kenton and His Orchestra",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "BEST OF THE BANGLES",
 		"artist": "BANGLES",
 		"price": "10,00 kr.",
@@ -3949,20 +3921,6 @@
 			"releaseGroupId": "b2a6e057-087d-3ae5-a6e5-7f5fa39808ff",
 			"albumTitle": "Post",
 			"artist": "Björk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THREE SNAKES AND ONE CHARM",
-		"artist": "THE BLACK CROWES",
-		"price": "15,00 kr.",
-		"origin": "http://cd6000.dk/three_snakes_and.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "560d6ff4-7c03-489f-956f-6c359d32d838",
-			"albumTitle": "Three Snakes and One Charm",
-			"artist": "The Black Crowes",
 			"type": "Album"
 		}
 	},
@@ -8527,29 +8485,6 @@
 		}
 	},
 	{
-		"albumTitle": "BURY THE HATCHET",
-		"artist": "THE CRANBERRIES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/bury_the_hatchet.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "97e9c8bf-711c-32df-971d-2ad1a2d7036f",
-			"albumTitle": "Bury the Hatchet",
-			"artist": "The Cranberries",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "NO NEED TO ARGUE (CD+EP CD)",
-		"artist": "THE CRANBERRIES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/no_need_to_argue.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "A WORM'S LIFE",
 		"artist": "CRASH TEST DUMMIES",
 		"price": "10,00 kr.",
@@ -9387,20 +9322,6 @@
 			"releaseGroupId": "609929aa-715b-45d6-9060-27aec59b4805",
 			"albumTitle": "Sentimental Journey",
 			"artist": "Daimi",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "DALTON",
-		"artist": "DALTON",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/dalton.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0ee51f64-398f-4322-a533-4326a3a636d2",
-			"albumTitle": "Dalton",
-			"artist": "Dalton",
 			"type": "Album"
 		}
 	},
@@ -11872,29 +11793,6 @@
 			"artist": "Eagles",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "THEIR GREATEST HITS",
-		"artist": "EAGLES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/eagles_their_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "56ecf5cb-ad82-3d7e-82bf-1904cc16f451",
-			"albumTitle": "Their Greatest Hits 1971–1975",
-			"artist": "Eagles",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "THE EAGLES FANTASY",
-		"artist": "OBS : DU ER UDE AF 10-KRONERS SEKTIONEN",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/eagles_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "THE COMPLETE GREATEST HITS (2CD)",
@@ -15446,29 +15344,6 @@
 		}
 	},
 	{
-		"albumTitle": "GEORGIA SATELITES",
-		"artist": "GEORGIA SATELITES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/georgia_satelites.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LET IT ROCK",
-		"artist": "THE GEORGIA SATELITES",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/let_it_rock.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "08c93b8c-036f-36a2-8003-f64833e10722",
-			"albumTitle": "Let It Rock: Best of The Georgia Satellites",
-			"artist": "The Georgia Satellites",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "OPEN ALL NIGHT",
 		"artist": "THE GEORGIA SATELLITES",
 		"price": "10,00 kr.",
@@ -15478,20 +15353,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "11c70ba5-2156-3738-816b-cd911864af05",
 			"albumTitle": "Open All Night",
-			"artist": "The Georgia Satellites",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "SHAKEN NOT STIRRED",
-		"artist": "THE GEORGIA SATELLITES",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/shaken_not_stirred.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f8b196c9-73a8-3c93-9901-79c0af20368f",
-			"albumTitle": "Shaken Not Stirred",
 			"artist": "The Georgia Satellites",
 			"type": "Album"
 		}
@@ -19309,20 +19170,6 @@
 		}
 	},
 	{
-		"albumTitle": "S.C.I.E.N.C.E.",
-		"artist": "INCUBUS",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/science.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f3fae816-c675-3a4d-9240-b4cf364b25c1",
-			"albumTitle": "S.C.I.E.N.C.E.",
-			"artist": "Incubus",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE RACE",
 		"artist": "INDIGO SUN",
 		"price": "30,00 kr.",
@@ -21557,20 +21404,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "FØR NATTEN BLI'R TIL DAG",
-		"artist": "LONE KELLERMANN & ROCKBANDET",
-		"price": "40,00 kr.",
-		"origin": "https://cd6000.dk/foer_natten_blir_til_dag.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "09b8880c-ac61-379c-97b6-ebee7e26e443",
-			"albumTitle": "Før natten bli'r til dag",
-			"artist": "Lone Kellermann & Rockbandet",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A BETTER MAN",
 		"artist": "BRIAN KENNEDY",
 		"price": "10,00 kr.",
@@ -21636,20 +21469,6 @@
 		}
 	},
 	{
-		"albumTitle": "EN PLATS I SOLEN",
-		"artist": "KENT",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/en_plats_i_solen.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6ca186c8-90ee-45e4-ae95-1e03ea094c25",
-			"albumTitle": "En plats i solen",
-			"artist": "Kent",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "HAGNESTA HILL",
 		"artist": "KENT",
 		"price": "10,00 kr.",
@@ -21673,20 +21492,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d4395283-19dd-332b-ac0d-7bf64aba0b34",
 			"albumTitle": "Isola",
-			"artist": "Kent",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "RÖD",
-		"artist": "KENT",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/kent_roed.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9b30a444-bb9f-4855-8c4b-92b62878fd8a",
-			"albumTitle": "Röd",
 			"artist": "Kent",
 			"type": "Album"
 		}
@@ -26275,15 +26080,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "GREATEST HITS",
-		"artist": "LYNYRD SKYNYRD",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/lynyrd_skynyrd_greatest.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "THE COLLECTION (obs : 'eftergjort' bagscan !!)",
 		"artist": "LYNYRD SKYNYRD",
 		"price": "20,00 kr.",
@@ -26503,20 +26299,6 @@
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "INDUSTRIAL SILENCE",
-		"artist": "MADRUGADA",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/industrial_silence.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "08e692b0-8538-39ba-be9b-3c635852764c",
-			"albumTitle": "Industrial Silence",
-			"artist": "Madrugada",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "HUSKER DU ?",
@@ -31115,29 +30897,6 @@
 		}
 	},
 	{
-		"albumTitle": "MADE OF BRICKS BY KATE NASH",
-		"artist": "KATE NASH",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/made_of_bricks_by.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "MY BEST FRIEND IS YOU",
-		"artist": "KATE NASH",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/my_best_friend_is_you.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8c710e4e-b771-4fb3-a85b-e9b605b8cad4",
-			"albumTitle": "My Best Friend Is You",
-			"artist": "Kate Nash",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "RELEASE",
 		"artist": "NATASJA",
 		"price": "20,00 kr.",
@@ -34533,15 +34292,6 @@
 			"artist": "Søren Poppe",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "GROFT SIGNERET",
-		"artist": "POULIN & DE LIDT BRUGTE",
-		"price": "40,00 kr.",
-		"origin": "http://cd6000.dk/groft_signeret.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "DANIEL POWTER",
@@ -43891,20 +43641,6 @@
 		}
 	},
 	{
-		"albumTitle": "STAY UNDER THE STARS",
-		"artist": "TEITUR",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/stay_under_the_stars.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c67314e5-32e5-36b4-9e77-2590c9baf2ee",
-			"albumTitle": "Stay Under the Stars",
-			"artist": "Teitur",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "THE SINGER",
 		"artist": "TEITUR",
 		"price": "10,00 kr.",
@@ -44743,20 +44479,6 @@
 		}
 	},
 	{
-		"albumTitle": "VOLUME 3",
-		"artist": "TRAVELING WILBURYS",
-		"price": "10,00 kr.",
-		"origin": "https://cd6000.dk/traveling_wilburys_3.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "800adde4-a6d4-4676-a8c7-d8162cba911f",
-			"albumTitle": "Volume 1 / Volume 3 / Traveling Videos",
-			"artist": "Traveling Wilburys",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "COLLECTION (2CD+DVD) 2007",
 		"artist": "THE TRAVELING WILBURYS RHINO BESTIL NR. 22379",
 		"price": "10,00 kr.",
@@ -45045,20 +44767,6 @@
 			"releaseGroupId": "e50d9a68-eb54-3193-80a1-0d3e35591af7",
 			"albumTitle": "Living for the City",
 			"artist": "Ike & Tina Turner",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "BREAK EVERY RULE",
-		"artist": "TINA TURNER",
-		"price": "10,00 kr.",
-		"origin": "http://cd6000.dk/break_every_rule.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7cda27a-6174-3b99-aaf9-d2420a62319c",
-			"albumTitle": "Break Every Rule",
-			"artist": "Tina Turner",
 			"type": "Album"
 		}
 	},
@@ -45373,20 +45081,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "FANTASTISKE TOYOTA",
-		"artist": "TV-2",
-		"price": "20,00 kr.",
-		"origin": "http://cd6000.dk/fantastiske_toyota.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "66d42362-108f-3ffc-87c0-c037e8a1717a",
-			"albumTitle": "Fantastiske Toyota",
-			"artist": "TV-2",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "VERDEN ER VIDUNDERLIG",
 		"artist": "TV-2",
 		"price": "20,00 kr.",
@@ -45399,15 +45093,6 @@
 			"artist": "TV-2",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "YNDLINGSBABE (NY i folie)",
-		"artist": "TV-2",
-		"price": "15,00 kr.",
-		"origin": "https://cd6000.dk/yndlingsbabe_ny.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "GREATEST HITS",
@@ -47439,15 +47124,6 @@
 		"artist": "RASMUS WALTER",
 		"price": "20,00 kr.",
 		"origin": "http://cd6000.dk/rasmus_walter_live.htm",
-		"quality": "unknown",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "LIGE HER LIGE NU DELUXE (2CD)",
-		"artist": "RASMUS WALTER",
-		"price": "25,00 kr.",
-		"origin": "http://cd6000.dk/lige_her_lige_nu_deluxe.htm",
 		"quality": "unknown",
 		"type": "Album",
 		"musicbrainz": {}
